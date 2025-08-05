@@ -15,7 +15,7 @@ News:
 
 Enterprise Releases:
 - July 22
-  - Spring Grapfhql 1.2.11
+  - Spring Graphql 1.2.11
   - Spring Pulsar 1.0.15
   - Spring Pulsar 1.1.14
 - July 24
