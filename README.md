@@ -13,6 +13,27 @@ News:
 - [Spring Boot 3.5.4 available now](https://spring.io/blog/2025/07/24/spring-boot-3-5-4-available-now)
 - [Spring Boot 3.4.8 available now](https://spring.io/blog/2025/07/24/spring-boot-3-4-8-available-now)
 
+Enterprise Releases:
+- July 22
+  - Spring Grapfhql 1.2.11
+  - Spring Pulsar 1.0.15
+  - Spring Pulsar 1.1.14
+- July 24
+  - Spring Boot 2.7.28
+  - Spring Boot 3.2.17
+  - Spring Boot 3.3.14
+
+Releases coming soon:
+- Micrometer
+- Micrometer Tracing
+- Reactor
+- Reactor Core
+- Reactor Netty
+- Reactor Pool
+- Spring Framework
+- Spring LDAP
+- Spring Data
+
 Demo:
 
 [Spring Cloud Vault](https://github.com/dashaun/spring-cloud-vault-demo)
