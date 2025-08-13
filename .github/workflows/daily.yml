@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,11 +25,38 @@ jobs:
           # Get the latest release info from GitHub API
           LATEST_RELEASE=$(curl -s https://api.github.com/repos/dashaun-tanzu/newsletter-cli/releases/latest)
           
-          # Extract the download URL for the Linux AMD64 binary
-          DOWNLOAD_URL=$(echo "$LATEST_RELEASE" | jq -r '.assets[] | select(.name | test("newsletter-linux-amd64")) | .browser_download_url')
+          # Debug: Show the API response
+          echo "API Response:"
+          echo "$LATEST_RELEASE" | jq '.' || echo "Failed to parse JSON response"
           
-          if [ "$DOWNLOAD_URL" = "null" ] || [ -z "$DOWNLOAD_URL" ]; then
-            echo "Could not find newsletter-linux-amd64 asset in latest release"
+          # Check if we have assets at all
+          ASSETS_COUNT=$(echo "$LATEST_RELEASE" | jq '.assets | length' 2>/dev/null || echo "0")
+          echo "Number of assets found: $ASSETS_COUNT"
+          
+          if [ "$ASSETS_COUNT" -eq "0" ]; then
+            echo "No assets found in latest release. Available asset names:"
+            echo "$LATEST_RELEASE" | jq -r '.assets[]?.name' 2>/dev/null || echo "No assets available"
+            exit 1
+          fi
+          
+          # List all available assets
+          echo "Available assets:"
+          echo "$LATEST_RELEASE" | jq -r '.assets[].name' 2>/dev/null || echo "Could not list assets"
+          
+          # Try to find the Linux binary (check different possible names)
+          DOWNLOAD_URL=$(echo "$LATEST_RELEASE" | jq -r '
+            .assets[] | 
+            select(.name | test("newsletter-linux-amd64|newsletter-linux|newsletter_linux")) | 
+            .browser_download_url
+          ' 2>/dev/null | head -n1)
+          
+          if [ -z "$DOWNLOAD_URL" ] || [ "$DOWNLOAD_URL" = "null" ]; then
+            echo "Could not find Linux binary. Trying first asset as fallback..."
+            DOWNLOAD_URL=$(echo "$LATEST_RELEASE" | jq -r '.assets[0].browser_download_url' 2>/dev/null)
+          fi
+          
+          if [ -z "$DOWNLOAD_URL" ] || [ "$DOWNLOAD_URL" = "null" ]; then
+            echo "Could not find any downloadable assets"
             exit 1
           fi
           
@@ -48,8 +75,7 @@ jobs:
         run: |
           echo "Running newsletter-cli..."
           # Run the newsletter-cli binary (it will update README.md)
-          ./newsletter-cli full-update
-          cp spring-update.md README.md
+          ./newsletter-cli
 
       - name: Check for changes
         id: verify-changed-files
