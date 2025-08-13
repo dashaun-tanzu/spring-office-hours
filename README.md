@@ -1,4 +1,4 @@
-# August 12
+# August 13
 
 ## News:
 
@@ -19,43 +19,9 @@
   - Reactor Core 3.6.19
   - Reactor Pool 1.0.12
   - Reactor Netty 1.1.33
-- August 11
-  - Micrometer 1.12.16
-  - Micrometer 1.13.16
-  - Micrometer Tracing 1.2.16
-  - Micrometer Tracing 1.3.14
-- August 12
-  - Reactor 2023.0.21
-  - Reactor Core 3.6.19
-  - Reactor Pool 1.0.12
-  - Reactor Netty 1.1.33
-- August 11
-  - Micrometer 1.12.16
-  - Micrometer 1.13.16
-  - Micrometer Tracing 1.2.16
-  - Micrometer Tracing 1.3.14
-- August 12
-  - Reactor 2023.0.21
-  - Reactor Core 3.6.19
-  - Reactor Pool 1.0.12
-  - Reactor Netty 1.1.33
-- August 11
-  - Micrometer 1.12.16
-  - Micrometer 1.13.16
-  - Micrometer Tracing 1.2.16
-  - Micrometer Tracing 1.3.14
-- August 12
-  - Reactor 2023.0.21
-  - Reactor Core 3.6.19
-  - Reactor Pool 1.0.12
-  - Reactor Netty 1.1.33
 
 ## Releases coming soon:
 
-- Reactor 2023.0.21 (Aug 12)
-- Reactor Core 3.6.19 (Aug 12)
-- Reactor Pool 1.0.12 (Aug 12)
-- Reactor Netty 1.1.33 (Aug 12)
 - Ldap 3.0.13 (Aug 14)
 - Framework 5.3.44 (Aug 14)
 - Framework 6.1.22 (Aug 14)
@@ -96,3 +62,4 @@
 ## Demos:
 
 - [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
+
