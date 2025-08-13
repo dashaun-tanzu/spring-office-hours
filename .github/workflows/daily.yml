@@ -8,6 +8,11 @@ on:
   # Optional: Allow manual triggering
   workflow_dispatch:
 
+# Add permissions for the workflow
+permissions:
+  contents: write  # Allows reading and writing repository contents
+  actions: read    # Allows reading workflow runs
+
 jobs:
   daily-job:
     runs-on: ubuntu-latest
@@ -16,7 +21,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use PAT if GITHUB_TOKEN doesn't have sufficient permissions
+          token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Download latest newsletter-cli release
         run: |
