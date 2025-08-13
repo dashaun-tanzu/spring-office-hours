@@ -1,0 +1,73 @@
+name: Daily Scheduled Action
+
+on:
+  schedule:
+    # Runs every day at 12:00 UTC (noon)
+    - cron: '0 12 * * *'
+
+  # Optional: Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  daily-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download latest newsletter-cli release
+        run: |
+          echo "Downloading latest release from dashaun-tanzu/newsletter-cli..."
+          
+          # Get the latest release info from GitHub API
+          LATEST_RELEASE=$(curl -s https://api.github.com/repos/dashaun-tanzu/newsletter-cli/releases/latest)
+          
+          # Extract the download URL for the Linux AMD64 binary
+          DOWNLOAD_URL=$(echo "$LATEST_RELEASE" | jq -r '.assets[] | select(.name | test("newsletter-linux-amd64")) | .browser_download_url')
+          
+          if [ "$DOWNLOAD_URL" = "null" ] || [ -z "$DOWNLOAD_URL" ]; then
+            echo "Could not find newsletter-linux-amd64 asset in latest release"
+            exit 1
+          fi
+          
+          echo "Download URL: $DOWNLOAD_URL"
+          
+          # Download the binary
+          curl -L -o newsletter-cli "$DOWNLOAD_URL"
+          
+          # Make it executable
+          chmod +x newsletter-cli
+          
+          # Verify download
+          ls -la newsletter-cli
+
+      - name: Run newsletter-cli
+        run: |
+          echo "Running newsletter-cli..."
+          # Run the newsletter-cli binary (it will update README.md)
+          ./newsletter-cli full-update
+          cp spring-update.md README.md
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected:"
+            git status --porcelain
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          fi
+
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README.md via newsletter-cli [skip ci]"
+          git push
