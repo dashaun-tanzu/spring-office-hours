@@ -1,11 +1,11 @@
-# August 13
+# August 14
 
 ## News:
 
+- [Spring Framework 7.0.0-M8 available now](https://spring.io/blog/2025/08/14/spring-framework-7-0-0-M8-available-now)
+- [Spring Framework 6.2.10 release fixes CVE-2025-41242](https://spring.io/blog/2025/08/14/spring-framework-6-2-10-release-fixes-cve-2025-41242)
 - [Spring gRPC 0.10.0 available now](https://spring.io/blog/2025/08/11/spring-grpc-0-10-0-available-now)
 - [Spring AI 1.0.1 Released](https://spring.io/blog/2025/08/08/spring-ai-1)
-- [Spring Shell 3.4.1 is now available](https://spring.io/blog/2025/08/04/spring-shell-3-4-1-available)
-- [Spring Cloud 2025.1.0-M1 (aka Oakwood) has been released](https://spring.io/blog/2025/07/31/spring-cloud-2025-1-0-M1-aka-oakwood-has-been-released)
 
 ## Recent Enterprise Releases:
 
@@ -19,6 +19,10 @@
   - Reactor Core 3.6.19
   - Reactor Pool 1.0.12
   - Reactor Netty 1.1.33
+- August 14
+  - Ldap 3.0.13
+  - Framework 5.3.44
+  - Framework 6.1.22
 
 ## Releases coming soon:
 
