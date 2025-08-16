@@ -1,4 +1,4 @@
-# August 15
+# August 16
 
 ## News:
 
@@ -30,8 +30,6 @@
 
 ## Releases coming soon:
 
-- Data 2023.1.14 (Aug 15)
-- Data 2024.0.14 (Aug 15)
 - Kafka 3.1.13 (Aug 18)
 - Kafka 3.2.11 (Aug 18)
 - Amqp 3.1.13 (Aug 18)
@@ -51,6 +49,8 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S4E22 - Live from KCDC](https://www.youtube.com/watch?v=ozPNymtx1_A) - SpringSourceDev
+- [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
 - [SpringOne 2025 Spotlights](https://www.youtube.com/watch?v=_gAe8vzS64w) - SpringSourceDev
 - [code unboxing: JobRunr v8, with Ronald Dehuysser](https://www.youtube.com/watch?v=IdSf6dCkF20) - Coffee + Software
 - [the latest-and-greatest from JobRunr, with founder Ronald Dehuysser](https://www.youtube.com/watch?v=qd9GzmDDsYo) - Coffee + Software
@@ -59,10 +59,9 @@
 - [Andrew Lombardi on a Bootiful Podcast](https://www.youtube.com/watch?v=xDdKVYRv12w) - Coffee + Software
 - [IntelliJ IDEA 2025.2 and Spring Modulith](https://www.youtube.com/watch?v=fGExm_Rlees) - Coffee + Software
 - [Oliver Drotbohm, Spring Modulith founder, architect, and engineer extraordinaire](https://www.youtube.com/watch?v=WZS2m23EESs) - Coffee + Software
-- [Spring Office Hours: S4E21 - VMware Explore / SpringOne Preview](https://www.youtube.com/watch?v=XIqhRfgVRfk) - SpringSourceDev
-- [Easy Bean Registration with BeanRegistrar in Spring Boot 4.0](https://www.youtube.com/watch?v=Wxd_FvEDe0Q) - Coffee + Software
 
 ## Demos:
 
 - [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
+- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Demo repository
 
