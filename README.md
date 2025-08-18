@@ -1,4 +1,4 @@
-# August 17
+# August 18
 
 ## News:
 
@@ -19,6 +19,13 @@
   - Reactor Core 3.6.19
   - Reactor Pool 1.0.12
   - Reactor Netty 1.1.33
+- August 18
+  - Kafka 3.1.13
+  - Kafka 3.2.11
+  - Amqp 3.1.13
+  - Security 6.2.13
+  - Security 5.8.21
+  - Security 5.7.19
 - August 14
   - Ldap 3.1.11
   - Ldap 3.0.13
@@ -38,6 +45,7 @@
 - Security 5.7.19 (Aug 18)
 - Integration 6.2.14 (Aug 19)
 - Integration 6.3.12 (Aug 19)
+- Graphql 1.2.12 (Aug 19)
 - Authorization Server 1.2.10 (Aug 19)
 - Authorization Server 1.3.8 (Aug 19)
 - Pulsar 1.1.15 (Aug 19)
