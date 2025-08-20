@@ -2,13 +2,21 @@
 
 ## News:
 
+- [Spring Batch 6.0.0-M2 available now](https://spring.io/blog/2025/08/20/spring-batch-6)
 - [Spring Authorization Server 2.0.0-M2, 1.5.2 and 1.4.5 available now](https://spring.io/blog/2025/08/19/spring-authorization-server-2-0-0-M2-1-5-2-and-1-4-5-available-now)
 - [Spring Security 6.4.9 and 6.5.3 Released](https://spring.io/blog/2025/08/18/spring-security-6-4-9-and-6-5-3-released)
 - [Spring Security 7.0.0-M2 available now](https://spring.io/blog/2025/08/18/spring-security-7-0-0-M2-available-now)
-- [Spring for Apache Pulsar 1.2.9 and 2.0.0-M2 are now available](https://spring.io/blog/2025/08/18/spring-for-apache-pulsar-1-2-9-and-2-0-0-M2-are-now-available)
 
 ## Recent Enterprise Releases:
 
+- August 14
+  - Ldap 3.1.11
+  - Ldap 3.0.13
+  - Framework 5.3.44
+  - Framework 6.1.22
+- August 15
+  - Data 2023.1.14
+  - Data 2024.0.14
 - August 18
   - Session 3.2.8
   - Session 3.3.8
@@ -27,14 +35,6 @@
   - Authorization Server 1.3.8
   - Pulsar 1.1.15
   - Pulsar 1.0.16
-- August 14
-  - Ldap 3.1.11
-  - Ldap 3.0.13
-  - Framework 5.3.44
-  - Framework 6.1.22
-- August 15
-  - Data 2023.1.14
-  - Data 2024.0.14
 
 ## Releases coming soon:
 
@@ -45,7 +45,7 @@
 ## YouTube:
 
 - [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
-- [S4E24 - Cora Iberkleid & Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
+- [Spring Office Hours: S4E24 - SpringOne Preview with Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
 - [Spring Office Hours: S4E22 - Live from KCDC](https://www.youtube.com/watch?v=ozPNymtx1_A) - SpringSourceDev
 - [SpringOne 2025 Spotlights](https://www.youtube.com/watch?v=_gAe8vzS64w) - SpringSourceDev
 - [code unboxing: JobRunr v8, with Ronald Dehuysser](https://www.youtube.com/watch?v=IdSf6dCkF20) - Coffee + Software
