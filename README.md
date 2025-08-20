@@ -1,19 +1,14 @@
-# August 19
+# August 20
 
 ## News:
 
+- [Spring Authorization Server 2.0.0-M2, 1.5.2 and 1.4.5 available now](https://spring.io/blog/2025/08/19/spring-authorization-server-2-0-0-M2-1-5-2-and-1-4-5-available-now)
 - [Spring Security 6.4.9 and 6.5.3 Released](https://spring.io/blog/2025/08/18/spring-security-6-4-9-and-6-5-3-released)
 - [Spring Security 7.0.0-M2 available now](https://spring.io/blog/2025/08/18/spring-security-7-0-0-M2-available-now)
 - [Spring for Apache Pulsar 1.2.9 and 2.0.0-M2 are now available](https://spring.io/blog/2025/08/18/spring-for-apache-pulsar-1-2-9-and-2-0-0-M2-are-now-available)
-- [Spring Data 2025.0.3 and 2024.1.9 released](https://spring.io/blog/2025/08/15/spring-data-2025-0-3-and-2024-1-9-released)
 
 ## Recent Enterprise Releases:
 
-- August 12
-  - Reactor 2023.0.21
-  - Reactor Core 3.6.19
-  - Reactor Pool 1.0.12
-  - Reactor Netty 1.1.33
 - August 18
   - Session 3.2.8
   - Session 3.3.8
@@ -43,13 +38,6 @@
 
 ## Releases coming soon:
 
-- Integration 6.2.14 (Aug 19)
-- Integration 6.3.12 (Aug 19)
-- Graphql 1.2.12 (Aug 19)
-- Authorization Server 1.2.10 (Aug 19)
-- Authorization Server 1.3.8 (Aug 19)
-- Pulsar 1.1.15 (Aug 19)
-- Pulsar 1.0.16 (Aug 19)
 - Boot 2.7.29 (Aug 21)
 - Boot 3.2.18 (Aug 21)
 - Boot 3.3.15 (Aug 21)
