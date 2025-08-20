@@ -82,7 +82,7 @@ jobs:
           echo "Running newsletter-cli..."
           # Run the newsletter-cli binary (it will update README.md)
           ./newsletter-cli full-update
-          cp spring-update.md README.md
+          mv spring-update.md README.md
           rm ./newsletter-cli
 
       - name: Check for changes
