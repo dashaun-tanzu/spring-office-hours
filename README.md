@@ -1,11 +1,11 @@
-# August 20
+# August 21
 
 ## News:
 
+- [Spring Boot 3.4.9 available now](https://spring.io/blog/2025/08/21/spring-boot-3-4-9-available-now)
 - [Spring Batch 6.0.0-M2 available now](https://spring.io/blog/2025/08/20/spring-batch-6)
 - [Spring Authorization Server 2.0.0-M2, 1.5.2 and 1.4.5 available now](https://spring.io/blog/2025/08/19/spring-authorization-server-2-0-0-M2-1-5-2-and-1-4-5-available-now)
 - [Spring Security 6.4.9 and 6.5.3 Released](https://spring.io/blog/2025/08/18/spring-security-6-4-9-and-6-5-3-released)
-- [Spring Security 7.0.0-M2 available now](https://spring.io/blog/2025/08/18/spring-security-7-0-0-M2-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -35,6 +35,10 @@
   - Authorization Server 1.3.8
   - Pulsar 1.1.15
   - Pulsar 1.0.16
+- August 21
+  - Boot 2.7.29
+  - Boot 3.2.18
+  - Boot 3.3.15
 
 ## Releases coming soon:
 
@@ -44,8 +48,8 @@
 
 ## YouTube:
 
-- [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
 - [Spring Office Hours: S4E24 - SpringOne Preview with Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
+- [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
 - [Spring Office Hours: S4E22 - Live from KCDC](https://www.youtube.com/watch?v=ozPNymtx1_A) - SpringSourceDev
 - [SpringOne 2025 Spotlights](https://www.youtube.com/watch?v=_gAe8vzS64w) - SpringSourceDev
 - [code unboxing: JobRunr v8, with Ronald Dehuysser](https://www.youtube.com/watch?v=IdSf6dCkF20) - Coffee + Software
