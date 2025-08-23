@@ -1,4 +1,4 @@
-# August 22
+# August 23
 
 ## News:
 
@@ -9,9 +9,6 @@
 
 ## Recent Enterprise Releases:
 
-- August 15
-  - Data 2023.1.14
-  - Data 2024.0.14
 - August 18
   - Session 3.2.8
   - Session 3.3.8
