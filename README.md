@@ -1,4 +1,4 @@
-# August 24
+# August 25
 
 ## News:
 
@@ -36,6 +36,8 @@
 
 ## YouTube:
 
+- [Ryan Baxter, Spring Cloud contributor, live at SpringOne 2025](https://www.youtube.com/watch?v=IeCpfDS50cI) - Coffee + Software
+- [Purnima Padmanabhan, General Manager, Tanzu, Broadcom](https://www.youtube.com/watch?v=Z_7HeJi6Ono) - Coffee + Software
 - [Spring Office Hours: S4E25 - Live from SpringOne at Explore 2025](https://www.youtube.com/watch?v=xbZVg_r2Iho) - SpringSourceDev
 - [Spring Office Hours: S4E24 - SpringOne Preview with Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
 - [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
@@ -44,8 +46,6 @@
 - [code unboxing: JobRunr v8, with Ronald Dehuysser](https://www.youtube.com/watch?v=IdSf6dCkF20) - Coffee + Software
 - [the latest-and-greatest from JobRunr, with founder Ronald Dehuysser](https://www.youtube.com/watch?v=qd9GzmDDsYo) - Coffee + Software
 - [Jetbrains' Andrey Belaev on a Bootiful Podcast](https://www.youtube.com/watch?v=ES-uxV1zNok) - Coffee + Software
-- [Spring Cloud Vault is for secrets, not configuration](https://www.youtube.com/watch?v=3bpO_iqRX_k) - Coffee + Software
-- [Andrew Lombardi on a Bootiful Podcast](https://www.youtube.com/watch?v=xDdKVYRv12w) - Coffee + Software
 
 ## Demos:
 
