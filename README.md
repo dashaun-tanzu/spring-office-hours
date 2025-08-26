@@ -1,4 +1,4 @@
-# August 25
+# August 26
 
 ## News:
 
@@ -9,16 +9,6 @@
 
 ## Recent Enterprise Releases:
 
-- August 18
-  - Session 3.2.8
-  - Session 3.3.8
-  - Kafka 3.1.13
-  - Kafka 3.2.11
-  - Amqp 3.1.13
-  - Security 6.2.13
-  - Security 5.8.21
-  - Security 5.7.19
-  - Security 6.3.11
 - August 19
   - Integration 6.2.14
   - Integration 6.3.12
