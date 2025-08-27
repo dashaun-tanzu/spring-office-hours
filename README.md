@@ -1,4 +1,4 @@
-# August 26
+# August 27
 
 ## News:
 
@@ -9,14 +9,6 @@
 
 ## Recent Enterprise Releases:
 
-- August 19
-  - Integration 6.2.14
-  - Integration 6.3.12
-  - Graphql 1.2.12
-  - Authorization Server 1.2.10
-  - Authorization Server 1.3.8
-  - Pulsar 1.1.15
-  - Pulsar 1.0.16
 - August 21
   - Boot 2.7.29
   - Boot 3.2.18
