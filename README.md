@@ -1,4 +1,4 @@
-# August 27
+# August 28
 
 ## News:
 
@@ -18,16 +18,16 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S4E25 - Live from SpringOne at Explore 2025](https://www.youtube.com/watch?v=xbZVg_r2Iho) - SpringSourceDev
+- [Spring Cloud lead and friend Spencer Gibb, live from SpringOne 2025](https://www.youtube.com/watch?v=MxkWFhj_ltI) - Coffee + Software
 - [Ryan Baxter, Spring Cloud contributor, live at SpringOne 2025](https://www.youtube.com/watch?v=IeCpfDS50cI) - Coffee + Software
 - [Purnima Padmanabhan, General Manager, Tanzu, Broadcom](https://www.youtube.com/watch?v=Z_7HeJi6Ono) - Coffee + Software
-- [Spring Office Hours: S4E25 - Live from SpringOne at Explore 2025](https://www.youtube.com/watch?v=xbZVg_r2Iho) - SpringSourceDev
 - [Spring Office Hours: S4E24 - SpringOne Preview with Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
 - [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
 - [Spring Office Hours: S4E22 - Live from KCDC](https://www.youtube.com/watch?v=ozPNymtx1_A) - SpringSourceDev
 - [SpringOne 2025 Spotlights](https://www.youtube.com/watch?v=_gAe8vzS64w) - SpringSourceDev
 - [code unboxing: JobRunr v8, with Ronald Dehuysser](https://www.youtube.com/watch?v=IdSf6dCkF20) - Coffee + Software
 - [the latest-and-greatest from JobRunr, with founder Ronald Dehuysser](https://www.youtube.com/watch?v=qd9GzmDDsYo) - Coffee + Software
-- [Jetbrains' Andrey Belaev on a Bootiful Podcast](https://www.youtube.com/watch?v=ES-uxV1zNok) - Coffee + Software
 
 ## Demos:
 
