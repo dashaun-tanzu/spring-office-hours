@@ -1,4 +1,4 @@
-# August 28
+# August 29
 
 ## News:
 
@@ -6,13 +6,6 @@
 - [Spring Boot 4.0.0-M2 available now](https://spring.io/blog/2025/08/21/spring-boot-4-0-0-M2-available-now)
 - [Spring Boot 3.5.5 available now](https://spring.io/blog/2025/08/21/spring-boot-3-5-5-available-now)
 - [Spring Boot 3.4.9 available now](https://spring.io/blog/2025/08/21/spring-boot-3-4-9-available-now)
-
-## Recent Enterprise Releases:
-
-- August 21
-  - Boot 2.7.29
-  - Boot 3.2.18
-  - Boot 3.3.15
 
 ## Releases coming soon:
 
