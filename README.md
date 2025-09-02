@@ -1,4 +1,4 @@
-# September 1
+# September 2
 
 ## News:
 
@@ -7,7 +7,10 @@
 - [Spring Boot 3.5.5 available now](https://spring.io/blog/2025/08/21/spring-boot-3-5-5-available-now)
 - [Spring Boot 3.4.9 available now](https://spring.io/blog/2025/08/21/spring-boot-3-4-9-available-now)
 
+
 ## Releases coming soon:
+
+
 
 ## YouTube:
 
@@ -24,7 +27,4 @@
 
 ## Demos:
 
-- [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
-- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Demo repository
-- [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demo repository
 
