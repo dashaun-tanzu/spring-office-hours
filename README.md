@@ -1,4 +1,4 @@
-# September 2
+# September 3
 
 ## News:
 
@@ -7,7 +7,14 @@
 - [Spring Boot 3.5.5 available now](https://spring.io/blog/2025/08/21/spring-boot-3-5-5-available-now)
 - [Spring Boot 3.4.9 available now](https://spring.io/blog/2025/08/21/spring-boot-3-4-9-available-now)
 
+## Recent Enterprise Releases:
+
+- September 3
+  - Cloud 2021.0.10
+
 ## Releases coming soon:
+
+- Cloud 2021.0.10 (Sep 3)
 
 ## YouTube:
 
