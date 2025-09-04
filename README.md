@@ -1,4 +1,4 @@
-# September 3
+# September 4
 
 ## News:
 
@@ -14,10 +14,11 @@
 
 ## Releases coming soon:
 
-- Cloud 2021.0.10 (Sep 3)
-
 ## YouTube:
 
+- [Spring Boot Tutorial: Resolving Bean Ambiguity Like a Pro](https://www.youtube.com/watch?v=jCjHAD94c8A) - Dan Vega
+- [The Road to Spring Framework 7 & Spring Boot 4](https://www.youtube.com/shorts/iP9vTOruwEE) - SpringSourceDev
+- [Spring Boot Version Mappings](https://www.youtube.com/shorts/qzVjEJOv9Rs) - SpringSourceDev
 - [Spring Office Hours: S4E25 - Live from SpringOne at Explore 2025](https://www.youtube.com/watch?v=xbZVg_r2Iho) - SpringSourceDev
 - [Spring Cloud lead and friend Spencer Gibb, live from SpringOne 2025](https://www.youtube.com/watch?v=MxkWFhj_ltI) - Coffee + Software
 - [Ryan Baxter, Spring Cloud contributor, live at SpringOne 2025](https://www.youtube.com/watch?v=IeCpfDS50cI) - Coffee + Software
@@ -25,9 +26,6 @@
 - [Spring Office Hours: S4E24 - SpringOne Preview with Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
 - [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
 - [Spring Office Hours: S4E22 - Live from KCDC](https://www.youtube.com/watch?v=ozPNymtx1_A) - SpringSourceDev
-- [SpringOne 2025 Spotlights](https://www.youtube.com/watch?v=_gAe8vzS64w) - SpringSourceDev
-- [code unboxing: JobRunr v8, with Ronald Dehuysser](https://www.youtube.com/watch?v=IdSf6dCkF20) - Coffee + Software
-- [the latest-and-greatest from JobRunr, with founder Ronald Dehuysser](https://www.youtube.com/watch?v=qd9GzmDDsYo) - Coffee + Software
 
 ## Demos:
 
