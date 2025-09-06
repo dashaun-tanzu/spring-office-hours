@@ -1,4 +1,4 @@
-# September 5
+# September 6
 
 ## News:
 
@@ -16,6 +16,7 @@
 
 ## YouTube:
 
+- [Spring AI Chat Options: Control Your LLM's Behavior for ANY Use Case](https://www.youtube.com/watch?v=MrC-xDvkJlE) - Dan Vega
 - [Spring AI Community](https://www.youtube.com/shorts/ueGEfejLSDY) - Dan Vega
 - [Spring Boot Tutorial: Resolving Bean Ambiguity Like a Pro](https://www.youtube.com/watch?v=jCjHAD94c8A) - Dan Vega
 - [The Road to Spring Framework 7 & Spring Boot 4](https://www.youtube.com/shorts/iP9vTOruwEE) - SpringSourceDev
@@ -25,7 +26,6 @@
 - [Ryan Baxter, Spring Cloud contributor, live at SpringOne 2025](https://www.youtube.com/watch?v=IeCpfDS50cI) - Coffee + Software
 - [Purnima Padmanabhan, General Manager, Tanzu, Broadcom](https://www.youtube.com/watch?v=Z_7HeJi6Ono) - Coffee + Software
 - [Spring Office Hours: S4E24 - SpringOne Preview with Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
-- [Spring Office Hours: S4E23 - Bootiful Josh Long](https://www.youtube.com/watch?v=rSJelzKkQLM) - SpringSourceDev
 
 ## Demos:
 
