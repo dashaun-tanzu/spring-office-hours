@@ -2,8 +2,8 @@ name: Daily Scheduled Action
 
 on:
   schedule:
-    # Runs every day at 12:00 UTC (noon)
-    - cron: '0 12 * * *'
+    # Runs every day at 03:16 UTC
+    - cron: '16 3 * * *'
 
   # Optional: Allow manual triggering
   workflow_dispatch:
