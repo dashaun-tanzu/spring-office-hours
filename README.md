@@ -9,14 +9,8 @@
 
 ## Recent Enterprise Releases:
 
-- September 8
-  - Micrometer 1.14.11
-  - Micrometer 1.15.4
-  - Micrometer 1.16.0-M3
-  - Micrometer Tracing 1.4.10
-  - Micrometer Tracing 1.5.4
-  - Micrometer Tracing 1.6.0-M3
-  - Ai 1.1.0
+- September 3
+  - Spring Cloud Release 2021.0.10 (Enterprise)
 
 ## Releases coming soon:
 
@@ -26,7 +20,7 @@
 - Micrometer Tracing 1.4.10 (Sep 8)
 - Micrometer Tracing 1.5.4 (Sep 8)
 - Micrometer Tracing 1.6.0-M3 (Sep 8)
-- Ai 1.1.0 (Sep 8)
+- Spring Ai 1.1.0.M2 (Sep 8)
 - Reactor 2024.0.10 (Sep 9)
 - Reactor 2025.0.0-M7 (Sep 9)
 - Reactor Core 3.7.10 (Sep 9)
@@ -36,37 +30,37 @@
 - Reactor Pool 1.2.0-M7 (Sep 9)
 - Reactor Netty 1.2.10 (Sep 9)
 - Reactor Netty 1.3.0-M7 (Sep 9)
-- Tools 4.32.0 (Sep 10)
-- Hateoas 3.0.0-M5 (Sep 11)
-- Framework 7.0.0-M9 (Sep 11)
-- Framework 6.2.11 (Sep 11)
-- Data 2024.1.10 (Sep 12)
-- Data 2025.0.4 (Sep 12)
-- Data 2025.1.0-M6 (Sep 12)
-- Kafka 4.0.0-M5 (Sep 15)
-- Kafka 3.3.10 (Sep 15)
-- Amqp 3.2.7 (Sep 15)
-- Amqp 4.0.0-M5 (Sep 15)
-- Security 7.0.0-M3 (Sep 15)
-- Integration 6.4.7 (Sep 16)
-- Integration 6.5.2 (Sep 16)
-- Integration 7.0.0-M3 (Sep 16)
-- Graphql 1.4.2 (Sep 16)
-- Graphql 2.0.0-M3 (Sep 16)
-- Authorization Server 2.0.0-M3 (Sep 16)
-- Pulsar 2.0.0-M3 (Sep 16)
-- Pulsar 1.2.10 (Sep 16)
-- Batch 5.2.3 (Sep 17)
-- Batch 6.0.0-M3 (Sep 17)
-- Restdocs 4.0.0-M3 (Sep 18)
-- Ldap 4.0.0-M3 (Sep 18)
-- Boot 4.0.0-M3 (Sep 18)
-- Boot 3.4.10 (Sep 18)
-- Boot 3.5.6 (Sep 18)
-- Modulith 2.0 (Sep 19)
-- Cloud 2025.1.0-M3 (Sep 22)
-- Ai 1.1.0 (Sep 23)
-- Ai 1.1.0 (Sep 30)
+- Spring Tools 4.32.0.RELEASE (Sep 10)
+- Spring Hateoas 3.0.0-M5 (Sep 11)
+- Spring Framework 7.0.0-M9 (Sep 11)
+- Spring Framework 6.2.11 (Sep 11)
+- Spring Data Release 2024.1.10 (Sep 12)
+- Spring Data Release 2025.0.4 (Sep 12)
+- Spring Data Release 2025.1.0-M6 (Sep 12)
+- Spring Kafka 4.0.0-M5 (Sep 15)
+- Spring Kafka 3.3.10 (Sep 15)
+- Spring Amqp 3.2.7 (Sep 15)
+- Spring Amqp 4.0.0-M5 (Sep 15)
+- Spring Security 7.0.0-M3 (Sep 15)
+- Spring Integration 6.4.7 (Sep 16)
+- Spring Integration 6.5.2 (Sep 16)
+- Spring Integration 7.0.0-M3 (Sep 16)
+- Spring Graphql 1.4.2 (Sep 16)
+- Spring Graphql 2.0.0-M3 (Sep 16)
+- Spring Authorization Server 2.0.0-M3 (Sep 16)
+- Spring Pulsar 2.0.0-M3 (Sep 16)
+- Spring Pulsar 1.2.10 (Sep 16)
+- Spring Batch 5.2.3 (Sep 17)
+- Spring Batch 6.0.0-M3 (Sep 17)
+- Spring Restdocs 4.0.0-M3 (Sep 18)
+- Spring Ldap 4.0.0-M3 (Sep 18)
+- Spring Boot 4.0.0-M3 (Sep 18)
+- Spring Boot 3.4.10 (Sep 18)
+- Spring Boot 3.5.6 (Sep 18)
+- Spring Modulith 2.0 M3 (Sep 19)
+- Spring Cloud Release 2025.1.0-M3 (Sep 22)
+- Spring Ai 1.1.0.RC1 (Sep 23)
+- Spring Ai 1.1.0 (Sep 30)
 
 ## YouTube:
 
