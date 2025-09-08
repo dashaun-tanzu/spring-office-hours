@@ -1,4 +1,4 @@
-# September 7
+# September 8
 
 ## News:
 
@@ -6,6 +6,17 @@
 - [Spring Boot 4.0.0-M2 available now](https://spring.io/blog/2025/08/21/spring-boot-4-0-0-M2-available-now)
 - [Spring Boot 3.5.5 available now](https://spring.io/blog/2025/08/21/spring-boot-3-5-5-available-now)
 - [Spring Boot 3.4.9 available now](https://spring.io/blog/2025/08/21/spring-boot-3-4-9-available-now)
+
+## Recent Enterprise Releases:
+
+- September 8
+  - Micrometer 1.14.11
+  - Micrometer 1.15.4
+  - Micrometer 1.16.0-M3
+  - Micrometer Tracing 1.4.10
+  - Micrometer Tracing 1.5.4
+  - Micrometer Tracing 1.6.0-M3
+  - Ai 1.1.0
 
 ## Releases coming soon:
 
