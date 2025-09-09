@@ -1,4 +1,4 @@
-# September 8
+# September 9
 
 ## News:
 
@@ -14,13 +14,6 @@
 
 ## Releases coming soon:
 
-- Micrometer 1.14.11 (Sep 8)
-- Micrometer 1.15.4 (Sep 8)
-- Micrometer 1.16.0-M3 (Sep 8)
-- Micrometer Tracing 1.4.10 (Sep 8)
-- Micrometer Tracing 1.5.4 (Sep 8)
-- Micrometer Tracing 1.6.0-M3 (Sep 8)
-- Spring Ai 1.1.0.M2 (Sep 8)
 - Reactor 2024.0.10 (Sep 9)
 - Reactor 2025.0.0-M7 (Sep 9)
 - Reactor Core 3.7.10 (Sep 9)
@@ -61,9 +54,12 @@
 - Spring Cloud Release 2025.1.0-M3 (Sep 22)
 - Spring Ai 1.1.0.RC1 (Sep 23)
 - Spring Ai 1.1.0 (Sep 30)
+- Spring Batch 6.0.0-M4 (Oct 1)
 
 ## YouTube:
 
+- [Spring Office Hours: S4E26 - Groovy, Google and Gemini with Guillaume Laforge](https://www.youtube.com/watch?v=1Oojjy0pRlQ) - SpringSourceDev
+- [Spring Office Hours - Java 25 with Billy Korando](https://www.youtube.com/watch?v=kDSyNAfjDWY) - SpringSourceDev
 - [Spring AI Chat Options: Control Your LLM's Behavior for ANY Use Case](https://www.youtube.com/watch?v=MrC-xDvkJlE) - Dan Vega
 - [Spring AI Community](https://www.youtube.com/shorts/ueGEfejLSDY) - Dan Vega
 - [Spring Boot Tutorial: Resolving Bean Ambiguity Like a Pro](https://www.youtube.com/watch?v=jCjHAD94c8A) - Dan Vega
@@ -72,8 +68,6 @@
 - [Spring Office Hours: S4E25 - Live from SpringOne at Explore 2025](https://www.youtube.com/watch?v=xbZVg_r2Iho) - SpringSourceDev
 - [Spring Cloud lead and friend Spencer Gibb, live from SpringOne 2025](https://www.youtube.com/watch?v=MxkWFhj_ltI) - Coffee + Software
 - [Ryan Baxter, Spring Cloud contributor, live at SpringOne 2025](https://www.youtube.com/watch?v=IeCpfDS50cI) - Coffee + Software
-- [Purnima Padmanabhan, General Manager, Tanzu, Broadcom](https://www.youtube.com/watch?v=Z_7HeJi6Ono) - Coffee + Software
-- [Spring Office Hours: S4E24 - SpringOne Preview with Glenn Renfro](https://www.youtube.com/watch?v=nJV7j2A8Yy8) - SpringSourceDev
 
 ## Demos:
 
