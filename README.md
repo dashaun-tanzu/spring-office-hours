@@ -1,17 +1,14 @@
-# September 12
+# September 13
 
 ## News:
 
+- [Spring Cloud 2025.1.0-M2 (aka Oakwood) has been released](https://spring.io/blog/2025/09/12/spring-cloud-2025-1-0-M2-aka-oakwood-has-been-released)
+- [Spring Data 2025.0.4 and 2024.1.10 released](https://spring.io/blog/2025/09/12/spring-data-2025-0-4-and-2024-1-10-released)
+- [Spring Data 2025.1.0-M6 released](https://spring.io/blog/2025/09/12/spring-data-2025-1-0-M6-released)
 - [Spring Framework 7.0.0-M9 available now](https://spring.io/blog/2025/09/11/spring-framework-7-0-0-M9-available-now)
-- [Spring Framework 6.2.11 Available Now](https://spring.io/blog/2025/09/11/spring-framework-6-2-11-available%20now)
-- [Spring gRPC 0.11.0 available now](https://spring.io/blog/2025/09/10/spring-grpc-0-11-1-available)
-- [Spring Tools 4.32.0 released](https://spring.io/blog/2025/09/10/spring-tools-4-32-0-released)
 
 ## Releases coming soon:
 
-- Spring Data Release 2024.1.10 (Sep 12)
-- Spring Data Release 2025.0.4 (Sep 12)
-- Spring Data Release 2025.1.0-M6 (Sep 12)
 - Spring Kafka 4.0.0-M5 (Sep 15)
 - Spring Kafka 3.3.10 (Sep 15)
 - Spring Amqp 3.2.7 (Sep 15)
@@ -24,7 +21,6 @@
 - Spring Integration 7.0.0-M3 (Sep 16)
 - Spring Graphql 1.4.2 (Sep 16)
 - Spring Graphql 2.0.0-M3 (Sep 16)
-- Spring Authorization Server 2.0.0-M3 (Sep 16)
 - Spring Pulsar 2.0.0-M3 (Sep 16)
 - Spring Pulsar 1.2.10 (Sep 16)
 - Spring Batch 5.2.3 (Sep 17)
@@ -38,6 +34,12 @@
 - Spring Ai 1.1.0.RC1 (Sep 23)
 - Spring Ai 1.1.0 (Sep 30)
 - Spring Batch 6.0.0-M4 (Oct 1)
+- Micrometer 1.14.12 (Oct 13)
+- Micrometer 1.15.5 (Oct 13)
+- Micrometer 1.16.0-RC1 (Oct 13)
+- Micrometer Tracing 1.4.11 (Oct 13)
+- Micrometer Tracing 1.5.5 (Oct 13)
+- Micrometer Tracing 1.6.0-RC1 (Oct 13)
 
 ## YouTube:
 
