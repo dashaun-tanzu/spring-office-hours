@@ -1,21 +1,14 @@
-# September 15
+# September 16
 
 ## News:
 
+- [Spring Security 6.4.10 and 6.5.4 Released](https://spring.io/blog/2025/09/15/spring-security-6-4-10-and-6-5-4-released)
+- [Spring Security and Spring Framework Release Fixes for CVE-2025-41248 and CVE-2025-41249](https://spring.io/blog/2025/09/15/spring-framework-and-spring-security-fixes-for-CVE-2025-41249-and-CVE-2025-41248)
+- [Spring AMQP 4.0 Milestone 5 Available](https://spring.io/blog/2025/09/15/spring-amqp-4-0-0-m5-available)
 - [Spring Cloud 2025.1.0-M2 (aka Oakwood) has been released](https://spring.io/blog/2025/09/12/spring-cloud-2025-1-0-M2-aka-oakwood-has-been-released)
-- [Spring Data 2025.0.4 and 2024.1.10 released](https://spring.io/blog/2025/09/12/spring-data-2025-0-4-and-2024-1-10-released)
-- [Spring Data 2025.1.0-M6 released](https://spring.io/blog/2025/09/12/spring-data-2025-1-0-M6-released)
-- [Spring Framework 7.0.0-M9 available now](https://spring.io/blog/2025/09/11/spring-framework-7-0-0-M9-available-now)
 
 ## Releases coming soon:
 
-- Spring Kafka 4.0.0-M5 (Sep 15)
-- Spring Kafka 3.3.10 (Sep 15)
-- Spring Amqp 3.2.7 (Sep 15)
-- Spring Amqp 4.0.0-M5 (Sep 15)
-- Spring Security 6.4.10 (Sep 15)
-- Spring Security 6.5.4 (Sep 15)
-- Spring Security 7.0.0-M3 (Sep 15)
 - Spring Integration 6.4.7 (Sep 16)
 - Spring Integration 6.5.2 (Sep 16)
 - Spring Integration 7.0.0-M3 (Sep 16)
@@ -48,6 +41,12 @@
 - Reactor Pool 1.2.0-RC1 (Oct 14)
 - Reactor Netty 1.2.11 (Oct 14)
 - Reactor Netty 1.3.0-RC1 (Oct 14)
+- Spring Hateoas 3.0.0-RC1 (Oct 16)
+- Spring Ldap 3.2.15 (Oct 16)
+- Spring Ldap 3.3.4 (Oct 16)
+- Spring Ldap 4.0.0-RC1 (Oct 16)
+- Spring Framework 6.2.12 (Oct 16)
+- Spring Framework 7.0.0-RC1 (Oct 16)
 
 ## YouTube:
 
