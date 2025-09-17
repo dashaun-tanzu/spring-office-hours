@@ -1,24 +1,17 @@
-# September 16
+# September 17
 
 ## News:
 
+- [Spring for GraphQL 2.0.0-M3 released](https://spring.io/blog/2025/09/16/spring-for-graphql-2-0-0-m3-released)
+- [Spring for GraphQL 1.4.2 released](https://spring.io/blog/2025/09/16/spring-for-graphql-1-4-2-released)
+- [Spring for Apache Pulsar 1.2.10 and 2.0.0-M3 are now available](https://spring.io/blog/2025/09/16/spring-for-apache-pulsar-1-2-10-and-2-0-0-M3-are-now-available)
 - [Spring Security 6.4.10 and 6.5.4 Released](https://spring.io/blog/2025/09/15/spring-security-6-4-10-and-6-5-4-released)
-- [Spring Security and Spring Framework Release Fixes for CVE-2025-41248 and CVE-2025-41249](https://spring.io/blog/2025/09/15/spring-framework-and-spring-security-fixes-for-CVE-2025-41249-and-CVE-2025-41248)
-- [Spring AMQP 4.0 Milestone 5 Available](https://spring.io/blog/2025/09/15/spring-amqp-4-0-0-m5-available)
-- [Spring Cloud 2025.1.0-M2 (aka Oakwood) has been released](https://spring.io/blog/2025/09/12/spring-cloud-2025-1-0-M2-aka-oakwood-has-been-released)
 
 ## Releases coming soon:
 
-- Spring Integration 6.4.7 (Sep 16)
-- Spring Integration 6.5.2 (Sep 16)
-- Spring Integration 7.0.0-M3 (Sep 16)
-- Spring Graphql 1.4.2 (Sep 16)
-- Spring Graphql 2.0.0-M3 (Sep 16)
-- Spring Pulsar 2.0.0-M3 (Sep 16)
-- Spring Pulsar 1.2.10 (Sep 16)
 - Spring Batch 5.2.3 (Sep 17)
 - Spring Batch 6.0.0-M3 (Sep 17)
-- Spring Restdocs 4.0.0-M3 (Sep 18)
+- Spring Restdocs 4.0.0-M3 (Sep 17)
 - Spring Boot 4.0.0-M3 (Sep 18)
 - Spring Boot 3.4.10 (Sep 18)
 - Spring Boot 3.5.6 (Sep 18)
@@ -39,6 +32,8 @@
 - Reactor Core 3.8.0-RC1 (Oct 14)
 - Reactor Kotlin Extensions 1.3.0 (Oct 14)
 - Reactor Pool 1.2.0-RC1 (Oct 14)
+- Spring Pulsar 2.0.0-RC1 (Oct 14)
+- Spring Pulsar 1.2.11 (Oct 14)
 - Reactor Netty 1.2.11 (Oct 14)
 - Reactor Netty 1.3.0-RC1 (Oct 14)
 - Spring Hateoas 3.0.0-RC1 (Oct 16)
@@ -50,8 +45,8 @@
 
 ## YouTube:
 
-- [Spring Security contributor Josh Cummings](https://www.youtube.com/watch?v=GJ1o3nnQZz0) - Coffee + Software
 - [Dr. Kris de Volder on a Bootiful Podcast](https://www.youtube.com/watch?v=_9_Y8u_TAvs) - Coffee + Software
+- [Spring Security contributor Josh Cummings](https://www.youtube.com/watch?v=GJ1o3nnQZz0) - Coffee + Software
 - [Spring AI 1 1 0 M1](https://www.youtube.com/watch?v=hmEVUtulHTI) - Coffee + Software
 - [Agentic AI Agents with Embabel](https://www.youtube.com/watch?v=kpeYvKha5oE) - Coffee + Software
 - [Spring AI 1.1.0-M1 Available Now](https://www.youtube.com/shorts/B2u0_XIF-o4) - SpringSourceDev
