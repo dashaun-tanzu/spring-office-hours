@@ -1,17 +1,14 @@
-# September 17
+# September 18
 
 ## News:
 
+- [Spring AI 1.0.2 Available Now](https://spring.io/blog/2025/09/17/spring-ai-1-0-2-available-now)
+- [Spring Integration 7.0 Milestone 3 Available](https://spring.io/blog/2025/09/17/spring-integration-7-0-M3-released)
+- [Spring for Apache Kafka 4.0.0-M5 is Available Now](https://spring.io/blog/2025/09/17/spring-kafka-4)
 - [Spring for GraphQL 2.0.0-M3 released](https://spring.io/blog/2025/09/16/spring-for-graphql-2-0-0-m3-released)
-- [Spring for GraphQL 1.4.2 released](https://spring.io/blog/2025/09/16/spring-for-graphql-1-4-2-released)
-- [Spring for Apache Pulsar 1.2.10 and 2.0.0-M3 are now available](https://spring.io/blog/2025/09/16/spring-for-apache-pulsar-1-2-10-and-2-0-0-M3-are-now-available)
-- [Spring Security 6.4.10 and 6.5.4 Released](https://spring.io/blog/2025/09/15/spring-security-6-4-10-and-6-5-4-released)
 
 ## Releases coming soon:
 
-- Spring Batch 5.2.3 (Sep 17)
-- Spring Batch 6.0.0-M3 (Sep 17)
-- Spring Restdocs 4.0.0-M3 (Sep 17)
 - Spring Boot 4.0.0-M3 (Sep 18)
 - Spring Boot 3.4.10 (Sep 18)
 - Spring Boot 3.5.6 (Sep 18)
