@@ -1,4 +1,4 @@
-# September 20
+# September 21
 
 ## News:
 
@@ -42,6 +42,16 @@
 - Spring Security 7.0.0-RC1 (Oct 20)
 - Spring Security 6.5.6 (Oct 20)
 - Spring Security 6.4.12 (Oct 20)
+- Spring Integration 7.0.0-RC1 (Oct 21)
+- Spring Session 3.4.6 (Oct 21)
+- Spring Session 3.5.3 (Oct 21)
+- Spring Session 4.0.0-RC1 (Oct 21)
+- Spring Graphql 2.0.0-RC1 (Oct 21)
+- Spring Authorization Server 1.4.6 (Oct 21)
+- Spring Authorization Server 1.5.3 (Oct 21)
+- Spring Ws 4.0.16 (Oct 21)
+- Spring Ws 4.1.2 (Oct 21)
+- Spring Ws 5.0.0-RC1 (Oct 21)
 
 ## YouTube:
 
