@@ -1,4 +1,4 @@
-# September 21
+# September 22
 
 ## News:
 
@@ -52,6 +52,8 @@
 - Spring Ws 4.0.16 (Oct 21)
 - Spring Ws 4.1.2 (Oct 21)
 - Spring Ws 5.0.0-RC1 (Oct 21)
+- Spring Batch 6.0.0-RC1 (Oct 22)
+- Spring Restdocs 4.0.0-RC1 (Oct 22)
 
 ## YouTube:
 
