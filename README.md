@@ -1,15 +1,14 @@
-# September 22
+# September 23
 
 ## News:
 
+- [Spring AI 1.1.0-M2 Available Now: Enhanced Model Context Protocol Support](https://spring.io/blog/2025/09/19/spring-ai-1-1-0-M2-mcp-focused)
 - [Spring Modulith 2.0 M3 released](https://spring.io/blog/2025/09/19/spring-modulith-2-0-m3-released)
 - [Spring Boot 3.4.10 available now](https://spring.io/blog/2025/09/18/spring-boot-3-4-10-available-now)
 - [Spring Boot 3.5.6 available now](https://spring.io/blog/2025/09/18/spring-boot-3-5-6-available-now)
-- [Spring Boot 4.0.0-M3 available now](https://spring.io/blog/2025/09/18/spring-boot-4-0-0-M3-available-now)
 
 ## Releases coming soon:
 
-- Spring Cloud Release 2025.1.0-M3 (Sep 22)
 - Spring Ai 1.1.0.RC1 (Sep 23)
 - Spring Ai 1.1.0 (Sep 30)
 - Spring Batch 6.0.0-M4 (Oct 1)
@@ -54,6 +53,9 @@
 - Spring Ws 5.0.0-RC1 (Oct 21)
 - Spring Batch 6.0.0-RC1 (Oct 22)
 - Spring Restdocs 4.0.0-RC1 (Oct 22)
+- Spring Boot 4.0.0-RC1 (Oct 23)
+- Spring Boot 3.4.11 (Oct 23)
+- Spring Boot 3.5.7 (Oct 23)
 
 ## YouTube:
 
