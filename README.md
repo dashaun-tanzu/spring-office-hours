@@ -1,4 +1,4 @@
-# September 23
+# September 24
 
 ## News:
 
@@ -9,9 +9,8 @@
 
 ## Releases coming soon:
 
-- Spring Ai 1.1.0.RC1 (Sep 23)
 - Spring Ai 1.1.0 (Sep 30)
-- Spring Batch 6.0.0-M4 (Oct 1)
+- Spring Batch 6.0.0-M4 (Oct 8)
 - Micrometer 1.14.12 (Oct 13)
 - Micrometer 1.15.5 (Oct 13)
 - Micrometer 1.16.0-RC1 (Oct 13)
@@ -56,6 +55,7 @@
 - Spring Boot 4.0.0-RC1 (Oct 23)
 - Spring Boot 3.4.11 (Oct 23)
 - Spring Boot 3.5.7 (Oct 23)
+- Spring Modulith 2.0 RC1 (Oct 24)
 
 ## YouTube:
 
