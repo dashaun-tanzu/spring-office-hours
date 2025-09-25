@@ -1,4 +1,4 @@
-# September 24
+# September 25
 
 ## News:
 
@@ -59,6 +59,8 @@
 
 ## YouTube:
 
+- [Spring Shell - InitializrPlusPlus](https://www.youtube.com/watch?v=S30wBNm0KcQ) - Coffee + Software
+- [Resilience Features in Spring Framework 7 and Spring Boot 4](https://www.youtube.com/watch?v=ep8IZl8sk5A) - Coffee + Software
 - [Spring Batch lead Mahmoud Ben Hassine](https://www.youtube.com/watch?v=JOiGP7y60eA) - Coffee + Software
 - [Spring Office Hours: S4E27 - Java 25 with Billy Korando](https://www.youtube.com/watch?v=kDSyNAfjDWY) - SpringSourceDev
 - [Stop Using Outdated AI! Add Web Search to Your Spring AI Applications (OpenAI Tutorial)](https://www.youtube.com/watch?v=DQt95vgtgFw) - Dan Vega
@@ -67,8 +69,6 @@
 - [Spring AI 1 1 0 M1](https://www.youtube.com/watch?v=hmEVUtulHTI) - Coffee + Software
 - [Agentic AI Agents with Embabel](https://www.youtube.com/watch?v=kpeYvKha5oE) - Coffee + Software
 - [Spring AI 1.1.0-M1 Available Now](https://www.youtube.com/shorts/B2u0_XIF-o4) - SpringSourceDev
-- [Spring AI Logging Made Simple: See Every Request & Response to Your LLM](https://www.youtube.com/watch?v=R_BXvIKrN4c) - Dan Vega
-- [Groovy Meets AI: Building LLM Applications with Spring AI](https://www.youtube.com/watch?v=rQwm9--DMIA) - Dan Vega
 
 ## Demos:
 
