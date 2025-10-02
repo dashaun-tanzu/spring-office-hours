@@ -1,11 +1,11 @@
-# October 1
+# October 2
 
 ## News:
 
+- [Spring AI 1.0.3 Available Now](https://spring.io/blog/2025/10/01/spring-ai-1-0-3-available-now)
 - [Spring AI 1.1.0-M2 Available Now: Enhanced Model Context Protocol Support](https://spring.io/blog/2025/09/19/spring-ai-1-1-0-M2-mcp-focused)
 - [Spring Modulith 2.0 M3 released](https://spring.io/blog/2025/09/19/spring-modulith-2-0-m3-released)
 - [Spring Boot 3.4.10 available now](https://spring.io/blog/2025/09/18/spring-boot-3-4-10-available-now)
-- [Spring Boot 4.0.0-M3 available now](https://spring.io/blog/2025/09/18/spring-boot-4-0-0-M3-available-now)
 
 ## Releases coming soon:
 
@@ -23,8 +23,6 @@
 - Reactor Kotlin Extensions 1.3.0 (Oct 14)
 - Reactor Pool 1.1.5 (Oct 14)
 - Reactor Pool 1.2.0-RC1 (Oct 14)
-- Spring Pulsar 2.0.0-RC1 (Oct 14)
-- Spring Pulsar 1.2.11 (Oct 14)
 - Reactor Netty 1.2.11 (Oct 14)
 - Reactor Netty 1.3.0-RC1 (Oct 14)
 - Spring Hateoas 3.0.0-RC1 (Oct 16)
@@ -33,6 +31,9 @@
 - Spring Ldap 4.0.0-RC1 (Oct 16)
 - Spring Framework 6.2.12 (Oct 16)
 - Spring Framework 7.0.0-RC1 (Oct 16)
+- Spring Data Release 2024.1.11 (Oct 17)
+- Spring Data Release 2025.0.5 (Oct 17)
+- Spring Data Release 2025.1.0-RC1 (Oct 17)
 - Spring Vault 4.0.0-RC1 (Oct 20)
 - Spring Kafka 4.0.0-RC1 (Oct 20)
 - Spring Amqp 4.0.0-RC1 (Oct 20)
@@ -49,6 +50,8 @@
 - Spring Ws 4.0.16 (Oct 21)
 - Spring Ws 4.1.2 (Oct 21)
 - Spring Ws 5.0.0-RC1 (Oct 21)
+- Spring Pulsar 2.0.0-RC1 (Oct 21)
+- Spring Pulsar 1.2.11 (Oct 21)
 - Spring Batch 6.0.0-RC1 (Oct 22)
 - Spring Restdocs 4.0.0-RC1 (Oct 22)
 - Spring Boot 4.0.0-RC1 (Oct 23)
