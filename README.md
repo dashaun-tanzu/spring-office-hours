@@ -1,11 +1,11 @@
-# October 6
+# October 7
 
 ## News:
 
+- [Spring AI 1.1.0-M3 Available Now](https://spring.io/blog/2025/10/06/spring-ai-1-1-0-M3-available-now)
 - [Spring Cloud 2025.1.0-M3 (aka Oakwood) has been released](https://spring.io/blog/2025/10/03/spring-cloud-2025-1-0-M3-aka-oakwood-has-been-released)
 - [Spring AI 1.0.3 Available Now](https://spring.io/blog/2025/10/01/spring-ai-1-0-3-available-now)
 - [Spring AI 1.1.0-M2 Available Now: Enhanced Model Context Protocol Support](https://spring.io/blog/2025/09/19/spring-ai-1-1-0-M2-mcp-focused)
-- [Spring Modulith 2.0 M3 released](https://spring.io/blog/2025/09/19/spring-modulith-2-0-m3-released)
 
 ## Releases coming soon:
 
@@ -60,6 +60,7 @@
 - Spring Boot 3.5.7 (Oct 23)
 - Spring Modulith 2.0 RC1 (Oct 24)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
+- Micrometer 1.16.0 (Nov 6)
 
 ## YouTube:
 
