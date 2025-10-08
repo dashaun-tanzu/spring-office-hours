@@ -1,4 +1,4 @@
-# October 7
+# October 8
 
 ## News:
 
@@ -64,6 +64,7 @@
 
 ## YouTube:
 
+- [Spring AI 1.1.0 is HERE! Google Gemini Integration Made EASY (No More Vertex!)](https://www.youtube.com/watch?v=PibEG9A6AeE) - Dan Vega
 - [Spring Shell - InitializrPlusPlus](https://www.youtube.com/watch?v=S30wBNm0KcQ) - Coffee + Software
 - [Resilience Features in Spring Framework 7 and Spring Boot 4](https://www.youtube.com/watch?v=ep8IZl8sk5A) - Coffee + Software
 - [Spring Batch lead Mahmoud Ben Hassine](https://www.youtube.com/watch?v=JOiGP7y60eA) - Coffee + Software
@@ -73,7 +74,6 @@
 - [Spring Security contributor Josh Cummings](https://www.youtube.com/watch?v=GJ1o3nnQZz0) - Coffee + Software
 - [Spring AI 1 1 0 M1](https://www.youtube.com/watch?v=hmEVUtulHTI) - Coffee + Software
 - [Agentic AI Agents with Embabel](https://www.youtube.com/watch?v=kpeYvKha5oE) - Coffee + Software
-- [Spring AI 1.1.0-M1 Available Now](https://www.youtube.com/shorts/B2u0_XIF-o4) - SpringSourceDev
 
 ## Demos:
 
@@ -82,4 +82,5 @@
 - [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demo repository
 - [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Demo repository
 - [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demo repository
+- [saa-petclinic-squashed-demo](https://github.com/dashaun-tanzu/saa-petclinic-squashed-demo) - Demo repository
 
