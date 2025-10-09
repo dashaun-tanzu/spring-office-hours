@@ -1,4 +1,4 @@
-# October 8
+# October 9
 
 ## News:
 
@@ -9,7 +9,6 @@
 
 ## Releases coming soon:
 
-- Spring Batch 6.0.0-M4 (Oct 8)
 - Micrometer 1.14.12 (Oct 13)
 - Micrometer 1.15.5 (Oct 13)
 - Micrometer 1.16.0-RC1 (Oct 13)
@@ -61,6 +60,7 @@
 - Spring Modulith 2.0 RC1 (Oct 24)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
 - Micrometer 1.16.0 (Nov 6)
+- Reactor Netty 1.2.12 (Nov 7)
 
 ## YouTube:
 
