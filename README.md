@@ -1,11 +1,11 @@
-# October 9
+# October 10
 
 ## News:
 
+- [Spring Batch 6.0.0-M4 released](https://spring.io/blog/2025/10/09/spring-batch-6-0-0-m4-released)
 - [Spring AI 1.1.0-M3 Available Now](https://spring.io/blog/2025/10/06/spring-ai-1-1-0-M3-available-now)
 - [Spring Cloud 2025.1.0-M3 (aka Oakwood) has been released](https://spring.io/blog/2025/10/03/spring-cloud-2025-1-0-M3-aka-oakwood-has-been-released)
 - [Spring AI 1.0.3 Available Now](https://spring.io/blog/2025/10/01/spring-ai-1-0-3-available-now)
-- [Spring AI 1.1.0-M2 Available Now: Enhanced Model Context Protocol Support](https://spring.io/blog/2025/09/19/spring-ai-1-1-0-M2-mcp-focused)
 
 ## Releases coming soon:
 
@@ -13,6 +13,7 @@
 - Micrometer 1.15.5 (Oct 13)
 - Micrometer 1.16.0-RC1 (Oct 13)
 - Spring Cloud Release 2025.1.0-M4 (Oct 13)
+- Context Propagation 1.2.0-RC1 (Oct 13)
 - Micrometer Tracing 1.4.11 (Oct 13)
 - Micrometer Tracing 1.5.5 (Oct 13)
 - Micrometer Tracing 1.6.0-RC1 (Oct 13)
@@ -64,6 +65,7 @@
 
 ## YouTube:
 
+- [Thomas Wuerthinger, founder of GraalVM and VP at Oracle](https://www.youtube.com/watch?v=ubPcdY83dsw) - Coffee + Software
 - [Spring AI 1.1.0 is HERE! Google Gemini Integration Made EASY (No More Vertex!)](https://www.youtube.com/watch?v=PibEG9A6AeE) - Dan Vega
 - [Spring Shell - InitializrPlusPlus](https://www.youtube.com/watch?v=S30wBNm0KcQ) - Coffee + Software
 - [Resilience Features in Spring Framework 7 and Spring Boot 4](https://www.youtube.com/watch?v=ep8IZl8sk5A) - Coffee + Software
@@ -73,7 +75,6 @@
 - [Dr. Kris de Volder on a Bootiful Podcast](https://www.youtube.com/watch?v=_9_Y8u_TAvs) - Coffee + Software
 - [Spring Security contributor Josh Cummings](https://www.youtube.com/watch?v=GJ1o3nnQZz0) - Coffee + Software
 - [Spring AI 1 1 0 M1](https://www.youtube.com/watch?v=hmEVUtulHTI) - Coffee + Software
-- [Agentic AI Agents with Embabel](https://www.youtube.com/watch?v=kpeYvKha5oE) - Coffee + Software
 
 ## Demos:
 
