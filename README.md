@@ -1,4 +1,4 @@
-# October 10
+# October 11
 
 ## News:
 
@@ -21,7 +21,7 @@
 - Reactor 2025.0.0-RC1 (Oct 14)
 - Reactor Core 3.7.12 (Oct 14)
 - Reactor Core 3.8.0-RC1 (Oct 14)
-- Reactor Kotlin Extensions 1.3.0 (Oct 14)
+- Reactor Kotlin Extensions 1.3.0-RC5 (Oct 14)
 - Reactor Pool 1.1.5 (Oct 14)
 - Reactor Pool 1.2.0-RC1 (Oct 14)
 - Reactor Netty 1.2.11 (Oct 14)
@@ -54,6 +54,7 @@
 - Spring Pulsar 2.0.0-RC1 (Oct 21)
 - Spring Pulsar 1.2.11 (Oct 21)
 - Spring Batch 6.0.0-RC1 (Oct 22)
+- Spring Batch 5.2.4 (Oct 22)
 - Spring Restdocs 4.0.0-RC1 (Oct 22)
 - Spring Boot 4.0.0-RC1 (Oct 23)
 - Spring Boot 3.4.11 (Oct 23)
