@@ -1,4 +1,4 @@
-# October 11
+# October 12
 
 ## News:
 
@@ -38,6 +38,7 @@
 - Spring Vault 4.0.0-RC1 (Oct 20)
 - Spring Kafka 4.0.0-RC1 (Oct 20)
 - Spring Amqp 4.0.0-RC1 (Oct 20)
+- Spring Amqp 3.2.8 (Oct 20)
 - Spring Security 7.0.0-RC1 (Oct 20)
 - Spring Security 6.5.6 (Oct 20)
 - Spring Security 6.4.12 (Oct 20)
@@ -63,6 +64,8 @@
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
 - Micrometer 1.16.0 (Nov 6)
 - Reactor Netty 1.2.12 (Nov 7)
+- Reactor Kotlin Extensions 1.3.0 (Nov 11)
+- Reactor Addons 3.6.0 (Nov 11)
 
 ## YouTube:
 
