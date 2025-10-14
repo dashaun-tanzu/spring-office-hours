@@ -1,4 +1,4 @@
-# October 13
+# October 14
 
 ## News:
 
@@ -9,23 +9,18 @@
 
 ## Releases coming soon:
 
-- Micrometer 1.14.12 (Oct 13)
-- Micrometer 1.15.5 (Oct 13)
-- Micrometer 1.16.0-RC1 (Oct 13)
-- Spring Cloud Release 2025.1.0-M4 (Oct 13)
-- Context Propagation 1.2.0-RC1 (Oct 13)
-- Micrometer Tracing 1.4.11 (Oct 13)
-- Micrometer Tracing 1.5.5 (Oct 13)
-- Micrometer Tracing 1.6.0-RC1 (Oct 13)
 - Reactor 2024.0.11 (Oct 14)
 - Reactor 2025.0.0-RC1 (Oct 14)
 - Reactor Core 3.7.12 (Oct 14)
 - Reactor Core 3.8.0-RC1 (Oct 14)
 - Reactor Kotlin Extensions 1.3.0-RC5 (Oct 14)
+- Reactor Addons 3.6.0-RC6 (Oct 14)
+- Reactor Addons 3.5.4 (Oct 14)
 - Reactor Pool 1.1.5 (Oct 14)
 - Reactor Pool 1.2.0-RC1 (Oct 14)
 - Reactor Netty 1.2.11 (Oct 14)
 - Reactor Netty 1.3.0-RC1 (Oct 14)
+- Spring Plugin 4.0 RC1 (Oct 16)
 - Spring Hateoas 3.0.0-RC1 (Oct 16)
 - Spring Ldap 3.2.15 (Oct 16)
 - Spring Ldap 3.3.4 (Oct 16)
@@ -43,6 +38,8 @@
 - Spring Security 6.5.6 (Oct 20)
 - Spring Security 6.4.12 (Oct 20)
 - Spring Integration 7.0.0-RC1 (Oct 21)
+- Spring Integration 6.4.8 (Oct 21)
+- Spring Integration 6.5.3 (Oct 21)
 - Spring Session 3.4.6 (Oct 21)
 - Spring Session 3.5.3 (Oct 21)
 - Spring Session 4.0.0-RC1 (Oct 21)
@@ -62,10 +59,16 @@
 - Spring Boot 3.5.7 (Oct 23)
 - Spring Modulith 2.0 RC1 (Oct 24)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
+- Spring Batch 6.0.0-RC2 (Nov 5)
 - Micrometer 1.16.0 (Nov 6)
+- Micrometer 1.14.13 (Nov 6)
+- Micrometer 1.15.6 (Nov 6)
+- Context Propagation 1.2.0 (Nov 6)
+- Micrometer Tracing 1.4.12 (Nov 6)
+- Reactor Kotlin Extensions 1.3.0 (Nov 7)
+- Reactor Addons 3.6.0 (Nov 7)
 - Reactor Netty 1.2.12 (Nov 7)
-- Reactor Kotlin Extensions 1.3.0 (Nov 11)
-- Reactor Addons 3.6.0 (Nov 11)
+- Micrometer Tracing 1.5.6 (Nov 10)
 
 ## YouTube:
 
