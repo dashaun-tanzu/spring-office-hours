@@ -1,15 +1,20 @@
-# October 15
+# October 16
 
 ## News:
 
+- [Spring Cloud Gateway 4.3.2, 4.2.5, 4.1.12, and 3.1.12 are now available](https://spring.io/blog/2025/10/15/spring-cloud-gateway-4)
 - [Spring Batch 6.0.0-M4 released](https://spring.io/blog/2025/10/09/spring-batch-6-0-0-m4-released)
 - [Spring AI 1.1.0-M3 Available Now](https://spring.io/blog/2025/10/06/spring-ai-1-1-0-M3-available-now)
 - [Spring Cloud 2025.1.0-M3 (aka Oakwood) has been released](https://spring.io/blog/2025/10/03/spring-cloud-2025-1-0-M3-aka-oakwood-has-been-released)
-- [Spring AI 1.0.3 Available Now](https://spring.io/blog/2025/10/01/spring-ai-1-0-3-available-now)
+
+## Recent Enterprise Releases:
+
+- October 16
+  - Spring Framework 6.1.24 (Enterprise)
+  - Spring Framework 5.3.46 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Cloud Release 2025.1.0-M4 (Oct 15)
 - Spring Plugin 4.0 RC1 (Oct 16)
 - Spring Hateoas 3.0.0-RC1 (Oct 16)
 - Spring Ldap 3.2.15 (Oct 16)
@@ -50,6 +55,7 @@
 - Spring Boot 3.5.7 (Oct 23)
 - Spring Modulith 2.0 RC1 (Oct 24)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
+- Spring Framework 7.0.0-RC2 (Oct 30)
 - Spring Batch 6.0.0-RC2 (Nov 5)
 - Micrometer 1.14.13 (Nov 6)
 - Micrometer 1.15.6 (Nov 6)
@@ -68,6 +74,8 @@
 - Reactor Netty 1.2.12 (Nov 7)
 - Reactor Netty 1.3.0 (Nov 7)
 - Micrometer Tracing 1.5.6 (Nov 10)
+- Spring Framework 7.0.0 (Nov 13)
+- Spring Framework 6.2.13 (Nov 13)
 
 ## YouTube:
 
