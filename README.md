@@ -1,11 +1,11 @@
-# October 16
+# October 17
 
 ## News:
 
+- [Spring Framework 7.0.0-RC1 available now](https://spring.io/blog/2025/10/16/spring-framework-7-0-0-RC1-available-now)
+- [Spring Framework 6.2.12 fixes CVE-2025-41254](https://spring.io/blog/2025/10/16/spring-framework-6-2-12-release-fixes-cve-2025-41254)
 - [Spring Cloud Gateway 4.3.2, 4.2.5, 4.1.12, and 3.1.12 are now available](https://spring.io/blog/2025/10/15/spring-cloud-gateway-4)
 - [Spring Batch 6.0.0-M4 released](https://spring.io/blog/2025/10/09/spring-batch-6-0-0-m4-released)
-- [Spring AI 1.1.0-M3 Available Now](https://spring.io/blog/2025/10/06/spring-ai-1-1-0-M3-available-now)
-- [Spring Cloud 2025.1.0-M3 (aka Oakwood) has been released](https://spring.io/blog/2025/10/03/spring-cloud-2025-1-0-M3-aka-oakwood-has-been-released)
 
 ## Recent Enterprise Releases:
 
@@ -15,13 +15,6 @@
 
 ## Releases coming soon:
 
-- Spring Plugin 4.0 RC1 (Oct 16)
-- Spring Hateoas 3.0.0-RC1 (Oct 16)
-- Spring Ldap 3.2.15 (Oct 16)
-- Spring Ldap 3.3.4 (Oct 16)
-- Spring Ldap 4.0.0-RC1 (Oct 16)
-- Spring Framework 6.2.12 (Oct 16)
-- Spring Framework 7.0.0-RC1 (Oct 16)
 - Spring Data Release 2024.1.11 (Oct 17)
 - Spring Data Release 2025.0.5 (Oct 17)
 - Spring Data Release 2025.1.0-RC1 (Oct 17)
@@ -55,27 +48,6 @@
 - Spring Boot 3.5.7 (Oct 23)
 - Spring Modulith 2.0 RC1 (Oct 24)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
-- Spring Framework 7.0.0-RC2 (Oct 30)
-- Spring Batch 6.0.0-RC2 (Nov 5)
-- Micrometer 1.14.13 (Nov 6)
-- Micrometer 1.15.6 (Nov 6)
-- Micrometer 1.16.0 (Nov 6)
-- Context Propagation 1.2.0 (Nov 6)
-- Micrometer Tracing 1.4.12 (Nov 6)
-- Micrometer Tracing 1.6.0 (Nov 6)
-- Reactor 2024.0.12 (Nov 7)
-- Reactor 2025.0.0 (Nov 7)
-- Reactor Core 3.7.13 (Nov 7)
-- Reactor Core 3.8.0 (Nov 7)
-- Reactor Kotlin Extensions 1.3.0 (Nov 7)
-- Reactor Addons 3.6.0 (Nov 7)
-- Reactor Pool 1.1.6 (Nov 7)
-- Reactor Pool 1.2.0 (Nov 7)
-- Reactor Netty 1.2.12 (Nov 7)
-- Reactor Netty 1.3.0 (Nov 7)
-- Micrometer Tracing 1.5.6 (Nov 10)
-- Spring Framework 7.0.0 (Nov 13)
-- Spring Framework 6.2.13 (Nov 13)
 
 ## YouTube:
 
