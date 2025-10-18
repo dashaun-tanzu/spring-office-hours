@@ -1,11 +1,11 @@
-# October 17
+# October 18
 
 ## News:
 
+- [Spring Data 2025.1.0-RC1 released](https://spring.io/blog/2025/10/17/spring-data-2025-1-0-RC1-released)
+- [Spring Data 2025.0.5 and 2024.1.11 released](https://spring.io/blog/2025/10/17/spring-data-2025-0-5-and-2024-1-11-released)
 - [Spring Framework 7.0.0-RC1 available now](https://spring.io/blog/2025/10/16/spring-framework-7-0-0-RC1-available-now)
 - [Spring Framework 6.2.12 fixes CVE-2025-41254](https://spring.io/blog/2025/10/16/spring-framework-6-2-12-release-fixes-cve-2025-41254)
-- [Spring Cloud Gateway 4.3.2, 4.2.5, 4.1.12, and 3.1.12 are now available](https://spring.io/blog/2025/10/15/spring-cloud-gateway-4)
-- [Spring Batch 6.0.0-M4 released](https://spring.io/blog/2025/10/09/spring-batch-6-0-0-m4-released)
 
 ## Recent Enterprise Releases:
 
@@ -15,9 +15,6 @@
 
 ## Releases coming soon:
 
-- Spring Data Release 2024.1.11 (Oct 17)
-- Spring Data Release 2025.0.5 (Oct 17)
-- Spring Data Release 2025.1.0-RC1 (Oct 17)
 - Spring Vault 4.0.0-RC1 (Oct 20)
 - Spring Kafka 4.0.0-RC1 (Oct 20)
 - Spring Amqp 4.0.0-RC1 (Oct 20)
@@ -51,6 +48,8 @@
 
 ## YouTube:
 
+- [Build a Smart Chat Memory Advisor in Spring AI That Auto-Compacts Context](https://www.youtube.com/watch?v=hyK20bn38lM) - Dan Vega
+- [Spring Office Hours: S4E28 - Securing MCP Servers with Spring AI](https://www.youtube.com/watch?v=Eh2TMZzjFjk) - SpringSourceDev
 - [Thomas Wuerthinger, founder of GraalVM and VP at Oracle](https://www.youtube.com/watch?v=ubPcdY83dsw) - Coffee + Software
 - [Spring AI 1.1.0 is HERE! Google Gemini Integration Made EASY (No More Vertex!)](https://www.youtube.com/watch?v=PibEG9A6AeE) - Dan Vega
 - [Spring Shell - InitializrPlusPlus](https://www.youtube.com/watch?v=S30wBNm0KcQ) - Coffee + Software
@@ -59,8 +58,6 @@
 - [Spring Office Hours: S4E27 - Java 25 with Billy Korando](https://www.youtube.com/watch?v=kDSyNAfjDWY) - SpringSourceDev
 - [Stop Using Outdated AI! Add Web Search to Your Spring AI Applications (OpenAI Tutorial)](https://www.youtube.com/watch?v=DQt95vgtgFw) - Dan Vega
 - [Dr. Kris de Volder on a Bootiful Podcast](https://www.youtube.com/watch?v=_9_Y8u_TAvs) - Coffee + Software
-- [Spring Security contributor Josh Cummings](https://www.youtube.com/watch?v=GJ1o3nnQZz0) - Coffee + Software
-- [Spring AI 1 1 0 M1](https://www.youtube.com/watch?v=hmEVUtulHTI) - Coffee + Software
 
 ## Demos:
 
