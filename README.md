@@ -1,4 +1,4 @@
-# October 19
+# October 20
 
 ## News:
 
@@ -45,9 +45,11 @@
 - Spring Boot 3.5.7 (Oct 23)
 - Spring Modulith 2.0 RC1 (Oct 24)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
+- Spring Framework 7.0.0-RC2 (Oct 30)
 
 ## YouTube:
 
+- [Dariusz Jędrzejczyk on the latest and greatest in Reactor, MCP, and more](https://www.youtube.com/watch?v=k7TyW0bWwEA) - Coffee + Software
 - [Build a Smart Chat Memory Advisor in Spring AI That Auto-Compacts Context](https://www.youtube.com/watch?v=hyK20bn38lM) - Dan Vega
 - [Spring Office Hours: S4E28 - Securing MCP Servers with Spring AI](https://www.youtube.com/watch?v=Eh2TMZzjFjk) - SpringSourceDev
 - [Thomas Wuerthinger, founder of GraalVM and VP at Oracle](https://www.youtube.com/watch?v=ubPcdY83dsw) - Coffee + Software
@@ -57,7 +59,6 @@
 - [Spring Batch lead Mahmoud Ben Hassine](https://www.youtube.com/watch?v=JOiGP7y60eA) - Coffee + Software
 - [Spring Office Hours: S4E27 - Java 25 with Billy Korando](https://www.youtube.com/watch?v=kDSyNAfjDWY) - SpringSourceDev
 - [Stop Using Outdated AI! Add Web Search to Your Spring AI Applications (OpenAI Tutorial)](https://www.youtube.com/watch?v=DQt95vgtgFw) - Dan Vega
-- [Dr. Kris de Volder on a Bootiful Podcast](https://www.youtube.com/watch?v=_9_Y8u_TAvs) - Coffee + Software
 
 ## Demos:
 
