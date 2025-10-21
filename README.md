@@ -1,11 +1,11 @@
-# October 20
+# October 21
 
 ## News:
 
-- [Spring Data 2025.1.0-RC1 released](https://spring.io/blog/2025/10/17/spring-data-2025-1-0-RC1-released)
+- [Spring Security 2025-10 Releases](https://spring.io/blog/2025/10/30/spring-secuirty-releases)
+- [Spring REST Docs 4.0.0-RC1](https://spring.io/blog/2025/10/20/spring-restdocs-4-0-0-RC1)
+- [Spring Cloud Stream Applications 2025.0.1 is now available](https://spring.io/blog/2025/10/18/spring-cloud-stream-applications-2025_0_1-is-now-available)
 - [Spring Data 2025.0.5 and 2024.1.11 released](https://spring.io/blog/2025/10/17/spring-data-2025-0-5-and-2024-1-11-released)
-- [Spring Framework 7.0.0-RC1 available now](https://spring.io/blog/2025/10/16/spring-framework-7-0-0-RC1-available-now)
-- [Spring Framework 6.2.12 fixes CVE-2025-41254](https://spring.io/blog/2025/10/16/spring-framework-6-2-12-release-fixes-cve-2025-41254)
 
 ## Recent Enterprise Releases:
 
@@ -15,13 +15,6 @@
 
 ## Releases coming soon:
 
-- Spring Vault 4.0.0-RC1 (Oct 20)
-- Spring Kafka 4.0.0-RC1 (Oct 20)
-- Spring Amqp 4.0.0-RC1 (Oct 20)
-- Spring Amqp 3.2.8 (Oct 20)
-- Spring Security 7.0.0-RC1 (Oct 20)
-- Spring Security 6.5.6 (Oct 20)
-- Spring Security 6.4.12 (Oct 20)
 - Spring Integration 7.0.0-RC1 (Oct 21)
 - Spring Integration 6.4.8 (Oct 21)
 - Spring Integration 6.5.3 (Oct 21)
@@ -43,15 +36,17 @@
 - Spring Boot 4.0.0-RC1 (Oct 23)
 - Spring Boot 3.4.11 (Oct 23)
 - Spring Boot 3.5.7 (Oct 23)
+- Spring Framework 7.0.0-RC2 (Oct 23)
 - Spring Modulith 2.0 RC1 (Oct 24)
+- Spring Shell 4.0.0-M1 (Oct 24)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 27)
-- Spring Framework 7.0.0-RC2 (Oct 30)
+- Spring Ai 1.1.0.M4 (Oct 28)
 
 ## YouTube:
 
+- [Spring Office Hours: S4E28 - Securing MCP Servers with Spring AI](https://www.youtube.com/watch?v=JmFdDoAJnvM) - SpringSourceDev
 - [Dariusz Jędrzejczyk on the latest and greatest in Reactor, MCP, and more](https://www.youtube.com/watch?v=k7TyW0bWwEA) - Coffee + Software
 - [Build a Smart Chat Memory Advisor in Spring AI That Auto-Compacts Context](https://www.youtube.com/watch?v=hyK20bn38lM) - Dan Vega
-- [Spring Office Hours: S4E28 - Securing MCP Servers with Spring AI](https://www.youtube.com/watch?v=Eh2TMZzjFjk) - SpringSourceDev
 - [Thomas Wuerthinger, founder of GraalVM and VP at Oracle](https://www.youtube.com/watch?v=ubPcdY83dsw) - Coffee + Software
 - [Spring AI 1.1.0 is HERE! Google Gemini Integration Made EASY (No More Vertex!)](https://www.youtube.com/watch?v=PibEG9A6AeE) - Dan Vega
 - [Spring Shell - InitializrPlusPlus](https://www.youtube.com/watch?v=S30wBNm0KcQ) - Coffee + Software
