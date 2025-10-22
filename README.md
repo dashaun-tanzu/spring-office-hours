@@ -1,11 +1,11 @@
-# October 21
+# October 22
 
 ## News:
 
-- [Spring Security 2025-10 Releases](https://spring.io/blog/2025/10/30/spring-secuirty-releases)
-- [Spring REST Docs 4.0.0-RC1](https://spring.io/blog/2025/10/20/spring-restdocs-4-0-0-RC1)
-- [Spring Cloud Stream Applications 2025.0.1 is now available](https://spring.io/blog/2025/10/18/spring-cloud-stream-applications-2025_0_1-is-now-available)
-- [Spring Data 2025.0.5 and 2024.1.11 released](https://spring.io/blog/2025/10/17/spring-data-2025-0-5-and-2024-1-11-released)
+- [Spring Authorization Server 1.5.3 and 1.4.6 available now](https://spring.io/blog/2025/10/21/spring-authorization-server-1-5-3-and-1-4-6-available-now)
+- [Spring for GraphQL 1.4.3 released](https://spring.io/blog/2025/10/21/spring-for-graphql-1-4-3-released)
+- [Spring for GraphQL 2.0.0-RC1 released](https://spring.io/blog/2025/10/21/spring-for-graphql-2-0-0-rc1-released)
+- [Spring for Apache Kafka 4.0.0-RC1 is Available Now](https://spring.io/blog/2025/10/21/spring-kafka-4)
 
 ## Recent Enterprise Releases:
 
@@ -15,21 +15,6 @@
 
 ## Releases coming soon:
 
-- Spring Integration 7.0.0-RC1 (Oct 21)
-- Spring Integration 6.4.8 (Oct 21)
-- Spring Integration 6.5.3 (Oct 21)
-- Spring Session 3.4.6 (Oct 21)
-- Spring Session 3.5.3 (Oct 21)
-- Spring Session 4.0.0-RC1 (Oct 21)
-- Spring Graphql 2.0.0-RC1 (Oct 21)
-- Spring Graphql 1.4.3 (Oct 21)
-- Spring Authorization Server 1.4.6 (Oct 21)
-- Spring Authorization Server 1.5.3 (Oct 21)
-- Spring Ws 4.0.16 (Oct 21)
-- Spring Ws 4.1.2 (Oct 21)
-- Spring Ws 5.0.0-RC1 (Oct 21)
-- Spring Pulsar 2.0.0-RC1 (Oct 21)
-- Spring Pulsar 1.2.11 (Oct 21)
 - Spring Batch 6.0.0-RC1 (Oct 22)
 - Spring Batch 5.2.4 (Oct 22)
 - Spring Restdocs 4.0.0-RC1 (Oct 22)
