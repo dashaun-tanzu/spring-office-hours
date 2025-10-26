@@ -1,4 +1,4 @@
-# October 25
+# October 26
 
 ## News:
 
@@ -14,6 +14,7 @@
 - Spring Cloud Release 2025.1.0-RC1 (Oct 30)
 - Spring Shell 4.0.0-M2 (Oct 31)
 - Spring Ai 1.1.0.RC1 (Nov 4)
+- Spring Batch 6.0.0-RC2 (Nov 5)
 
 ## YouTube:
 
