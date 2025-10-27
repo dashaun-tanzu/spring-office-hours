@@ -1,11 +1,11 @@
-# October 26
+# October 27
 
 ## News:
 
 - [Spring Shell 4.0.0-M1 is available!](https://spring.io/blog/2025/10/24/spring-shell-4-0-0-m1-released)
-- [Spring Boot 3.4.11 available now](https://spring.io/blog/2025/10/23/spring-boot-3-4-11-available-now)
 - [Spring Boot 3.5.7 available now](https://spring.io/blog/2025/10/23/spring-boot-3-5-7-available-now)
 - [Spring Boot 4.0.0-RC1 available now](https://spring.io/blog/2025/10/23/spring-boot-4-0-0-RC1-available-now)
+- [Spring Boot 3.4.11 available now](https://spring.io/blog/2025/10/23/spring-boot-3-4-11-available-now)
 
 ## Releases coming soon:
 
@@ -15,6 +15,12 @@
 - Spring Shell 4.0.0-M2 (Oct 31)
 - Spring Ai 1.1.0.RC1 (Nov 4)
 - Spring Batch 6.0.0-RC2 (Nov 5)
+- Micrometer 1.14.13 (Nov 6)
+- Micrometer 1.15.6 (Nov 6)
+- Micrometer 1.16.0 (Nov 6)
+- Context Propagation 1.2.0 (Nov 6)
+- Micrometer Tracing 1.4.12 (Nov 6)
+- Micrometer Tracing 1.6.0 (Nov 6)
 
 ## YouTube:
 
