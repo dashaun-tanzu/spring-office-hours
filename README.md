@@ -1,18 +1,19 @@
-# October 27
+# October 28
 
 ## News:
 
+- [Spring Modulith 2.0 RC1, 1.4.4, and 1.3.10 released](https://spring.io/blog/2025/10/27/spring-modulith-2-0-rc1-1-4-4-and-1-3-10-released)
 - [Spring Shell 4.0.0-M1 is available!](https://spring.io/blog/2025/10/24/spring-shell-4-0-0-m1-released)
-- [Spring Boot 3.5.7 available now](https://spring.io/blog/2025/10/23/spring-boot-3-5-7-available-now)
-- [Spring Boot 4.0.0-RC1 available now](https://spring.io/blog/2025/10/23/spring-boot-4-0-0-RC1-available-now)
 - [Spring Boot 3.4.11 available now](https://spring.io/blog/2025/10/23/spring-boot-3-4-11-available-now)
+- [Spring Boot 3.5.7 available now](https://spring.io/blog/2025/10/23/spring-boot-3-5-7-available-now)
 
 ## Releases coming soon:
 
-- Spring Tools 4.32.1.RELEASE (Oct 27)
 - Spring Ai 1.1.0.M4 (Oct 28)
 - Spring Cloud Release 2025.1.0-RC1 (Oct 30)
 - Spring Shell 4.0.0-M2 (Oct 31)
+- Spring Data Release 2025.1.0-RC2 (Oct 31)
+- Spring Security 7.0.0-RC2 (Nov 3)
 - Spring Ai 1.1.0.RC1 (Nov 4)
 - Spring Batch 6.0.0-RC2 (Nov 5)
 - Micrometer 1.14.13 (Nov 6)
@@ -21,9 +22,23 @@
 - Context Propagation 1.2.0 (Nov 6)
 - Micrometer Tracing 1.4.12 (Nov 6)
 - Micrometer Tracing 1.6.0 (Nov 6)
+- Spring Boot 4.0.0-RC2 (Nov 6)
+- Reactor 2024.0.12 (Nov 7)
+- Reactor 2025.0.0 (Nov 7)
+- Reactor Core 3.7.13 (Nov 7)
+- Reactor Core 3.8.0 (Nov 7)
+- Spring Shell 4.0.0-RC1 (Nov 7)
+- Reactor Kotlin Extensions 1.3.0 (Nov 7)
+- Reactor Addons 3.6.0 (Nov 7)
+- Reactor Pool 1.1.6 (Nov 7)
+- Reactor Pool 1.2.0 (Nov 7)
+- Reactor Netty 1.2.12 (Nov 7)
+- Reactor Netty 1.3.0 (Nov 7)
 
 ## YouTube:
 
+- [Bruce Eckel on a Bootiful Podcast](https://www.youtube.com/watch?v=h1MGDpJVj4s) - Coffee + Software
+- [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
 - [How to Secure your MCP Servers with Spring Security 🔐 & Spring AI 🤖](https://www.youtube.com/watch?v=Xiw4bMD3SOg) - Dan Vega
 - [Why Plan Mode is Claude Code's Most Underrated Feature](https://www.youtube.com/watch?v=QlWyrYuEC84) - Dan Vega
 - [Spring Office Hours: S4E28 - Securing MCP Servers with Spring AI](https://www.youtube.com/watch?v=AnBNm1vzCDE) - SpringSourceDev
@@ -32,8 +47,6 @@
 - [the Vaadin team, live from Vaadin Create 2025!](https://www.youtube.com/watch?v=G1-8Bw9sHqo) - Coffee + Software
 - [Build AI's Future: Model Context Protocol (MCP) with Spring AI in Minutes](https://www.youtube.com/watch?v=MarSC2dFA9g) - Dan Vega
 - [Dariusz Jędrzejczyk on the latest and greatest in Reactor, MCP, and more](https://www.youtube.com/watch?v=k7TyW0bWwEA) - Coffee + Software
-- [Build a Smart Chat Memory Advisor in Spring AI That Auto-Compacts Context](https://www.youtube.com/watch?v=hyK20bn38lM) - Dan Vega
-- [Thomas Wuerthinger, founder of GraalVM and VP at Oracle](https://www.youtube.com/watch?v=ubPcdY83dsw) - Coffee + Software
 
 ## Demos:
 
