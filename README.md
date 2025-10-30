@@ -1,4 +1,4 @@
-# October 29
+# October 30
 
 ## News:
 
@@ -38,8 +38,8 @@
 
 ## YouTube:
 
-- [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
 - [Bruce Eckel on a Bootiful Podcast](https://www.youtube.com/watch?v=h1MGDpJVj4s) - Coffee + Software
+- [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
 - [How to Secure your MCP Servers with Spring Security 🔐 & Spring AI 🤖](https://www.youtube.com/watch?v=Xiw4bMD3SOg) - Dan Vega
 - [Why Plan Mode is Claude Code's Most Underrated Feature](https://www.youtube.com/watch?v=QlWyrYuEC84) - Dan Vega
 - [Spring Office Hours: S4E28 - Securing MCP Servers with Spring AI](https://www.youtube.com/watch?v=AnBNm1vzCDE) - SpringSourceDev
