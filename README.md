@@ -1,4 +1,4 @@
-# October 30
+# October 31
 
 ## News:
 
@@ -9,12 +9,11 @@
 
 ## Releases coming soon:
 
-- Spring Cloud Release 2025.1.0-RC1 (Oct 30)
 - Spring Shell 4.0.0-M2 (Oct 31)
 - Spring Data Release 2025.1.0-RC2 (Oct 31)
 - Spring Hateoas 3.0.0-RC2 (Oct 31)
 - Spring Framework 7.0.0-RC3 (Oct 31)
-- Spring Security 7.0.0-RC2 (Nov 3)
+- Spring Grpc 1.0.0-RC1 (Nov 3)
 - Spring Ai 1.1.0.RC1 (Nov 4)
 - Spring Batch 6.0.0-RC2 (Nov 5)
 - Micrometer 1.14.13 (Nov 6)
@@ -35,6 +34,8 @@
 - Reactor Pool 1.2.0 (Nov 7)
 - Reactor Netty 1.2.12 (Nov 7)
 - Reactor Netty 1.3.0 (Nov 7)
+- Spring Cloud Release 2025.1.0-RC1 (Nov 10)
+- Micrometer Tracing 1.5.6 (Nov 10)
 
 ## YouTube:
 
