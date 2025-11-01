@@ -1,19 +1,18 @@
-# October 31
+# November 1
 
 ## News:
 
+- [Spring Data 2025.1.0-RC2 released](https://spring.io/blog/2025/10/31/spring-data-2025-1-0-RC2-released)
+- [Spring Framework 7.0.0-RC3 available now](https://spring.io/blog/2025/10/31/spring-framework-7)
 - [Spring Tools 4.32.1 released](https://spring.io/blog/2025/10/28/spring-tools-4-32-1-released)
 - [Spring Modulith 2.0 RC1, 1.4.4, and 1.3.10 released](https://spring.io/blog/2025/10/27/spring-modulith-2-0-rc1-1-4-4-and-1-3-10-released)
-- [Spring Shell 4.0.0-M1 is available!](https://spring.io/blog/2025/10/24/spring-shell-4-0-0-m1-released)
-- [Spring Boot 3.4.11 available now](https://spring.io/blog/2025/10/23/spring-boot-3-4-11-available-now)
 
 ## Releases coming soon:
 
-- Spring Shell 4.0.0-M2 (Oct 31)
-- Spring Data Release 2025.1.0-RC2 (Oct 31)
-- Spring Hateoas 3.0.0-RC2 (Oct 31)
-- Spring Framework 7.0.0-RC3 (Oct 31)
 - Spring Grpc 1.0.0-RC1 (Nov 3)
+- Spring Security 7.0.0-RC2 (Nov 3)
+- Spring Integration 7.0.0-RC2 (Nov 4)
+- Spring Graphql 2.0.0-RC2 (Nov 4)
 - Spring Ai 1.1.0.RC1 (Nov 4)
 - Spring Batch 6.0.0-RC2 (Nov 5)
 - Micrometer 1.14.13 (Nov 6)
@@ -27,7 +26,7 @@
 - Reactor 2025.0.0 (Nov 7)
 - Reactor Core 3.7.13 (Nov 7)
 - Reactor Core 3.8.0 (Nov 7)
-- Spring Shell 4.0.0-RC1 (Nov 7)
+- Spring Shell 4.0.0-M2 (Nov 7)
 - Reactor Kotlin Extensions 1.3.0 (Nov 7)
 - Reactor Addons 3.6.0 (Nov 7)
 - Reactor Pool 1.1.6 (Nov 7)
@@ -39,6 +38,8 @@
 
 ## YouTube:
 
+- [Sébastien Deleuze on the latest and greatest in Spring Framework 7](https://www.youtube.com/watch?v=mqPdHtOBXWM) - Coffee + Software
+- [Spring Framework 7: Dynamic Bean Registration Made Easy (NEW BeanRegistrar Interface)](https://www.youtube.com/watch?v=yh760wTFL_4) - Dan Vega
 - [Bruce Eckel on a Bootiful Podcast](https://www.youtube.com/watch?v=h1MGDpJVj4s) - Coffee + Software
 - [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
 - [How to Secure your MCP Servers with Spring Security 🔐 & Spring AI 🤖](https://www.youtube.com/watch?v=Xiw4bMD3SOg) - Dan Vega
@@ -47,8 +48,6 @@
 - [Claude Code Web & iOS: Fix Bugs and Deploy Code from Anywhere](https://www.youtube.com/watch?v=piu3UK20lI8) - Dan Vega
 - [Google's FREE Vibe Coding Studio Feature inside of AI Studio](https://www.youtube.com/watch?v=11L34s72s6U) - Dan Vega
 - [the Vaadin team, live from Vaadin Create 2025!](https://www.youtube.com/watch?v=G1-8Bw9sHqo) - Coffee + Software
-- [Build AI's Future: Model Context Protocol (MCP) with Spring AI in Minutes](https://www.youtube.com/watch?v=MarSC2dFA9g) - Dan Vega
-- [Dariusz Jędrzejczyk on the latest and greatest in Reactor, MCP, and more](https://www.youtube.com/watch?v=k7TyW0bWwEA) - Coffee + Software
 
 ## Demos:
 
