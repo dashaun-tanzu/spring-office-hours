@@ -1,4 +1,4 @@
-# November 1
+# November 2
 
 ## News:
 
@@ -35,6 +35,7 @@
 - Reactor Netty 1.3.0 (Nov 7)
 - Spring Cloud Release 2025.1.0-RC1 (Nov 10)
 - Micrometer Tracing 1.5.6 (Nov 10)
+- Spring Ai 1.1.0 (Nov 12)
 
 ## YouTube:
 
