@@ -1,4 +1,4 @@
-# November 2
+# November 3
 
 ## News:
 
@@ -36,6 +36,10 @@
 - Spring Cloud Release 2025.1.0-RC1 (Nov 10)
 - Micrometer Tracing 1.5.6 (Nov 10)
 - Spring Ai 1.1.0 (Nov 12)
+- Spring Plugin 4.0 (Nov 13)
+- Spring Hateoas 3.0.0 (Nov 13)
+- Spring Framework 6.2.13 (Nov 13)
+- Spring Framework 7.0.0 (Nov 13)
 
 ## YouTube:
 
