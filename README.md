@@ -1,4 +1,4 @@
-# November 5
+# November 6
 
 ## News:
 
@@ -7,9 +7,16 @@
 - [Spring Data 2025.1.0-RC2 released](https://spring.io/blog/2025/10/31/spring-data-2025-1-0-RC2-released)
 - [Spring Framework 7.0.0-RC3 available now](https://spring.io/blog/2025/10/31/spring-framework-7)
 
+## Recent Enterprise Releases:
+
+- November 6
+  - Micrometer 1.12.17 (Enterprise)
+  - Micrometer 1.13.17 (Enterprise)
+  - Micrometer Tracing 1.2.17 (Enterprise)
+  - Micrometer Tracing 1.3.15 (Enterprise)
+
 ## Releases coming soon:
 
-- Spring Batch 6.0.0-RC2 (Nov 5)
 - Micrometer 1.14.13 (Nov 6)
 - Micrometer 1.15.6 (Nov 6)
 - Micrometer 1.16.0 (Nov 6)
@@ -18,16 +25,19 @@
 - Micrometer Tracing 1.5.6 (Nov 6)
 - Micrometer Tracing 1.6.0 (Nov 6)
 - Spring Boot 4.0.0-RC2 (Nov 6)
+- Spring Security 7.0.0-RC3 (Nov 6)
 - Reactor 2024.0.12 (Nov 7)
 - Reactor 2025.0.0 (Nov 7)
 - Reactor Core 3.7.13 (Nov 7)
 - Reactor Core 3.8.0 (Nov 7)
 - Spring Shell 4.0.0-M2 (Nov 7)
 - Reactor Kotlin Extensions 1.3.0 (Nov 7)
+- Reactor Kotlin Extensions 1.2.5 (Nov 7)
 - Reactor Addons 3.6.0 (Nov 7)
 - Reactor Pool 1.1.6 (Nov 7)
 - Reactor Pool 1.2.0 (Nov 7)
 - Spring Ai 1.1.0.RC1 (Nov 7)
+- Reactor Kafka 1.3.24 (Nov 7)
 - Reactor Netty 1.2.12 (Nov 7)
 - Reactor Netty 1.3.0 (Nov 7)
 - Spring Cloud Release 2025.1.0-RC1 (Nov 10)
@@ -45,6 +55,7 @@
 
 ## YouTube:
 
+- [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8) - Dan Vega
 - [Testing your REST APIs in Spring Boot 4 with the new RestTestClient](https://www.youtube.com/watch?v=dPM8n0uNhes) - Dan Vega
 - [API Versioning Made Simple with Spring Boot 4.0](https://www.youtube.com/watch?v=qjo2tYf01xo) - Dan Vega
 - [Spring Office Hours: S4E29 - Spring Boot 4 is (almost) here!](https://www.youtube.com/watch?v=imaP2ctZg5Q) - SpringSourceDev
@@ -54,7 +65,6 @@
 - [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
 - [How to Secure your MCP Servers with Spring Security 🔐 & Spring AI 🤖](https://www.youtube.com/watch?v=Xiw4bMD3SOg) - Dan Vega
 - [Why Plan Mode is Claude Code's Most Underrated Feature](https://www.youtube.com/watch?v=QlWyrYuEC84) - Dan Vega
-- [Spring Office Hours: S4E28 - Securing MCP Servers with Spring AI](https://www.youtube.com/watch?v=AnBNm1vzCDE) - SpringSourceDev
 
 ## Demos:
 
