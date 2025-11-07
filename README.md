@@ -1,11 +1,11 @@
-# November 6
+# November 7
 
 ## News:
 
+- [Spring Batch 6.0.0-RC2 available now!](https://spring.io/blog/2025/11/06/spring-batch-6-0-0-rc2-released)
+- [Spring Boot 4.0.0-RC2 available now](https://spring.io/blog/2025/11/06/spring-boot-4-0-0-RC2-available-now)
 - [Spring for GraphQL 2.0.0-RC2 released](https://spring.io/blog/2025/11/04/spring-for-graphql-2-0-0-rc2-released)
 - [Spring AI 1.1.0-M4 Available Now](https://spring.io/blog/2025/11/03/spring-ai-1-1-0-M4-available-now)
-- [Spring Data 2025.1.0-RC2 released](https://spring.io/blog/2025/10/31/spring-data-2025-1-0-RC2-released)
-- [Spring Framework 7.0.0-RC3 available now](https://spring.io/blog/2025/10/31/spring-framework-7)
 
 ## Recent Enterprise Releases:
 
@@ -14,18 +14,21 @@
   - Micrometer 1.13.17 (Enterprise)
   - Micrometer Tracing 1.2.17 (Enterprise)
   - Micrometer Tracing 1.3.15 (Enterprise)
+- November 7
+  - Reactor 2020.0.49 (Enterprise)
+  - Reactor 2023.0.22 (Enterprise)
+  - Reactor Core 3.6.20 (Enterprise)
+  - Reactor Core 3.4.42 (Enterprise)
+  - Reactor Kotlin Extensions 1.1.12 (Enterprise)
+  - Reactor Addons 3.4.12 (Enterprise)
+  - Reactor Rabbitmq 1.5.7 (Enterprise)
+  - Reactor Pool 1.0.13 (Enterprise)
+  - Reactor Pool 0.2.14 (Enterprise)
+  - Reactor Netty 1.0.50 (Enterprise)
+  - Reactor Netty 1.1.34 (Enterprise)
 
 ## Releases coming soon:
 
-- Micrometer 1.14.13 (Nov 6)
-- Micrometer 1.15.6 (Nov 6)
-- Micrometer 1.16.0 (Nov 6)
-- Context Propagation 1.2.0 (Nov 6)
-- Micrometer Tracing 1.4.12 (Nov 6)
-- Micrometer Tracing 1.5.6 (Nov 6)
-- Micrometer Tracing 1.6.0 (Nov 6)
-- Spring Boot 4.0.0-RC2 (Nov 6)
-- Spring Security 7.0.0-RC3 (Nov 6)
 - Reactor 2024.0.12 (Nov 7)
 - Reactor 2025.0.0 (Nov 7)
 - Reactor Core 3.7.13 (Nov 7)
@@ -37,9 +40,9 @@
 - Reactor Pool 1.1.6 (Nov 7)
 - Reactor Pool 1.2.0 (Nov 7)
 - Spring Ai 1.1.0.RC1 (Nov 7)
-- Reactor Kafka 1.3.24 (Nov 7)
 - Reactor Netty 1.2.12 (Nov 7)
 - Reactor Netty 1.3.0 (Nov 7)
+- Spring Grpc 1.0.0-RC1 (Nov 10)
 - Spring Cloud Release 2025.1.0-RC1 (Nov 10)
 - Spring Ai 1.1.0 (Nov 12)
 - Spring Plugin 4.0 (Nov 13)
@@ -52,9 +55,17 @@
 - Spring Data Release 2024.1.12 (Nov 14)
 - Spring Data Release 2025.0.6 (Nov 14)
 - Spring Data Release 2025.1.0 (Nov 14)
+- Spring Vault 4.0.0 (Nov 17)
+- Spring Kafka 4.0.0 (Nov 17)
+- Spring Kafka 3.3.11 (Nov 17)
+- Spring Amqp 4.0.0 (Nov 17)
+- Spring Security 7.0.0 (Nov 17)
+- Spring Security 6.5.7 (Nov 17)
+- Spring Security 6.4.13 (Nov 17)
 
 ## YouTube:
 
+- [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M) - Dan Vega
 - [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8) - Dan Vega
 - [Testing your REST APIs in Spring Boot 4 with the new RestTestClient](https://www.youtube.com/watch?v=dPM8n0uNhes) - Dan Vega
 - [API Versioning Made Simple with Spring Boot 4.0](https://www.youtube.com/watch?v=qjo2tYf01xo) - Dan Vega
@@ -64,7 +75,6 @@
 - [Bruce Eckel on a Bootiful Podcast](https://www.youtube.com/watch?v=h1MGDpJVj4s) - Coffee + Software
 - [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
 - [How to Secure your MCP Servers with Spring Security 🔐 & Spring AI 🤖](https://www.youtube.com/watch?v=Xiw4bMD3SOg) - Dan Vega
-- [Why Plan Mode is Claude Code's Most Underrated Feature](https://www.youtube.com/watch?v=QlWyrYuEC84) - Dan Vega
 
 ## Demos:
 
