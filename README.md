@@ -1,4 +1,4 @@
-# November 7
+# November 8
 
 ## News:
 
@@ -29,19 +29,6 @@
 
 ## Releases coming soon:
 
-- Reactor 2024.0.12 (Nov 7)
-- Reactor 2025.0.0 (Nov 7)
-- Reactor Core 3.7.13 (Nov 7)
-- Reactor Core 3.8.0 (Nov 7)
-- Spring Shell 4.0.0-M2 (Nov 7)
-- Reactor Kotlin Extensions 1.3.0 (Nov 7)
-- Reactor Kotlin Extensions 1.2.5 (Nov 7)
-- Reactor Addons 3.6.0 (Nov 7)
-- Reactor Pool 1.1.6 (Nov 7)
-- Reactor Pool 1.2.0 (Nov 7)
-- Spring Ai 1.1.0.RC1 (Nov 7)
-- Reactor Netty 1.2.12 (Nov 7)
-- Reactor Netty 1.3.0 (Nov 7)
 - Spring Grpc 1.0.0-RC1 (Nov 10)
 - Spring Cloud Release 2025.1.0-RC1 (Nov 10)
 - Spring Ai 1.1.0 (Nov 12)
@@ -51,7 +38,7 @@
 - Spring Framework 6.2.13 (Nov 13)
 - Spring Framework 7.0.0 (Nov 13)
 - Spring Modulith 2.0 RC2 (Nov 14)
-- Spring Shell 4.0.0-RC1 (Nov 14)
+- Spring Shell 4.0.0-M2 (Nov 14)
 - Spring Data Release 2024.1.12 (Nov 14)
 - Spring Data Release 2025.0.6 (Nov 14)
 - Spring Data Release 2025.1.0 (Nov 14)
@@ -62,9 +49,18 @@
 - Spring Security 7.0.0 (Nov 17)
 - Spring Security 6.5.7 (Nov 17)
 - Spring Security 6.4.13 (Nov 17)
+- Spring Integration 7.0.0 (Nov 18)
+- Spring Integration 6.4.9 (Nov 18)
+- Spring Integration 6.5.4 (Nov 18)
+- Spring Session 4.0.0 (Nov 18)
+- Spring Graphql 2.0.0 (Nov 18)
+- Spring Ws 5.0.0 (Nov 18)
+- Spring Pulsar 2.0.0 (Nov 18)
+- Spring Pulsar 1.2.12 (Nov 18)
 
 ## YouTube:
 
+- [Build AI-Powered Apps with MCP Clients in Spring AI](https://www.youtube.com/watch?v=TSFkdlreRMQ) - Dan Vega
 - [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M) - Dan Vega
 - [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8) - Dan Vega
 - [Testing your REST APIs in Spring Boot 4 with the new RestTestClient](https://www.youtube.com/watch?v=dPM8n0uNhes) - Dan Vega
@@ -74,7 +70,6 @@
 - [Spring Framework 7: Dynamic Bean Registration Made Easy (NEW BeanRegistrar Interface)](https://www.youtube.com/watch?v=yh760wTFL_4) - Dan Vega
 - [Bruce Eckel on a Bootiful Podcast](https://www.youtube.com/watch?v=h1MGDpJVj4s) - Coffee + Software
 - [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
-- [How to Secure your MCP Servers with Spring Security 🔐 & Spring AI 🤖](https://www.youtube.com/watch?v=Xiw4bMD3SOg) - Dan Vega
 
 ## Demos:
 
