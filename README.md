@@ -1,11 +1,11 @@
-# November 8
+# November 9
 
 ## News:
 
+- [Spring AI 1.1.0-RC1 Available Now](https://spring.io/blog/2025/11/08/spring-ai-1-1-0-RC1-available-now)
 - [Spring Batch 6.0.0-RC2 available now!](https://spring.io/blog/2025/11/06/spring-batch-6-0-0-rc2-released)
 - [Spring Boot 4.0.0-RC2 available now](https://spring.io/blog/2025/11/06/spring-boot-4-0-0-RC2-available-now)
 - [Spring for GraphQL 2.0.0-RC2 released](https://spring.io/blog/2025/11/04/spring-for-graphql-2-0-0-rc2-released)
-- [Spring AI 1.1.0-M4 Available Now](https://spring.io/blog/2025/11/03/spring-ai-1-1-0-M4-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -57,6 +57,8 @@
 - Spring Ws 5.0.0 (Nov 18)
 - Spring Pulsar 2.0.0 (Nov 18)
 - Spring Pulsar 1.2.12 (Nov 18)
+- Spring Batch 6.0.0 (Nov 19)
+- Spring Restdocs 4.0.0 (Nov 19)
 
 ## YouTube:
 
