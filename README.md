@@ -1,4 +1,4 @@
-# November 9
+# November 10
 
 ## News:
 
@@ -59,6 +59,9 @@
 - Spring Pulsar 1.2.12 (Nov 18)
 - Spring Batch 6.0.0 (Nov 19)
 - Spring Restdocs 4.0.0 (Nov 19)
+- Spring Boot 3.4.12 (Nov 20)
+- Spring Boot 3.5.8 (Nov 20)
+- Spring Boot 4.0.0 (Nov 20)
 
 ## YouTube:
 
