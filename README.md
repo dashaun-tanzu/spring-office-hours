@@ -1,11 +1,11 @@
-# November 10
+# November 11
 
 ## News:
 
+- [Spring Tools 4.32.2 released](https://spring.io/blog/2025/11/10/spring-tools-4-32-2-released)
 - [Spring AI 1.1.0-RC1 Available Now](https://spring.io/blog/2025/11/08/spring-ai-1-1-0-RC1-available-now)
-- [Spring Batch 6.0.0-RC2 available now!](https://spring.io/blog/2025/11/06/spring-batch-6-0-0-rc2-released)
 - [Spring Boot 4.0.0-RC2 available now](https://spring.io/blog/2025/11/06/spring-boot-4-0-0-RC2-available-now)
-- [Spring for GraphQL 2.0.0-RC2 released](https://spring.io/blog/2025/11/04/spring-for-graphql-2-0-0-rc2-released)
+- [Spring Batch 6.0.0-RC2 available now!](https://spring.io/blog/2025/11/06/spring-batch-6-0-0-rc2-released)
 
 ## Recent Enterprise Releases:
 
@@ -29,8 +29,7 @@
 
 ## Releases coming soon:
 
-- Spring Grpc 1.0.0-RC1 (Nov 10)
-- Spring Cloud Release 2025.1.0-RC1 (Nov 10)
+- Spring Cloud Release 2025.1.0-RC1 (Nov 11)
 - Spring Ai 1.1.0 (Nov 12)
 - Spring Plugin 4.0 (Nov 13)
 - Spring Hateoas 3.0.0 (Nov 13)
@@ -43,6 +42,7 @@
 - Spring Data Release 2025.0.6 (Nov 14)
 - Spring Data Release 2025.1.0 (Nov 14)
 - Spring Vault 4.0.0 (Nov 17)
+- Spring Tools 5.0.0.RC1 (Nov 17)
 - Spring Kafka 4.0.0 (Nov 17)
 - Spring Kafka 3.3.11 (Nov 17)
 - Spring Amqp 4.0.0 (Nov 17)
@@ -62,9 +62,12 @@
 - Spring Boot 3.4.12 (Nov 20)
 - Spring Boot 3.5.8 (Nov 20)
 - Spring Boot 4.0.0 (Nov 20)
+- Spring Modulith 2.0 GA (Nov 21)
+- Spring Shell 4.0.0-RC1 (Nov 21)
 
 ## YouTube:
 
+- [Jackson 3 Support is HERE: What's New in Spring Framework 7 & Spring Boot 4](https://www.youtube.com/watch?v=4cvP_qroLH4) - Dan Vega
 - [Build AI-Powered Apps with MCP Clients in Spring AI](https://www.youtube.com/watch?v=TSFkdlreRMQ) - Dan Vega
 - [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M) - Dan Vega
 - [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8) - Dan Vega
@@ -74,7 +77,6 @@
 - [Sébastien Deleuze on the latest and greatest in Spring Framework 7](https://www.youtube.com/watch?v=mqPdHtOBXWM) - Coffee + Software
 - [Spring Framework 7: Dynamic Bean Registration Made Easy (NEW BeanRegistrar Interface)](https://www.youtube.com/watch?v=yh760wTFL_4) - Dan Vega
 - [Bruce Eckel on a Bootiful Podcast](https://www.youtube.com/watch?v=h1MGDpJVj4s) - Coffee + Software
-- [Elastic's Philipp Krenn on the latest-and-greatest](https://www.youtube.com/watch?v=hoocDuAtwfo) - Coffee + Software
 
 ## Demos:
 
