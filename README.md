@@ -1,11 +1,11 @@
-# November 11
+# November 12
 
 ## News:
 
 - [Spring Tools 4.32.2 released](https://spring.io/blog/2025/11/10/spring-tools-4-32-2-released)
 - [Spring AI 1.1.0-RC1 Available Now](https://spring.io/blog/2025/11/08/spring-ai-1-1-0-RC1-available-now)
-- [Spring Boot 4.0.0-RC2 available now](https://spring.io/blog/2025/11/06/spring-boot-4-0-0-RC2-available-now)
 - [Spring Batch 6.0.0-RC2 available now!](https://spring.io/blog/2025/11/06/spring-batch-6-0-0-rc2-released)
+- [Spring Boot 4.0.0-RC2 available now](https://spring.io/blog/2025/11/06/spring-boot-4-0-0-RC2-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -29,7 +29,6 @@
 
 ## Releases coming soon:
 
-- Spring Cloud Release 2025.1.0-RC1 (Nov 11)
 - Spring Ai 1.1.0 (Nov 12)
 - Spring Plugin 4.0 (Nov 13)
 - Spring Hateoas 3.0.0 (Nov 13)
