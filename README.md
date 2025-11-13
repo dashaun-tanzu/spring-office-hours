@@ -1,11 +1,11 @@
-# November 12
+# November 13
 
 ## News:
 
+- [Spring AI 1.1 GA Released](https://spring.io/blog/2025/11/12/spring-ai-1-1-GA-released)
 - [Spring Tools 4.32.2 released](https://spring.io/blog/2025/11/10/spring-tools-4-32-2-released)
 - [Spring AI 1.1.0-RC1 Available Now](https://spring.io/blog/2025/11/08/spring-ai-1-1-0-RC1-available-now)
 - [Spring Batch 6.0.0-RC2 available now!](https://spring.io/blog/2025/11/06/spring-batch-6-0-0-rc2-released)
-- [Spring Boot 4.0.0-RC2 available now](https://spring.io/blog/2025/11/06/spring-boot-4-0-0-RC2-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -26,10 +26,12 @@
   - Reactor Pool 0.2.14 (Enterprise)
   - Reactor Netty 1.0.50 (Enterprise)
   - Reactor Netty 1.1.34 (Enterprise)
+- November 13
+  - Spring Ldap 3.1.12 (Enterprise)
+  - Spring Ldap 3.0.14 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Ai 1.1.0 (Nov 12)
 - Spring Plugin 4.0 (Nov 13)
 - Spring Hateoas 3.0.0 (Nov 13)
 - Spring Ldap 4.0.0 (Nov 13)
