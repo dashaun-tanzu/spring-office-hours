@@ -1,9 +1,9 @@
-# November 15
+# November 16
 
 ## News:
 
-- [Spring Data 2025.1.0 goes GA](https://spring.io/blog/2025/11/14/spring-data-2025-1-goes-ga)
 - [Spring Data 2025.0.6 and 2024.1.12 released](https://spring.io/blog/2025/11/14/spring-data-2025-0-6-and-2024-1-12-released)
+- [Spring Data 2025.1.0 goes GA](https://spring.io/blog/2025/11/14/spring-data-2025-1-goes-ga)
 - [Spring Cloud 2025.1.0-RC1 (aka Oakwood) has been released](https://spring.io/blog/2025/11/13/spring-cloud-2025-1-0-RC1-aka-oakwood-has-been-released)
 - [Spring Framework 6.2.13 Available Now](https://spring.io/blog/2025/11/13/spring-framework-6-2-13-available-now)
 
@@ -48,8 +48,7 @@
 
 ## YouTube:
 
-- [Spring AI 1.1 is GA! 📱](https://www.youtube.com/watch?v=d_CN7BFA5Ug) - Coffee + Software
-- [Spring AI 1.1 is GA!](https://www.youtube.com/watch?v=iu0zM4dF3uw) - Coffee + Software
+- [Spring AI 1.1 is GA!!](https://www.youtube.com/watch?v=qAOA6PKmrnA) - Coffee + Software
 - [Simon Martinelli on a Bootiful Podcast](https://www.youtube.com/watch?v=EvzD3rJhHHk) - Coffee + Software
 - [Spring Boot 4's Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0) - Dan Vega
 - [Jackson 3 Support is HERE: What's New in Spring Framework 7 & Spring Boot 4](https://www.youtube.com/watch?v=4cvP_qroLH4) - Dan Vega
@@ -58,6 +57,7 @@
 - [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8) - Dan Vega
 - [Testing your REST APIs in Spring Boot 4 with the new RestTestClient](https://www.youtube.com/watch?v=dPM8n0uNhes) - Dan Vega
 - [API Versioning Made Simple with Spring Boot 4.0](https://www.youtube.com/watch?v=qjo2tYf01xo) - Dan Vega
+- [Spring Office Hours: S4E29 - Spring Boot 4 is (almost) here!](https://www.youtube.com/watch?v=imaP2ctZg5Q) - SpringSourceDev
 
 ## Demos:
 
