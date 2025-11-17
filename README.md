@@ -1,4 +1,4 @@
-# November 16
+# November 17
 
 ## News:
 
@@ -16,6 +16,10 @@
   - Spring Data Release 2024.0.15 (Enterprise)
   - Spring Data Release 2021.2.19 (Enterprise)
   - Spring Data Release 2023.1.15 (Enterprise)
+- November 17
+  - Spring Kafka 3.1.14 (Enterprise)
+  - Spring Kafka 3.2.12 (Enterprise)
+  - Spring Amqp 3.1.14 (Enterprise)
 
 ## Releases coming soon:
 
