@@ -1,11 +1,11 @@
-# November 17
+# November 18
 
 ## News:
 
-- [Spring Data 2025.0.6 and 2024.1.12 released](https://spring.io/blog/2025/11/14/spring-data-2025-0-6-and-2024-1-12-released)
+- [Spring Security 2025-11 Releases - 7.0.0, 6.5.7, 6.4.13 available now!](https://spring.io/blog/2025/11/17/spring-security-releases)
 - [Spring Data 2025.1.0 goes GA](https://spring.io/blog/2025/11/14/spring-data-2025-1-goes-ga)
+- [Spring Data 2025.0.6 and 2024.1.12 released](https://spring.io/blog/2025/11/14/spring-data-2025-0-6-and-2024-1-12-released)
 - [Spring Cloud 2025.1.0-RC1 (aka Oakwood) has been released](https://spring.io/blog/2025/11/13/spring-cloud-2025-1-0-RC1-aka-oakwood-has-been-released)
-- [Spring Framework 6.2.13 Available Now](https://spring.io/blog/2025/11/13/spring-framework-6-2-13-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -20,21 +20,25 @@
   - Spring Kafka 3.1.14 (Enterprise)
   - Spring Kafka 3.2.12 (Enterprise)
   - Spring Amqp 3.1.14 (Enterprise)
+  - Spring Security 5.7.20 (Enterprise)
+  - Spring Security 5.8.22 (Enterprise)
+  - Spring Security 6.2.14 (Enterprise)
+  - Spring Security 6.3.12 (Enterprise)
+  - Spring Security 6.2.15 (Enterprise)
+  - Spring Security 6.3.13 (Enterprise)
+- November 18
+  - Spring Integration 6.2.15 (Enterprise)
+  - Spring Integration 6.3.13 (Enterprise)
+  - Spring Authorization Server 1.3.9 (Enterprise)
+  - Spring Authorization Server 1.2.11 (Enterprise)
+  - Spring Pulsar 1.0.17 (Enterprise)
+  - Spring Pulsar 1.1.16 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Vault 4.0.0 (Nov 17)
-- Spring Tools 5.0.0.RC1 (Nov 17)
-- Spring Kafka 4.0.0 (Nov 17)
-- Spring Kafka 3.3.11 (Nov 17)
-- Spring Amqp 4.0.0 (Nov 17)
-- Spring Security 7.0.0 (Nov 17)
-- Spring Security 6.5.7 (Nov 17)
-- Spring Security 6.4.13 (Nov 17)
 - Spring Integration 7.0.0 (Nov 18)
 - Spring Integration 6.4.9 (Nov 18)
 - Spring Integration 6.5.4 (Nov 18)
-- Spring Session 4.0.0 (Nov 18)
 - Spring Graphql 2.0.0 (Nov 18)
 - Spring Ws 5.0.0 (Nov 18)
 - Spring Pulsar 2.0.0 (Nov 18)
@@ -49,6 +53,7 @@
 - Spring Tools 5.0.0.RC2 (Nov 24)
 - Spring Cloud Release 2025.1.0 (Nov 24)
 - Spring Grpc 1.0.0 (Nov 25)
+- Spring Shell 4.0.0-RC1 (Nov 28)
 
 ## YouTube:
 
