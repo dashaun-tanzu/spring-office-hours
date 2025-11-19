@@ -1,11 +1,11 @@
-# November 18
+# November 19
 
 ## News:
 
-- [Spring Security 2025-11 Releases - 7.0.0, 6.5.7, 6.4.13 available now!](https://spring.io/blog/2025/11/17/spring-security-releases)
-- [Spring Data 2025.1.0 goes GA](https://spring.io/blog/2025/11/14/spring-data-2025-1-goes-ga)
-- [Spring Data 2025.0.6 and 2024.1.12 released](https://spring.io/blog/2025/11/14/spring-data-2025-0-6-and-2024-1-12-released)
-- [Spring Cloud 2025.1.0-RC1 (aka Oakwood) has been released](https://spring.io/blog/2025/11/13/spring-cloud-2025-1-0-RC1-aka-oakwood-has-been-released)
+- [Spring for GraphQL 2.0.0 goes GA](https://spring.io/blog/2025/11/18/spring-for-graphql-2-0-0-goes-ga)
+- [Spring for Apache Kafka 4.0.0 goes GA](https://spring.io/blog/2025/11/18/spring-kafka-4)
+- [Spring Vault 4.0 goes GA](https://spring.io/blog/2025/11/18/spring-vault-4-0-goes-ga)
+- [Spring Web Services 5.0.0 available now](https://spring.io/blog/2025/11/18/spring-ws-5-0-0-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -29,6 +29,9 @@
 - November 18
   - Spring Integration 6.2.15 (Enterprise)
   - Spring Integration 6.3.13 (Enterprise)
+  - Spring Session 2021.2.5 (Enterprise)
+  - Spring Session 3.3.9 (Enterprise)
+  - Spring Session 3.2.9 (Enterprise)
   - Spring Authorization Server 1.3.9 (Enterprise)
   - Spring Authorization Server 1.2.11 (Enterprise)
   - Spring Pulsar 1.0.17 (Enterprise)
@@ -36,18 +39,13 @@
 
 ## Releases coming soon:
 
-- Spring Integration 7.0.0 (Nov 18)
-- Spring Integration 6.4.9 (Nov 18)
-- Spring Integration 6.5.4 (Nov 18)
-- Spring Graphql 2.0.0 (Nov 18)
-- Spring Ws 5.0.0 (Nov 18)
-- Spring Pulsar 2.0.0 (Nov 18)
-- Spring Pulsar 1.2.12 (Nov 18)
 - Spring Batch 6.0.0 (Nov 19)
 - Spring Restdocs 4.0.0 (Nov 19)
 - Spring Boot 3.4.12 (Nov 20)
 - Spring Boot 3.5.8 (Nov 20)
 - Spring Boot 4.0.0 (Nov 20)
+- Spring Framework 6.2.14 (Nov 20)
+- Spring Framework 7.0.1 (Nov 20)
 - Spring Modulith 2.0 GA (Nov 21)
 - Spring Shell 4.0.0-M2 (Nov 21)
 - Spring Tools 5.0.0.RC2 (Nov 24)
@@ -57,6 +55,8 @@
 
 ## YouTube:
 
+- [Spring Office Hours S4E30 - Spring Boot 4 Release Party](https://www.youtube.com/watch?v=i4pmxm4nd8U) - SpringSourceDev
+- [Spring Office Hours S4E30 - Spring Boot 4 Release Party 📱](https://www.youtube.com/watch?v=ysTmg3vwEQU) - SpringSourceDev
 - [Spring AI 1.1 is GA!!](https://www.youtube.com/watch?v=qAOA6PKmrnA) - Coffee + Software
 - [Simon Martinelli on a Bootiful Podcast](https://www.youtube.com/watch?v=EvzD3rJhHHk) - Coffee + Software
 - [Spring Boot 4's Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0) - Dan Vega
@@ -65,8 +65,6 @@
 - [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M) - Dan Vega
 - [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8) - Dan Vega
 - [Testing your REST APIs in Spring Boot 4 with the new RestTestClient](https://www.youtube.com/watch?v=dPM8n0uNhes) - Dan Vega
-- [API Versioning Made Simple with Spring Boot 4.0](https://www.youtube.com/watch?v=qjo2tYf01xo) - Dan Vega
-- [Spring Office Hours: S4E29 - Spring Boot 4 is (almost) here!](https://www.youtube.com/watch?v=imaP2ctZg5Q) - SpringSourceDev
 
 ## Demos:
 
