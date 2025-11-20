@@ -1,11 +1,11 @@
-# November 19
+# November 20
 
 ## News:
 
-- [Spring for GraphQL 2.0.0 goes GA](https://spring.io/blog/2025/11/18/spring-for-graphql-2-0-0-goes-ga)
-- [Spring for Apache Kafka 4.0.0 goes GA](https://spring.io/blog/2025/11/18/spring-kafka-4)
-- [Spring Vault 4.0 goes GA](https://spring.io/blog/2025/11/18/spring-vault-4-0-goes-ga)
-- [Spring Web Services 5.0.0 available now](https://spring.io/blog/2025/11/18/spring-ws-5-0-0-available-now)
+- [Spring Batch 6.0.0 GA is out!](https://spring.io/blog/2025/11/19/spring-batch-6-0-0-ga)
+- [Spring REST Docs 4.0.0](https://spring.io/blog/2025/11/19/spring-restdocs-4)
+- [Spring AMQP 4.0.0 Available](https://spring.io/blog/2025/11/19/spring-amqp-4-0-0-available)
+- [Spring Integration 7.0.0 Available](https://spring.io/blog/2025/11/19/spring-integration-7-0-0-released)
 
 ## Recent Enterprise Releases:
 
@@ -36,11 +36,13 @@
   - Spring Authorization Server 1.2.11 (Enterprise)
   - Spring Pulsar 1.0.17 (Enterprise)
   - Spring Pulsar 1.1.16 (Enterprise)
+- November 20
+  - Spring Boot 2.7.30 (Enterprise)
+  - Spring Boot 3.2.19 (Enterprise)
+  - Spring Boot 3.3.16 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Batch 6.0.0 (Nov 19)
-- Spring Restdocs 4.0.0 (Nov 19)
 - Spring Boot 3.4.12 (Nov 20)
 - Spring Boot 3.5.8 (Nov 20)
 - Spring Boot 4.0.0 (Nov 20)
@@ -51,6 +53,8 @@
 - Spring Tools 5.0.0.RC2 (Nov 24)
 - Spring Cloud Release 2025.1.0 (Nov 24)
 - Spring Grpc 1.0.0 (Nov 25)
+- Spring Ai 2.0.0.M1 (Nov 25)
+- Spring Ai 1.1.1 (Nov 25)
 - Spring Shell 4.0.0-RC1 (Nov 28)
 
 ## YouTube:
