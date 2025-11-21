@@ -1,17 +1,14 @@
-# November 20
+# November 21
 
 ## News:
 
-- [Spring Batch 6.0.0 GA is out!](https://spring.io/blog/2025/11/19/spring-batch-6-0-0-ga)
-- [Spring REST Docs 4.0.0](https://spring.io/blog/2025/11/19/spring-restdocs-4)
-- [Spring AMQP 4.0.0 Available](https://spring.io/blog/2025/11/19/spring-amqp-4-0-0-available)
-- [Spring Integration 7.0.0 Available](https://spring.io/blog/2025/11/19/spring-integration-7-0-0-released)
+- [Spring Boot 4.0.0 available now](https://spring.io/blog/2025/11/20/spring-boot-4-0-0-available-now)
+- [Spring Boot 3.5.8 available now](https://spring.io/blog/2025/11/20/spring-boot-3-5-8-available-now)
+- [Spring Boot 3.4.12 available now](https://spring.io/blog/2025/11/20/spring-boot-3-4-12-available-now)
+- [Spring Framework 7.0.1 Available Now](https://spring.io/blog/2025/11/20/spring-framework-7-0-1-available-now)
 
 ## Recent Enterprise Releases:
 
-- November 13
-  - Spring Ldap 3.1.12 (Enterprise)
-  - Spring Ldap 3.0.14 (Enterprise)
 - November 14
   - Spring Data Release 2024.0.15 (Enterprise)
   - Spring Data Release 2021.2.19 (Enterprise)
@@ -43,24 +40,20 @@
 
 ## Releases coming soon:
 
-- Spring Boot 3.4.12 (Nov 20)
-- Spring Boot 3.5.8 (Nov 20)
-- Spring Boot 4.0.0 (Nov 20)
-- Spring Framework 6.2.14 (Nov 20)
-- Spring Framework 7.0.1 (Nov 20)
 - Spring Modulith 2.0 GA (Nov 21)
-- Spring Shell 4.0.0-M2 (Nov 21)
 - Spring Tools 5.0.0.RC2 (Nov 24)
 - Spring Cloud Release 2025.1.0 (Nov 24)
 - Spring Grpc 1.0.0 (Nov 25)
 - Spring Ai 2.0.0.M1 (Nov 25)
 - Spring Ai 1.1.1 (Nov 25)
-- Spring Shell 4.0.0-RC1 (Nov 28)
+- Spring Shell 4.0.0-M2 (Nov 28)
+- Spring Tools 5.0.0.RC3 (Dec 1)
 
 ## YouTube:
 
-- [Spring Office Hours S4E30 - Spring Boot 4 Release Party](https://www.youtube.com/watch?v=i4pmxm4nd8U) - SpringSourceDev
+- [Spring Framework lead and co-founder Juergen Hoeller on Spring Framework 7](https://www.youtube.com/watch?v=cauBvfkgPrs) - Coffee + Software
 - [Spring Office Hours S4E30 - Spring Boot 4 Release Party 📱](https://www.youtube.com/watch?v=ysTmg3vwEQU) - SpringSourceDev
+- [Spring Office Hours S4E30 - Spring Boot 4 Release Party](https://www.youtube.com/watch?v=i4pmxm4nd8U) - SpringSourceDev
 - [Spring AI 1.1 is GA!!](https://www.youtube.com/watch?v=qAOA6PKmrnA) - Coffee + Software
 - [Simon Martinelli on a Bootiful Podcast](https://www.youtube.com/watch?v=EvzD3rJhHHk) - Coffee + Software
 - [Spring Boot 4's Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0) - Dan Vega
@@ -68,7 +61,6 @@
 - [Build AI-Powered Apps with MCP Clients in Spring AI](https://www.youtube.com/watch?v=TSFkdlreRMQ) - Dan Vega
 - [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M) - Dan Vega
 - [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8) - Dan Vega
-- [Testing your REST APIs in Spring Boot 4 with the new RestTestClient](https://www.youtube.com/watch?v=dPM8n0uNhes) - Dan Vega
 
 ## Demos:
 
