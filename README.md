@@ -1,18 +1,14 @@
-# November 21
+# November 22
 
 ## News:
 
+- [Spring Modulith 2.0 GA, 1.4.5, and 1.3.11 released](https://spring.io/blog/2025/11/21/spring-modulith-2-0-ga-1-4-5-and-1-3-11-released)
 - [Spring Boot 4.0.0 available now](https://spring.io/blog/2025/11/20/spring-boot-4-0-0-available-now)
 - [Spring Boot 3.5.8 available now](https://spring.io/blog/2025/11/20/spring-boot-3-5-8-available-now)
 - [Spring Boot 3.4.12 available now](https://spring.io/blog/2025/11/20/spring-boot-3-4-12-available-now)
-- [Spring Framework 7.0.1 Available Now](https://spring.io/blog/2025/11/20/spring-framework-7-0-1-available-now)
 
 ## Recent Enterprise Releases:
 
-- November 14
-  - Spring Data Release 2024.0.15 (Enterprise)
-  - Spring Data Release 2021.2.19 (Enterprise)
-  - Spring Data Release 2023.1.15 (Enterprise)
 - November 17
   - Spring Kafka 3.1.14 (Enterprise)
   - Spring Kafka 3.2.12 (Enterprise)
@@ -40,7 +36,6 @@
 
 ## Releases coming soon:
 
-- Spring Modulith 2.0 GA (Nov 21)
 - Spring Tools 5.0.0.RC2 (Nov 24)
 - Spring Cloud Release 2025.1.0 (Nov 24)
 - Spring Grpc 1.0.0 (Nov 25)
@@ -51,9 +46,9 @@
 
 ## YouTube:
 
-- [Spring Framework lead and co-founder Juergen Hoeller on Spring Framework 7](https://www.youtube.com/watch?v=cauBvfkgPrs) - Coffee + Software
 - [Spring Office Hours S4E30 - Spring Boot 4 Release Party 📱](https://www.youtube.com/watch?v=ysTmg3vwEQU) - SpringSourceDev
 - [Spring Office Hours S4E30 - Spring Boot 4 Release Party](https://www.youtube.com/watch?v=i4pmxm4nd8U) - SpringSourceDev
+- [Spring Framework lead and co-founder Juergen Hoeller on Spring Framework 7](https://www.youtube.com/watch?v=cauBvfkgPrs) - Coffee + Software
 - [Spring AI 1.1 is GA!!](https://www.youtube.com/watch?v=qAOA6PKmrnA) - Coffee + Software
 - [Simon Martinelli on a Bootiful Podcast](https://www.youtube.com/watch?v=EvzD3rJhHHk) - Coffee + Software
 - [Spring Boot 4's Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0) - Dan Vega
