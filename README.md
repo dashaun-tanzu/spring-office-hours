@@ -1,24 +1,14 @@
-# November 25
+# November 26
 
 ## News:
 
+- [Spring Cloud 2025.1.0 (aka Oakwood) has been released](https://spring.io/blog/2025/11/25/spring-cloud-2025-1-0-aka-oakwood-has-been-released)
 - [Towards Spring Tools 5 - Ready for Boot 4 and Framework 7](https://spring.io/blog/2025/11/24/towards-spring-tools-5-part1)
 - [Spring Modulith 2.0 GA, 1.4.5, and 1.3.11 released](https://spring.io/blog/2025/11/21/spring-modulith-2-0-ga-1-4-5-and-1-3-11-released)
 - [Spring Boot 4.0.0 available now](https://spring.io/blog/2025/11/20/spring-boot-4-0-0-available-now)
-- [Spring Boot 3.5.8 available now](https://spring.io/blog/2025/11/20/spring-boot-3-5-8-available-now)
 
 ## Recent Enterprise Releases:
 
-- November 18
-  - Spring Integration 6.2.15 (Enterprise)
-  - Spring Integration 6.3.13 (Enterprise)
-  - Spring Session 2021.2.5 (Enterprise)
-  - Spring Session 3.3.9 (Enterprise)
-  - Spring Session 3.2.9 (Enterprise)
-  - Spring Authorization Server 1.3.9 (Enterprise)
-  - Spring Authorization Server 1.2.11 (Enterprise)
-  - Spring Pulsar 1.0.17 (Enterprise)
-  - Spring Pulsar 1.1.16 (Enterprise)
 - November 20
   - Spring Boot 2.7.30 (Enterprise)
   - Spring Boot 3.2.19 (Enterprise)
@@ -26,9 +16,6 @@
 
 ## Releases coming soon:
 
-- Spring Grpc 1.0.0 (Nov 25)
-- Spring Ai 2.0.0.M1 (Nov 25)
-- Spring Ai 1.1.1 (Nov 25)
 - Spring Shell 4.0.0-M2 (Nov 28)
 - Spring Tools 5.0.0.RC2 (Dec 2)
 - Spring Shell 4.0.0-RC1 (Dec 5)
