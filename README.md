@@ -1,4 +1,4 @@
-# November 26
+# November 27
 
 ## News:
 
@@ -18,6 +18,8 @@
 
 - Spring Shell 4.0.0-M2 (Nov 28)
 - Spring Tools 5.0.0.RC2 (Dec 2)
+- Spring Ai 1.1.1 (Dec 2)
+- Spring Ai 2.0.0.M1 (Dec 4)
 - Spring Shell 4.0.0-RC1 (Dec 5)
 
 ## YouTube:
