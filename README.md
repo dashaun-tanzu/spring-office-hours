@@ -1,4 +1,4 @@
-# November 27
+# November 28
 
 ## News:
 
@@ -7,20 +7,19 @@
 - [Spring Modulith 2.0 GA, 1.4.5, and 1.3.11 released](https://spring.io/blog/2025/11/21/spring-modulith-2-0-ga-1-4-5-and-1-3-11-released)
 - [Spring Boot 4.0.0 available now](https://spring.io/blog/2025/11/20/spring-boot-4-0-0-available-now)
 
-## Recent Enterprise Releases:
-
-- November 20
-  - Spring Boot 2.7.30 (Enterprise)
-  - Spring Boot 3.2.19 (Enterprise)
-  - Spring Boot 3.3.16 (Enterprise)
-
 ## Releases coming soon:
 
 - Spring Shell 4.0.0-M2 (Nov 28)
 - Spring Tools 5.0.0.RC2 (Dec 2)
 - Spring Ai 1.1.1 (Dec 2)
 - Spring Ai 2.0.0.M1 (Dec 4)
-- Spring Shell 4.0.0-RC1 (Dec 5)
+- Spring Shell 4.0.0-M3 (Dec 5)
+- Micrometer 1.14.14 (Dec 8)
+- Micrometer 1.15.7 (Dec 8)
+- Micrometer 1.16.1 (Dec 8)
+- Micrometer Tracing 1.4.13 (Dec 8)
+- Micrometer Tracing 1.5.7 (Dec 8)
+- Micrometer Tracing 1.6.1 (Dec 8)
 
 ## YouTube:
 
