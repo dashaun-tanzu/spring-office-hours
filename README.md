@@ -1,15 +1,14 @@
-# November 28
+# November 29
 
 ## News:
 
+- [Towards Spring Tools 5 - Stereotypes and a new Structural View](https://spring.io/blog/2025/11/28/towards-spring-tools-5-part2)
 - [Spring Cloud 2025.1.0 (aka Oakwood) has been released](https://spring.io/blog/2025/11/25/spring-cloud-2025-1-0-aka-oakwood-has-been-released)
 - [Towards Spring Tools 5 - Ready for Boot 4 and Framework 7](https://spring.io/blog/2025/11/24/towards-spring-tools-5-part1)
 - [Spring Modulith 2.0 GA, 1.4.5, and 1.3.11 released](https://spring.io/blog/2025/11/21/spring-modulith-2-0-ga-1-4-5-and-1-3-11-released)
-- [Spring Boot 4.0.0 available now](https://spring.io/blog/2025/11/20/spring-boot-4-0-0-available-now)
 
 ## Releases coming soon:
 
-- Spring Shell 4.0.0-M2 (Nov 28)
 - Spring Tools 5.0.0.RC2 (Dec 2)
 - Spring Ai 1.1.1 (Dec 2)
 - Spring Ai 2.0.0.M1 (Dec 4)
@@ -20,6 +19,15 @@
 - Micrometer Tracing 1.4.13 (Dec 8)
 - Micrometer Tracing 1.5.7 (Dec 8)
 - Micrometer Tracing 1.6.1 (Dec 8)
+- Reactor 2024.0.13 (Dec 9)
+- Reactor 2025.0.1 (Dec 9)
+- Reactor Core 3.7.14 (Dec 9)
+- Reactor Core 3.8.1 (Dec 9)
+- Reactor Pool 1.1.7 (Dec 9)
+- Reactor Pool 1.2.1 (Dec 9)
+- Spring Webflow 4.0.0 (Dec 9)
+- Reactor Netty 1.2.13 (Dec 9)
+- Reactor Netty 1.3.1 (Dec 9)
 
 ## YouTube:
 
