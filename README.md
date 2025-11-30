@@ -1,4 +1,4 @@
-# November 29
+# November 30
 
 ## News:
 
@@ -28,6 +28,7 @@
 - Spring Webflow 4.0.0 (Dec 9)
 - Reactor Netty 1.2.13 (Dec 9)
 - Reactor Netty 1.3.1 (Dec 9)
+- Spring Tools 5.0.0.RELEASE (Dec 10)
 
 ## YouTube:
 
