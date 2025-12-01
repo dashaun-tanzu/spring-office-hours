@@ -1,4 +1,4 @@
-# November 30
+# December 1
 
 ## News:
 
@@ -6,6 +6,11 @@
 - [Spring Cloud 2025.1.0 (aka Oakwood) has been released](https://spring.io/blog/2025/11/25/spring-cloud-2025-1-0-aka-oakwood-has-been-released)
 - [Towards Spring Tools 5 - Ready for Boot 4 and Framework 7](https://spring.io/blog/2025/11/24/towards-spring-tools-5-part1)
 - [Spring Modulith 2.0 GA, 1.4.5, and 1.3.11 released](https://spring.io/blog/2025/11/21/spring-modulith-2-0-ga-1-4-5-and-1-3-11-released)
+
+## Recent Enterprise Releases:
+
+- December 1
+  - Spring Cloud Release 2023.0.9 (Enterprise)
 
 ## Releases coming soon:
 
@@ -29,9 +34,15 @@
 - Reactor Netty 1.2.13 (Dec 9)
 - Reactor Netty 1.3.1 (Dec 9)
 - Spring Tools 5.0.0.RELEASE (Dec 10)
+- Spring Ldap 3.2.16 (Dec 11)
+- Spring Ldap 3.3.5 (Dec 11)
+- Spring Ldap 4.0.1 (Dec 11)
+- Spring Framework 7.0.2 (Dec 11)
+- Spring Framework 6.2.15 (Dec 11)
 
 ## YouTube:
 
+- [Spring Office Hours: S4E32 - Multi-Factor Authentication with Josh Cummings](https://www.youtube.com/watch?v=yvhNVWl4xHc) - SpringSourceDev
 - [Spring Office Hours: S4E31 - Spring Boot 4 Q&A](https://www.youtube.com/watch?v=2IGLm8U4hi8) - SpringSourceDev
 - [Spring Office Hours S4E30 - Spring Boot 4 Release Party 📱](https://www.youtube.com/watch?v=ysTmg3vwEQU) - SpringSourceDev
 - [Spring Office Hours S4E30 - Spring Boot 4 Release Party](https://www.youtube.com/watch?v=i4pmxm4nd8U) - SpringSourceDev
@@ -41,7 +52,6 @@
 - [Spring Boot 4's Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0) - Dan Vega
 - [Jackson 3 Support is HERE: What's New in Spring Framework 7 & Spring Boot 4](https://www.youtube.com/watch?v=4cvP_qroLH4) - Dan Vega
 - [Build AI-Powered Apps with MCP Clients in Spring AI](https://www.youtube.com/watch?v=TSFkdlreRMQ) - Dan Vega
-- [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M) - Dan Vega
 
 ## Demos:
 
