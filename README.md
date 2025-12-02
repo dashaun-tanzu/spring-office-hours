@@ -1,4 +1,4 @@
-# December 1
+# December 2
 
 ## News:
 
@@ -15,8 +15,7 @@
 ## Releases coming soon:
 
 - Spring Tools 5.0.0.RC2 (Dec 2)
-- Spring Ai 1.1.1 (Dec 2)
-- Spring Ai 2.0.0.M1 (Dec 4)
+- Spring Ai 1.1.1 (Dec 4)
 - Spring Shell 4.0.0-M3 (Dec 5)
 - Micrometer 1.14.14 (Dec 8)
 - Micrometer 1.15.7 (Dec 8)
@@ -37,8 +36,13 @@
 - Spring Ldap 3.2.16 (Dec 11)
 - Spring Ldap 3.3.5 (Dec 11)
 - Spring Ldap 4.0.1 (Dec 11)
+- Spring Ai 2.0.0.M1 (Dec 11)
 - Spring Framework 7.0.2 (Dec 11)
 - Spring Framework 6.2.15 (Dec 11)
+- Spring Shell 4.0.0-RC1 (Dec 12)
+- Spring Data Release 2024.1.13 (Dec 12)
+- Spring Data Release 2025.0.7 (Dec 12)
+- Spring Data Release 2025.1.1 (Dec 12)
 
 ## YouTube:
 
