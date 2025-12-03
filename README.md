@@ -1,4 +1,4 @@
-# December 2
+# December 3
 
 ## News:
 
@@ -14,7 +14,6 @@
 
 ## Releases coming soon:
 
-- Spring Tools 5.0.0.RC2 (Dec 2)
 - Spring Ai 1.1.1 (Dec 4)
 - Spring Shell 4.0.0-M3 (Dec 5)
 - Micrometer 1.14.14 (Dec 8)
@@ -46,16 +45,16 @@
 
 ## YouTube:
 
+- [Spring Boot 4 Does It Again, At Scale](https://www.youtube.com/shorts/W_pMPsrmkH0) - SpringSourceDev
+- [Spring Boot 4 - Nullability with JSpecify](https://www.youtube.com/shorts/ONvwYUZCDK0) - SpringSourceDev
+- [Spring Boot 4 - Modularization](https://www.youtube.com/shorts/Elt6Is-NtBU) - SpringSourceDev
+- [Spring Security Time Based Authorization Rules Explained - "The Amazon Feature"](https://www.youtube.com/shorts/-h17O_hdHLs) - SpringSourceDev
+- [Why Upgrading Spring Security is Crucial for Developers!](https://www.youtube.com/shorts/Xm_dHVqT84Y) - SpringSourceDev
+- [Shocking reason why 95% of AI projects fail!](https://www.youtube.com/shorts/GJ55b2-lvuY) - Coffee + Software
+- [Software Engineering Fundamentals STILL Matter!](https://www.youtube.com/shorts/3W7hXM_PckQ) - Coffee + Software
+- [Spring Developer Advocate and author Dan Vega](https://www.youtube.com/watch?v=DVlv0AkSkgg) - Coffee + Software
+- [Nate Schutta, the Great, on a Bootiful Podcast](https://www.youtube.com/watch?v=dJcYHyqogs4) - Coffee + Software
 - [Spring Office Hours: S4E32 - Multi-Factor Authentication with Josh Cummings](https://www.youtube.com/watch?v=yvhNVWl4xHc) - SpringSourceDev
-- [Spring Office Hours: S4E31 - Spring Boot 4 Q&A](https://www.youtube.com/watch?v=2IGLm8U4hi8) - SpringSourceDev
-- [Spring Office Hours S4E30 - Spring Boot 4 Release Party 📱](https://www.youtube.com/watch?v=ysTmg3vwEQU) - SpringSourceDev
-- [Spring Office Hours S4E30 - Spring Boot 4 Release Party](https://www.youtube.com/watch?v=i4pmxm4nd8U) - SpringSourceDev
-- [Spring Framework lead and co-founder Juergen Hoeller on Spring Framework 7](https://www.youtube.com/watch?v=cauBvfkgPrs) - Coffee + Software
-- [Spring AI 1.1 is GA!!](https://www.youtube.com/watch?v=qAOA6PKmrnA) - Coffee + Software
-- [Simon Martinelli on a Bootiful Podcast](https://www.youtube.com/watch?v=EvzD3rJhHHk) - Coffee + Software
-- [Spring Boot 4's Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0) - Dan Vega
-- [Jackson 3 Support is HERE: What's New in Spring Framework 7 & Spring Boot 4](https://www.youtube.com/watch?v=4cvP_qroLH4) - Dan Vega
-- [Build AI-Powered Apps with MCP Clients in Spring AI](https://www.youtube.com/watch?v=TSFkdlreRMQ) - Dan Vega
 
 ## Demos:
 
