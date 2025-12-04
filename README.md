@@ -1,4 +1,4 @@
-# December 3
+# December 4
 
 ## News:
 
@@ -11,6 +11,8 @@
 
 - December 1
   - Spring Cloud Release 2023.0.9 (Enterprise)
+- December 4
+  - Spring Cloud Release 2021.0.12 (Enterprise)
 
 ## Releases coming soon:
 
@@ -45,6 +47,8 @@
 
 ## YouTube:
 
+- [Spring Developer Advocate and author Dan Vega](https://www.youtube.com/watch?v=DVlv0AkSkgg) - Coffee + Software
+- [Prompt Caching with Spring AI 1.1 #AmazonBedrock](https://www.youtube.com/shorts/E83IyWHSDkg) - Coffee + Software
 - [Spring Boot 4 Does It Again, At Scale](https://www.youtube.com/shorts/W_pMPsrmkH0) - SpringSourceDev
 - [Spring Boot 4 - Nullability with JSpecify](https://www.youtube.com/shorts/ONvwYUZCDK0) - SpringSourceDev
 - [Spring Boot 4 - Modularization](https://www.youtube.com/shorts/Elt6Is-NtBU) - SpringSourceDev
@@ -52,9 +56,7 @@
 - [Why Upgrading Spring Security is Crucial for Developers!](https://www.youtube.com/shorts/Xm_dHVqT84Y) - SpringSourceDev
 - [Shocking reason why 95% of AI projects fail!](https://www.youtube.com/shorts/GJ55b2-lvuY) - Coffee + Software
 - [Software Engineering Fundamentals STILL Matter!](https://www.youtube.com/shorts/3W7hXM_PckQ) - Coffee + Software
-- [Spring Developer Advocate and author Dan Vega](https://www.youtube.com/watch?v=DVlv0AkSkgg) - Coffee + Software
 - [Nate Schutta, the Great, on a Bootiful Podcast](https://www.youtube.com/watch?v=dJcYHyqogs4) - Coffee + Software
-- [Spring Office Hours: S4E32 - Multi-Factor Authentication with Josh Cummings](https://www.youtube.com/watch?v=yvhNVWl4xHc) - SpringSourceDev
 
 ## Demos:
 
