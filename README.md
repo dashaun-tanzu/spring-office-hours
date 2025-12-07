@@ -1,4 +1,4 @@
-# December 6
+# December 7
 
 ## News:
 
@@ -16,6 +16,7 @@
 
 ## Releases coming soon:
 
+- Spring Shell 4.0.0-M2 (Dec 8)
 - Micrometer 1.14.14 (Dec 8)
 - Micrometer 1.15.7 (Dec 8)
 - Micrometer 1.16.1 (Dec 8)
@@ -38,7 +39,7 @@
 - Spring Ai 2.0.0.M1 (Dec 11)
 - Spring Framework 7.0.2 (Dec 11)
 - Spring Framework 6.2.15 (Dec 11)
-- Spring Shell 4.0.0-RC1 (Dec 12)
+- Spring Shell 4.0.0-M3 (Dec 12)
 - Spring Data Release 2024.1.13 (Dec 12)
 - Spring Data Release 2025.0.7 (Dec 12)
 - Spring Data Release 2025.1.1 (Dec 12)
@@ -57,6 +58,7 @@
 - Spring Ws 4.0.17 (Dec 16)
 - Spring Pulsar 2.0.1 (Dec 16)
 - Spring Pulsar 1.2.13 (Dec 16)
+- Spring Batch 6.0.1 (Dec 17)
 
 ## YouTube:
 
