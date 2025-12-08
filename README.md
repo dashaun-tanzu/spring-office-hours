@@ -1,4 +1,4 @@
-# December 7
+# December 8
 
 ## News:
 
@@ -59,6 +59,9 @@
 - Spring Pulsar 2.0.1 (Dec 16)
 - Spring Pulsar 1.2.13 (Dec 16)
 - Spring Batch 6.0.1 (Dec 17)
+- Spring Boot 3.4.13 (Dec 18)
+- Spring Boot 3.5.9 (Dec 18)
+- Spring Boot 4.0.1 (Dec 18)
 
 ## YouTube:
 
