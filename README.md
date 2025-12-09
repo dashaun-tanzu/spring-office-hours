@@ -1,4 +1,4 @@
-# December 8
+# December 9
 
 ## News:
 
@@ -9,20 +9,11 @@
 
 ## Recent Enterprise Releases:
 
-- December 1
-  - Spring Cloud Release 2023.0.9 (Enterprise)
 - December 4
   - Spring Cloud Release 2021.0.12 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Shell 4.0.0-M2 (Dec 8)
-- Micrometer 1.14.14 (Dec 8)
-- Micrometer 1.15.7 (Dec 8)
-- Micrometer 1.16.1 (Dec 8)
-- Micrometer Tracing 1.4.13 (Dec 8)
-- Micrometer Tracing 1.5.7 (Dec 8)
-- Micrometer Tracing 1.6.1 (Dec 8)
 - Reactor 2024.0.13 (Dec 9)
 - Reactor 2025.0.1 (Dec 9)
 - Reactor Core 3.7.14 (Dec 9)
@@ -47,6 +38,7 @@
 - Spring Cloud Release 2024.0.3 (Dec 15)
 - Spring Amqp 4.0.1 (Dec 15)
 - Spring Security 7.0.1 (Dec 15)
+- Spring Integration 6.4.10 (Dec 16)
 - Spring Session 3.4.7 (Dec 16)
 - Spring Session 3.5.4 (Dec 16)
 - Spring Session 4.0.1 (Dec 16)
@@ -62,6 +54,8 @@
 - Spring Boot 3.4.13 (Dec 18)
 - Spring Boot 3.5.9 (Dec 18)
 - Spring Boot 4.0.1 (Dec 18)
+- Spring Modulith 2.0.1 (Dec 19)
+- Spring Shell 4.0.0-RC1 (Dec 19)
 
 ## YouTube:
 
