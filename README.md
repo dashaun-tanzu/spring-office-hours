@@ -1,26 +1,14 @@
-# December 11
+# December 12
 
 ## News:
 
+- [Spring AI 2.0.0-M1 Available Now](https://spring.io/blog/2025/12/11/spring-ai-2-0-0-M1-available-now)
+- [Spring Framework 7.0.2 Available Now](https://spring.io/blog/2025/12/11/spring-framework-7-0-2-available-now)
+- [Spring Framework 6.2.15 Available Now](https://spring.io/blog/2025/12/11/spring-framework-6-2-15-available-now)
 - [Spring Tools 5.0 released](https://spring.io/blog/2025/12/10/spring-tools-5-0-0-released)
-- [Spring Shell 4.0.0-M2 is out!](https://spring.io/blog/2025/12/09/spring-shell-4-0-0-m2-released)
-- [Spring AI 1.1.1 Available Now](https://spring.io/blog/2025/12/05/spring-ai-1-1-1-available-now)
-- [Spring gRPC 1.0.0 goes GA](https://spring.io/blog/2025/12/04/spring-grpc-1)
-
-## Recent Enterprise Releases:
-
-- December 4
-  - Spring Cloud Release 2021.0.12 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Hateoas 3.0.1 (Dec 11)
-- Spring Ldap 3.2.16 (Dec 11)
-- Spring Ldap 3.3.5 (Dec 11)
-- Spring Ldap 4.0.1 (Dec 11)
-- Spring Ai 2.0.0.M1 (Dec 11)
-- Spring Framework 7.0.2 (Dec 11)
-- Spring Framework 6.2.15 (Dec 11)
 - Spring Shell 4.0.0-M3 (Dec 12)
 - Spring Data Release 2024.1.13 (Dec 12)
 - Spring Data Release 2025.0.7 (Dec 12)
@@ -52,6 +40,9 @@
 
 ## YouTube:
 
+- [Spring Framework legend Rossen Stoyanchev](https://www.youtube.com/watch?v=B7h-ziuJrI0) - Coffee + Software
+- [MCP Moves to Linux Foundation](https://www.youtube.com/watch?v=MCJy2bGGd3U) - Coffee + Software
+- [MCP Moves to Linux Foundation 📱](https://www.youtube.com/watch?v=YMOHPtDbilg) - Coffee + Software
 - [MockMvcTester vs RestTestClient: Which one Should You Use in Spring Boot 4?](https://www.youtube.com/watch?v=xWcqvrpj2PM) - Dan Vega
 - [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev](https://www.youtube.com/watch?v=K9QIYZMJMV0) - Coffee + Software
 - [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev 📱](https://www.youtube.com/watch?v=UIedxmSwU4E) - Coffee + Software
@@ -59,9 +50,6 @@
 - [Spring Office Hours: S4E33 - The Fundamentals of Software Engineering with Nate Schutta](https://www.youtube.com/watch?v=aeXGEAQc0Vk) - SpringSourceDev
 - [Spring Boot 4 JMS Client: The Fluent API You've Been Waiting For](https://www.youtube.com/watch?v=91xVrWlzIe4) - Dan Vega
 - [Spring Security 7 Multi-Factor Authentication (MFA) : Inception](https://www.youtube.com/shorts/0I_Lt1qhsqM) - SpringSourceDev
-- [You don't have to present at a conference to love Spring Boot](https://www.youtube.com/shorts/4EuCRxCnVP8) - SpringSourceDev
-- [Enable Web Security Debug Configuration](https://www.youtube.com/shorts/YccX4GgQcD0) - Dan Vega
-- [Rob Winch on the latest-and-greatest in the just released Spring Security 7, Testjars, and more](https://www.youtube.com/watch?v=SGKqohHUfsI) - Coffee + Software
 
 ## Demos:
 
