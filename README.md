@@ -1,18 +1,14 @@
-# December 12
+# December 13
 
 ## News:
 
+- [Spring Cloud 2024.0.3 (aka Northfields) Has Been Released](https://spring.io/blog/2025/12/12/spring-cloud-2024-0-3-aka-northfields-has-been-released)
+- [Spring Data 2025.1.1, 2025.0.7 and 2024.1.13 released](https://spring.io/blog/2025/12/12/spring-data-2025-1-1-2025-0-7-and-2024-1-13-released)
 - [Spring AI 2.0.0-M1 Available Now](https://spring.io/blog/2025/12/11/spring-ai-2-0-0-M1-available-now)
 - [Spring Framework 7.0.2 Available Now](https://spring.io/blog/2025/12/11/spring-framework-7-0-2-available-now)
-- [Spring Framework 6.2.15 Available Now](https://spring.io/blog/2025/12/11/spring-framework-6-2-15-available-now)
-- [Spring Tools 5.0 released](https://spring.io/blog/2025/12/10/spring-tools-5-0-0-released)
 
 ## Releases coming soon:
 
-- Spring Shell 4.0.0-M3 (Dec 12)
-- Spring Data Release 2024.1.13 (Dec 12)
-- Spring Data Release 2025.0.7 (Dec 12)
-- Spring Data Release 2025.1.1 (Dec 12)
 - Spring Kafka 4.0.1 (Dec 15)
 - Spring Cloud Release 2024.0.3 (Dec 15)
 - Spring Amqp 4.0.1 (Dec 15)
@@ -40,16 +36,16 @@
 
 ## YouTube:
 
+- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev](https://www.youtube.com/watch?v=K9QIYZMJMV0) - Coffee + Software
+- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev 📱](https://www.youtube.com/watch?v=UIedxmSwU4E) - Coffee + Software
+- [Micrometer legend Jonatan Ivanov](https://www.youtube.com/watch?v=AtifdHvFZFc) - Coffee + Software
+- [a look at Spring Boot 4 with Catherine Edelveis](https://www.youtube.com/watch?v=5Jt6WEXDerc) - Coffee + Software
+- [Spring Boot 4 Modularization Explained: What you need to know](https://www.youtube.com/watch?v=kTLuhE7_jGU) - Dan Vega
 - [Spring Framework legend Rossen Stoyanchev](https://www.youtube.com/watch?v=B7h-ziuJrI0) - Coffee + Software
 - [MCP Moves to Linux Foundation](https://www.youtube.com/watch?v=MCJy2bGGd3U) - Coffee + Software
 - [MCP Moves to Linux Foundation 📱](https://www.youtube.com/watch?v=YMOHPtDbilg) - Coffee + Software
 - [MockMvcTester vs RestTestClient: Which one Should You Use in Spring Boot 4?](https://www.youtube.com/watch?v=xWcqvrpj2PM) - Dan Vega
-- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev](https://www.youtube.com/watch?v=K9QIYZMJMV0) - Coffee + Software
-- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev 📱](https://www.youtube.com/watch?v=UIedxmSwU4E) - Coffee + Software
 - [I Wrote a Book! Fundamentals of Software Engineering is Here](https://www.youtube.com/watch?v=C7hPLFUaSZA) - Dan Vega
-- [Spring Office Hours: S4E33 - The Fundamentals of Software Engineering with Nate Schutta](https://www.youtube.com/watch?v=aeXGEAQc0Vk) - SpringSourceDev
-- [Spring Boot 4 JMS Client: The Fluent API You've Been Waiting For](https://www.youtube.com/watch?v=91xVrWlzIe4) - Dan Vega
-- [Spring Security 7 Multi-Factor Authentication (MFA) : Inception](https://www.youtube.com/shorts/0I_Lt1qhsqM) - SpringSourceDev
 
 ## Demos:
 
