@@ -1,4 +1,4 @@
-# December 13
+# December 14
 
 ## News:
 
@@ -36,16 +36,16 @@
 
 ## YouTube:
 
-- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev](https://www.youtube.com/watch?v=K9QIYZMJMV0) - Coffee + Software
-- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev 📱](https://www.youtube.com/watch?v=UIedxmSwU4E) - Coffee + Software
+- [Nate Schutta, the Great, on a Bootiful Podcast](https://www.youtube.com/watch?v=dJcYHyqogs4) - Coffee + Software
 - [Micrometer legend Jonatan Ivanov](https://www.youtube.com/watch?v=AtifdHvFZFc) - Coffee + Software
 - [a look at Spring Boot 4 with Catherine Edelveis](https://www.youtube.com/watch?v=5Jt6WEXDerc) - Coffee + Software
+- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev](https://www.youtube.com/watch?v=K9QIYZMJMV0) - Coffee + Software
+- [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev 📱](https://www.youtube.com/watch?v=UIedxmSwU4E) - Coffee + Software
 - [Spring Boot 4 Modularization Explained: What you need to know](https://www.youtube.com/watch?v=kTLuhE7_jGU) - Dan Vega
 - [Spring Framework legend Rossen Stoyanchev](https://www.youtube.com/watch?v=B7h-ziuJrI0) - Coffee + Software
 - [MCP Moves to Linux Foundation](https://www.youtube.com/watch?v=MCJy2bGGd3U) - Coffee + Software
 - [MCP Moves to Linux Foundation 📱](https://www.youtube.com/watch?v=YMOHPtDbilg) - Coffee + Software
 - [MockMvcTester vs RestTestClient: Which one Should You Use in Spring Boot 4?](https://www.youtube.com/watch?v=xWcqvrpj2PM) - Dan Vega
-- [I Wrote a Book! Fundamentals of Software Engineering is Here](https://www.youtube.com/watch?v=C7hPLFUaSZA) - Dan Vega
 
 ## Demos:
 
