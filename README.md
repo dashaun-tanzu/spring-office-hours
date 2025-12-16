@@ -1,4 +1,4 @@
-# December 15
+# December 16
 
 ## News:
 
@@ -9,20 +9,11 @@
 
 ## Releases coming soon:
 
-- Spring Kafka 4.0.1 (Dec 15)
-- Spring Cloud Release 2024.0.3 (Dec 15)
-- Spring Amqp 4.0.1 (Dec 15)
-- Spring Security 7.0.1 (Dec 15)
 - Spring Integration 7.0.1 (Dec 16)
 - Spring Integration 6.4.10 (Dec 16)
-- Spring Session 3.4.7 (Dec 16)
-- Spring Session 3.5.4 (Dec 16)
-- Spring Session 4.0.1 (Dec 16)
 - Spring Graphql 1.3.7 (Dec 16)
 - Spring Graphql 1.4.4 (Dec 16)
 - Spring Graphql 2.0.1 (Dec 16)
-- Spring Authorization Server 1.5.4 (Dec 16)
-- Spring Authorization Server 1.4.7 (Dec 16)
 - Spring Ws 4.0.17 (Dec 16)
 - Spring Pulsar 2.0.1 (Dec 16)
 - Spring Pulsar 1.2.13 (Dec 16)
@@ -33,19 +24,21 @@
 - Spring Modulith 2.0.1 (Dec 19)
 - Spring Modulith 1.4.6 (Dec 19)
 - Spring Shell 4.0.0-RC1 (Dec 19)
+- Spring Cloud Release 2025.0.1 (Dec 19)
+- Spring Shell 4.0.0 (Dec 26)
 
 ## YouTube:
 
+- [Spring Security 7 Adds Multi-Factor Authentication (MFA)](https://www.youtube.com/watch?v=KmNAqlaKwjw) - Dan Vega
+- [AI Chatbot Personalities?  Meet Jesse Pinkman!](https://www.youtube.com/shorts/H692O-AgEMA) - Coffee + Software
+- [What's New in Embabel? AI Agents w/ Java 📱](https://www.youtube.com/watch?v=KHFSqeYTN9g) - Coffee + Software
+- [What's New in Embabel? AI Agents w/ Java](https://www.youtube.com/watch?v=Cn6F4dATx6s) - Coffee + Software
 - [Nate Schutta, the Great, on a Bootiful Podcast](https://www.youtube.com/watch?v=dJcYHyqogs4) - Coffee + Software
 - [Micrometer legend Jonatan Ivanov](https://www.youtube.com/watch?v=AtifdHvFZFc) - Coffee + Software
 - [a look at Spring Boot 4 with Catherine Edelveis](https://www.youtube.com/watch?v=5Jt6WEXDerc) - Coffee + Software
 - [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev](https://www.youtube.com/watch?v=K9QIYZMJMV0) - Coffee + Software
 - [Nullability, JSpecify, and IntelliJ with Andrei Kogun and Tagir Valeev 📱](https://www.youtube.com/watch?v=UIedxmSwU4E) - Coffee + Software
 - [Spring Boot 4 Modularization Explained: What you need to know](https://www.youtube.com/watch?v=kTLuhE7_jGU) - Dan Vega
-- [Spring Framework legend Rossen Stoyanchev](https://www.youtube.com/watch?v=B7h-ziuJrI0) - Coffee + Software
-- [MCP Moves to Linux Foundation](https://www.youtube.com/watch?v=MCJy2bGGd3U) - Coffee + Software
-- [MCP Moves to Linux Foundation 📱](https://www.youtube.com/watch?v=YMOHPtDbilg) - Coffee + Software
-- [MockMvcTester vs RestTestClient: Which one Should You Use in Spring Boot 4?](https://www.youtube.com/watch?v=xWcqvrpj2PM) - Dan Vega
 
 ## Demos:
 
