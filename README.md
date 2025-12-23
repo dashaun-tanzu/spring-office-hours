@@ -1,11 +1,11 @@
-# December 22
+# December 23
 
 ## News:
 
+- [Spring Tools 5.0.1 released](https://spring.io/blog/2025/12/22/spring-tools-5-0-1-released)
 - [Spring Modulith 2.0.1, 1.4.6, and 1.3.12 released](https://spring.io/blog/2025/12/20/spring-modulith-2-0-1-1-4-6-and-1-3-12-released)
 - [Spring Shell 4.0.0-RC1 available now](https://spring.io/blog/2025/12/19/spring-shell-4-0-0-rc1-released)
 - [Spring Boot 3.4.13 available now](https://spring.io/blog/2025/12/18/spring-boot-3-4-13-available-now)
-- [Spring Boot 4.0.1 available now](https://spring.io/blog/2025/12/18/spring-boot-4-0-1-available-now)
 
 ## Releases coming soon:
 
@@ -13,6 +13,7 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S4E34 - OpenTelemetry with Spring Boot](https://www.youtube.com/watch?v=sWzxDs3KsNQ) - SpringSourceDev
 - [Fix the #nondeterminism of #genai with #embabel](https://www.youtube.com/shorts/EEcMGQCJN2k) - Coffee + Software
 - [#embabel A more agentic approach than RAG](https://www.youtube.com/shorts/mSPxQTqX_YM) - Coffee + Software
 - [#Embabel creator Rod Johnson on #GOAP and #UtilityAI](https://www.youtube.com/shorts/7ugvYpOm-gg) - Coffee + Software
@@ -22,7 +23,6 @@
 - [Apache Tomcat legend Mark Thomas on a Bootiful Podcast](https://www.youtube.com/watch?v=9OErNP4a0iw) - Coffee + Software
 - [What's New in Embabel? AI Agents w/ Java](https://www.youtube.com/watch?v=Cn6F4dATx6s) - Coffee + Software
 - [What's New in Embabel? AI Agents w/ Java 📱](https://www.youtube.com/watch?v=KHFSqeYTN9g) - Coffee + Software
-- [Spring Security 7 Adds Multi-Factor Authentication (MFA)](https://www.youtube.com/watch?v=KmNAqlaKwjw) - Dan Vega
 
 ## Demos:
 
