@@ -1,4 +1,4 @@
-# December 23
+# December 24
 
 ## News:
 
@@ -13,6 +13,8 @@
 
 ## YouTube:
 
+- [Spring Boot 4 OpenTelemetry: From Zero to Full Observability in Minutes](https://www.youtube.com/watch?v=6_Y41z7OIv8) - Dan Vega
+- [Spring Office Hours: S4E35 - Year in Review](https://www.youtube.com/watch?v=PKJi7mdhfu0) - SpringSourceDev
 - [Spring Office Hours: S4E34 - OpenTelemetry with Spring Boot](https://www.youtube.com/watch?v=sWzxDs3KsNQ) - SpringSourceDev
 - [Fix the #nondeterminism of #genai with #embabel](https://www.youtube.com/shorts/EEcMGQCJN2k) - Coffee + Software
 - [#embabel A more agentic approach than RAG](https://www.youtube.com/shorts/mSPxQTqX_YM) - Coffee + Software
@@ -21,8 +23,6 @@
 - [Build a Spring Boot 4 REST API in Minutes](https://www.youtube.com/watch?v=klnxzL8oQdM) - Dan Vega
 - [Loading Resources in Spring: 3 Methods Every Developer Should Know](https://www.youtube.com/watch?v=Hmcgwj65Unw) - Dan Vega
 - [Apache Tomcat legend Mark Thomas on a Bootiful Podcast](https://www.youtube.com/watch?v=9OErNP4a0iw) - Coffee + Software
-- [What's New in Embabel? AI Agents w/ Java](https://www.youtube.com/watch?v=Cn6F4dATx6s) - Coffee + Software
-- [What's New in Embabel? AI Agents w/ Java 📱](https://www.youtube.com/watch?v=KHFSqeYTN9g) - Coffee + Software
 
 ## Demos:
 
