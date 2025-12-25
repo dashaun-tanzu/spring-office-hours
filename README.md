@@ -1,4 +1,4 @@
-# December 24
+# December 25
 
 ## News:
 
@@ -9,12 +9,12 @@
 
 ## Releases coming soon:
 
-- Spring Shell 4.0.0 (Dec 26)
+- Spring Shell 4.0.0 (Dec 30)
 
 ## YouTube:
 
-- [Spring Boot 4 OpenTelemetry: From Zero to Full Observability in Minutes](https://www.youtube.com/watch?v=6_Y41z7OIv8) - Dan Vega
 - [Spring Office Hours: S4E35 - Year in Review](https://www.youtube.com/watch?v=PKJi7mdhfu0) - SpringSourceDev
+- [Spring Boot 4 OpenTelemetry: From Zero to Full Observability in Minutes](https://www.youtube.com/watch?v=6_Y41z7OIv8) - Dan Vega
 - [Spring Office Hours: S4E34 - OpenTelemetry with Spring Boot](https://www.youtube.com/watch?v=sWzxDs3KsNQ) - SpringSourceDev
 - [Fix the #nondeterminism of #genai with #embabel](https://www.youtube.com/shorts/EEcMGQCJN2k) - Coffee + Software
 - [#embabel A more agentic approach than RAG](https://www.youtube.com/shorts/mSPxQTqX_YM) - Coffee + Software
