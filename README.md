@@ -1,4 +1,4 @@
-# December 26
+# December 27
 
 ## News:
 
@@ -13,16 +13,16 @@
 
 ## YouTube:
 
+- [Apache Tomcat legend Mark Thomas - Tomcat Performance](https://www.youtube.com/shorts/q9bbC5k1lBs) - Coffee + Software
+- [Apache Tomcat legend Mark Thomas - OSS Contributions today](https://www.youtube.com/shorts/GBWZHe2RrJ8) - Coffee + Software
+- [Apache Tomcat legend Mark Thomas - OSS](https://www.youtube.com/shorts/1vRUMyqy1mQ) - Coffee + Software
+- [Apache Tomcat legend Mark Thomas - Speeding Things Up](https://www.youtube.com/shorts/MPpX0_1XozI) - Coffee + Software
 - [Spring Office Hours: S4E35 - Year in Review](https://www.youtube.com/watch?v=PKJi7mdhfu0) - SpringSourceDev
 - [Spring Boot 4 OpenTelemetry: From Zero to Full Observability in Minutes](https://www.youtube.com/watch?v=6_Y41z7OIv8) - Dan Vega
 - [Spring Office Hours: S4E34 - OpenTelemetry with Spring Boot](https://www.youtube.com/watch?v=sWzxDs3KsNQ) - SpringSourceDev
 - [Fix the #nondeterminism of #genai with #embabel](https://www.youtube.com/shorts/EEcMGQCJN2k) - Coffee + Software
 - [#embabel A more agentic approach than RAG](https://www.youtube.com/shorts/mSPxQTqX_YM) - Coffee + Software
 - [#Embabel creator Rod Johnson on #GOAP and #UtilityAI](https://www.youtube.com/shorts/7ugvYpOm-gg) - Coffee + Software
-- [#Embabel #agentic flows with #Hemingway](https://www.youtube.com/shorts/PMoDds7R4fQ) - Coffee + Software
-- [Build a Spring Boot 4 REST API in Minutes](https://www.youtube.com/watch?v=klnxzL8oQdM) - Dan Vega
-- [Loading Resources in Spring: 3 Methods Every Developer Should Know](https://www.youtube.com/watch?v=Hmcgwj65Unw) - Dan Vega
-- [Apache Tomcat legend Mark Thomas on a Bootiful Podcast](https://www.youtube.com/watch?v=9OErNP4a0iw) - Coffee + Software
 
 ## Demos:
 
