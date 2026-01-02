@@ -1,4 +1,4 @@
-# January 1
+# January 2
 
 ## News:
 
@@ -8,6 +8,13 @@
 - [Spring Shell 4.0.0-RC1 available now](https://spring.io/blog/2025/12/19/spring-shell-4-0-0-rc1-released)
 
 ## Releases coming soon:
+
+- Micrometer 1.17.0-M1 (Jan 12)
+- Micrometer 1.15.8 (Jan 12)
+- Micrometer 1.16.2 (Jan 12)
+- Micrometer Tracing 1.7.0-M1 (Jan 12)
+- Micrometer Tracing 1.5.8 (Jan 12)
+- Micrometer Tracing 1.6.2 (Jan 12)
 
 ## YouTube:
 
