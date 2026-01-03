@@ -1,4 +1,4 @@
-# January 2
+# January 3
 
 ## News:
 
@@ -15,6 +15,13 @@
 - Micrometer Tracing 1.7.0-M1 (Jan 12)
 - Micrometer Tracing 1.5.8 (Jan 12)
 - Micrometer Tracing 1.6.2 (Jan 12)
+- Reactor 2024.0.14 (Jan 13)
+- Reactor 2025.0.2 (Jan 13)
+- Reactor Core 3.7.15 (Jan 13)
+- Reactor Core 3.8.2 (Jan 13)
+- Reactor Pool 1.2.2 (Jan 13)
+- Reactor Netty 1.2.14 (Jan 13)
+- Reactor Netty 1.3.2 (Jan 13)
 
 ## YouTube:
 
