@@ -1,4 +1,4 @@
-# January 4
+# January 5
 
 ## News:
 
@@ -22,6 +22,8 @@
 - Reactor Pool 1.2.2 (Jan 13)
 - Reactor Netty 1.2.14 (Jan 13)
 - Reactor Netty 1.3.2 (Jan 13)
+- Spring Ai 2.0.0.M2 (Jan 15)
+- Spring Framework 7.0.3 (Jan 15)
 
 ## YouTube:
 
