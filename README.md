@@ -1,4 +1,4 @@
-# January 5
+# January 6
 
 ## News:
 
@@ -24,19 +24,21 @@
 - Reactor Netty 1.3.2 (Jan 13)
 - Spring Ai 2.0.0.M2 (Jan 15)
 - Spring Framework 7.0.3 (Jan 15)
+- Spring Data Release 2025.0.8 (Jan 16)
+- Spring Data Release 2025.1.2 (Jan 16)
 
 ## YouTube:
 
+- [How to position yourself as a Java and Spring developer #springofficehours](https://www.youtube.com/shorts/12udjxKJIxI) - SpringSourceDev
+- [Working on things that don't make the company any money is "so 2025" #springofficehours](https://www.youtube.com/shorts/j_VLVQmVpjw) - SpringSourceDev
+- [Leveling up with conferences in the US - #springofficehours](https://www.youtube.com/shorts/txLVpc8lRLs) - SpringSourceDev
+- [Be careful of the metrics you are tracking! #springofficehours](https://www.youtube.com/shorts/Ih-I_BsDMPY) - SpringSourceDev
+- [Spring Office Hours: S5E01 - 2026 Predictions and New Year Kickoff 🎉](https://www.youtube.com/watch?v=bNp2FZR9YlI) - SpringSourceDev
 - [Observability and APM #OpenTelemetry clients](https://www.youtube.com/shorts/5kXxTqTbYtI) - SpringSourceDev
 - [Hope is not a production strategy. #SpringOfficeHours](https://www.youtube.com/shorts/K9X-2fCD6bE) - SpringSourceDev
 - [OpenTelemetry Tracing and the LGTM stack #SpringOfficeHours](https://www.youtube.com/shorts/SRPqCJBA0pg) - SpringSourceDev
 - [Observability and OTEL in Spring Framework 7 #SpringOfficeHours](https://www.youtube.com/shorts/2LqOcs6eCvc) - SpringSourceDev
 - [Apache Tomcat legend Mark Thomas - Tomcat Performance](https://www.youtube.com/shorts/q9bbC5k1lBs) - Coffee + Software
-- [Apache Tomcat legend Mark Thomas - OSS Contributions today](https://www.youtube.com/shorts/GBWZHe2RrJ8) - Coffee + Software
-- [Apache Tomcat legend Mark Thomas - OSS](https://www.youtube.com/shorts/1vRUMyqy1mQ) - Coffee + Software
-- [Apache Tomcat legend Mark Thomas - Speeding Things Up](https://www.youtube.com/shorts/MPpX0_1XozI) - Coffee + Software
-- [Spring Office Hours: S4E35 - Year in Review](https://www.youtube.com/watch?v=PKJi7mdhfu0) - SpringSourceDev
-- [Spring Boot 4 OpenTelemetry: From Zero to Full Observability in Minutes](https://www.youtube.com/watch?v=6_Y41z7OIv8) - Dan Vega
 
 ## Demos:
 
