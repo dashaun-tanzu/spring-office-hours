@@ -1,4 +1,4 @@
-# January 6
+# January 7
 
 ## News:
 
@@ -29,11 +29,11 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E01 - 2026 Predictions and New Year Kickoff 🎉](https://www.youtube.com/watch?v=bNp2FZR9YlI) - SpringSourceDev
 - [How to position yourself as a Java and Spring developer #springofficehours](https://www.youtube.com/shorts/12udjxKJIxI) - SpringSourceDev
 - [Working on things that don't make the company any money is "so 2025" #springofficehours](https://www.youtube.com/shorts/j_VLVQmVpjw) - SpringSourceDev
 - [Leveling up with conferences in the US - #springofficehours](https://www.youtube.com/shorts/txLVpc8lRLs) - SpringSourceDev
 - [Be careful of the metrics you are tracking! #springofficehours](https://www.youtube.com/shorts/Ih-I_BsDMPY) - SpringSourceDev
-- [Spring Office Hours: S5E01 - 2026 Predictions and New Year Kickoff 🎉](https://www.youtube.com/watch?v=bNp2FZR9YlI) - SpringSourceDev
 - [Observability and APM #OpenTelemetry clients](https://www.youtube.com/shorts/5kXxTqTbYtI) - SpringSourceDev
 - [Hope is not a production strategy. #SpringOfficeHours](https://www.youtube.com/shorts/K9X-2fCD6bE) - SpringSourceDev
 - [OpenTelemetry Tracing and the LGTM stack #SpringOfficeHours](https://www.youtube.com/shorts/SRPqCJBA0pg) - SpringSourceDev
