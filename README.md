@@ -1,11 +1,11 @@
-# January 7
+# January 8
 
 ## News:
 
+- [Spring gRPC 1.0.1 Available Now](https://spring.io/blog/2026/01/07/spring-grpc-1)
 - [Spring Shell 4.0.0 GA released!](https://spring.io/blog/2025/12/30/spring-shell-4-0-0-ga-released)
 - [Spring Tools 5.0.1 released](https://spring.io/blog/2025/12/22/spring-tools-5-0-1-released)
 - [Spring Modulith 2.0.1, 1.4.6, and 1.3.12 released](https://spring.io/blog/2025/12/20/spring-modulith-2-0-1-1-4-6-and-1-3-12-released)
-- [Spring Shell 4.0.0-RC1 available now](https://spring.io/blog/2025/12/19/spring-shell-4-0-0-rc1-released)
 
 ## Releases coming soon:
 
