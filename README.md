@@ -1,4 +1,4 @@
-# January 8
+# January 9
 
 ## News:
 
@@ -26,6 +26,10 @@
 - Spring Framework 7.0.3 (Jan 15)
 - Spring Data Release 2025.0.8 (Jan 16)
 - Spring Data Release 2025.1.2 (Jan 16)
+- Spring Amqp 3.2.9 (Jan 19)
+- Spring Amqp 4.0.2 (Jan 19)
+- Spring Amqp 4.1.0-M1 (Jan 19)
+- Spring Security 7.1.0-M1 (Jan 19)
 
 ## YouTube:
 
