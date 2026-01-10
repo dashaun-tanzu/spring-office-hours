@@ -1,4 +1,4 @@
-# January 9
+# January 10
 
 ## News:
 
@@ -30,6 +30,14 @@
 - Spring Amqp 4.0.2 (Jan 19)
 - Spring Amqp 4.1.0-M1 (Jan 19)
 - Spring Security 7.1.0-M1 (Jan 19)
+- Spring Integration 7.1.0-M1 (Jan 20)
+- Spring Integration 6.5.6 (Jan 20)
+- Spring Integration 7.0.2 (Jan 20)
+- Spring Graphql 2.0.2 (Jan 20)
+- Spring Kafka 3.3.12 (Jan 20)
+- Spring Kafka 4.0.2 (Jan 20)
+- Spring Pulsar 2.0.2 (Jan 20)
+- Spring Pulsar 1.2.14 (Jan 20)
 
 ## YouTube:
 
