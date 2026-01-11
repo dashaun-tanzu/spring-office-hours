@@ -1,4 +1,4 @@
-# January 10
+# January 11
 
 ## News:
 
@@ -38,9 +38,13 @@
 - Spring Kafka 4.0.2 (Jan 20)
 - Spring Pulsar 2.0.2 (Jan 20)
 - Spring Pulsar 1.2.14 (Jan 20)
+- Spring Batch 6.0.2 (Jan 21)
 
 ## YouTube:
 
+- [#consistency & #systems in 2026 #springofficehours](https://www.youtube.com/shorts/KwufYBiLJQY) - SpringSourceDev
+- [There are no shortcuts #SpringOfficeHours](https://www.youtube.com/shorts/WkvdtwknXWg) - SpringSourceDev
+- [Spring WS (in 2026)](https://www.youtube.com/watch?v=am30wQDzqEY) - Coffee + Software
 - [Spring Office Hours: S5E01 - 2026 Predictions and New Year Kickoff 🎉](https://www.youtube.com/watch?v=bNp2FZR9YlI) - SpringSourceDev
 - [How to position yourself as a Java and Spring developer #springofficehours](https://www.youtube.com/shorts/12udjxKJIxI) - SpringSourceDev
 - [Working on things that don't make the company any money is "so 2025" #springofficehours](https://www.youtube.com/shorts/j_VLVQmVpjw) - SpringSourceDev
@@ -48,9 +52,6 @@
 - [Be careful of the metrics you are tracking! #springofficehours](https://www.youtube.com/shorts/Ih-I_BsDMPY) - SpringSourceDev
 - [Observability and APM #OpenTelemetry clients](https://www.youtube.com/shorts/5kXxTqTbYtI) - SpringSourceDev
 - [Hope is not a production strategy. #SpringOfficeHours](https://www.youtube.com/shorts/K9X-2fCD6bE) - SpringSourceDev
-- [OpenTelemetry Tracing and the LGTM stack #SpringOfficeHours](https://www.youtube.com/shorts/SRPqCJBA0pg) - SpringSourceDev
-- [Observability and OTEL in Spring Framework 7 #SpringOfficeHours](https://www.youtube.com/shorts/2LqOcs6eCvc) - SpringSourceDev
-- [Apache Tomcat legend Mark Thomas - Tomcat Performance](https://www.youtube.com/shorts/q9bbC5k1lBs) - Coffee + Software
 
 ## Demos:
 
