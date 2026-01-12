@@ -1,4 +1,4 @@
-# January 11
+# January 12
 
 ## News:
 
@@ -39,6 +39,9 @@
 - Spring Pulsar 2.0.2 (Jan 20)
 - Spring Pulsar 1.2.14 (Jan 20)
 - Spring Batch 6.0.2 (Jan 21)
+- Spring Boot 3.5.10 (Jan 22)
+- Spring Boot 4.0.2 (Jan 22)
+- Spring Boot 4.1.0-M1 (Jan 22)
 
 ## YouTube:
 
