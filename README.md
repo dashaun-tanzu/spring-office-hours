@@ -1,4 +1,4 @@
-# January 13
+# January 14
 
 ## News:
 
@@ -9,13 +9,6 @@
 
 ## Releases coming soon:
 
-- Reactor 2024.0.14 (Jan 13)
-- Reactor 2025.0.2 (Jan 13)
-- Reactor Core 3.7.15 (Jan 13)
-- Reactor Core 3.8.2 (Jan 13)
-- Reactor Pool 1.2.2 (Jan 13)
-- Reactor Netty 1.2.14 (Jan 13)
-- Reactor Netty 1.3.2 (Jan 13)
 - Spring Ai 2.0.0.M2 (Jan 15)
 - Spring Framework 7.0.3 (Jan 15)
 - Spring Data Release 2025.0.8 (Jan 16)
@@ -40,16 +33,16 @@
 
 ## YouTube:
 
-- [DaShaun Carter predicts a Java hiring surge in 2026 #springofficehours](https://www.youtube.com/shorts/magcO5770wg) - SpringSourceDev
+- [Do you feel like you are the 10x developer that you could be? #springofficehours](https://www.youtube.com/shorts/fgxhhBmSMKw) - SpringSourceDev
 - [Spring Office Hours: S5E02 - Topic Smorgasbord](https://www.youtube.com/watch?v=1dWs5M0RuCg) - SpringSourceDev
 - [Java Developer Advocate extraordinairre Billy Korando!](https://www.youtube.com/watch?v=W9LbCmk4N00) - Coffee + Software
+- [DaShaun Carter predicts a Java hiring surge in 2026 #springofficehours](https://www.youtube.com/shorts/magcO5770wg) - SpringSourceDev
 - [Spring AI 2.0 M1 is Here! Everything New with Spring Boot 4 Integration](https://www.youtube.com/watch?v=daPwd4DnEfA) - Dan Vega
 - [#consistency & #systems in 2026 #springofficehours](https://www.youtube.com/shorts/KwufYBiLJQY) - SpringSourceDev
 - [There are no shortcuts #SpringOfficeHours](https://www.youtube.com/shorts/WkvdtwknXWg) - SpringSourceDev
 - [Spring WS (in 2026)](https://www.youtube.com/watch?v=am30wQDzqEY) - Coffee + Software
 - [Spring Office Hours: S5E01 - 2026 Predictions and New Year Kickoff 🎉](https://www.youtube.com/watch?v=bNp2FZR9YlI) - SpringSourceDev
 - [How to position yourself as a Java and Spring developer #springofficehours](https://www.youtube.com/shorts/12udjxKJIxI) - SpringSourceDev
-- [Working on things that don't make the company any money is "so 2025" #springofficehours](https://www.youtube.com/shorts/j_VLVQmVpjw) - SpringSourceDev
 
 ## Demos:
 
