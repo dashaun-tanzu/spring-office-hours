@@ -1,4 +1,4 @@
-# January 14
+# January 15
 
 ## News:
 
@@ -30,9 +30,12 @@
 - Spring Boot 4.0.2 (Jan 22)
 - Spring Boot 4.1.0-M1 (Jan 22)
 - Spring Shell 4.0.1 (Jan 23)
+- Spring Functions Catalog 5.2.0 (Jan 23)
 
 ## YouTube:
 
+- [Get to know #SOAP with #SpringWS](https://www.youtube.com/shorts/8Js2xyB2U0o) - Coffee + Software
+- [Native Structured Output in Spring AI - Guaranteed JSON Responses Every Time](https://www.youtube.com/watch?v=bQUqJnKqDhY) - Dan Vega
 - [Do you feel like you are the 10x developer that you could be? #springofficehours](https://www.youtube.com/shorts/fgxhhBmSMKw) - SpringSourceDev
 - [Spring Office Hours: S5E02 - Topic Smorgasbord](https://www.youtube.com/watch?v=1dWs5M0RuCg) - SpringSourceDev
 - [Java Developer Advocate extraordinairre Billy Korando!](https://www.youtube.com/watch?v=W9LbCmk4N00) - Coffee + Software
@@ -41,8 +44,6 @@
 - [#consistency & #systems in 2026 #springofficehours](https://www.youtube.com/shorts/KwufYBiLJQY) - SpringSourceDev
 - [There are no shortcuts #SpringOfficeHours](https://www.youtube.com/shorts/WkvdtwknXWg) - SpringSourceDev
 - [Spring WS (in 2026)](https://www.youtube.com/watch?v=am30wQDzqEY) - Coffee + Software
-- [Spring Office Hours: S5E01 - 2026 Predictions and New Year Kickoff 🎉](https://www.youtube.com/watch?v=bNp2FZR9YlI) - SpringSourceDev
-- [How to position yourself as a Java and Spring developer #springofficehours](https://www.youtube.com/shorts/12udjxKJIxI) - SpringSourceDev
 
 ## Demos:
 
