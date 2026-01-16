@@ -1,16 +1,14 @@
-# January 15
+# January 16
 
 ## News:
 
+- [Spring Framework 7.0.3 Available Now](https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now)
 - [Spring gRPC 1.0.1 Available Now](https://spring.io/blog/2026/01/07/spring-grpc-1)
 - [Spring Shell 4.0.0 GA released!](https://spring.io/blog/2025/12/30/spring-shell-4-0-0-ga-released)
 - [Spring Tools 5.0.1 released](https://spring.io/blog/2025/12/22/spring-tools-5-0-1-released)
-- [Spring Modulith 2.0.1, 1.4.6, and 1.3.12 released](https://spring.io/blog/2025/12/20/spring-modulith-2-0-1-1-4-6-and-1-3-12-released)
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0.M2 (Jan 15)
-- Spring Framework 7.0.3 (Jan 15)
 - Spring Data Release 2025.0.8 (Jan 16)
 - Spring Data Release 2025.1.2 (Jan 16)
 - Spring Amqp 3.2.9 (Jan 19)
@@ -34,6 +32,8 @@
 
 ## YouTube:
 
+- [Don't be afraid when you see a #schema for #soap](https://www.youtube.com/shorts/GzCagHfo7kQ) - Coffee + Software
+- [MCP Elicitations in Spring AI: Request Missing Information from Users](https://www.youtube.com/watch?v=JrAllAJf7L4) - Dan Vega
 - [Get to know #SOAP with #SpringWS](https://www.youtube.com/shorts/8Js2xyB2U0o) - Coffee + Software
 - [Native Structured Output in Spring AI - Guaranteed JSON Responses Every Time](https://www.youtube.com/watch?v=bQUqJnKqDhY) - Dan Vega
 - [Do you feel like you are the 10x developer that you could be? #springofficehours](https://www.youtube.com/shorts/fgxhhBmSMKw) - SpringSourceDev
@@ -42,8 +42,6 @@
 - [DaShaun Carter predicts a Java hiring surge in 2026 #springofficehours](https://www.youtube.com/shorts/magcO5770wg) - SpringSourceDev
 - [Spring AI 2.0 M1 is Here! Everything New with Spring Boot 4 Integration](https://www.youtube.com/watch?v=daPwd4DnEfA) - Dan Vega
 - [#consistency & #systems in 2026 #springofficehours](https://www.youtube.com/shorts/KwufYBiLJQY) - SpringSourceDev
-- [There are no shortcuts #SpringOfficeHours](https://www.youtube.com/shorts/WkvdtwknXWg) - SpringSourceDev
-- [Spring WS (in 2026)](https://www.youtube.com/watch?v=am30wQDzqEY) - Coffee + Software
 
 ## Demos:
 
