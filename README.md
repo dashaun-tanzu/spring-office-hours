@@ -1,16 +1,14 @@
-# January 16
+# January 17
 
 ## News:
 
+- [Spring Data 2025.1.2 & 2025.0.8 released](https://spring.io/blog/2026/01/16/spring-data-2025-1-2-and-2025-0-8-released)
 - [Spring Framework 7.0.3 Available Now](https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now)
 - [Spring gRPC 1.0.1 Available Now](https://spring.io/blog/2026/01/07/spring-grpc-1)
 - [Spring Shell 4.0.0 GA released!](https://spring.io/blog/2025/12/30/spring-shell-4-0-0-ga-released)
-- [Spring Tools 5.0.1 released](https://spring.io/blog/2025/12/22/spring-tools-5-0-1-released)
 
 ## Releases coming soon:
 
-- Spring Data Release 2025.0.8 (Jan 16)
-- Spring Data Release 2025.1.2 (Jan 16)
 - Spring Amqp 3.2.9 (Jan 19)
 - Spring Amqp 4.0.2 (Jan 19)
 - Spring Amqp 4.1.0-M1 (Jan 19)
@@ -29,9 +27,13 @@
 - Spring Boot 4.1.0-M1 (Jan 22)
 - Spring Shell 4.0.1 (Jan 23)
 - Spring Functions Catalog 5.2.0 (Jan 23)
+- Spring Grpc 1.0.2 (Jan 27)
 
 ## YouTube:
 
+- [OpenCode and Docker Model Runner 📱](https://www.youtube.com/watch?v=ZAQgrz8efds) - Coffee + Software
+- [OpenCode and Docker Model Runner](https://www.youtube.com/watch?v=K9eIgl70mYo) - Coffee + Software
+- [GraalVM native Spring WS](https://www.youtube.com/shorts/QS0UJJ0uU50) - Coffee + Software
 - [Don't be afraid when you see a #schema for #soap](https://www.youtube.com/shorts/GzCagHfo7kQ) - Coffee + Software
 - [MCP Elicitations in Spring AI: Request Missing Information from Users](https://www.youtube.com/watch?v=JrAllAJf7L4) - Dan Vega
 - [Get to know #SOAP with #SpringWS](https://www.youtube.com/shorts/8Js2xyB2U0o) - Coffee + Software
@@ -39,9 +41,6 @@
 - [Do you feel like you are the 10x developer that you could be? #springofficehours](https://www.youtube.com/shorts/fgxhhBmSMKw) - SpringSourceDev
 - [Spring Office Hours: S5E02 - Topic Smorgasbord](https://www.youtube.com/watch?v=1dWs5M0RuCg) - SpringSourceDev
 - [Java Developer Advocate extraordinairre Billy Korando!](https://www.youtube.com/watch?v=W9LbCmk4N00) - Coffee + Software
-- [DaShaun Carter predicts a Java hiring surge in 2026 #springofficehours](https://www.youtube.com/shorts/magcO5770wg) - SpringSourceDev
-- [Spring AI 2.0 M1 is Here! Everything New with Spring Boot 4 Integration](https://www.youtube.com/watch?v=daPwd4DnEfA) - Dan Vega
-- [#consistency & #systems in 2026 #springofficehours](https://www.youtube.com/shorts/KwufYBiLJQY) - SpringSourceDev
 
 ## Demos:
 
