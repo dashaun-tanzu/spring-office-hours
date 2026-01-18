@@ -1,4 +1,4 @@
-# January 17
+# January 18
 
 ## News:
 
@@ -31,6 +31,7 @@
 
 ## YouTube:
 
+- [Adding OAuth to Spring WS - SOAP](https://www.youtube.com/shorts/7XG67rp62MY) - Coffee + Software
 - [OpenCode and Docker Model Runner 📱](https://www.youtube.com/watch?v=ZAQgrz8efds) - Coffee + Software
 - [OpenCode and Docker Model Runner](https://www.youtube.com/watch?v=K9eIgl70mYo) - Coffee + Software
 - [GraalVM native Spring WS](https://www.youtube.com/shorts/QS0UJJ0uU50) - Coffee + Software
@@ -40,7 +41,6 @@
 - [Native Structured Output in Spring AI - Guaranteed JSON Responses Every Time](https://www.youtube.com/watch?v=bQUqJnKqDhY) - Dan Vega
 - [Do you feel like you are the 10x developer that you could be? #springofficehours](https://www.youtube.com/shorts/fgxhhBmSMKw) - SpringSourceDev
 - [Spring Office Hours: S5E02 - Topic Smorgasbord](https://www.youtube.com/watch?v=1dWs5M0RuCg) - SpringSourceDev
-- [Java Developer Advocate extraordinairre Billy Korando!](https://www.youtube.com/watch?v=W9LbCmk4N00) - Coffee + Software
 
 ## Demos:
 
