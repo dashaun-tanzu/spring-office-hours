@@ -1,18 +1,14 @@
-# January 19
+# January 20
 
 ## News:
 
+- [Spring Security 7.1.0-M1 available now](https://spring.io/blog/2026/01/19/spring-security-7-1-0-M1-available-now)
 - [Spring Data 2025.1.2 & 2025.0.8 released](https://spring.io/blog/2026/01/16/spring-data-2025-1-2-and-2025-0-8-released)
 - [Spring Framework 7.0.3 Available Now](https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now)
 - [Spring gRPC 1.0.1 Available Now](https://spring.io/blog/2026/01/07/spring-grpc-1)
-- [Spring Shell 4.0.0 GA released!](https://spring.io/blog/2025/12/30/spring-shell-4-0-0-ga-released)
 
 ## Releases coming soon:
 
-- Spring Amqp 3.2.9 (Jan 19)
-- Spring Amqp 4.0.2 (Jan 19)
-- Spring Amqp 4.1.0-M1 (Jan 19)
-- Spring Security 7.1.0-M1 (Jan 19)
 - Spring Integration 7.1.0-M1 (Jan 20)
 - Spring Integration 6.5.6 (Jan 20)
 - Spring Integration 7.0.2 (Jan 20)
@@ -31,6 +27,8 @@
 
 ## YouTube:
 
+- [Dimitry Jemerov on IntelliJ @ 25, Kotlin, and so much more](https://www.youtube.com/watch?v=mCo9HSzpPXk) - Coffee + Software
+- [Reflecting on #Java improvements from 11 to 17 to 25 with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/wBTxu6Y_2Kw) - Coffee + Software
 - [Adding OAuth to Spring WS - SOAP](https://www.youtube.com/shorts/7XG67rp62MY) - Coffee + Software
 - [OpenCode and Docker Model Runner 📱](https://www.youtube.com/watch?v=ZAQgrz8efds) - Coffee + Software
 - [OpenCode and Docker Model Runner](https://www.youtube.com/watch?v=K9eIgl70mYo) - Coffee + Software
@@ -39,8 +37,6 @@
 - [MCP Elicitations in Spring AI: Request Missing Information from Users](https://www.youtube.com/watch?v=JrAllAJf7L4) - Dan Vega
 - [Get to know #SOAP with #SpringWS](https://www.youtube.com/shorts/8Js2xyB2U0o) - Coffee + Software
 - [Native Structured Output in Spring AI - Guaranteed JSON Responses Every Time](https://www.youtube.com/watch?v=bQUqJnKqDhY) - Dan Vega
-- [Do you feel like you are the 10x developer that you could be? #springofficehours](https://www.youtube.com/shorts/fgxhhBmSMKw) - SpringSourceDev
-- [Spring Office Hours: S5E02 - Topic Smorgasbord](https://www.youtube.com/watch?v=1dWs5M0RuCg) - SpringSourceDev
 
 ## Demos:
 
