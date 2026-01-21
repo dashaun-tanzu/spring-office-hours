@@ -1,23 +1,17 @@
-# January 20
+# January 21
 
 ## News:
 
+- [Spring AMQP 4.1.0 Milestone 1 Available](https://spring.io/blog/2026/01/20/spring-amqp-4-1-0-m1-available)
+- [Spring for Apache Pulsar 1.2.14 and 2.0.2 are now available](https://spring.io/blog/2026/01/20/spring-for-apache-pulsar-1-2-14-and-2-0-2-are-now-available)
 - [Spring Security 7.1.0-M1 available now](https://spring.io/blog/2026/01/19/spring-security-7-1-0-M1-available-now)
 - [Spring Data 2025.1.2 & 2025.0.8 released](https://spring.io/blog/2026/01/16/spring-data-2025-1-2-and-2025-0-8-released)
-- [Spring Framework 7.0.3 Available Now](https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now)
-- [Spring gRPC 1.0.1 Available Now](https://spring.io/blog/2026/01/07/spring-grpc-1)
 
 ## Releases coming soon:
 
-- Spring Integration 7.1.0-M1 (Jan 20)
-- Spring Integration 6.5.6 (Jan 20)
-- Spring Integration 7.0.2 (Jan 20)
-- Spring Graphql 2.0.2 (Jan 20)
-- Spring Kafka 3.3.12 (Jan 20)
-- Spring Kafka 4.0.2 (Jan 20)
-- Spring Pulsar 2.0.2 (Jan 20)
-- Spring Pulsar 1.2.14 (Jan 20)
 - Spring Batch 6.0.2 (Jan 21)
+- Spring Integration 7.1.0-M1 (Jan 21)
+- Spring Integration 7.0.2 (Jan 21)
 - Spring Boot 3.5.10 (Jan 22)
 - Spring Boot 4.0.2 (Jan 22)
 - Spring Boot 4.1.0-M1 (Jan 22)
@@ -28,6 +22,7 @@
 ## YouTube:
 
 - [Dimitry Jemerov on IntelliJ @ 25, Kotlin, and so much more](https://www.youtube.com/watch?v=mCo9HSzpPXk) - Coffee + Software
+- [Billy Korando -  bounded fan-out strategy #coffeesoftware](https://www.youtube.com/shorts/9jC83LZstxc) - Coffee + Software
 - [Reflecting on #Java improvements from 11 to 17 to 25 with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/wBTxu6Y_2Kw) - Coffee + Software
 - [Adding OAuth to Spring WS - SOAP](https://www.youtube.com/shorts/7XG67rp62MY) - Coffee + Software
 - [OpenCode and Docker Model Runner 📱](https://www.youtube.com/watch?v=ZAQgrz8efds) - Coffee + Software
@@ -36,7 +31,6 @@
 - [Don't be afraid when you see a #schema for #soap](https://www.youtube.com/shorts/GzCagHfo7kQ) - Coffee + Software
 - [MCP Elicitations in Spring AI: Request Missing Information from Users](https://www.youtube.com/watch?v=JrAllAJf7L4) - Dan Vega
 - [Get to know #SOAP with #SpringWS](https://www.youtube.com/shorts/8Js2xyB2U0o) - Coffee + Software
-- [Native Structured Output in Spring AI - Guaranteed JSON Responses Every Time](https://www.youtube.com/watch?v=bQUqJnKqDhY) - Dan Vega
 
 ## Demos:
 
