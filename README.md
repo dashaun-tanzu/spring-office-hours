@@ -1,4 +1,4 @@
-# January 24
+# January 25
 
 ## News:
 
@@ -15,6 +15,7 @@
 
 ## YouTube:
 
+- [Dmitry Jemerov on IntelliJ internals #coffeesoftware](https://www.youtube.com/shorts/bxTFXNO8X5A) - Coffee + Software
 - [It's mostly #kotlin now! #intellij #coffeesoftware](https://www.youtube.com/shorts/j73FBLuGbng) - Coffee + Software
 - [Claude Code Just Fixed MCP's Biggest Problem](https://www.youtube.com/watch?v=itS3f1Y52t0) - Dan Vega
 - [Norton Commander had some influence on #intellij](https://www.youtube.com/shorts/P7TdUNi1TGU) - Coffee + Software
@@ -24,7 +25,6 @@
 - [Nullability and serialization with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/rLnOffIEwI4) - Coffee + Software
 - [#Java #AI strategy with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/ZjQAJtLvkfQ) - Coffee + Software
 - [Things are moving fast.  Don't get left behind. #springofficehours](https://www.youtube.com/shorts/UDS5iQaHQAg) - SpringSourceDev
-- [Dimitry Jemerov on IntelliJ @ 25, Kotlin, and so much more](https://www.youtube.com/watch?v=mCo9HSzpPXk) - Coffee + Software
 
 ## Demos:
 
