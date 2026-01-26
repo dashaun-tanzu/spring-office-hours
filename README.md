@@ -1,4 +1,4 @@
-# January 25
+# January 26
 
 ## News:
 
@@ -15,6 +15,7 @@
 
 ## YouTube:
 
+- [Humans are needed to move the abstractions forward #coffeesoftware](https://www.youtube.com/shorts/ENhbN9ZizJI) - Coffee + Software
 - [Dmitry Jemerov on IntelliJ internals #coffeesoftware](https://www.youtube.com/shorts/bxTFXNO8X5A) - Coffee + Software
 - [It's mostly #kotlin now! #intellij #coffeesoftware](https://www.youtube.com/shorts/j73FBLuGbng) - Coffee + Software
 - [Claude Code Just Fixed MCP's Biggest Problem](https://www.youtube.com/watch?v=itS3f1Y52t0) - Dan Vega
@@ -24,7 +25,6 @@
 - [We've learned how to build software in the age of #ai #codingassistant #springofficehours](https://www.youtube.com/shorts/wQR9DRiWQg4) - SpringSourceDev
 - [Nullability and serialization with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/rLnOffIEwI4) - Coffee + Software
 - [#Java #AI strategy with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/ZjQAJtLvkfQ) - Coffee + Software
-- [Things are moving fast.  Don't get left behind. #springofficehours](https://www.youtube.com/shorts/UDS5iQaHQAg) - SpringSourceDev
 
 ## Demos:
 
