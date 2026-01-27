@@ -1,4 +1,4 @@
-# January 26
+# January 27
 
 ## News:
 
@@ -15,6 +15,9 @@
 
 ## YouTube:
 
+- [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg) - Dan Vega
+- [Spring Office Hours: S5E03 - Getting Started with Spring](https://www.youtube.com/watch?v=yRBAqNCq03o) - SpringSourceDev
+- [Spring Office Hours: S5E03 - Getting Started with Spring 📱](https://www.youtube.com/watch?v=HeBdxLvwuo0) - SpringSourceDev
 - [Humans are needed to move the abstractions forward #coffeesoftware](https://www.youtube.com/shorts/ENhbN9ZizJI) - Coffee + Software
 - [Dmitry Jemerov on IntelliJ internals #coffeesoftware](https://www.youtube.com/shorts/bxTFXNO8X5A) - Coffee + Software
 - [It's mostly #kotlin now! #intellij #coffeesoftware](https://www.youtube.com/shorts/j73FBLuGbng) - Coffee + Software
@@ -22,9 +25,6 @@
 - [Norton Commander had some influence on #intellij](https://www.youtube.com/shorts/P7TdUNi1TGU) - Coffee + Software
 - [Claude Code's Secret Weapon: Access Multiple Directories in One Session](https://www.youtube.com/watch?v=Ac0FMtVYKkA) - Dan Vega
 - [Marco Behler on a Bootiful Podcast](https://www.youtube.com/watch?v=qkMohw7Uk78) - Coffee + Software
-- [We've learned how to build software in the age of #ai #codingassistant #springofficehours](https://www.youtube.com/shorts/wQR9DRiWQg4) - SpringSourceDev
-- [Nullability and serialization with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/rLnOffIEwI4) - Coffee + Software
-- [#Java #AI strategy with Billy Korando #coffeesoftware](https://www.youtube.com/shorts/ZjQAJtLvkfQ) - Coffee + Software
 
 ## Demos:
 
