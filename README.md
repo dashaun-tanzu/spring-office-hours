@@ -1,11 +1,11 @@
-# January 29
+# January 30
 
 ## News:
 
+- [Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released)
 - [Spring AI 2.0.0-M2 Available Now](https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now)
 - [Spring Modulith 2.1 M1, 2.0.2, and 1.4.7 released](https://spring.io/blog/2026/01/23/spring-modulith-2-1-m-1-2-0-2-and-1-4-7-released)
 - [Spring Boot 3.5.10 available now](https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now)
-- [Spring Boot 4.0.2 available now](https://spring.io/blog/2026/01/22/spring-boot-4-0-2-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -15,6 +15,12 @@
 ## Releases coming soon:
 
 - Spring Shell 4.0.1 (Jan 30)
+- Micrometer 1.15.9 (Feb 9)
+- Micrometer 1.16.3 (Feb 9)
+- Micrometer 1.17.0-M2 (Feb 9)
+- Micrometer Tracing 1.5.9 (Feb 9)
+- Micrometer Tracing 1.6.3 (Feb 9)
+- Micrometer Tracing 1.7.0-M3 (Feb 9)
 
 ## YouTube:
 
