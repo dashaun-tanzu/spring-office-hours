@@ -1,11 +1,11 @@
-# January 30
+# January 31
 
 ## News:
 
+- [Spring gRPC 1.0.2 Available Now](https://spring.io/blog/2026/01/30/spring-grpc-1)
 - [Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released)
 - [Spring AI 2.0.0-M2 Available Now](https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now)
 - [Spring Modulith 2.1 M1, 2.0.2, and 1.4.7 released](https://spring.io/blog/2026/01/23/spring-modulith-2-1-m-1-2-0-2-and-1-4-7-released)
-- [Spring Boot 3.5.10 available now](https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -14,13 +14,19 @@
 
 ## Releases coming soon:
 
-- Spring Shell 4.0.1 (Jan 30)
 - Micrometer 1.15.9 (Feb 9)
 - Micrometer 1.16.3 (Feb 9)
 - Micrometer 1.17.0-M2 (Feb 9)
 - Micrometer Tracing 1.5.9 (Feb 9)
 - Micrometer Tracing 1.6.3 (Feb 9)
 - Micrometer Tracing 1.7.0-M3 (Feb 9)
+- Reactor 2024.0.15 (Feb 10)
+- Reactor 2025.0.3 (Feb 10)
+- Reactor Core 3.8.3 (Feb 10)
+- Reactor Pool 1.1.8 (Feb 10)
+- Reactor Pool 1.2.3 (Feb 10)
+- Reactor Netty 1.3.3 (Feb 10)
+- Reactor Netty 1.2.15 (Feb 10)
 
 ## YouTube:
 
