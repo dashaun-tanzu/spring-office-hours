@@ -1,11 +1,11 @@
-# January 31
+# February 1
 
 ## News:
 
+- [Spring Shell 4.0.1 is out!](https://spring.io/blog/2026/01/31/spring-shell-4-0-1-is-out)
 - [Spring gRPC 1.0.2 Available Now](https://spring.io/blog/2026/01/30/spring-grpc-1)
 - [Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released)
 - [Spring AI 2.0.0-M2 Available Now](https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now)
-- [Spring Modulith 2.1 M1, 2.0.2, and 1.4.7 released](https://spring.io/blog/2026/01/23/spring-modulith-2-1-m-1-2-0-2-and-1-4-7-released)
 
 ## Recent Enterprise Releases:
 
