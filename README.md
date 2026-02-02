@@ -1,4 +1,4 @@
-# February 1
+# February 2
 
 ## News:
 
@@ -27,19 +27,24 @@
 - Reactor Pool 1.2.3 (Feb 10)
 - Reactor Netty 1.3.3 (Feb 10)
 - Reactor Netty 1.2.15 (Feb 10)
+- Spring Ldap 3.3.6 (Feb 12)
+- Spring Ldap 4.0.2 (Feb 12)
+- Spring Ldap 4.1.0-M1 (Feb 12)
+- Spring Framework 6.2.16 (Feb 12)
+- Spring Framework 7.0.4 (Feb 12)
 
 ## YouTube:
 
+- [#Jetbrains #IntelliJ Blink twice if you want to refactor.  #coffeesoftware](https://www.youtube.com/shorts/_mZRhOrIXTg) - Coffee + Software
+- [The only #Jetbrains #IntelliJ keyboard shortcut you need to know.  #coffeesoftware](https://www.youtube.com/shorts/2BT2CN-i_Qc) - Coffee + Software
+- [JPA and the alternatives for #Java #coffeesoftware](https://www.youtube.com/shorts/7XQ-0w4Qp8s) - Coffee + Software
+- [What is happening with #githubactions and whats appealing about #teamcity #coffeesoftware](https://www.youtube.com/shorts/edtw__LExGQ) - Coffee + Software
+- [Which abstraction layer is the right one to use? #springofficehours](https://www.youtube.com/shorts/Vh_g1VTM8sc) - SpringSourceDev
+- [Consider #Java and #Springframework if you are just getting started, especially for #AI](https://www.youtube.com/shorts/bC8j2ZMSfBU) - SpringSourceDev
+- [Spring Office Hours: S5E04 - Spring AI Agentic Patterns with Christian Tzolov](https://www.youtube.com/watch?v=_Lz-bsaV51M) - SpringSourceDev
 - [Spring Office Hours: S5E03 - Getting Started with Spring](https://www.youtube.com/watch?v=yRBAqNCq03o) - SpringSourceDev
 - [Spring Office Hours: S5E03 - Getting Started with Spring 📱](https://www.youtube.com/watch?v=HeBdxLvwuo0) - SpringSourceDev
 - [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg) - Dan Vega
-- [Humans are needed to move the abstractions forward #coffeesoftware](https://www.youtube.com/shorts/ENhbN9ZizJI) - Coffee + Software
-- [Dmitry Jemerov on IntelliJ internals #coffeesoftware](https://www.youtube.com/shorts/bxTFXNO8X5A) - Coffee + Software
-- [It's mostly #kotlin now! #intellij #coffeesoftware](https://www.youtube.com/shorts/j73FBLuGbng) - Coffee + Software
-- [Claude Code Just Fixed MCP's Biggest Problem](https://www.youtube.com/watch?v=itS3f1Y52t0) - Dan Vega
-- [Norton Commander had some influence on #intellij](https://www.youtube.com/shorts/P7TdUNi1TGU) - Coffee + Software
-- [Claude Code's Secret Weapon: Access Multiple Directories in One Session](https://www.youtube.com/watch?v=Ac0FMtVYKkA) - Dan Vega
-- [Marco Behler on a Bootiful Podcast](https://www.youtube.com/watch?v=qkMohw7Uk78) - Coffee + Software
 
 ## Demos:
 
