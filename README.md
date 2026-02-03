@@ -1,4 +1,4 @@
-# February 2
+# February 3
 
 ## News:
 
@@ -32,6 +32,10 @@
 - Spring Ldap 4.1.0-M1 (Feb 12)
 - Spring Framework 6.2.16 (Feb 12)
 - Spring Framework 7.0.4 (Feb 12)
+- Spring Data Release 2026.0.0-M1 (Feb 13)
+- Spring Data Release 2025.0.9 (Feb 13)
+- Spring Data Release 2025.1.3 (Feb 13)
+- Spring Release Actions 0.0.2 (Feb 13)
 
 ## YouTube:
 
