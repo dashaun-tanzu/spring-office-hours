@@ -1,4 +1,4 @@
-# February 3
+# February 4
 
 ## News:
 
@@ -6,11 +6,6 @@
 - [Spring gRPC 1.0.2 Available Now](https://spring.io/blog/2026/01/30/spring-grpc-1)
 - [Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released)
 - [Spring AI 2.0.0-M2 Available Now](https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now)
-
-## Recent Enterprise Releases:
-
-- January 27
-  - Spring Batch 4.3.12 (Enterprise)
 
 ## Releases coming soon:
 
@@ -39,16 +34,16 @@
 
 ## YouTube:
 
+- [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
+- [Richard Fichtner](https://www.youtube.com/watch?v=GCx9SfFmLpM) - Coffee + Software
+- [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
+- [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
+- [Spring Office Hours: S5E04 - Spring AI Agentic Patterns with Christian Tzolov](https://www.youtube.com/watch?v=_Lz-bsaV51M) - SpringSourceDev
 - [#Jetbrains #IntelliJ Blink twice if you want to refactor.  #coffeesoftware](https://www.youtube.com/shorts/_mZRhOrIXTg) - Coffee + Software
 - [The only #Jetbrains #IntelliJ keyboard shortcut you need to know.  #coffeesoftware](https://www.youtube.com/shorts/2BT2CN-i_Qc) - Coffee + Software
 - [JPA and the alternatives for #Java #coffeesoftware](https://www.youtube.com/shorts/7XQ-0w4Qp8s) - Coffee + Software
 - [What is happening with #githubactions and whats appealing about #teamcity #coffeesoftware](https://www.youtube.com/shorts/edtw__LExGQ) - Coffee + Software
 - [Which abstraction layer is the right one to use? #springofficehours](https://www.youtube.com/shorts/Vh_g1VTM8sc) - SpringSourceDev
-- [Consider #Java and #Springframework if you are just getting started, especially for #AI](https://www.youtube.com/shorts/bC8j2ZMSfBU) - SpringSourceDev
-- [Spring Office Hours: S5E04 - Spring AI Agentic Patterns with Christian Tzolov](https://www.youtube.com/watch?v=_Lz-bsaV51M) - SpringSourceDev
-- [Spring Office Hours: S5E03 - Getting Started with Spring](https://www.youtube.com/watch?v=yRBAqNCq03o) - SpringSourceDev
-- [Spring Office Hours: S5E03 - Getting Started with Spring 📱](https://www.youtube.com/watch?v=HeBdxLvwuo0) - SpringSourceDev
-- [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg) - Dan Vega
 
 ## Demos:
 
