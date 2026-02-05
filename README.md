@@ -1,4 +1,4 @@
-# February 4
+# February 5
 
 ## News:
 
@@ -34,6 +34,9 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
+- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
+- [I Tried OpenAI's New Codex Agent. Here are my First Impressions (It's Really Good)](https://www.youtube.com/watch?v=Q44TPEtNcNo) - Dan Vega
 - [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
 - [Richard Fichtner](https://www.youtube.com/watch?v=GCx9SfFmLpM) - Coffee + Software
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
@@ -41,9 +44,6 @@
 - [Spring Office Hours: S5E04 - Spring AI Agentic Patterns with Christian Tzolov](https://www.youtube.com/watch?v=_Lz-bsaV51M) - SpringSourceDev
 - [#Jetbrains #IntelliJ Blink twice if you want to refactor.  #coffeesoftware](https://www.youtube.com/shorts/_mZRhOrIXTg) - Coffee + Software
 - [The only #Jetbrains #IntelliJ keyboard shortcut you need to know.  #coffeesoftware](https://www.youtube.com/shorts/2BT2CN-i_Qc) - Coffee + Software
-- [JPA and the alternatives for #Java #coffeesoftware](https://www.youtube.com/shorts/7XQ-0w4Qp8s) - Coffee + Software
-- [What is happening with #githubactions and whats appealing about #teamcity #coffeesoftware](https://www.youtube.com/shorts/edtw__LExGQ) - Coffee + Software
-- [Which abstraction layer is the right one to use? #springofficehours](https://www.youtube.com/shorts/Vh_g1VTM8sc) - SpringSourceDev
 
 ## Demos:
 
