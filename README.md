@@ -1,4 +1,4 @@
-# February 5
+# February 6
 
 ## News:
 
@@ -12,6 +12,8 @@
 - Micrometer 1.15.9 (Feb 9)
 - Micrometer 1.16.3 (Feb 9)
 - Micrometer 1.17.0-M2 (Feb 9)
+- Context Propagation 1.1.4 (Feb 9)
+- Context Propagation 1.2.1 (Feb 9)
 - Micrometer Tracing 1.5.9 (Feb 9)
 - Micrometer Tracing 1.6.3 (Feb 9)
 - Micrometer Tracing 1.7.0-M3 (Feb 9)
@@ -31,9 +33,17 @@
 - Spring Data Release 2025.0.9 (Feb 13)
 - Spring Data Release 2025.1.3 (Feb 13)
 - Spring Release Actions 0.0.2 (Feb 13)
+- Spring Kafka 4.0.3 (Feb 16)
+- Spring Kafka 4.1.0-M1 (Feb 16)
+- Spring Amqp 4.1.0-M2 (Feb 16)
+- Spring Security 7.0.3 (Feb 16)
+- Spring Security 7.1.0-M2 (Feb 16)
 
 ## YouTube:
 
+- [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
+- [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo) - Dan Vega
+- [Production-worthy AI with Spring AI, MCP, and Spring Security](https://www.youtube.com/watch?v=Mpd1740f2Vs) - Coffee + Software
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
 - [I Tried OpenAI's New Codex Agent. Here are my First Impressions (It's Really Good)](https://www.youtube.com/watch?v=Q44TPEtNcNo) - Dan Vega
@@ -41,9 +51,6 @@
 - [Richard Fichtner](https://www.youtube.com/watch?v=GCx9SfFmLpM) - Coffee + Software
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
-- [Spring Office Hours: S5E04 - Spring AI Agentic Patterns with Christian Tzolov](https://www.youtube.com/watch?v=_Lz-bsaV51M) - SpringSourceDev
-- [#Jetbrains #IntelliJ Blink twice if you want to refactor.  #coffeesoftware](https://www.youtube.com/shorts/_mZRhOrIXTg) - Coffee + Software
-- [The only #Jetbrains #IntelliJ keyboard shortcut you need to know.  #coffeesoftware](https://www.youtube.com/shorts/2BT2CN-i_Qc) - Coffee + Software
 
 ## Demos:
 
