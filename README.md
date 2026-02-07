@@ -1,4 +1,4 @@
-# February 6
+# February 7
 
 ## News:
 
@@ -38,9 +38,22 @@
 - Spring Amqp 4.1.0-M2 (Feb 16)
 - Spring Security 7.0.3 (Feb 16)
 - Spring Security 7.1.0-M2 (Feb 16)
+- Spring Integration 7.1.0-M2 (Feb 17)
+- Spring Integration 6.5.7 (Feb 17)
+- Spring Integration 7.0.3 (Feb 17)
+- Spring Session 4.0.2 (Feb 17)
+- Spring Session 3.4.8 (Feb 17)
+- Spring Session 3.5.5 (Feb 17)
+- Spring Session 4.1.0-M1 (Feb 17)
+- Spring Graphql 1.4.5 (Feb 17)
+- Spring Authorization Server 1.5.6 (Feb 17)
+- Spring Grpc 1.1.0-M1 (Feb 17)
+- Spring Pulsar 2.0.3 (Feb 17)
+- Spring Pulsar 1.2.15 (Feb 17)
 
 ## YouTube:
 
+- [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk) - Dan Vega
 - [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
 - [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo) - Dan Vega
 - [Production-worthy AI with Spring AI, MCP, and Spring Security](https://www.youtube.com/watch?v=Mpd1740f2Vs) - Coffee + Software
@@ -50,7 +63,6 @@
 - [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
 - [Richard Fichtner](https://www.youtube.com/watch?v=GCx9SfFmLpM) - Coffee + Software
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
-- [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
 
 ## Demos:
 
