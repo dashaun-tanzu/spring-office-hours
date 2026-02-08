@@ -1,4 +1,4 @@
-# February 7
+# February 8
 
 ## News:
 
@@ -53,6 +53,7 @@
 
 ## YouTube:
 
+- [The Shift Away from Vector Stores: What's Behind the Change? #springofficehours](https://www.youtube.com/shorts/TJF51ZEoMvg) - SpringSourceDev
 - [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk) - Dan Vega
 - [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
 - [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo) - Dan Vega
@@ -62,7 +63,6 @@
 - [I Tried OpenAI's New Codex Agent. Here are my First Impressions (It's Really Good)](https://www.youtube.com/watch?v=Q44TPEtNcNo) - Dan Vega
 - [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
 - [Richard Fichtner](https://www.youtube.com/watch?v=GCx9SfFmLpM) - Coffee + Software
-- [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
 
 ## Demos:
 
