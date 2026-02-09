@@ -1,4 +1,4 @@
-# February 8
+# February 9
 
 ## News:
 
@@ -6,6 +6,14 @@
 - [Spring gRPC 1.0.2 Available Now](https://spring.io/blog/2026/01/30/spring-grpc-1)
 - [Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released)
 - [Spring AI 2.0.0-M2 Available Now](https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now)
+
+## Recent Enterprise Releases:
+
+- February 9
+  - Micrometer 1.13.18 (Enterprise)
+  - Micrometer 1.14.15 (Enterprise)
+  - Micrometer Tracing 1.3.16 (Enterprise)
+  - Micrometer Tracing 1.4.14 (Enterprise)
 
 ## Releases coming soon:
 
@@ -50,19 +58,11 @@
 - Spring Grpc 1.1.0-M1 (Feb 17)
 - Spring Pulsar 2.0.3 (Feb 17)
 - Spring Pulsar 1.2.15 (Feb 17)
+- Spring Boot 4.1.0-M2 (Feb 19)
+- Spring Boot 3.5.11 (Feb 19)
+- Spring Boot 4.0.3 (Feb 19)
 
 ## YouTube:
-
-- [The Shift Away from Vector Stores: What's Behind the Change? #springofficehours](https://www.youtube.com/shorts/TJF51ZEoMvg) - SpringSourceDev
-- [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk) - Dan Vega
-- [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
-- [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo) - Dan Vega
-- [Production-worthy AI with Spring AI, MCP, and Spring Security](https://www.youtube.com/watch?v=Mpd1740f2Vs) - Coffee + Software
-- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
-- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
-- [I Tried OpenAI's New Codex Agent. Here are my First Impressions (It's Really Good)](https://www.youtube.com/watch?v=Q44TPEtNcNo) - Dan Vega
-- [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
-- [Richard Fichtner](https://www.youtube.com/watch?v=GCx9SfFmLpM) - Coffee + Software
 
 ## Demos:
 
