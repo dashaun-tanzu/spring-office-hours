@@ -1,4 +1,4 @@
-# February 9
+# February 10
 
 ## News:
 
@@ -10,26 +10,26 @@
 ## Recent Enterprise Releases:
 
 - February 9
+  - Reactor 2020.0.50 (Enterprise)
+  - Reactor 2023.0.23 (Enterprise)
+  - Reactor Core 3.4.43 (Enterprise)
+  - Reactor Core 3.6.21 (Enterprise)
   - Micrometer 1.13.18 (Enterprise)
   - Micrometer 1.14.15 (Enterprise)
   - Micrometer Tracing 1.3.16 (Enterprise)
   - Micrometer Tracing 1.4.14 (Enterprise)
+  - Reactor Netty 1.0.51 (Enterprise)
+  - Reactor Netty 1.1.35 (Enterprise)
 
 ## Releases coming soon:
 
-- Micrometer 1.15.9 (Feb 9)
-- Micrometer 1.16.3 (Feb 9)
-- Micrometer 1.17.0-M2 (Feb 9)
-- Context Propagation 1.1.4 (Feb 9)
-- Context Propagation 1.2.1 (Feb 9)
-- Micrometer Tracing 1.5.9 (Feb 9)
-- Micrometer Tracing 1.6.3 (Feb 9)
-- Micrometer Tracing 1.7.0-M3 (Feb 9)
 - Reactor 2024.0.15 (Feb 10)
 - Reactor 2025.0.3 (Feb 10)
+- Reactor Core 3.7.16 (Feb 10)
 - Reactor Core 3.8.3 (Feb 10)
 - Reactor Pool 1.1.8 (Feb 10)
 - Reactor Pool 1.2.3 (Feb 10)
+- Spring Release Actions 0.0.2 (Feb 10)
 - Reactor Netty 1.3.3 (Feb 10)
 - Reactor Netty 1.2.15 (Feb 10)
 - Spring Ldap 3.3.6 (Feb 12)
@@ -40,7 +40,6 @@
 - Spring Data Release 2026.0.0-M1 (Feb 13)
 - Spring Data Release 2025.0.9 (Feb 13)
 - Spring Data Release 2025.1.3 (Feb 13)
-- Spring Release Actions 0.0.2 (Feb 13)
 - Spring Kafka 4.0.3 (Feb 16)
 - Spring Kafka 4.1.0-M1 (Feb 16)
 - Spring Amqp 4.1.0-M2 (Feb 16)
