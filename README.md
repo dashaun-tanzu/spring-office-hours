@@ -1,4 +1,4 @@
-# February 10
+# February 11
 
 ## News:
 
@@ -23,15 +23,6 @@
 
 ## Releases coming soon:
 
-- Reactor 2024.0.15 (Feb 10)
-- Reactor 2025.0.3 (Feb 10)
-- Reactor Core 3.7.16 (Feb 10)
-- Reactor Core 3.8.3 (Feb 10)
-- Reactor Pool 1.1.8 (Feb 10)
-- Reactor Pool 1.2.3 (Feb 10)
-- Spring Release Actions 0.0.2 (Feb 10)
-- Reactor Netty 1.3.3 (Feb 10)
-- Reactor Netty 1.2.15 (Feb 10)
 - Spring Ldap 3.3.6 (Feb 12)
 - Spring Ldap 4.0.2 (Feb 12)
 - Spring Ldap 4.1.0-M1 (Feb 12)
@@ -43,6 +34,7 @@
 - Spring Kafka 4.0.3 (Feb 16)
 - Spring Kafka 4.1.0-M1 (Feb 16)
 - Spring Amqp 4.1.0-M2 (Feb 16)
+- Spring Security 6.5.8 (Feb 16)
 - Spring Security 7.0.3 (Feb 16)
 - Spring Security 7.1.0-M2 (Feb 16)
 - Spring Integration 7.1.0-M2 (Feb 17)
@@ -63,6 +55,9 @@
 
 ## YouTube:
 
+- [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
+- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
+- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
 - [Spring AI Prompt Caching: Stop Wasting Money on Repeated Tokens](https://www.youtube.com/watch?v=eYb7BKW4QcU) - Dan Vega
@@ -70,9 +65,6 @@
 - [Spring REST Client with Service Discovery (Eureka)](https://www.youtube.com/watch?v=s9yyxyvYuq4) - Dan Vega
 - [Shout out to the Java community for moving things forward with #AI #springofficehours](https://www.youtube.com/shorts/XocVBZBfCes) - SpringSourceDev
 - [Skills vs tools and #ai #springofficehours](https://www.youtube.com/shorts/mmJejWrA-ao) - SpringSourceDev
-- [The Shift Away from Vector Stores: What's Behind the Change? #springofficehours](https://www.youtube.com/shorts/TJF51ZEoMvg) - SpringSourceDev
-- [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk) - Dan Vega
-- [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
 
 ## Demos:
 
