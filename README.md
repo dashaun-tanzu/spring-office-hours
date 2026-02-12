@@ -1,4 +1,4 @@
-# February 11
+# February 12
 
 ## News:
 
@@ -20,6 +20,9 @@
   - Micrometer Tracing 1.4.14 (Enterprise)
   - Reactor Netty 1.0.51 (Enterprise)
   - Reactor Netty 1.1.35 (Enterprise)
+- February 12
+  - Spring Ldap 3.2.17 (Enterprise)
+  - Spring Framework 6.1.25 (Enterprise)
 
 ## Releases coming soon:
 
@@ -55,16 +58,16 @@
 
 ## YouTube:
 
-- [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
+- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
+- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
 - [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
 - [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
 - [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
-- [Spring AI Prompt Caching: Stop Wasting Money on Repeated Tokens](https://www.youtube.com/watch?v=eYb7BKW4QcU) - Dan Vega
 - [One more thing about Skills #springofficehours](https://www.youtube.com/shorts/69PlPu76Bu4) - SpringSourceDev
-- [Spring REST Client with Service Discovery (Eureka)](https://www.youtube.com/watch?v=s9yyxyvYuq4) - Dan Vega
 - [Shout out to the Java community for moving things forward with #AI #springofficehours](https://www.youtube.com/shorts/XocVBZBfCes) - SpringSourceDev
 - [Skills vs tools and #ai #springofficehours](https://www.youtube.com/shorts/mmJejWrA-ao) - SpringSourceDev
+- [The Shift Away from Vector Stores: What's Behind the Change? #springofficehours](https://www.youtube.com/shorts/TJF51ZEoMvg) - SpringSourceDev
 
 ## Demos:
 
