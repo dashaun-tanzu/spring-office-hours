@@ -1,4 +1,4 @@
-# February 12
+# February 13
 
 ## News:
 
@@ -23,14 +23,12 @@
 - February 12
   - Spring Ldap 3.2.17 (Enterprise)
   - Spring Framework 6.1.25 (Enterprise)
+- February 13
+  - Spring Data Release 2024.0.16 (Enterprise)
+  - Spring Data Release 2024.1.14 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Ldap 3.3.6 (Feb 12)
-- Spring Ldap 4.0.2 (Feb 12)
-- Spring Ldap 4.1.0-M1 (Feb 12)
-- Spring Framework 6.2.16 (Feb 12)
-- Spring Framework 7.0.4 (Feb 12)
 - Spring Data Release 2026.0.0-M1 (Feb 13)
 - Spring Data Release 2025.0.9 (Feb 13)
 - Spring Data Release 2025.1.3 (Feb 13)
@@ -58,16 +56,16 @@
 
 ## YouTube:
 
+- [Is Your Container Security Strategy Setting You Up for Failure?](https://www.youtube.com/watch?v=Sqmx9eikIiI) - Coffee + Software
+- [Is Your Container Security Strategy Setting You Up for Failure? 📱](https://www.youtube.com/watch?v=fukmHUNT0bs) - Coffee + Software
+- [https://github.com/xdev-software/music-maven-plugin #coffeesoftware](https://www.youtube.com/shorts/4SVAVwPHI1M) - Coffee + Software
+- [the amazing  Soby Chacko](https://www.youtube.com/watch?v=9Kg8wzlYcs8) - Coffee + Software
+- [Germany knows if you want your software on time, choose #Java #coffeesoftware](https://www.youtube.com/shorts/n73LzuzNjSA) - Coffee + Software
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
+- [Reading is important, agile education can help! #coffeesoftware](https://www.youtube.com/shorts/tGBPF7R6wTw) - Coffee + Software
+- [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
 - [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
-- [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
-- [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
-- [One more thing about Skills #springofficehours](https://www.youtube.com/shorts/69PlPu76Bu4) - SpringSourceDev
-- [Shout out to the Java community for moving things forward with #AI #springofficehours](https://www.youtube.com/shorts/XocVBZBfCes) - SpringSourceDev
-- [Skills vs tools and #ai #springofficehours](https://www.youtube.com/shorts/mmJejWrA-ao) - SpringSourceDev
-- [The Shift Away from Vector Stores: What's Behind the Change? #springofficehours](https://www.youtube.com/shorts/TJF51ZEoMvg) - SpringSourceDev
 
 ## Demos:
 
