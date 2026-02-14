@@ -1,11 +1,11 @@
-# February 13
+# February 14
 
 ## News:
 
-- [Spring Shell 4.0.1 is out!](https://spring.io/blog/2026/01/31/spring-shell-4-0-1-is-out)
-- [Spring gRPC 1.0.2 Available Now](https://spring.io/blog/2026/01/30/spring-grpc-1)
-- [Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released)
-- [Spring AI 2.0.0-M2 Available Now](https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now)
+- [Spring Data 2025.1.3 and 2025.0.9 released](https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released)
+- [Spring Data 2026.0.0-M1 released](https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released)
+- [Spring Security 6.5.8, 7.0.3 and 7.1.0-M2 available now](https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now)
+- [Spring Framework 6.2.16 and 7.0.4 Available Now](https://spring.io/blog/2026/02/12/spring-framework-6-2-16-and-7-0-4-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -29,15 +29,9 @@
 
 ## Releases coming soon:
 
-- Spring Data Release 2026.0.0-M1 (Feb 13)
-- Spring Data Release 2025.0.9 (Feb 13)
-- Spring Data Release 2025.1.3 (Feb 13)
 - Spring Kafka 4.0.3 (Feb 16)
 - Spring Kafka 4.1.0-M1 (Feb 16)
 - Spring Amqp 4.1.0-M2 (Feb 16)
-- Spring Security 6.5.8 (Feb 16)
-- Spring Security 7.0.3 (Feb 16)
-- Spring Security 7.1.0-M2 (Feb 16)
 - Spring Integration 7.1.0-M2 (Feb 17)
 - Spring Integration 6.5.7 (Feb 17)
 - Spring Integration 7.0.3 (Feb 17)
@@ -50,22 +44,24 @@
 - Spring Grpc 1.1.0-M1 (Feb 17)
 - Spring Pulsar 2.0.3 (Feb 17)
 - Spring Pulsar 1.2.15 (Feb 17)
+- Spring Framework 7.0.5 (Feb 18)
 - Spring Boot 4.1.0-M2 (Feb 19)
 - Spring Boot 3.5.11 (Feb 19)
 - Spring Boot 4.0.3 (Feb 19)
+- Spring Grpc 1.0.3 (Feb 24)
 
 ## YouTube:
 
-- [Is Your Container Security Strategy Setting You Up for Failure?](https://www.youtube.com/watch?v=Sqmx9eikIiI) - Coffee + Software
 - [Is Your Container Security Strategy Setting You Up for Failure? 📱](https://www.youtube.com/watch?v=fukmHUNT0bs) - Coffee + Software
-- [https://github.com/xdev-software/music-maven-plugin #coffeesoftware](https://www.youtube.com/shorts/4SVAVwPHI1M) - Coffee + Software
+- [Is Your Container Security Strategy Setting You Up for Failure? #coffeesoftware](https://www.youtube.com/watch?v=Sqmx9eikIiI) - Coffee + Software
+- [#AI tooling improvements and #ACP with #SpringAI #springofficehours](https://www.youtube.com/shorts/WARt8fmwi9E) - SpringSourceDev
+- [#Spring and #Java for #AI is the trend. James Ward references #AWS data about #AI workloads.](https://www.youtube.com/shorts/wfzK8BEFXXo) - SpringSourceDev
 - [the amazing  Soby Chacko](https://www.youtube.com/watch?v=9Kg8wzlYcs8) - Coffee + Software
+- [https://github.com/xdev-software/music-maven-plugin #coffeesoftware](https://www.youtube.com/shorts/4SVAVwPHI1M) - Coffee + Software
 - [Germany knows if you want your software on time, choose #Java #coffeesoftware](https://www.youtube.com/shorts/n73LzuzNjSA) - Coffee + Software
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
 - [Reading is important, agile education can help! #coffeesoftware](https://www.youtube.com/shorts/tGBPF7R6wTw) - Coffee + Software
-- [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
 
 ## Demos:
 
