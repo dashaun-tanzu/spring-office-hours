@@ -1,4 +1,4 @@
-# February 14
+# February 15
 
 ## News:
 
@@ -52,6 +52,7 @@
 
 ## YouTube:
 
+- [Spring Security 7](https://www.youtube.com/watch?v=68P21jtmoy0) - Coffee + Software
 - [Is Your Container Security Strategy Setting You Up for Failure? 📱](https://www.youtube.com/watch?v=fukmHUNT0bs) - Coffee + Software
 - [Is Your Container Security Strategy Setting You Up for Failure? #coffeesoftware](https://www.youtube.com/watch?v=Sqmx9eikIiI) - Coffee + Software
 - [#AI tooling improvements and #ACP with #SpringAI #springofficehours](https://www.youtube.com/shorts/WARt8fmwi9E) - SpringSourceDev
@@ -61,7 +62,6 @@
 - [Germany knows if you want your software on time, choose #Java #coffeesoftware](https://www.youtube.com/shorts/n73LzuzNjSA) - Coffee + Software
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
 - [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
-- [Reading is important, agile education can help! #coffeesoftware](https://www.youtube.com/shorts/tGBPF7R6wTw) - Coffee + Software
 
 ## Demos:
 
