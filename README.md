@@ -1,4 +1,4 @@
-# February 15
+# February 16
 
 ## News:
 
@@ -26,6 +26,13 @@
 - February 13
   - Spring Data Release 2024.0.16 (Enterprise)
   - Spring Data Release 2024.1.14 (Enterprise)
+- February 16
+  - Spring Kafka 3.2.13 (Enterprise)
+  - Spring Amqp 3.1.15 (Enterprise)
+  - Spring Security 5.7.21 (Enterprise)
+  - Spring Security 5.8.23 (Enterprise)
+  - Spring Security 6.3.14 (Enterprise)
+  - Spring Security 6.4.14 (Enterprise)
 
 ## Releases coming soon:
 
