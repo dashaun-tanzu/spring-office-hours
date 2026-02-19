@@ -1,10 +1,10 @@
-# February 18
+# February 19
 
 ## News:
 
+- [Spring Session 2026-02 Releases](https://spring.io/blog/2026/02/18/spring-session-releases)
+- [Spring Framework 7.0.5 Available Now](https://spring.io/blog/2026/02/18/spring-framework-7-0-5-available-now)
 - [Spring for Apache Pulsar 1.2.15 and 2.0.3 are now available](https://spring.io/blog/2026/02/17/spring-for-apache-pulsar-1-2-15-and-2-0-3-are-now-available)
-- [Spring Data 2026.0.0-M1 released](https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released)
-- [Spring Security 6.5.8, 7.0.3 and 7.1.0-M2 available now](https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now)
 - [Spring Data 2025.1.3 and 2025.0.9 released](https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released)
 
 ## Recent Enterprise Releases:
@@ -27,6 +27,7 @@
   - Spring Integration 6.4.11 (Enterprise)
   - Spring Session 3.4.8 (Enterprise)
   - Spring Session 3.3.10 (Enterprise)
+  - Spring Session 2021.2.6 (Enterprise)
   - Spring Graphql 1.3.8 (Enterprise)
   - Spring Authorization Server 1.3.10 (Enterprise)
   - Spring Authorization Server 1.4.9 (Enterprise)
@@ -34,16 +35,33 @@
   - Spring Pulsar 1.1.17 (Enterprise)
 - February 18
   - Spring Batch 5.1.5 (Enterprise)
+- February 19
+  - Spring Boot 2.7.31 (Enterprise)
+  - Spring Boot 3.3.17 (Enterprise)
+  - Spring Boot 3.4.14 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Framework 7.0.5 (Feb 18)
 - Spring Boot 4.1.0-M2 (Feb 19)
 - Spring Boot 3.5.11 (Feb 19)
 - Spring Boot 4.0.3 (Feb 19)
+- Spring Modulith 1.4.8 (Feb 20)
+- Spring Modulith 2.0.3 (Feb 20)
+- Spring Modulith 2.1 M2 (Feb 20)
 - Spring Grpc 1.0.3 (Feb 24)
 
 ## YouTube:
+
+- [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
+- [Spring AI Prompt Caching: Stop Wasting Money on Repeated Tokens](https://www.youtube.com/watch?v=eYb7BKW4QcU) - Dan Vega
+- [Spring REST Client with Service Discovery (Eureka)](https://www.youtube.com/watch?v=s9yyxyvYuq4) - Dan Vega
+- [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk) - Dan Vega
+- [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
+- [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo) - Dan Vega
+- [I Tried OpenAI's New Codex Agent. Here are my First Impressions (It's Really Good)](https://www.youtube.com/watch?v=Q44TPEtNcNo) - Dan Vega
+- [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
+- [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg) - Dan Vega
+- [Claude Code Just Fixed MCP's Biggest Problem](https://www.youtube.com/watch?v=itS3f1Y52t0) - Dan Vega
 
 ## Demos:
 
