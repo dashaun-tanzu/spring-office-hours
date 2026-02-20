@@ -1,17 +1,14 @@
-# February 19
+# February 20
 
 ## News:
 
-- [Spring Session 2026-02 Releases](https://spring.io/blog/2026/02/18/spring-session-releases)
-- [Spring Framework 7.0.5 Available Now](https://spring.io/blog/2026/02/18/spring-framework-7-0-5-available-now)
-- [Spring for Apache Pulsar 1.2.15 and 2.0.3 are now available](https://spring.io/blog/2026/02/17/spring-for-apache-pulsar-1-2-15-and-2-0-3-are-now-available)
-- [Spring Data 2025.1.3 and 2025.0.9 released](https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released)
+- [Spring Modulith 2.1 M2, 2.0.4, and 1.4.8 released](https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released)
+- [Spring Boot 4.1.0-M2 available now](https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now)
+- [Spring Boot 4.0.3 available now](https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now)
+- [Spring AMQP 4.1.0 Milestone 2 Available](https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available)
 
 ## Recent Enterprise Releases:
 
-- February 12
-  - Spring Ldap 3.2.17 (Enterprise)
-  - Spring Framework 6.1.25 (Enterprise)
 - February 13
   - Spring Data Release 2024.0.16 (Enterprise)
   - Spring Data Release 2024.1.14 (Enterprise)
@@ -39,12 +36,14 @@
   - Spring Boot 2.7.31 (Enterprise)
   - Spring Boot 3.3.17 (Enterprise)
   - Spring Boot 3.4.14 (Enterprise)
+- February 20
+  - Spring Statemachine 3.2.4 (Enterprise)
+  - Spring Shell 2.1.19 (Enterprise)
+  - Spring Shell 3.3.6 (Enterprise)
+  - Spring Cloud Release 2021.0.12 (Enterprise)
 
 ## Releases coming soon:
 
-- Spring Boot 4.1.0-M2 (Feb 19)
-- Spring Boot 3.5.11 (Feb 19)
-- Spring Boot 4.0.3 (Feb 19)
 - Spring Modulith 1.4.8 (Feb 20)
 - Spring Modulith 2.0.3 (Feb 20)
 - Spring Modulith 2.1 M2 (Feb 20)
@@ -52,16 +51,16 @@
 
 ## YouTube:
 
+- [Building a Terminal UI for Spring Initializr with Java](https://www.youtube.com/watch?v=J9C2MiQTIYs) - Dan Vega
+- [#AI tooling improvements and #ACP with #SpringAI #springofficehours](https://www.youtube.com/shorts/WARt8fmwi9E) - SpringSourceDev
+- [#Spring and #Java for #AI is the trend. James Ward references #AWS data about #AI workloads.](https://www.youtube.com/shorts/wfzK8BEFXXo) - SpringSourceDev
+- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
+- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
 - [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
-- [Spring AI Prompt Caching: Stop Wasting Money on Repeated Tokens](https://www.youtube.com/watch?v=eYb7BKW4QcU) - Dan Vega
-- [Spring REST Client with Service Discovery (Eureka)](https://www.youtube.com/watch?v=s9yyxyvYuq4) - Dan Vega
-- [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk) - Dan Vega
-- [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
-- [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo) - Dan Vega
-- [I Tried OpenAI's New Codex Agent. Here are my First Impressions (It's Really Good)](https://www.youtube.com/watch?v=Q44TPEtNcNo) - Dan Vega
-- [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
-- [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg) - Dan Vega
-- [Claude Code Just Fixed MCP's Biggest Problem](https://www.youtube.com/watch?v=itS3f1Y52t0) - Dan Vega
+- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
+- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
+- [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
+- [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
 
 ## Demos:
 
