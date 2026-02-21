@@ -1,4 +1,4 @@
-# February 20
+# February 21
 
 ## News:
 
@@ -9,9 +9,6 @@
 
 ## Recent Enterprise Releases:
 
-- February 13
-  - Spring Data Release 2024.0.16 (Enterprise)
-  - Spring Data Release 2024.1.14 (Enterprise)
 - February 16
   - Spring Kafka 3.2.13 (Enterprise)
   - Spring Amqp 3.1.15 (Enterprise)
@@ -44,9 +41,6 @@
 
 ## Releases coming soon:
 
-- Spring Modulith 1.4.8 (Feb 20)
-- Spring Modulith 2.0.3 (Feb 20)
-- Spring Modulith 2.1 M2 (Feb 20)
 - Spring Grpc 1.0.3 (Feb 24)
 
 ## YouTube:
