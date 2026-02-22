@@ -1,4 +1,4 @@
-# February 21
+# February 22
 
 ## News:
 
@@ -45,16 +45,16 @@
 
 ## YouTube:
 
+- [John Willis, my friend](https://www.youtube.com/watch?v=E_VcorY7s1o) - Coffee + Software
 - [Building a Terminal UI for Spring Initializr with Java](https://www.youtube.com/watch?v=J9C2MiQTIYs) - Dan Vega
+- [the legendary Glenn Renfro on Spring Integration, Devnexus, and so much more](https://www.youtube.com/watch?v=LxQ93x2WYq0) - Coffee + Software
+- [Spring Security 7](https://www.youtube.com/watch?v=68P21jtmoy0) - Coffee + Software
+- [Is Your Container Security Strategy Setting You Up for Failure? 📱](https://www.youtube.com/watch?v=fukmHUNT0bs) - Coffee + Software
+- [Is Your Container Security Strategy Setting You Up for Failure? #coffeesoftware](https://www.youtube.com/watch?v=Sqmx9eikIiI) - Coffee + Software
 - [#AI tooling improvements and #ACP with #SpringAI #springofficehours](https://www.youtube.com/shorts/WARt8fmwi9E) - SpringSourceDev
 - [#Spring and #Java for #AI is the trend. James Ward references #AWS data about #AI workloads.](https://www.youtube.com/shorts/wfzK8BEFXXo) - SpringSourceDev
-- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller](https://www.youtube.com/watch?v=bMlal_ZmnNo) - SpringSourceDev
-- [Spring Office Hours: S5E06 - Spring Framework 7 with Juergen Hoeller 📱](https://www.youtube.com/watch?v=iiy5xuh_2j0) - SpringSourceDev
-- [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
-- [Spring Office Hours: S5E05 - Spring and AWS with James Ward](https://www.youtube.com/watch?v=hlUC8DF8iFg) - SpringSourceDev
-- [Spring Office Hours: S5E05 - Spring and AWS with James Ward 📱](https://www.youtube.com/watch?v=5L-YNIOZLPI) - SpringSourceDev
+- [the amazing  Soby Chacko](https://www.youtube.com/watch?v=9Kg8wzlYcs8) - Coffee + Software
+- [https://github.com/xdev-software/music-maven-plugin #coffeesoftware](https://www.youtube.com/shorts/4SVAVwPHI1M) - Coffee + Software
 
 ## Demos:
 
