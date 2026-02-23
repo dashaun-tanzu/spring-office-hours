@@ -1,11 +1,11 @@
-# February 22
+# February 23
 
 ## News:
 
 - [Spring Modulith 2.1 M2, 2.0.4, and 1.4.8 released](https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released)
 - [Spring Boot 4.1.0-M2 available now](https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now)
 - [Spring Boot 4.0.3 available now](https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now)
-- [Spring AMQP 4.1.0 Milestone 2 Available](https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available)
+- [Spring Boot 3.5.11 available now](https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -42,6 +42,7 @@
 ## Releases coming soon:
 
 - Spring Grpc 1.0.3 (Feb 24)
+- Spring Ai 2.0.0-M3 (Mar 5)
 
 ## YouTube:
 
