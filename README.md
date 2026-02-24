@@ -41,16 +41,16 @@
 
 ## YouTube:
 
-- [Building a Terminal UI for Spring Initializr with Java](https://www.youtube.com/watch?v=J9C2MiQTIYs) - Dan Vega
-- [Spring Boot RestClient.Builder Explained (Builder Pattern)](https://www.youtube.com/watch?v=aocKQ2-U3wU) - Dan Vega
-- [Spring AI Prompt Caching: Stop Wasting Money on Repeated Tokens](https://www.youtube.com/watch?v=eYb7BKW4QcU) - Dan Vega
-- [Spring REST Client with Service Discovery (Eureka)](https://www.youtube.com/watch?v=s9yyxyvYuq4) - Dan Vega
-- [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk) - Dan Vega
-- [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA) - Dan Vega
-- [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo) - Dan Vega
-- [I Tried OpenAI's New Codex Agent. Here are my First Impressions (It's Really Good)](https://www.youtube.com/watch?v=Q44TPEtNcNo) - Dan Vega
-- [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc) - Dan Vega
-- [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg) - Dan Vega
+- [Neo4j legend Jennifer Reif](https://www.youtube.com/watch?v=oee0TXqwTns) - Coffee + Software
+- [Spring gRPC 1.0!](https://www.youtube.com/watch?v=RRY_d2kZsj0) - Coffee + Software
+- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
+- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
+- [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
+- [Graph databases like Neo4J for fraud detection (with concrete examples)](https://www.youtube.com/shorts/zoX3_4ht-Ro) - Coffee + Software
+- [Graphs RAG, vectors, and connected context](https://www.youtube.com/shorts/cS7E6pFYmeQ) - Coffee + Software
+- [How graph relationships encode meaning (with examples)](https://www.youtube.com/shorts/n_Pct4Su22o) - Coffee + Software
+- [Why graph DBs reveal surprising connections  and how to get started  #podcast #springboot  #neo4j](https://www.youtube.com/shorts/L8QsYMhujVQ) - Coffee + Software
+- [Spring Data Neo4J first steps with Neo4J's Jennifer Reif](https://www.youtube.com/watch?v=S6m2C3nS_24) - Coffee + Software
 
 ## Demos:
 
