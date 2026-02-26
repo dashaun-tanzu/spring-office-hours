@@ -1,4 +1,4 @@
-# February 25
+# February 26
 
 ## News:
 
@@ -9,8 +9,6 @@
 
 ## Recent Enterprise Releases:
 
-- February 18
-  - Spring Batch 5.1.5 (Enterprise)
 - February 19
   - Spring Boot 2.7.31 (Enterprise)
   - Spring Boot 3.3.17 (Enterprise)
@@ -22,6 +20,8 @@
   - Spring Cloud Release 2021.0.12 (Enterprise)
 - February 24
   - Spring Cloud Release 2023.0.10 (Enterprise)
+- February 26
+  - Spring Cloud Release 2024.0.4 (Enterprise)
 
 ## Releases coming soon:
 
@@ -29,8 +29,8 @@
 
 ## YouTube:
 
-- [Announcing SkillsJars - Agent Skills on Maven Central](https://www.youtube.com/watch?v=k_zXrtSIiLo) - Coffee + Software
 - [Announcing SkillsJars - Agent Skills on Maven Central 📱](https://www.youtube.com/watch?v=Q_n-tLOlyu4) - Coffee + Software
+- [Announcing SkillsJars - Agent Skills on Maven Central](https://www.youtube.com/watch?v=k_zXrtSIiLo) - Coffee + Software
 - [VMware Tanzu at Devnexus 2026](https://www.youtube.com/watch?v=l77wsZJbzts) - SpringSourceDev
 - [Neo4j legend Jennifer Reif](https://www.youtube.com/watch?v=oee0TXqwTns) - Coffee + Software
 - [Spring gRPC 1.0!](https://www.youtube.com/watch?v=RRY_d2kZsj0) - Coffee + Software
