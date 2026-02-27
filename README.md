@@ -1,4 +1,4 @@
-# February 26
+# February 27
 
 ## News:
 
@@ -9,10 +9,6 @@
 
 ## Recent Enterprise Releases:
 
-- February 19
-  - Spring Boot 2.7.31 (Enterprise)
-  - Spring Boot 3.3.17 (Enterprise)
-  - Spring Boot 3.4.14 (Enterprise)
 - February 20
   - Spring Statemachine 3.2.4 (Enterprise)
   - Spring Shell 2.1.19 (Enterprise)
@@ -26,19 +22,15 @@
 ## Releases coming soon:
 
 - Spring Ai 2.0.0-M3 (Mar 5)
+- Micrometer 1.15.10 (Mar 9)
+- Micrometer 1.16.4 (Mar 9)
+- Micrometer 1.17.0-M3 (Mar 9)
+- Micrometer Tracing 1.5.10 (Mar 9)
+- Micrometer Tracing 1.6.4 (Mar 9)
+- Micrometer Tracing 1.7.0-M4 (Mar 9)
+- Spring Release Actions 0.0.3 (Mar 9)
 
 ## YouTube:
-
-- [Announcing SkillsJars - Agent Skills on Maven Central 📱](https://www.youtube.com/watch?v=Q_n-tLOlyu4) - Coffee + Software
-- [Announcing SkillsJars - Agent Skills on Maven Central](https://www.youtube.com/watch?v=k_zXrtSIiLo) - Coffee + Software
-- [VMware Tanzu at Devnexus 2026](https://www.youtube.com/watch?v=l77wsZJbzts) - SpringSourceDev
-- [Neo4j legend Jennifer Reif](https://www.youtube.com/watch?v=oee0TXqwTns) - Coffee + Software
-- [Spring gRPC 1.0!](https://www.youtube.com/watch?v=RRY_d2kZsj0) - Coffee + Software
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
-- [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
-- [Graph databases like Neo4J for fraud detection (with concrete examples)](https://www.youtube.com/shorts/zoX3_4ht-Ro) - Coffee + Software
-- [Graphs RAG, vectors, and connected context](https://www.youtube.com/shorts/cS7E6pFYmeQ) - Coffee + Software
 
 ## Demos:
 
