@@ -1,4 +1,4 @@
-# March 2
+# March 3
 
 ## News:
 
@@ -34,19 +34,11 @@
 - Spring Ldap 4.1.0-M2 (Mar 12)
 - Spring Framework 6.2.17 (Mar 12)
 - Spring Framework 7.0.6 (Mar 12)
+- Spring Data Release 2026.0.0-M2 (Mar 13)
+- Spring Data Release 2025.1.4 (Mar 13)
+- Spring Data Release 2025.0.10 (Mar 13)
 
 ## YouTube:
-
-- [Secure your CLI applications with OAuth (and Spring Security)](https://www.youtube.com/watch?v=rLIQTY9Gg04) - Coffee + Software
-- [Dynamic bean registration with #SpringFramework 7 - Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/pPHD18PxPFI) - SpringSourceDev
-- [Don't leave the door open for bad actors - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/LEyzokjmBwk) - Coffee + Software
-- [Why your container should have a #SBOM - Catherine Edelveis #coffeesoftware](https://www.youtube.com/shorts/WK80JzMhv3Q) - Coffee + Software
-- [#GraalVM #native #java Scale to Zero with #Liberica Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/HDpAL-Nh4DM) - Coffee + Software
-- [Docker images with curl and package manager or #distroless - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/j_4bKF24NiQ) - Coffee + Software
-- [Explosive growth in adoption of #SpringAI - Soby Chacko #coffeesoftware](https://www.youtube.com/shorts/GOTHd-O7_Sk) - Coffee + Software
-- [Queue based consumption model coming to #kafka - Soby Chacko #coffeesoftware](https://www.youtube.com/shorts/O_x-xZPvIpI) - Coffee + Software
-- [Lightweight Kafka Streams with Soby Chako #coffeesoftware](https://www.youtube.com/shorts/_LIvitVNiI4) - Coffee + Software
-- [Spring Cloud Stream for Kafka Streams Soby Chako #coffeesoftware](https://www.youtube.com/shorts/bMNBbEXwmEs) - Coffee + Software
 
 ## Demos:
 
