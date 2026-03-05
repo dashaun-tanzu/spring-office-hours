@@ -1,11 +1,11 @@
-# March 4
+# March 5
 
 ## News:
 
 - [Spring Modulith 2.1 M2, 2.0.4, and 1.4.8 released](https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released)
 - [Spring Boot 4.1.0-M2 available now](https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now)
 - [Spring Boot 4.0.3 available now](https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now)
-- [Spring Boot 3.5.11 available now](https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now)
+- [Spring AMQP 4.1.0 Milestone 2 Available](https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available)
 
 ## Recent Enterprise Releases:
 
@@ -14,7 +14,6 @@
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0-M3 (Mar 5)
 - Micrometer 1.15.10 (Mar 9)
 - Micrometer 1.16.4 (Mar 9)
 - Micrometer 1.17.0-M3 (Mar 9)
@@ -30,6 +29,7 @@
 - Reactor Netty 1.3.4 (Mar 10)
 - Spring Tools 5.1.0.RELEASE (Mar 11)
 - Spring Ldap 4.1.0-M2 (Mar 12)
+- Spring Ai 2.0.0-M3 (Mar 12)
 - Spring Framework 6.2.17 (Mar 12)
 - Spring Framework 7.0.6 (Mar 12)
 - Spring Data Release 2026.0.0-M2 (Mar 13)
