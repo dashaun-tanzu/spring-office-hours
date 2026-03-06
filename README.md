@@ -1,4 +1,4 @@
-# March 5
+# March 6
 
 ## News:
 
@@ -6,11 +6,6 @@
 - [Spring Boot 4.1.0-M2 available now](https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now)
 - [Spring Boot 4.0.3 available now](https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now)
 - [Spring AMQP 4.1.0 Milestone 2 Available](https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available)
-
-## Recent Enterprise Releases:
-
-- February 26
-  - Spring Cloud Release 2024.0.4 (Enterprise)
 
 ## Releases coming soon:
 
@@ -35,6 +30,11 @@
 - Spring Data Release 2026.0.0-M2 (Mar 13)
 - Spring Data Release 2025.1.4 (Mar 13)
 - Spring Data Release 2025.0.10 (Mar 13)
+- Spring Kafka 4.1.0-M2 (Mar 16)
+- Spring Kafka 4.0.4 (Mar 16)
+- Spring Kafka 3.3.14 (Mar 16)
+- Spring Amqp 4.1.0-M3 (Mar 16)
+- Spring Security 7.1.0-M3 (Mar 16)
 
 ## YouTube:
 
