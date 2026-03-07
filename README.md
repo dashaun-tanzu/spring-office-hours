@@ -1,4 +1,4 @@
-# March 6
+# March 7
 
 ## News:
 
@@ -34,7 +34,12 @@
 - Spring Kafka 4.0.4 (Mar 16)
 - Spring Kafka 3.3.14 (Mar 16)
 - Spring Amqp 4.1.0-M3 (Mar 16)
+- Spring Security 7.0.4 (Mar 16)
 - Spring Security 7.1.0-M3 (Mar 16)
+- Spring Security 6.5.9 (Mar 16)
+- Spring Integration 7.1.0-M3 (Mar 17)
+- Spring Pulsar 2.0.4 (Mar 17)
+- Spring Pulsar 1.2.16 (Mar 17)
 
 ## YouTube:
 
