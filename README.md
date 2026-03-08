@@ -1,11 +1,11 @@
-# March 7
+# March 8
 
 ## News:
 
 - [Spring Modulith 2.1 M2, 2.0.4, and 1.4.8 released](https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released)
 - [Spring Boot 4.1.0-M2 available now](https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now)
 - [Spring Boot 4.0.3 available now](https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now)
-- [Spring AMQP 4.1.0 Milestone 2 Available](https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available)
+- [Spring Boot 3.5.11 available now](https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now)
 
 ## Releases coming soon:
 
@@ -40,6 +40,8 @@
 - Spring Integration 7.1.0-M3 (Mar 17)
 - Spring Pulsar 2.0.4 (Mar 17)
 - Spring Pulsar 1.2.16 (Mar 17)
+- Spring Batch 5.2.5 (Mar 18)
+- Spring Batch 6.0.3 (Mar 18)
 
 ## YouTube:
 
