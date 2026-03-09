@@ -1,11 +1,11 @@
-# March 8
+# March 9
 
 ## News:
 
 - [Spring Modulith 2.1 M2, 2.0.4, and 1.4.8 released](https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released)
 - [Spring Boot 4.1.0-M2 available now](https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now)
 - [Spring Boot 4.0.3 available now](https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now)
-- [Spring Boot 3.5.11 available now](https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now)
+- [Spring AMQP 4.1.0 Milestone 2 Available](https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available)
 
 ## Releases coming soon:
 
@@ -42,19 +42,11 @@
 - Spring Pulsar 1.2.16 (Mar 17)
 - Spring Batch 5.2.5 (Mar 18)
 - Spring Batch 6.0.3 (Mar 18)
+- Spring Boot 4.1.0-M3 (Mar 19)
+- Spring Boot 3.5.12 (Mar 19)
+- Spring Boot 4.0.4 (Mar 19)
 
 ## YouTube:
-
-- [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
-- [Secure your CLI applications with OAuth (and Spring Security)](https://www.youtube.com/watch?v=rLIQTY9Gg04) - Coffee + Software
-- [Dynamic bean registration with #SpringFramework 7 - Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/pPHD18PxPFI) - SpringSourceDev
-- [Don't leave the door open for bad actors - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/LEyzokjmBwk) - Coffee + Software
-- [Why your container should have a #SBOM - Catherine Edelveis #coffeesoftware](https://www.youtube.com/shorts/WK80JzMhv3Q) - Coffee + Software
-- [#GraalVM #native #java Scale to Zero with #Liberica Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/HDpAL-Nh4DM) - Coffee + Software
-- [Docker images with curl and package manager or #distroless - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/j_4bKF24NiQ) - Coffee + Software
-- [Explosive growth in adoption of #SpringAI - Soby Chacko #coffeesoftware](https://www.youtube.com/shorts/GOTHd-O7_Sk) - Coffee + Software
-- [Queue based consumption model coming to #kafka - Soby Chacko #coffeesoftware](https://www.youtube.com/shorts/O_x-xZPvIpI) - Coffee + Software
-- [Lightweight Kafka Streams with Soby Chako #coffeesoftware](https://www.youtube.com/shorts/_LIvitVNiI4) - Coffee + Software
 
 ## Demos:
 
