@@ -1,4 +1,4 @@
-# March 9
+# March 10
 
 ## News:
 
@@ -9,13 +9,6 @@
 
 ## Releases coming soon:
 
-- Micrometer 1.15.10 (Mar 9)
-- Micrometer 1.16.4 (Mar 9)
-- Micrometer 1.17.0-M3 (Mar 9)
-- Micrometer Tracing 1.5.10 (Mar 9)
-- Micrometer Tracing 1.6.4 (Mar 9)
-- Micrometer Tracing 1.7.0-M4 (Mar 9)
-- Spring Release Actions 0.0.3 (Mar 9)
 - Reactor 2024.0.16 (Mar 10)
 - Reactor 2025.0.4 (Mar 10)
 - Reactor Core 3.8.4 (Mar 10)
@@ -24,12 +17,13 @@
 - Reactor Netty 1.3.4 (Mar 10)
 - Spring Tools 5.1.0.RELEASE (Mar 11)
 - Spring Ldap 4.1.0-M2 (Mar 12)
-- Spring Ai 2.0.0-M3 (Mar 12)
 - Spring Framework 6.2.17 (Mar 12)
 - Spring Framework 7.0.6 (Mar 12)
+- Spring Vault 4.1.0-M1 (Mar 13)
 - Spring Data Release 2026.0.0-M2 (Mar 13)
 - Spring Data Release 2025.1.4 (Mar 13)
 - Spring Data Release 2025.0.10 (Mar 13)
+- Spring Ai 2.0.0-M3 (Mar 13)
 - Spring Kafka 4.1.0-M2 (Mar 16)
 - Spring Kafka 4.0.4 (Mar 16)
 - Spring Kafka 3.3.14 (Mar 16)
@@ -38,6 +32,9 @@
 - Spring Security 7.1.0-M3 (Mar 16)
 - Spring Security 6.5.9 (Mar 16)
 - Spring Integration 7.1.0-M3 (Mar 17)
+- Spring Integration 7.0.4 (Mar 17)
+- Spring Ws 4.1.3 (Mar 17)
+- Spring Ws 5.0.1 (Mar 17)
 - Spring Pulsar 2.0.4 (Mar 17)
 - Spring Pulsar 1.2.16 (Mar 17)
 - Spring Batch 5.2.5 (Mar 18)
@@ -45,6 +42,9 @@
 - Spring Boot 4.1.0-M3 (Mar 19)
 - Spring Boot 3.5.12 (Mar 19)
 - Spring Boot 4.0.4 (Mar 19)
+- Spring Statemachine 4.0.2 (Mar 20)
+- Spring Shell 3.4.2 (Mar 20)
+- Spring Shell 4.0.2 (Mar 20)
 
 ## YouTube:
 
