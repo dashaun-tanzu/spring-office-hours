@@ -1,4 +1,4 @@
-# March 10
+# March 11
 
 ## News:
 
@@ -9,12 +9,6 @@
 
 ## Releases coming soon:
 
-- Reactor 2024.0.16 (Mar 10)
-- Reactor 2025.0.4 (Mar 10)
-- Reactor Core 3.8.4 (Mar 10)
-- Reactor Pool 1.2.4 (Mar 10)
-- Reactor Netty 1.2.16 (Mar 10)
-- Reactor Netty 1.3.4 (Mar 10)
 - Spring Tools 5.1.0.RELEASE (Mar 11)
 - Spring Ldap 4.1.0-M2 (Mar 12)
 - Spring Framework 6.2.17 (Mar 12)
@@ -47,6 +41,17 @@
 - Spring Shell 4.0.2 (Mar 20)
 
 ## YouTube:
+
+- [Thought experiments with John Willis #coffeesoftware](https://www.youtube.com/shorts/Hj6w1AArX6s) - Coffee + Software
+- [Use #AI in your existing workflows : Glenn Renfro and Josh Long #coffeesoftware](https://www.youtube.com/shorts/NivJKPfhzQo) - Coffee + Software
+- [Less complex #Spring #Integration : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/dfGCQyBKc7I) - Coffee + Software
+- [How to have #AI #native success with existing workflows, with Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/eSvQtvSs7lk) - Coffee + Software
+- [Popular #MCP frameworks across languages compared : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/A8lQ_bl9Hxc) - Coffee + Software
+- [Secure your CLI applications with OAuth (and Spring Security)](https://www.youtube.com/watch?v=rLIQTY9Gg04) - Coffee + Software
+- [Don't leave the door open for bad actors - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/LEyzokjmBwk) - Coffee + Software
+- [Why your container should have a #SBOM - Catherine Edelveis #coffeesoftware](https://www.youtube.com/shorts/WK80JzMhv3Q) - Coffee + Software
+- [#GraalVM #native #java Scale to Zero with #Liberica Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/HDpAL-Nh4DM) - Coffee + Software
+- [Docker images with curl and package manager or #distroless - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/j_4bKF24NiQ) - Coffee + Software
 
 ## Demos:
 
