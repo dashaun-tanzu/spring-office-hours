@@ -1,4 +1,4 @@
-# March 12
+# March 13
 
 ## News:
 
@@ -9,7 +9,6 @@
 
 ## Releases coming soon:
 
-- Spring Ldap 4.1.0-M2 (Mar 12)
 - Spring Vault 4.1.0-M1 (Mar 13)
 - Spring Data Release 2026.0.0-M2 (Mar 13)
 - Spring Data Release 2025.1.4 (Mar 13)
@@ -27,8 +26,10 @@
 - Spring Security 7.0.4 (Mar 16)
 - Spring Security 7.1.0-M3 (Mar 16)
 - Spring Security 6.5.9 (Mar 16)
+- Spring Tools 5.1.1.RELEASE (Mar 17)
 - Spring Integration 7.1.0-M3 (Mar 17)
 - Spring Integration 7.0.4 (Mar 17)
+- Spring Integration 6.5.8 (Mar 17)
 - Spring Ws 4.1.3 (Mar 17)
 - Spring Ws 5.0.1 (Mar 17)
 - Spring Pulsar 2.0.4 (Mar 17)
@@ -43,17 +44,6 @@
 - Spring Shell 4.0.2 (Mar 20)
 
 ## YouTube:
-
-- [Thought experiments with John Willis #coffeesoftware](https://www.youtube.com/shorts/Hj6w1AArX6s) - Coffee + Software
-- [Spring Office Hours: S5E09 - Java Community Update](https://www.youtube.com/watch?v=yqBl3aXRYjI) - SpringSourceDev
-- [Use #AI in your existing workflows : Glenn Renfro and Josh Long #coffeesoftware](https://www.youtube.com/shorts/NivJKPfhzQo) - Coffee + Software
-- [Less complex #Spring #Integration : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/dfGCQyBKc7I) - Coffee + Software
-- [How to have #AI #native success with existing workflows, with Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/eSvQtvSs7lk) - Coffee + Software
-- [Popular #MCP frameworks across languages compared : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/A8lQ_bl9Hxc) - Coffee + Software
-- [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
-- [Secure your CLI applications with OAuth (and Spring Security)](https://www.youtube.com/watch?v=rLIQTY9Gg04) - Coffee + Software
-- [Dynamic bean registration with #SpringFramework 7 - Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/pPHD18PxPFI) - SpringSourceDev
-- [Don't leave the door open for bad actors - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/LEyzokjmBwk) - Coffee + Software
 
 ## Demos:
 
