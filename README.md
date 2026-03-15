@@ -1,4 +1,4 @@
-# March 14
+# March 15
 
 ## News:
 
@@ -40,6 +40,17 @@
 - Spring Grpc 1.0.3 (Mar 24)
 
 ## YouTube:
+
+- [Chris Bono on a Bootiful Podcast](https://www.youtube.com/watch?v=5ItWPiN1ZXQ) - Coffee + Software
+- [Thought experiments with John Willis #coffeesoftware](https://www.youtube.com/shorts/Hj6w1AArX6s) - Coffee + Software
+- [Use #AI in your existing workflows : Glenn Renfro and Josh Long #coffeesoftware](https://www.youtube.com/shorts/NivJKPfhzQo) - Coffee + Software
+- [Less complex #Spring #Integration : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/dfGCQyBKc7I) - Coffee + Software
+- [How to have #AI #native success with existing workflows, with Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/eSvQtvSs7lk) - Coffee + Software
+- [Popular #MCP frameworks across languages compared : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/A8lQ_bl9Hxc) - Coffee + Software
+- [Secure your CLI applications with OAuth (and Spring Security)](https://www.youtube.com/watch?v=rLIQTY9Gg04) - Coffee + Software
+- [Don't leave the door open for bad actors - Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/LEyzokjmBwk) - Coffee + Software
+- [Why your container should have a #SBOM - Catherine Edelveis #coffeesoftware](https://www.youtube.com/shorts/WK80JzMhv3Q) - Coffee + Software
+- [#GraalVM #native #java Scale to Zero with #Liberica Cat Edelveis #coffeesoftware](https://www.youtube.com/shorts/HDpAL-Nh4DM) - Coffee + Software
 
 ## Demos:
 
