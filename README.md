@@ -1,11 +1,11 @@
-# March 16
+# March 17
 
 ## News:
 
+- [Spring Vault 4.1.0-M1 available](https://spring.io/blog/2026/03/16/spring-vault-4-1-0-m1-available)
+- [Spring for Apache Pulsar 1.2.16 and 2.0.4 are now available](https://spring.io/blog/2026/03/16/spring-for-apache-pulsar-1-2-16-and-2-0-4-are-now-available)
 - [Spring Data 2025.1.4 and 2025.0.10 released](https://spring.io/blog/2026/03/13/spring-data-2024-1-4-and-2024-0-10-released)
 - [Spring Data 2026.0.0-M2 released](https://spring.io/blog/2026/03/13/spring-data-2026-0-0-M2-released)
-- [Spring Framework 6.2.17 and 7.0.6 Available Now](https://spring.io/blog/2026/03/13/spring-framework-6-2-17-and-7-0-6-available-now)
-- [Spring Tools 5.1.0 released](https://spring.io/blog/2026/03/11/spring-tools-5-1-0-released)
 
 ## Recent Enterprise Releases:
 
@@ -17,14 +17,6 @@
 
 ## Releases coming soon:
 
-- Spring Kafka 4.1.0-M2 (Mar 16)
-- Spring Kafka 4.0.4 (Mar 16)
-- Spring Kafka 3.3.14 (Mar 16)
-- Spring Ai 2.0.0-M3 (Mar 16)
-- Spring Amqp 4.1.0-M3 (Mar 16)
-- Spring Security 7.0.4 (Mar 16)
-- Spring Security 7.1.0-M3 (Mar 16)
-- Spring Security 6.5.9 (Mar 16)
 - Spring Tools 5.1.1.RELEASE (Mar 17)
 - Spring Integration 7.1.0-M3 (Mar 17)
 - Spring Integration 7.0.4 (Mar 17)
@@ -46,16 +38,16 @@
 
 ## YouTube:
 
+- [Mark Kropf on a Bootiful Podcast](https://www.youtube.com/watch?v=mLpo0bGDnTk) - Coffee + Software
+- [Chris Bono on a Bootiful Podcast](https://www.youtube.com/watch?v=5ItWPiN1ZXQ) - Coffee + Software
+- [Thought experiments with John Willis #coffeesoftware](https://www.youtube.com/shorts/Hj6w1AArX6s) - Coffee + Software
 - [Spring Office Hours: S5E09 - Java Community Update](https://www.youtube.com/watch?v=yqBl3aXRYjI) - SpringSourceDev
+- [Use #AI in your existing workflows : Glenn Renfro and Josh Long #coffeesoftware](https://www.youtube.com/shorts/NivJKPfhzQo) - Coffee + Software
+- [Less complex #Spring #Integration : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/dfGCQyBKc7I) - Coffee + Software
+- [How to have #AI #native success with existing workflows, with Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/eSvQtvSs7lk) - Coffee + Software
+- [Popular #MCP frameworks across languages compared : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/A8lQ_bl9Hxc) - Coffee + Software
 - [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
-- [Dynamic bean registration with #SpringFramework 7 - Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/pPHD18PxPFI) - SpringSourceDev
-- [Working on #spring with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/SSJI8qoBsfM) - SpringSourceDev
-- [#spring timeline with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/81aMThr8vUw) - SpringSourceDev
-- [#AI #Agentic #SDLC #springofficehours](https://www.youtube.com/shorts/r3VBduGM8V4) - SpringSourceDev
-- [#SpringAI #Bedrock #awslambda James Ward on #springofficehours](https://www.youtube.com/shorts/7cCBeFyo3hM) - SpringSourceDev
-- [VMware Tanzu at Devnexus 2026](https://www.youtube.com/watch?v=l77wsZJbzts) - SpringSourceDev
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges](https://www.youtube.com/watch?v=0ghwKO8TUEY) - SpringSourceDev
+- [Secure your CLI applications with OAuth (and Spring Security)](https://www.youtube.com/watch?v=rLIQTY9Gg04) - Coffee + Software
 
 ## Demos:
 
