@@ -1,4 +1,4 @@
-# March 21
+# March 22
 
 ## News:
 
@@ -25,6 +25,17 @@
 - Spring Functions Catalog 6.0.0 (Mar 27)
 
 ## YouTube:
+
+- [Spring Office Hours: S5E10 - What's New in JDK 26 with Billy Korando](https://www.youtube.com/watch?v=yCFkB9jhh94) - SpringSourceDev
+- [Spring Office Hours: S5E09 - Java Community Update](https://www.youtube.com/watch?v=yqBl3aXRYjI) - SpringSourceDev
+- [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
+- [Dynamic bean registration with #SpringFramework 7 - Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/pPHD18PxPFI) - SpringSourceDev
+- [Working on #spring with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/SSJI8qoBsfM) - SpringSourceDev
+- [#spring timeline with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/81aMThr8vUw) - SpringSourceDev
+- [#AI #Agentic #SDLC #springofficehours](https://www.youtube.com/shorts/r3VBduGM8V4) - SpringSourceDev
+- [#SpringAI #Bedrock #awslambda James Ward on #springofficehours](https://www.youtube.com/shorts/7cCBeFyo3hM) - SpringSourceDev
+- [VMware Tanzu at Devnexus 2026](https://www.youtube.com/watch?v=l77wsZJbzts) - SpringSourceDev
+- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
 
 ## Demos:
 
