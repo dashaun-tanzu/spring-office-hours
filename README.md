@@ -1,4 +1,4 @@
-# March 22
+# March 23
 
 ## News:
 
@@ -26,16 +26,16 @@
 
 ## YouTube:
 
-- [Spring Office Hours: S5E10 - What's New in JDK 26 with Billy Korando](https://www.youtube.com/watch?v=yCFkB9jhh94) - SpringSourceDev
-- [Spring Office Hours: S5E09 - Java Community Update](https://www.youtube.com/watch?v=yqBl3aXRYjI) - SpringSourceDev
-- [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
-- [Dynamic bean registration with #SpringFramework 7 - Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/pPHD18PxPFI) - SpringSourceDev
-- [Working on #spring with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/SSJI8qoBsfM) - SpringSourceDev
-- [#spring timeline with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/81aMThr8vUw) - SpringSourceDev
-- [#AI #Agentic #SDLC #springofficehours](https://www.youtube.com/shorts/r3VBduGM8V4) - SpringSourceDev
-- [#SpringAI #Bedrock #awslambda James Ward on #springofficehours](https://www.youtube.com/shorts/7cCBeFyo3hM) - SpringSourceDev
-- [VMware Tanzu at Devnexus 2026](https://www.youtube.com/watch?v=l77wsZJbzts) - SpringSourceDev
-- [Spring Office Hours: S5E07 - Copilot CLI and Java SDK with Bruno Borges 📱](https://www.youtube.com/watch?v=x9o1tX8DcCQ) - SpringSourceDev
+- [JDK 26: Final Will Actually Mean Final Now](https://www.youtube.com/watch?v=j-y0m6j6TBc) - Dan Vega
+- [Java advocate Ana-Maria Mihalceanu on a Bootiful Podcast](https://www.youtube.com/watch?v=YeerikSHKAY) - Coffee + Software
+- [Daniel Garnier-Moiroux on MCP, security, and more](https://www.youtube.com/watch?v=R0Zrf8cUvxE) - Coffee + Software
+- [Java Champion and luminary Cay Horstmann](https://www.youtube.com/watch?v=Pbm2_huTlb4) - Coffee + Software
+- [JavaOne 2026: Day 1 (the keynote)](https://www.youtube.com/watch?v=CY7c8u5gCzI) - Coffee + Software
+- [Mark Kropf on a Bootiful Podcast](https://www.youtube.com/watch?v=mLpo0bGDnTk) - Coffee + Software
+- [Thought experiments with John Willis #coffeesoftware](https://www.youtube.com/shorts/Hj6w1AArX6s) - Coffee + Software
+- [Use #AI in your existing workflows : Glenn Renfro and Josh Long #coffeesoftware](https://www.youtube.com/shorts/NivJKPfhzQo) - Coffee + Software
+- [Less complex #Spring #Integration : Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/dfGCQyBKc7I) - Coffee + Software
+- [How to have #AI #native success with existing workflows, with Glenn Renfro #coffeesoftware](https://www.youtube.com/shorts/eSvQtvSs7lk) - Coffee + Software
 
 ## Demos:
 
