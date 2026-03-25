@@ -1,11 +1,11 @@
-# March 24
+# March 25
 
 ## News:
 
 - [Spring Cloud Config 5.0.2, 4.3.2, 4.2.6, 4.1.9, 3.1.13 Released, includes fix for CVE-2026-22739](https://spring.io/blog/2026/03/23/spring-cloud-config-5-0-2-4-3-2-4-2-6-4-1-9-3-1-13-released)
 - [Spring Boot 4.1.0-M3 available now](https://spring.io/blog/2026/03/20/spring-boot-4-1-0-M3-available-now)
-- [Spring Boot 3.5.12 available now](https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now)
 - [Spring Boot 4.0.4 available now](https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now)
+- [Spring Boot 3.5.12 available now](https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -16,7 +16,8 @@
 
 ## Releases coming soon:
 
-- Spring Grpc 1.0.3 (Mar 24)
+- Spring Boot 3.5.13 (Mar 26)
+- Spring Boot 4.0.5 (Mar 26)
 - Spring Boot 4.1.0-M4 (Mar 26)
 - Spring Functions Catalog 6.0.0 (Mar 27)
 
