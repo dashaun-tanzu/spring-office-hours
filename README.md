@@ -1,4 +1,4 @@
-# March 30
+# March 31
 
 ## News:
 
@@ -9,12 +9,22 @@
 
 ## Releases coming soon:
 
-- Spring Cloud Release 2025.0.2 (Mar 30)
 - Spring Ai 2.0.0-M5 (Apr 9)
 - Spring Ai 1.1.5 (Apr 9)
 - Spring Ai 1.0.6 (Apr 9)
 
 ## YouTube:
+
+- [Spring Office Hours: S5E11 - Testing Spring Boot Applications with Daniel Garnier-Moiroux](https://www.youtube.com/watch?v=C2B85YUmoR0) - SpringSourceDev
+- [Spring AI 2.0.0-M4 and Embabel 0.3.4 📱](https://www.youtube.com/watch?v=v131tq_N648) - Coffee + Software
+- [Spring AI 2.0.0-M4 and Embabel 0.3.4](https://www.youtube.com/watch?v=k2dERWfL5Fw) - Coffee + Software
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
+- [Let AI Draw Your Diagrams with Excalidraw's MCP Server](https://www.youtube.com/watch?v=dbT5wN4XRGc) - Dan Vega
+- [Lazy Constants in Java 26: What You Need to Know](https://www.youtube.com/watch?v=VoB2voChQzA) - Dan Vega
+- [Build a Deep Research Agent with Spring AI & Browserbase](https://www.youtube.com/watch?v=_amdeuCM-aY) - Dan Vega
+- [Craig Walls, author of Spring AI in Action](https://www.youtube.com/watch?v=y6hLgZazPdc) - Coffee + Software
+- [Spring Boot RestClient Error Handling](https://www.youtube.com/watch?v=MuYzEZk6-zI) - Dan Vega
 
 ## Demos:
 
