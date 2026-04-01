@@ -1,4 +1,4 @@
-# March 31
+# April 1
 
 ## News:
 
@@ -16,15 +16,15 @@
 ## YouTube:
 
 - [Spring Office Hours: S5E11 - Testing Spring Boot Applications with Daniel Garnier-Moiroux](https://www.youtube.com/watch?v=C2B85YUmoR0) - SpringSourceDev
-- [Spring AI 2.0.0-M4 and Embabel 0.3.4 📱](https://www.youtube.com/watch?v=v131tq_N648) - Coffee + Software
-- [Spring AI 2.0.0-M4 and Embabel 0.3.4](https://www.youtube.com/watch?v=k2dERWfL5Fw) - Coffee + Software
 - [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
 - [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
-- [Let AI Draw Your Diagrams with Excalidraw's MCP Server](https://www.youtube.com/watch?v=dbT5wN4XRGc) - Dan Vega
-- [Lazy Constants in Java 26: What You Need to Know](https://www.youtube.com/watch?v=VoB2voChQzA) - Dan Vega
-- [Build a Deep Research Agent with Spring AI & Browserbase](https://www.youtube.com/watch?v=_amdeuCM-aY) - Dan Vega
-- [Craig Walls, author of Spring AI in Action](https://www.youtube.com/watch?v=y6hLgZazPdc) - Coffee + Software
-- [Spring Boot RestClient Error Handling](https://www.youtube.com/watch?v=MuYzEZk6-zI) - Dan Vega
+- [Spring Office Hours: S5E10 - What's New in JDK 26 with Billy Korando](https://www.youtube.com/watch?v=yCFkB9jhh94) - SpringSourceDev
+- [Spring Office Hours: S5E09 - Java Community Update](https://www.youtube.com/watch?v=yqBl3aXRYjI) - SpringSourceDev
+- [Spring Office Hours: S5E08 - DevNexus Preview with Glenn Renfro](https://www.youtube.com/watch?v=iIJFgihuMi4) - SpringSourceDev
+- [Dynamic bean registration with #SpringFramework 7 - Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/pPHD18PxPFI) - SpringSourceDev
+- [Working on #spring with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/SSJI8qoBsfM) - SpringSourceDev
+- [#spring timeline with Juergen Hoeller #springofficehours](https://www.youtube.com/shorts/81aMThr8vUw) - SpringSourceDev
+- [#AI #Agentic #SDLC #springofficehours](https://www.youtube.com/shorts/r3VBduGM8V4) - SpringSourceDev
 
 ## Demos:
 
