@@ -1,4 +1,4 @@
-# April 3
+# April 4
 
 ## News:
 
@@ -19,6 +19,12 @@
 - Micrometer Tracing 1.5.11 (Apr 13)
 - Micrometer Tracing 1.6.5 (Apr 13)
 - Micrometer Tracing 1.7.0-RC1 (Apr 13)
+- Reactor 2024.0.17 (Apr 14)
+- Reactor 2025.0.5 (Apr 14)
+- Reactor Core 3.8.5 (Apr 14)
+- Reactor Pool 1.2.5 (Apr 14)
+- Reactor Netty 1.3.5 (Apr 14)
+- Reactor Netty 1.2.17 (Apr 14)
 
 ## YouTube:
 
