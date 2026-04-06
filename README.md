@@ -1,11 +1,11 @@
-# April 5
+# April 6
 
 ## News:
 
 - [Spring Cloud 2025.0.2 (aka Northfields) Has Been Released](https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released)
 - [Spring Modulith 2.1 M4, 2.0.5, and 1.4.10 released](https://spring.io/blog/2026/03/27/spring-modulith-2-1-m4-2-0-5-and-1-4-10-released)
-- [Spring Boot 3.5.13 available now](https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now)
 - [Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now](https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available)
+- [Spring Boot 3.5.13 available now](https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now)
 
 ## Releases coming soon:
 
@@ -25,6 +25,9 @@
 - Reactor Pool 1.2.5 (Apr 14)
 - Reactor Netty 1.3.5 (Apr 14)
 - Reactor Netty 1.2.17 (Apr 14)
+- Spring Ldap 4.0.3 (Apr 16)
+- Spring Ldap 3.3.7 (Apr 16)
+- Spring Ldap 4.1.0-RC1 (Apr 16)
 
 ## YouTube:
 
