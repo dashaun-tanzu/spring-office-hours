@@ -36,6 +36,17 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
+- ["LLMs are coding like cavemen/cavewomen" John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/7CP9Cu_cXnU) - Coffee + Software
+- [Models and benchmarks, genius or failing students - John Willis and Josh Long #CoffeeSoftware](https://www.youtube.com/shorts/6tLHuKZZLT8) - Coffee + Software
+- ["Spring is a great example of an abstraction that created abundance" - John Willis #coffeesoftware](https://www.youtube.com/shorts/qgQhRueo_qc) - Coffee + Software
+- [Software and Schrödinger's cat - with John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/BaipcDCVZWg) - Coffee + Software
+- [Dr. Venkat Subramaniam, James Ward, and Josh Long, live from Voxxed Days Amsterdam](https://www.youtube.com/watch?v=1Qml9D95CHU) - Coffee + Software
+- [Building AI Agents in Java with Embabel (Getting Started)](https://www.youtube.com/watch?v=G5VDQCZu6t0) - Dan Vega
+- [GraphQL for Java Developers: 10 - Course Conclusion and Next Steps](https://www.youtube.com/watch?v=-T841yn7Mgo) - Dan Vega
+- [GraphQL for Java Developers: 08 - Client Integration with HttpSyncGraphQlClient](https://www.youtube.com/watch?v=FIOxzyDl6FU) - Dan Vega
+
 ## Demos:
 
 - [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
