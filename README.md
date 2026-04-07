@@ -1,4 +1,4 @@
-# April 6
+# April 7
 
 ## News:
 
@@ -28,6 +28,11 @@
 - Spring Ldap 4.0.3 (Apr 16)
 - Spring Ldap 3.3.7 (Apr 16)
 - Spring Ldap 4.1.0-RC1 (Apr 16)
+- Spring Data Release 2025.0.11 (Apr 17)
+- Spring Data Release 2025.1.5 (Apr 17)
+- Spring Data Release 2026.0.0-RC1 (Apr 17)
+- Spring Framework 7.0.7 (Apr 17)
+- Spring Framework 6.2.18 (Apr 17)
 
 ## YouTube:
 
