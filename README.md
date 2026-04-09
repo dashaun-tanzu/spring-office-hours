@@ -1,4 +1,4 @@
-# April 8
+# April 9
 
 ## News:
 
@@ -9,9 +9,6 @@
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0-M5 (Apr 9)
-- Spring Ai 1.1.5 (Apr 9)
-- Spring Ai 1.0.6 (Apr 9)
 - Spring Release Actions 0.0.4 (Apr 12)
 - Micrometer 1.15.11 (Apr 13)
 - Micrometer 1.16.5 (Apr 13)
