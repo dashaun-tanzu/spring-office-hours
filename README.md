@@ -1,4 +1,4 @@
-# April 9
+# April 10
 
 ## News:
 
@@ -30,8 +30,29 @@
 - Spring Data Release 2026.0.0-RC1 (Apr 17)
 - Spring Framework 7.0.7 (Apr 17)
 - Spring Framework 6.2.18 (Apr 17)
+- Spring Kafka 4.1.0-RC1 (Apr 20)
+- Spring Kafka 4.0.5 (Apr 20)
+- Spring Amqp 4.1.0-RC1 (Apr 20)
+- Spring Amqp 3.2.10 (Apr 20)
+- Spring Amqp 4.0.3 (Apr 20)
+- Spring Security 6.5.10 (Apr 20)
+- Spring Security 7.0.5 (Apr 20)
+- Spring Security 7.1.0-RC1 (Apr 20)
+- Spring Pulsar 2.0.5 (Apr 20)
+- Spring Pulsar 1.2.17 (Apr 20)
 
 ## YouTube:
+
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
+- ["LLMs are coding like cavemen/cavewomen" John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/7CP9Cu_cXnU) - Coffee + Software
+- [Models and benchmarks, genius or failing students - John Willis and Josh Long #CoffeeSoftware](https://www.youtube.com/shorts/6tLHuKZZLT8) - Coffee + Software
+- ["Spring is a great example of an abstraction that created abundance" - John Willis #coffeesoftware](https://www.youtube.com/shorts/qgQhRueo_qc) - Coffee + Software
+- [Software and Schrödinger's cat - with John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/BaipcDCVZWg) - Coffee + Software
+- [Dr. Venkat Subramaniam, James Ward, and Josh Long, live from Voxxed Days Amsterdam](https://www.youtube.com/watch?v=1Qml9D95CHU) - Coffee + Software
+- [Spring AI 2.0.0-M4 and Embabel 0.3.4](https://www.youtube.com/watch?v=k2dERWfL5Fw) - Coffee + Software
 
 ## Demos:
 
