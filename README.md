@@ -1,11 +1,11 @@
-# April 10
+# April 11
 
 ## News:
 
 - [Spring Cloud 2025.0.2 (aka Northfields) Has Been Released](https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released)
 - [Spring Modulith 2.1 M4, 2.0.5, and 1.4.10 released](https://spring.io/blog/2026/03/27/spring-modulith-2-1-m4-2-0-5-and-1-4-10-released)
 - [Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now](https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available)
-- [Spring Boot 3.5.13 available now](https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now)
+- [Spring Boot 4.0.5 available now](https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now)
 
 ## Releases coming soon:
 
@@ -40,9 +40,18 @@
 - Spring Security 7.1.0-RC1 (Apr 20)
 - Spring Pulsar 2.0.5 (Apr 20)
 - Spring Pulsar 1.2.17 (Apr 20)
+- Spring Integration 7.1.0-RC1 (Apr 21)
+- Spring Session 4.0.3 (Apr 21)
+- Spring Session 3.5.6 (Apr 21)
+- Spring Graphql 2.0.3 (Apr 21)
+- Spring Authorization Server 1.5.7 (Apr 21)
+- Spring Ai 2.0.0-M5 (Apr 21)
+- Spring Ai 1.1.5 (Apr 21)
+- Spring Ai 1.0.6 (Apr 21)
 
 ## YouTube:
 
+- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
 - [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
 - [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
 - [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
@@ -52,7 +61,6 @@
 - ["Spring is a great example of an abstraction that created abundance" - John Willis #coffeesoftware](https://www.youtube.com/shorts/qgQhRueo_qc) - Coffee + Software
 - [Software and Schrödinger's cat - with John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/BaipcDCVZWg) - Coffee + Software
 - [Dr. Venkat Subramaniam, James Ward, and Josh Long, live from Voxxed Days Amsterdam](https://www.youtube.com/watch?v=1Qml9D95CHU) - Coffee + Software
-- [Spring AI 2.0.0-M4 and Embabel 0.3.4](https://www.youtube.com/watch?v=k2dERWfL5Fw) - Coffee + Software
 
 ## Demos:
 
