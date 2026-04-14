@@ -1,20 +1,14 @@
-# April 13
+# April 14
 
 ## News:
 
 - [Spring Cloud 2025.0.2 (aka Northfields) Has Been Released](https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released)
 - [Spring Modulith 2.1 M4, 2.0.5, and 1.4.10 released](https://spring.io/blog/2026/03/27/spring-modulith-2-1-m4-2-0-5-and-1-4-10-released)
-- [Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now](https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available)
 - [Spring Boot 3.5.13 available now](https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now)
+- [Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now](https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available)
 
 ## Releases coming soon:
 
-- Micrometer 1.15.11 (Apr 13)
-- Micrometer 1.16.5 (Apr 13)
-- Micrometer 1.17.0-RC1 (Apr 13)
-- Micrometer Tracing 1.5.11 (Apr 13)
-- Micrometer Tracing 1.6.5 (Apr 13)
-- Micrometer Tracing 1.7.0-RC1 (Apr 13)
 - Reactor 2024.0.17 (Apr 14)
 - Reactor 2025.0.5 (Apr 14)
 - Reactor Core 3.8.5 (Apr 14)
@@ -50,6 +44,10 @@
 - Spring Boot 4.1.0-RC1 (Apr 23)
 - Spring Boot 3.5.14 (Apr 23)
 - Spring Boot 4.0.6 (Apr 23)
+- Spring Modulith 1.4.11 (Apr 24)
+- Spring Modulith 2.0.6 (Apr 24)
+- Spring Modulith 2.1 RC1 (Apr 24)
+- Spring Shell 4.0.2 (Apr 24)
 
 ## YouTube:
 
