@@ -1,4 +1,4 @@
-# April 15
+# April 16
 
 ## News:
 
@@ -12,6 +12,7 @@
 - Spring Ldap 4.0.3 (Apr 16)
 - Spring Ldap 3.3.7 (Apr 16)
 - Spring Ldap 4.1.0-RC1 (Apr 16)
+- Spring Tools 5.1.2.RELEASE (Apr 17)
 - Spring Data Release 2025.0.11 (Apr 17)
 - Spring Data Release 2025.1.5 (Apr 17)
 - Spring Data Release 2026.0.0-RC1 (Apr 17)
@@ -20,6 +21,7 @@
 - Spring Vault 4.1.0-RC1 (Apr 20)
 - Spring Kafka 4.1.0-RC1 (Apr 20)
 - Spring Kafka 4.0.5 (Apr 20)
+- Spring Kafka 3.3.15 (Apr 20)
 - Spring Amqp 4.1.0-RC1 (Apr 20)
 - Spring Amqp 3.2.10 (Apr 20)
 - Spring Amqp 4.0.3 (Apr 20)
