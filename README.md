@@ -1,4 +1,4 @@
-# April 16
+# April 17
 
 ## News:
 
@@ -7,11 +7,9 @@
 - [Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now](https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available)
 - [Spring Boot 3.5.13 available now](https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now)
 
+
 ## Releases coming soon:
 
-- Spring Ldap 4.0.3 (Apr 16)
-- Spring Ldap 3.3.7 (Apr 16)
-- Spring Ldap 4.1.0-RC1 (Apr 16)
 - Spring Tools 5.1.2.RELEASE (Apr 17)
 - Spring Data Release 2025.0.11 (Apr 17)
 - Spring Data Release 2025.1.5 (Apr 17)
@@ -46,15 +44,20 @@
 - Spring Modulith 2.1 RC1 (Apr 24)
 - Spring Shell 4.0.2 (Apr 24)
 
+
 ## YouTube:
+
+- [JobRunr, ClawRunr, and more with Ronald Dehuysser](https://www.youtube.com/watch?v=RbkpxQWvGms) - Coffee + Software
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
+- ["LLMs are coding like cavemen/cavewomen" John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/7CP9Cu_cXnU) - Coffee + Software
+- [Models and benchmarks, genius or failing students - John Willis and Josh Long #CoffeeSoftware](https://www.youtube.com/shorts/6tLHuKZZLT8) - Coffee + Software
+- ["Spring is a great example of an abstraction that created abundance" - John Willis #coffeesoftware](https://www.youtube.com/shorts/qgQhRueo_qc) - Coffee + Software
+- [Software and Schrödinger's cat - with John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/BaipcDCVZWg) - Coffee + Software
+- [Dr. Venkat Subramaniam, James Ward, and Josh Long, live from Voxxed Days Amsterdam](https://www.youtube.com/watch?v=1Qml9D95CHU) - Coffee + Software
+- [Spring AI 2.0.0-M4 and Embabel 0.3.4](https://www.youtube.com/watch?v=k2dERWfL5Fw) - Coffee + Software
+- [Spring AI 2.0.0-M4 and Embabel 0.3.4 📱](https://www.youtube.com/watch?v=v131tq_N648) - Coffee + Software
 
 ## Demos:
 
-- [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
-- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Demo repository
-- [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demo repository
-- [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Demo repository
-- [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demo repository
-- [saa-petclinic-squashed-demo](https://github.com/dashaun-tanzu/saa-petclinic-squashed-demo) - Demo repository
-- [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Demo repository
 
