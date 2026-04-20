@@ -1,4 +1,4 @@
-# April 19
+# April 20
 
 ## News:
 
@@ -6,6 +6,14 @@
 - [Spring Data 2026.0.0-RC1 enters release candidate phase](https://spring.io/blog/2026/04/17/spring-data-2026-0-0-goes-RC)
 - [Spring Framework 6.2.18 and 7.0.7 Available Now](https://spring.io/blog/2026/04/17/spring-framework-6-2-18-and-7-0-7-available-now)
 - [Spring Cloud 2025.0.2 (aka Northfields) Has Been Released](https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released)
+
+## Recent Enterprise Releases:
+
+- April 20
+  - Spring Security 6.4.16 (Enterprise)
+  - Spring Security 5.7.23 (Enterprise)
+  - Spring Security 5.8.25 (Enterprise)
+  - Spring Security 6.3.16 (Enterprise)
 
 ## Releases coming soon:
 
@@ -36,6 +44,7 @@
 - Spring Modulith 2.0.6 (Apr 24)
 - Spring Modulith 2.1 RC1 (Apr 24)
 - Spring Shell 4.0.2 (Apr 24)
+- Spring Ai 2.0.0-RC1 (Apr 30)
 
 ## YouTube:
 
