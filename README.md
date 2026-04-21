@@ -3,8 +3,8 @@
 ## News:
 
 - [Spring Vault 4.1.0-RC1 and 4.0.2 released](https://spring.io/blog/2026/04/20/spring-vault-4-0-rc1-4-0-2-released)
-- [Spring Data 2025.1.5 and 2025.0.11 released](https://spring.io/blog/2026/04/17/spring-data-2025-1-5-and-2025-0-11-released)
 - [Spring Data 2026.0.0-RC1 enters release candidate phase](https://spring.io/blog/2026/04/17/spring-data-2026-0-0-goes-RC)
+- [Spring Data 2025.1.5 and 2025.0.11 released](https://spring.io/blog/2026/04/17/spring-data-2025-1-5-and-2025-0-11-released)
 - [Spring Framework 6.2.18 and 7.0.7 Available Now](https://spring.io/blog/2026/04/17/spring-framework-6-2-18-and-7-0-7-available-now)
 
 ## Recent Enterprise Releases:
@@ -36,6 +36,17 @@
 - Spring Ai 2.0.0-RC1 (Apr 30)
 
 ## YouTube:
+
+- [Spring Office Hours: S5E13 - Community Potluck](https://www.youtube.com/watch?v=bsPYKeaZpwg) - SpringSourceDev
+- [Spring Office Hours: S5E15 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
+- [Spring Office Hours: S5E14 - Rod Johnson on Spring and Embabel](https://www.youtube.com/watch?v=t2Qd3jF5nkQ) - SpringSourceDev
+- [JobRunr, ClawRunr, and more with Ronald Dehuysser](https://www.youtube.com/watch?v=RbkpxQWvGms) - Coffee + Software
+- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
+- ["LLMs are coding like cavemen/cavewomen" John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/7CP9Cu_cXnU) - Coffee + Software
 
 ## Demos:
 
