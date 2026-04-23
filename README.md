@@ -36,6 +36,17 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E13 - Community Potluck](https://www.youtube.com/watch?v=bsPYKeaZpwg) - SpringSourceDev
+- [Spring Office Hours: S5E15 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
+- [Spring Office Hours: S5E14 - Rod Johnson on Spring and Embabel](https://www.youtube.com/watch?v=t2Qd3jF5nkQ) - SpringSourceDev
+- [JobRunr, ClawRunr, and more with Ronald Dehuysser](https://www.youtube.com/watch?v=RbkpxQWvGms) - Coffee + Software
+- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
+- ["LLMs are coding like cavemen/cavewomen" John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/7CP9Cu_cXnU) - Coffee + Software
+
 ## Demos:
 
 - [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
