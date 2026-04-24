@@ -1,11 +1,11 @@
-# April 23
+# April 24
 
 ## News:
 
+- [Spring Boot 3.5.14 available now](https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now)
+- [Spring Boot 4.0.6 available now](https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now)
+- [Spring Boot 4.1.0-RC1 available now](https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now)
 - [Spring for Apache Pulsar 1.2.17 and 2.0.5 are now available](https://spring.io/blog/2026/04/22/spring-for-apache-pulsar-1-2-17-and-2-0-5-are-now-available)
-- [Spring for Apache Kafka 4.1.0-RC1, 4.0.5, and 3.3.15 Available](https://spring.io/blog/2026/04/22/spring-kafka-4)
-- [Spring Authorization Server 1.5.7 Available Now](https://spring.io/blog/2026/04/21/spring-authorization-server-1-5-7-available-now)
-- [Spring Security 2026.04 Releases - Contains CVE Fixes](https://spring.io/blog/2026/04/21/spring-security-releases)
 
 ## Recent Enterprise Releases:
 
@@ -23,9 +23,6 @@
 
 ## Releases coming soon:
 
-- Spring Boot 4.1.0-RC1 (Apr 23)
-- Spring Boot 3.5.14 (Apr 23)
-- Spring Boot 4.0.6 (Apr 23)
 - Spring Modulith 1.4.11 (Apr 24)
 - Spring Modulith 2.0.6 (Apr 24)
 - Spring Modulith 2.1 RC1 (Apr 24)
@@ -35,17 +32,6 @@
 - Spring Ai 1.0.6 (Apr 24)
 
 ## YouTube:
-
-- [Spring Office Hours: S5E13 - Community Potluck](https://www.youtube.com/watch?v=bsPYKeaZpwg) - SpringSourceDev
-- [Spring Office Hours: S5E15 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
-- [Spring Office Hours: S5E14 - Rod Johnson on Spring and Embabel](https://www.youtube.com/watch?v=t2Qd3jF5nkQ) - SpringSourceDev
-- [JobRunr, ClawRunr, and more with Ronald Dehuysser](https://www.youtube.com/watch?v=RbkpxQWvGms) - Coffee + Software
-- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
-- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
-- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
-- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
-- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
-- ["LLMs are coding like cavemen/cavewomen" John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/7CP9Cu_cXnU) - Coffee + Software
 
 ## Demos:
 
