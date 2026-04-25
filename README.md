@@ -1,11 +1,11 @@
-# April 24
+# April 25
 
 ## News:
 
+- [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
+- [Spring Modulith 2.1 RC1, 2.0.6, and 1.4.11 released](https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released)
 - [Spring Boot 3.5.14 available now](https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now)
 - [Spring Boot 4.0.6 available now](https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now)
-- [Spring Boot 4.1.0-RC1 available now](https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now)
-- [Spring for Apache Pulsar 1.2.17 and 2.0.5 are now available](https://spring.io/blog/2026/04/22/spring-for-apache-pulsar-1-2-17-and-2-0-5-are-now-available)
 
 ## Recent Enterprise Releases:
 
@@ -23,15 +23,22 @@
 
 ## Releases coming soon:
 
-- Spring Modulith 1.4.11 (Apr 24)
-- Spring Modulith 2.0.6 (Apr 24)
-- Spring Modulith 2.1 RC1 (Apr 24)
-- Spring Shell 4.0.2 (Apr 24)
-- Spring Ai 2.0.0-M5 (Apr 24)
-- Spring Ai 1.1.5 (Apr 24)
-- Spring Ai 1.0.6 (Apr 24)
+- Spring Ai 2.0.0-M5 (Apr 27)
+- Spring Ai 1.1.5 (Apr 27)
+- Spring Ai 1.0.6 (Apr 27)
 
 ## YouTube:
+
+- [Spring Office Hours: S5E13 - Community Potluck](https://www.youtube.com/watch?v=bsPYKeaZpwg) - SpringSourceDev
+- [Spring Office Hours: S5E15 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
+- [Spring Office Hours: S5E14 - Rod Johnson on Spring and Embabel](https://www.youtube.com/watch?v=t2Qd3jF5nkQ) - SpringSourceDev
+- [JobRunr, ClawRunr, and more with Ronald Dehuysser](https://www.youtube.com/watch?v=RbkpxQWvGms) - Coffee + Software
+- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta](https://www.youtube.com/watch?v=vY2FlLTZXqg) - SpringSourceDev
+- [Spring Office Hours: S5E12 Developer Soft Skills with Arun Gupta 📱](https://www.youtube.com/watch?v=nrLfNL2qyME) - SpringSourceDev
+- ["LLMs are coding like cavemen/cavewomen" John Willis and Josh Long #coffeesoftware](https://www.youtube.com/shorts/7CP9Cu_cXnU) - Coffee + Software
 
 ## Demos:
 
