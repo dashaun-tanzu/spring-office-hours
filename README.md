@@ -5,7 +5,7 @@
 - [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
 - [Spring Modulith 2.1 RC1, 2.0.6, and 1.4.11 released](https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released)
 - [Spring Boot 3.5.14 available now](https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now)
-- [Spring Boot 4.0.6 available now](https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now)
+- [Spring Boot 4.1.0-RC1 available now](https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now)
 
 ## Recent Enterprise Releases:
 
@@ -31,6 +31,17 @@
 - Spring Ai 1.0.7 (May 7)
 
 ## YouTube:
+
+- [accidentally recreating sypher with #jenniferreif #neo4j #coffesoftware](https://www.youtube.com/shorts/2VXAaPLcLKQ) - Coffee + Software
+- [boxes and lines with @neo4j  @JMHReif #coffeesoftware](https://www.youtube.com/shorts/VAG8s2aQK60) - Coffee + Software
+- [getting started with @neo4j #coffeesoftware](https://www.youtube.com/shorts/q4TwN3hoATE) - Coffee + Software
+- [Spring Office Hours: S5E13 - Community Potluck](https://www.youtube.com/watch?v=bsPYKeaZpwg) - SpringSourceDev
+- [Spring Office Hours: S5E15 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
+- [Spring Office Hours: S5E14 - Rod Johnson on Spring and Embabel](https://www.youtube.com/watch?v=t2Qd3jF5nkQ) - SpringSourceDev
+- [JobRunr, ClawRunr, and more with Ronald Dehuysser](https://www.youtube.com/watch?v=RbkpxQWvGms) - Coffee + Software
+- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof](https://www.youtube.com/watch?v=9Zfo_HAQOk0) - Coffee + Software
+- [Secure by Design: How Hardened Images Make Your Java Services Bullet-Proof 📱](https://www.youtube.com/watch?v=7nSLZSeuaek) - Coffee + Software
 
 ## Demos:
 
