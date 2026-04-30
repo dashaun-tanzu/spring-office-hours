@@ -1,4 +1,4 @@
-# April 29
+# April 30
 
 ## News:
 
@@ -22,16 +22,16 @@
 
 ## YouTube:
 
-- [In the present #GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/1iNB2dUExFM) - SpringSourceDev
-- [Getting started with AI #GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/U5w0O4iCdiE) - SpringSourceDev
-- [Ask questions.#GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/b7oAsq1fK_A) - SpringSourceDev
-- [this is not execution. #brunoborges #springofficehours](https://www.youtube.com/shorts/o_JphcGzlbE) - SpringSourceDev
-- [this is open source #brunoborges #springofficehours](https://www.youtube.com/shorts/1rawWmkLuOo) - SpringSourceDev
-- [limiting agents #brunoborges #springofficehours](https://www.youtube.com/shorts/S2BCqlN-Gb0) - SpringSourceDev
-- [using ai to become better a engineer. #brunoborges #springofficehours](https://www.youtube.com/shorts/qY7X3AfqHRw) - SpringSourceDev
-- [accidentally recreating sypher with #jenniferreif #neo4j #coffesoftware](https://www.youtube.com/shorts/2VXAaPLcLKQ) - Coffee + Software
-- [boxes and lines with @neo4j  @JMHReif #coffeesoftware](https://www.youtube.com/shorts/VAG8s2aQK60) - Coffee + Software
-- [getting started with @neo4j #coffeesoftware](https://www.youtube.com/shorts/q4TwN3hoATE) - Coffee + Software
+- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
+- [Building AI Agents in Java with Embabel (Getting Started)](https://www.youtube.com/watch?v=G5VDQCZu6t0) - Dan Vega
+- [GraphQL for Java Developers: 10 - Course Conclusion and Next Steps](https://www.youtube.com/watch?v=-T841yn7Mgo) - Dan Vega
+- [GraphQL for Java Developers: 08 - Client Integration with HttpSyncGraphQlClient](https://www.youtube.com/watch?v=FIOxzyDl6FU) - Dan Vega
+- [GraphQL for Java Developers: 07 - Data Integration (GraphQLRepository + AOT Repositories)](https://www.youtube.com/watch?v=QVkS0h26ugk) - Dan Vega
+- [GraphQL for Java Developers: 09 - Observability](https://www.youtube.com/watch?v=k7lGRzdAc1I) - Dan Vega
+- [GraphQL for Java Developers: 06 - N+1 Problem and Virtual Threads](https://www.youtube.com/watch?v=WQHhXf0uwWE) - Dan Vega
+- [GraphQL for Java Developers: 05 - Unions](https://www.youtube.com/watch?v=zLXOXXU8uHI) - Dan Vega
+- [GraphQL for Java Developers: 04 - Data Fetchers](https://www.youtube.com/watch?v=WNrt8nHk1MI) - Dan Vega
+- [GraphQL for Java Developers: 03 - The GraphQL Schema](https://www.youtube.com/watch?v=Lt8CtEugpqc) - Dan Vega
 
 ## Demos:
 
