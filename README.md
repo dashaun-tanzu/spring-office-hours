@@ -1,11 +1,11 @@
-# May 2
+# May 3
 
 ## News:
 
 - [Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now](https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now)
 - [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
 - [Spring Modulith 2.1 RC1, 2.0.6, and 1.4.11 released](https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released)
-- [Spring Boot 4.1.0-RC1 available now](https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now)
+- [Spring Boot 3.5.14 available now](https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now)
 
 ## Releases coming soon:
 
