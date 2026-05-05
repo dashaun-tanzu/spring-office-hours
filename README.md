@@ -1,4 +1,4 @@
-# May 4
+# May 5
 
 ## News:
 
@@ -28,6 +28,9 @@
 - Reactor Netty 1.3.6 (May 12)
 - Reactor Netty 1.2.18 (May 12)
 - Spring Ldap 4.1.0 (May 14)
+- Spring Data Release 2025.0.12 (May 15)
+- Spring Data Release 2025.1.6 (May 15)
+- Spring Data Release 2026.0.0 (May 15)
 
 ## YouTube:
 
