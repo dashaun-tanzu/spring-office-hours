@@ -1,4 +1,4 @@
-# May 5
+# May 6
 
 ## News:
 
@@ -33,6 +33,17 @@
 - Spring Data Release 2026.0.0 (May 15)
 
 ## YouTube:
+
+- [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig) - Dan Vega
+- [Embabel Tools & MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs) - Dan Vega
+- [Building AI Agents in Java with Embabel (Getting Started)](https://www.youtube.com/watch?v=G5VDQCZu6t0) - Dan Vega
+- [GraphQL for Java Developers: 10 - Course Conclusion and Next Steps](https://www.youtube.com/watch?v=-T841yn7Mgo) - Dan Vega
+- [GraphQL for Java Developers: 08 - Client Integration with HttpSyncGraphQlClient](https://www.youtube.com/watch?v=FIOxzyDl6FU) - Dan Vega
+- [GraphQL for Java Developers: 07 - Data Integration (GraphQLRepository + AOT Repositories)](https://www.youtube.com/watch?v=QVkS0h26ugk) - Dan Vega
+- [GraphQL for Java Developers: 09 - Observability](https://www.youtube.com/watch?v=k7lGRzdAc1I) - Dan Vega
+- [GraphQL for Java Developers: 06 - N+1 Problem and Virtual Threads](https://www.youtube.com/watch?v=WQHhXf0uwWE) - Dan Vega
+- [GraphQL for Java Developers: 05 - Unions](https://www.youtube.com/watch?v=zLXOXXU8uHI) - Dan Vega
+- [GraphQL for Java Developers: 04 - Data Fetchers](https://www.youtube.com/watch?v=WNrt8nHk1MI) - Dan Vega
 
 ## Demos:
 
