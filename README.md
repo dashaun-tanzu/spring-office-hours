@@ -34,6 +34,17 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E14 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
+- [Daniel Garnier-Moiroux on a Bootiful Podcast](https://www.youtube.com/watch?v=fqe0joiIfuY) - Coffee + Software
+- [Fitting skills with java. #coffesoftware #jamesward](https://www.youtube.com/shorts/1FyDNIusqyc) - Coffee + Software
+- [Letting the model decide. #coffesoftware #jamesward](https://www.youtube.com/shorts/TdwUN1dvHCg) - Coffee + Software
+- [Agent skills. #jamesward #coffesoftware](https://www.youtube.com/shorts/32CsWaK09iY) - Coffee + Software
+- [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig) - Dan Vega
+- [In the present #GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/1iNB2dUExFM) - SpringSourceDev
+- [Getting started with AI #GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/U5w0O4iCdiE) - SpringSourceDev
+- [Ask questions.#GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/b7oAsq1fK_A) - SpringSourceDev
+- [this is not execution. #brunoborges #springofficehours](https://www.youtube.com/shorts/o_JphcGzlbE) - SpringSourceDev
+
 ## Demos:
 
 - [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
