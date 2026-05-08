@@ -1,11 +1,11 @@
-# May 7
+# May 8
 
 ## News:
 
 - [Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now](https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now)
 - [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
 - [Spring Modulith 2.1 RC1, 2.0.6, and 1.4.11 released](https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released)
-- [Spring Boot 3.5.14 available now](https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now)
+- [Spring Boot 4.0.6 available now](https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now)
 
 ## Releases coming soon:
 
@@ -31,19 +31,29 @@
 - Spring Data Release 2025.0.12 (May 15)
 - Spring Data Release 2025.1.6 (May 15)
 - Spring Data Release 2026.0.0 (May 15)
+- Spring Vault 3.2.1 (May 18)
+- Spring Vault 4.1.0 (May 18)
+- Spring Vault 4.0.3 (May 18)
+- Spring Retry 2.0.13 (May 18)
+- Spring Kafka 4.1.0 (May 18)
+- Spring Kafka 4.0.6 (May 18)
+- Spring Kafka 3.3.16 (May 18)
+- Spring Restdocs 3.0.6 (May 18)
+- Spring Restdocs 4.0.1 (May 18)
+- Spring Ws 4.1.4 (May 18)
+- Spring Ws 5.0.2 (May 18)
+- Spring Amqp 4.1.0 (May 18)
+- Spring Amqp 4.0.4 (May 18)
+- Spring Amqp 3.2.11 (May 18)
+- Spring Security 7.0.6 (May 18)
+- Spring Security 6.5.11 (May 18)
+- Spring Security 7.1.0 (May 18)
+- Spring Pulsar 1.2.18 (May 18)
+- Spring Pulsar 2.0.6 (May 18)
+- Spring Framework 6.2.19 (May 18)
+- Spring Framework 7.0.8 (May 18)
 
 ## YouTube:
-
-- [Spring Office Hours: S5E14 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
-- [Daniel Garnier-Moiroux on a Bootiful Podcast](https://www.youtube.com/watch?v=fqe0joiIfuY) - Coffee + Software
-- [Fitting skills with java. #coffesoftware #jamesward](https://www.youtube.com/shorts/1FyDNIusqyc) - Coffee + Software
-- [Letting the model decide. #coffesoftware #jamesward](https://www.youtube.com/shorts/TdwUN1dvHCg) - Coffee + Software
-- [Agent skills. #jamesward #coffesoftware](https://www.youtube.com/shorts/32CsWaK09iY) - Coffee + Software
-- [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig) - Dan Vega
-- [In the present #GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/1iNB2dUExFM) - SpringSourceDev
-- [Getting started with AI #GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/U5w0O4iCdiE) - SpringSourceDev
-- [Ask questions.#GlennRenfro #SpringOfficeHours](https://www.youtube.com/shorts/b7oAsq1fK_A) - SpringSourceDev
-- [this is not execution. #brunoborges #springofficehours](https://www.youtube.com/shorts/o_JphcGzlbE) - SpringSourceDev
 
 ## Demos:
 
