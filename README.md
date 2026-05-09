@@ -1,18 +1,14 @@
-# May 8
+# May 9
 
 ## News:
 
+- [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
 - [Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now](https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now)
 - [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
 - [Spring Modulith 2.1 RC1, 2.0.6, and 1.4.11 released](https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released)
-- [Spring Boot 4.0.6 available now](https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now)
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0-M6 (May 8)
-- Spring Ai 1.1.6 (May 8)
-- Spring Ai 1.0.7 (May 8)
-- Micrometer 1.9.18 (May 11)
 - Micrometer 1.15.12 (May 11)
 - Micrometer 1.16.6 (May 11)
 - Micrometer 1.17.0 (May 11)
@@ -52,6 +48,11 @@
 - Spring Pulsar 2.0.6 (May 18)
 - Spring Framework 6.2.19 (May 18)
 - Spring Framework 7.0.8 (May 18)
+- Spring Integration 7.1.0 (May 19)
+- Spring Integration 6.5.9 (May 19)
+- Spring Integration 7.0.5 (May 19)
+- Spring Graphql 1.4.6 (May 19)
+- Spring Graphql 2.0.4 (May 19)
 
 ## YouTube:
 
