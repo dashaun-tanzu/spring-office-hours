@@ -1,4 +1,4 @@
-# May 9
+# May 10
 
 ## News:
 
@@ -53,6 +53,8 @@
 - Spring Integration 7.0.5 (May 19)
 - Spring Graphql 1.4.6 (May 19)
 - Spring Graphql 2.0.4 (May 19)
+- Spring Batch 6.0.4 (May 20)
+- Spring Batch 5.2.6 (May 20)
 
 ## YouTube:
 
