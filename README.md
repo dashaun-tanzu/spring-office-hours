@@ -1,4 +1,4 @@
-# May 10
+# May 11
 
 ## News:
 
@@ -7,6 +7,14 @@
 - [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
 - [Spring Modulith 2.1 RC1, 2.0.6, and 1.4.11 released](https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released)
 
+## Recent Enterprise Releases:
+
+- May 11
+  - Micrometer 1.13.19 (Enterprise)
+  - Micrometer 1.14.16 (Enterprise)
+  - Micrometer 1.9.18 (Enterprise)
+  - Micrometer Tracing 1.3.17 (Enterprise)
+  - Micrometer Tracing 1.4.15 (Enterprise)
 ## Releases coming soon:
 
 - Micrometer 1.15.12 (May 11)
@@ -55,6 +63,10 @@
 - Spring Graphql 2.0.4 (May 19)
 - Spring Batch 6.0.4 (May 20)
 - Spring Batch 5.2.6 (May 20)
+- Spring Boot 4.1.0 (May 21)
+- Spring Boot 3.5.15 (May 21)
+- Spring Boot 4.0.7 (May 21)
+- Spring Ai 2.0.0-RC1 (May 21)
 
 ## YouTube:
 
