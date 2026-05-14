@@ -1,17 +1,14 @@
-# May 13
+# May 14
 
 ## News:
 
-- [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
 - [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
+- [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
 - [Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now](https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now)
 - [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
 
 ## Releases coming soon:
 
-- Spring Vault 3.2.1 (May 18)
-- Spring Vault 4.1.0 (May 18)
-- Spring Vault 4.0.3 (May 18)
 - Spring Ai 2.0.0-M7 (May 21)
 
 ## YouTube:
