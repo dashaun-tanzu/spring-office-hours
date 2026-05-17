@@ -1,4 +1,4 @@
-# May 16
+# May 17
 
 ## News:
 
@@ -12,17 +12,6 @@
 - Spring Ai 2.0.0-M7 (May 21)
 
 ## YouTube:
-
-- [Francesco Ciulla on the state of things](https://www.youtube.com/watch?v=n2fPHV8741o) - Coffee + Software
-- [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
-- [We need 100%. #SpringOfficeHours](https://www.youtube.com/shorts/X179H-bQIPk) - SpringSourceDev
-- [Don't get overwhelmed.#SpringOfficeHours](https://www.youtube.com/shorts/gOiv-dW2zko) - SpringSourceDev
-- [We still need engineers. #SpringOfficeHours](https://www.youtube.com/shorts/ZFakusktSdk) - SpringSourceDev
-- [There is always more. #SpringOfficeHours](https://www.youtube.com/shorts/yvs9z7BcY3M) - SpringSourceDev
-- [Software can be joyful. #MarkKropf #coffesoftware](https://www.youtube.com/shorts/mP1IV166bp8) - Coffee + Software
-- [Who is working for who. #coffesoftware #markkropf](https://www.youtube.com/shorts/RXqh1LfDPYw) - Coffee + Software
-- [Writing code we want to maintain. #coffesoftware #markkropf](https://www.youtube.com/shorts/SFqxVq7BLOE) - Coffee + Software
-- [Spring Office Hours: S5E16 - Upgrading Spring and OSS Security](https://www.youtube.com/watch?v=zm_EmvdKwYA) - SpringSourceDev
 
 ## Demos:
 
