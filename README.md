@@ -1,4 +1,4 @@
-# May 17
+# May 18
 
 ## News:
 
@@ -10,8 +10,20 @@
 ## Releases coming soon:
 
 - Spring Ai 2.0.0-M7 (May 21)
+- Spring Ai 2.0.0-RC1 (May 28)
 
 ## YouTube:
+
+- [Rolling back. #SpringOfficeHours #billykorando](https://www.youtube.com/shorts/ImMwslMvv5Q) - SpringSourceDev
+- [Making optimizations. #SpringOfficeHours #billykorando](https://www.youtube.com/shorts/hxzIYUqA7Dk) - SpringSourceDev
+- [Francesco Ciulla on the state of things](https://www.youtube.com/watch?v=n2fPHV8741o) - Coffee + Software
+- [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
+- [We need 100%. #SpringOfficeHours](https://www.youtube.com/shorts/X179H-bQIPk) - SpringSourceDev
+- [Don't get overwhelmed.#SpringOfficeHours](https://www.youtube.com/shorts/gOiv-dW2zko) - SpringSourceDev
+- [We still need engineers. #SpringOfficeHours](https://www.youtube.com/shorts/ZFakusktSdk) - SpringSourceDev
+- [There is always more. #SpringOfficeHours](https://www.youtube.com/shorts/yvs9z7BcY3M) - SpringSourceDev
+- [Software can be joyful. #MarkKropf #coffesoftware](https://www.youtube.com/shorts/mP1IV166bp8) - Coffee + Software
+- [Who is working for who. #coffesoftware #markkropf](https://www.youtube.com/shorts/RXqh1LfDPYw) - Coffee + Software
 
 ## Demos:
 
