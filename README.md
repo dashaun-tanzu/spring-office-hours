@@ -2,28 +2,30 @@
 
 ## News:
 
-- [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
-- [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
-- [Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now](https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now)
-- [Spring Shell 4.0.2 is out!](https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out)
+- [A Bootiful Podcast: the legendary Adib Saikali](https://spring.io/blog/2026/05/14/a-bootiful-podcast-daniel-adib-saikali)
+- [This Week in Spring - May 12th, 2026 ](https://spring.io/blog/2026/05/12/this-week-in-spring-may-12-2026)
+- [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
+- [Spring Office Hours Podcast: S5E15 - Upgrading Spring and OSS Security](https://spring.io/blog/2026/05/11/spring-office-hours-podcast-S5E15)
 
 ## Releases coming soon:
 
 - Spring Ai 2.0.0-M7 (May 21)
+- Spring Ai 1.1.7 (May 21)
+- Spring Ai 1.0.8 (May 21)
 - Spring Ai 2.0.0-RC1 (May 28)
 
 ## YouTube:
 
-- [Rolling back. #SpringOfficeHours #billykorando](https://www.youtube.com/shorts/ImMwslMvv5Q) - SpringSourceDev
-- [Making optimizations. #SpringOfficeHours #billykorando](https://www.youtube.com/shorts/hxzIYUqA7Dk) - SpringSourceDev
+- [Spring Office Hours: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://www.youtube.com/watch?v=hCe50NpXt8s) - SpringSourceDev
+- [Spring Boot + Kafka in 10 Minutes (Your First Message)](https://www.youtube.com/watch?v=5XW3f_39ipY) - Dan Vega
 - [Francesco Ciulla on the state of things](https://www.youtube.com/watch?v=n2fPHV8741o) - Coffee + Software
 - [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
-- [We need 100%. #SpringOfficeHours](https://www.youtube.com/shorts/X179H-bQIPk) - SpringSourceDev
-- [Don't get overwhelmed.#SpringOfficeHours](https://www.youtube.com/shorts/gOiv-dW2zko) - SpringSourceDev
-- [We still need engineers. #SpringOfficeHours](https://www.youtube.com/shorts/ZFakusktSdk) - SpringSourceDev
-- [There is always more. #SpringOfficeHours](https://www.youtube.com/shorts/yvs9z7BcY3M) - SpringSourceDev
-- [Software can be joyful. #MarkKropf #coffesoftware](https://www.youtube.com/shorts/mP1IV166bp8) - Coffee + Software
-- [Who is working for who. #coffesoftware #markkropf](https://www.youtube.com/shorts/RXqh1LfDPYw) - Coffee + Software
+- [Spring Office Hours: S5E16 - Upgrading Spring and OSS Security](https://www.youtube.com/watch?v=zm_EmvdKwYA) - SpringSourceDev
+- [Spring Security lead Rob Winch](https://www.youtube.com/watch?v=qCpBFI1Q5TA) - Coffee + Software
+- [the legendary Adib Saikali](https://www.youtube.com/watch?v=pTpKYszx6GY) - Coffee + Software
+- [Spring Office Hours: S5E14 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
+- [Daniel Garnier-Moiroux on a Bootiful Podcast](https://www.youtube.com/watch?v=fqe0joiIfuY) - Coffee + Software
+- [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig) - Dan Vega
 
 ## Demos:
 
