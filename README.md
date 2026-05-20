@@ -1,9 +1,9 @@
-# May 19
+# May 20
 
 ## News:
 
-- [Spring Office Hours Podcast: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://spring.io/blog/2026/05/19/spring-office-hours-podcast-S5E16)
 - [This Week in Spring - May 19th, 2026](https://spring.io/blog/2026/05/19/this-week-in-spring-may-19-2026)
+- [Spring Office Hours Podcast: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://spring.io/blog/2026/05/19/spring-office-hours-podcast-S5E16)
 - [A Bootiful Podcast: the legendary Adib Saikali](https://spring.io/blog/2026/05/14/a-bootiful-podcast-daniel-adib-saikali)
 - [This Week in Spring - May 12th, 2026 ](https://spring.io/blog/2026/05/12/this-week-in-spring-may-12-2026)
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
