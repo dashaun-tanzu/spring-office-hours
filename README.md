@@ -1,4 +1,4 @@
-# May 20
+# May 21
 
 ## News:
 
@@ -20,8 +20,9 @@
 
 ## YouTube:
 
+- [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss) - Dan Vega
 - [Spring Office Hours: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://www.youtube.com/watch?v=hCe50NpXt8s) - SpringSourceDev
-- [Spring Boot + Kafka in 10 Minutes (Your First Message)](https://www.youtube.com/watch?v=5XW3f_39ipY) - Dan Vega
+- [Spring Boot + Kafka in Minutes (Your First Message)](https://www.youtube.com/watch?v=5XW3f_39ipY) - Dan Vega
 - [Francesco Ciulla on the state of things](https://www.youtube.com/watch?v=n2fPHV8741o) - Coffee + Software
 - [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
 - [Spring Office Hours: S5E16 - Upgrading Spring and OSS Security](https://www.youtube.com/watch?v=zm_EmvdKwYA) - SpringSourceDev
@@ -29,7 +30,6 @@
 - [the legendary Adib Saikali](https://www.youtube.com/watch?v=pTpKYszx6GY) - Coffee + Software
 - [Spring Office Hours: S5E14 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
 - [Daniel Garnier-Moiroux on a Bootiful Podcast](https://www.youtube.com/watch?v=fqe0joiIfuY) - Coffee + Software
-- [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig) - Dan Vega
 
 ## Demos:
 
