@@ -1,4 +1,4 @@
-# May 22
+# May 23
 
 ## News:
 
@@ -13,10 +13,8 @@
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0-M7 (May 22)
-- Spring Ai 1.1.7 (May 22)
-- Spring Ai 1.0.8 (May 22)
-- Spring Ai 2.0.0-RC1 (May 28)
+- Spring Ai 2.0.0-RC1 (May 29)
+- Spring Ai 1.1.8 (May 29)
 - Reactor 2024.0.18 (Jun 1)
 - Reactor 2025.0.6 (Jun 1)
 - Reactor Core 3.7.19 (Jun 1)
@@ -36,19 +34,35 @@
 - Reactor Netty 1.2.18 (Jun 1)
 - Spring Framework 6.2.19 (Jun 1)
 - Spring Framework 7.0.8 (Jun 1)
+- Spring Session 4.0.4 (Jun 2)
+- Spring Session 3.5.7 (Jun 2)
+- Spring Session 4.1.0 (Jun 2)
+- Spring Data Release 2025.0.12 (Jun 2)
+- Spring Data Release 2025.1.6 (Jun 2)
+- Spring Data Release 2026.0.0 (Jun 2)
+- Spring Authorization Server 1.5.8 (Jun 2)
+- Spring Kafka 4.1.0 (Jun 2)
+- Spring Kafka 4.0.6 (Jun 2)
+- Spring Kafka 3.3.16 (Jun 2)
+- Spring Restdocs 3.0.6 (Jun 2)
+- Spring Restdocs 4.0.1 (Jun 2)
+- Spring Ldap 3.3.8 (Jun 2)
+- Spring Ldap 4.0.4 (Jun 2)
+- Spring Ldap 4.1.0 (Jun 2)
+- Spring Ws 4.1.4 (Jun 2)
+- Spring Ws 5.0.2 (Jun 2)
+- Spring Amqp 4.1.0 (Jun 2)
+- Spring Amqp 4.0.4 (Jun 2)
+- Spring Amqp 3.2.11 (Jun 2)
+- Spring Security 7.0.6 (Jun 2)
+- Spring Security 6.5.11 (Jun 2)
+- Spring Security 7.1.0 (Jun 2)
+- Spring Webflow 3.0.2 (Jun 2)
+- Spring Webflow 4.0.1 (Jun 2)
+- Spring Pulsar 1.2.18 (Jun 2)
+- Spring Pulsar 2.0.6 (Jun 2)
 
 ## YouTube:
-
-- [Jetbrains legend Hadi Hariri](https://www.youtube.com/watch?v=UNHDKWgYaXU) - Coffee + Software
-- [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss) - Dan Vega
-- [Spring Office Hours: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://www.youtube.com/watch?v=hCe50NpXt8s) - SpringSourceDev
-- [Spring Boot + Kafka in Minutes (Your First Message)](https://www.youtube.com/watch?v=5XW3f_39ipY) - Dan Vega
-- [Francesco Ciulla on the state of things](https://www.youtube.com/watch?v=n2fPHV8741o) - Coffee + Software
-- [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
-- [Spring Office Hours: S5E16 - Upgrading Spring and OSS Security](https://www.youtube.com/watch?v=zm_EmvdKwYA) - SpringSourceDev
-- [Spring Security lead Rob Winch](https://www.youtube.com/watch?v=qCpBFI1Q5TA) - Coffee + Software
-- [the legendary Adib Saikali](https://www.youtube.com/watch?v=pTpKYszx6GY) - Coffee + Software
-- [Spring Office Hours: S5E14 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
 
 ## Demos:
 
