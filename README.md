@@ -1,7 +1,8 @@
-# May 23
+# May 24
 
 ## News:
 
+- [Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now](https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now)
 - [A Bootiful Podcast: Hadi Hariri, Jetbrains legend](https://spring.io/blog/2026/05/21/a-bootiful-podcast-hadi-hariri)
 - [Spring Office Hours Podcast: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://spring.io/blog/2026/05/19/spring-office-hours-podcast-S5E16)
 - [This Week in Spring - May 19th, 2026](https://spring.io/blog/2026/05/19/this-week-in-spring-may-19-2026)
@@ -9,7 +10,6 @@
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
 - [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
 - [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
-- [Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now](https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now)
 
 ## Releases coming soon:
 
@@ -61,8 +61,33 @@
 - Spring Webflow 4.0.1 (Jun 2)
 - Spring Pulsar 1.2.18 (Jun 2)
 - Spring Pulsar 2.0.6 (Jun 2)
+- Spring Vault 3.2.1 (Jun 3)
+- Spring Vault 4.1.0 (Jun 3)
+- Spring Vault 4.0.3 (Jun 3)
+- Spring Batch 6.0.4 (Jun 3)
+- Spring Batch 5.2.6 (Jun 3)
+- Spring Integration 7.1.0 (Jun 3)
+- Spring Integration 6.5.9 (Jun 3)
+- Spring Integration 7.0.5 (Jun 3)
+- Spring Graphql 1.4.6 (Jun 3)
+- Spring Graphql 2.0.4 (Jun 3)
+- Spring Grpc 1.1.0 (Jun 3)
+- Spring Boot 4.1.0 (Jun 3)
+- Spring Boot 3.5.15 (Jun 3)
+- Spring Boot 4.0.7 (Jun 3)
 
 ## YouTube:
+
+- [Jetbrains legend Hadi Hariri](https://www.youtube.com/watch?v=UNHDKWgYaXU) - Coffee + Software
+- [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss) - Dan Vega
+- [Spring Office Hours: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://www.youtube.com/watch?v=hCe50NpXt8s) - SpringSourceDev
+- [Spring Boot + Kafka in Minutes (Your First Message)](https://www.youtube.com/watch?v=5XW3f_39ipY) - Dan Vega
+- [Francesco Ciulla on the state of things](https://www.youtube.com/watch?v=n2fPHV8741o) - Coffee + Software
+- [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
+- [Spring Office Hours: S5E16 - Upgrading Spring and OSS Security](https://www.youtube.com/watch?v=zm_EmvdKwYA) - SpringSourceDev
+- [Spring Security lead Rob Winch](https://www.youtube.com/watch?v=qCpBFI1Q5TA) - Coffee + Software
+- [the legendary Adib Saikali](https://www.youtube.com/watch?v=pTpKYszx6GY) - Coffee + Software
+- [Spring Office Hours: S5E14 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
 
 ## Demos:
 
