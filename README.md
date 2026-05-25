@@ -1,4 +1,4 @@
-# May 24
+# May 25
 
 ## News:
 
@@ -8,8 +8,8 @@
 - [This Week in Spring - May 19th, 2026](https://spring.io/blog/2026/05/19/this-week-in-spring-may-19-2026)
 - [A Bootiful Podcast: the legendary Adib Saikali](https://spring.io/blog/2026/05/14/a-bootiful-podcast-daniel-adib-saikali)
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
-- [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
 - [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
+- [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
 
 ## Releases coming soon:
 
@@ -75,6 +75,15 @@
 - Spring Boot 4.1.0 (Jun 3)
 - Spring Boot 3.5.15 (Jun 3)
 - Spring Boot 4.0.7 (Jun 3)
+- Spring Modulith 1.4.12 (Jun 4)
+- Spring Modulith 2.0.7 (Jun 4)
+- Spring Modulith 2.1 GA (Jun 4)
+- Spring Statemachine 4.0.2 (Jun 4)
+- Spring Shell 4.0.3 (Jun 4)
+- Spring Shell 3.4.3 (Jun 4)
+- Spring Cloud Release 2025.1.2 (Jun 4)
+- Spring Cloud Release 2025.0.3 (Jun 4)
+- Spring Ai 2.0.0 (Jun 4)
 
 ## YouTube:
 
