@@ -1,20 +1,21 @@
-# May 25
+# May 26
 
 ## News:
 
 - [Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now](https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now)
 - [A Bootiful Podcast: Hadi Hariri, Jetbrains legend](https://spring.io/blog/2026/05/21/a-bootiful-podcast-hadi-hariri)
-- [Spring Office Hours Podcast: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://spring.io/blog/2026/05/19/spring-office-hours-podcast-S5E16)
 - [This Week in Spring - May 19th, 2026](https://spring.io/blog/2026/05/19/this-week-in-spring-may-19-2026)
+- [Spring Office Hours Podcast: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://spring.io/blog/2026/05/19/spring-office-hours-podcast-S5E16)
 - [A Bootiful Podcast: the legendary Adib Saikali](https://spring.io/blog/2026/05/14/a-bootiful-podcast-daniel-adib-saikali)
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
-- [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
 - [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
+- [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
 
 ## Releases coming soon:
 
 - Spring Ai 2.0.0-RC1 (May 29)
 - Spring Ai 1.1.8 (May 29)
+- Spring Ai 1.0.9 (May 29)
 - Reactor 2024.0.18 (Jun 1)
 - Reactor 2025.0.6 (Jun 1)
 - Reactor Core 3.7.19 (Jun 1)
