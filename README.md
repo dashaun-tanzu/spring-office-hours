@@ -1,21 +1,19 @@
-# May 26
+# May 27
 
 ## News:
 
+- [This Week in Spring - May 26th, 2026](https://spring.io/blog/2026/05/26/this-week-in-spring-may-26-2026)
 - [Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now](https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now)
 - [A Bootiful Podcast: Hadi Hariri, Jetbrains legend](https://spring.io/blog/2026/05/21/a-bootiful-podcast-hadi-hariri)
 - [This Week in Spring - May 19th, 2026](https://spring.io/blog/2026/05/19/this-week-in-spring-may-19-2026)
 - [Spring Office Hours Podcast: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://spring.io/blog/2026/05/19/spring-office-hours-podcast-S5E16)
-- [A Bootiful Podcast: the legendary Adib Saikali](https://spring.io/blog/2026/05/14/a-bootiful-podcast-daniel-adib-saikali)
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
 - [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
 - [Spring Cloud Function and Config Have Been Released To Address Several CVEs](https://spring.io/blog/2026/05/08/spring-cloud-april-releases)
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0-RC1 (May 29)
-- Spring Ai 1.1.8 (May 29)
-- Spring Ai 1.0.9 (May 29)
+- Spring Ai 2.0.0-M8 (May 27)
 - Reactor 2024.0.18 (Jun 1)
 - Reactor 2025.0.6 (Jun 1)
 - Reactor Core 3.7.19 (Jun 1)
@@ -31,6 +29,7 @@
 - Micrometer Tracing 1.6.6 (Jun 1)
 - Micrometer Tracing 1.7.0 (Jun 1)
 - Reactor Pool 1.2.6 (Jun 1)
+- Spring Ai 2.0.0-RC1 (Jun 1)
 - Reactor Netty 1.3.6 (Jun 1)
 - Reactor Netty 1.2.18 (Jun 1)
 - Spring Framework 6.2.19 (Jun 1)
@@ -85,9 +84,13 @@
 - Spring Cloud Release 2025.1.2 (Jun 4)
 - Spring Cloud Release 2025.0.3 (Jun 4)
 - Spring Ai 2.0.0 (Jun 4)
+- Spring Ai 1.1.8 (Jun 4)
+- Spring Ai 1.0.9 (Jun 4)
 
 ## YouTube:
 
+- [The legendary Marit van Dijk](https://www.youtube.com/watch?v=jm7o2I_QOpM) - Coffee + Software
+- [the legendary Java luminary Martijn Verburg](https://www.youtube.com/watch?v=Q3m1LDH3_Ro) - Coffee + Software
 - [Jetbrains legend Hadi Hariri](https://www.youtube.com/watch?v=UNHDKWgYaXU) - Coffee + Software
 - [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss) - Dan Vega
 - [Spring Office Hours: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://www.youtube.com/watch?v=hCe50NpXt8s) - SpringSourceDev
@@ -96,16 +99,14 @@
 - [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
 - [Spring Office Hours: S5E16 - Upgrading Spring and OSS Security](https://www.youtube.com/watch?v=zm_EmvdKwYA) - SpringSourceDev
 - [Spring Security lead Rob Winch](https://www.youtube.com/watch?v=qCpBFI1Q5TA) - Coffee + Software
-- [the legendary Adib Saikali](https://www.youtube.com/watch?v=pTpKYszx6GY) - Coffee + Software
-- [Spring Office Hours: S5E14 - Spec Driven Development with Simon Martinelli](https://www.youtube.com/watch?v=BZjQo0OJD_A) - SpringSourceDev
 
 ## Demos:
 
 - [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
-- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Demo repository
 - [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demo repository
 - [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Demo repository
 - [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demo repository
 - [saa-petclinic-squashed-demo](https://github.com/dashaun-tanzu/saa-petclinic-squashed-demo) - Demo repository
 - [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Demo repository
+- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Demo repository
 
