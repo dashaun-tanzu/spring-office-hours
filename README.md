@@ -1,4 +1,4 @@
-# May 30
+# May 31
 
 ## News:
 
@@ -71,6 +71,15 @@
 - Spring Security 7.0.6 (Jun 9)
 - Spring Security 6.5.11 (Jun 9)
 - Spring Security 7.1.0 (Jun 9)
+- Spring Tools 5.2.0.RELEASE (Jun 10)
+- Spring Batch 6.0.4 (Jun 10)
+- Spring Batch 5.2.6 (Jun 10)
+- Spring Integration 7.1.0 (Jun 10)
+- Spring Integration 6.5.9 (Jun 10)
+- Spring Integration 7.0.5 (Jun 10)
+- Spring Boot 4.1.0 (Jun 10)
+- Spring Boot 3.5.15 (Jun 10)
+- Spring Boot 4.0.7 (Jun 10)
 
 ## YouTube:
 
