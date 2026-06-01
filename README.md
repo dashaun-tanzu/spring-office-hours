@@ -1,4 +1,4 @@
-# May 31
+# June 1
 
 ## News:
 
@@ -11,11 +11,25 @@
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
 - [Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now](https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now)
 
+## Recent Enterprise Releases:
+
+- June 1
+  - Spring Vault 3.1.5 (Enterprise)
+  - Spring Session 2021.2.7 (Enterprise)
+  - Spring Session 3.3.11 (Enterprise)
+  - Spring Session 3.4.9 (Enterprise)
+  - Spring Authorization Server 1.3.12 (Enterprise)
+  - Spring Authorization Server 1.4.11 (Enterprise)
+  - Spring Restdocs 2.0.9.RELEASE (Enterprise)
+  - Spring Ldap 3.2.18 (Enterprise)
+  - Spring Ldap 2.4.5 (Enterprise)
+  - Spring Security 5.7.24 (Enterprise)
+  - Spring Security 5.8.26 (Enterprise)
+  - Spring Security 6.3.17 (Enterprise)
+  - Spring Security 6.4.17 (Enterprise)
+  - Spring Pulsar 1.1.18 (Enterprise)
 ## Releases coming soon:
 
-- Spring Hateoas 2.5.3 (Jun 1)
-- Spring Hateoas 3.0.4 (Jun 1)
-- Spring Hateoas 3.1.0 (Jun 1)
 - Spring Webflow 3.0.2 (Jun 2)
 - Spring Webflow 4.0.1 (Jun 2)
 - Spring Pulsar 1.2.18 (Jun 2)
@@ -23,8 +37,6 @@
 - Spring Vault 3.2.1 (Jun 3)
 - Spring Vault 4.1.0 (Jun 3)
 - Spring Vault 4.0.3 (Jun 3)
-- Spring Graphql 1.4.6 (Jun 3)
-- Spring Graphql 2.0.4 (Jun 3)
 - Spring Grpc 1.1.0 (Jun 3)
 - Spring Modulith 1.4.12 (Jun 4)
 - Spring Modulith 2.0.7 (Jun 4)
@@ -40,6 +52,9 @@
 - Micrometer 1.15.12 (Jun 8)
 - Micrometer 1.16.6 (Jun 8)
 - Micrometer 1.17.0 (Jun 8)
+- Spring Hateoas 2.5.3 (Jun 8)
+- Spring Hateoas 3.0.4 (Jun 8)
+- Spring Hateoas 3.1.0 (Jun 8)
 - Spring Ldap 3.3.8 (Jun 8)
 - Spring Ldap 4.0.4 (Jun 8)
 - Spring Ldap 4.1.0 (Jun 8)
@@ -77,9 +92,18 @@
 - Spring Integration 7.1.0 (Jun 10)
 - Spring Integration 6.5.9 (Jun 10)
 - Spring Integration 7.0.5 (Jun 10)
+- Spring Graphql 1.4.6 (Jun 10)
+- Spring Graphql 2.0.4 (Jun 10)
 - Spring Boot 4.1.0 (Jun 10)
 - Spring Boot 3.5.15 (Jun 10)
 - Spring Boot 4.0.7 (Jun 10)
+- Spring Statemachine 4.0.2 (Jun 11)
+- Spring Shell 4.0.3 (Jun 11)
+- Spring Shell 3.4.3 (Jun 11)
+- Spring Cloud Release 2025.1.2 (Jun 11)
+- Spring Cloud Release 2025.0.3 (Jun 11)
+- Spring Ai 2.0.0 (Jun 11)
+- Spring Release Actions 0.0.6 (Jun 11)
 
 ## YouTube:
 
