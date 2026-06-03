@@ -1,19 +1,18 @@
-# June 2
+# June 3
 
 ## News:
 
+- [This Week in Spring - June 2nd, 2026](https://spring.io/blog/2026/06/02/this-week-in-spring-june-2-2026)
 - [Spring and Security In The Times Of AI](https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai)
 - [A Bootiful Podcast: Microsoft's Martijn Verburg](https://spring.io/blog/2026/05/28/a-bootiful-podcast-martijn-verburg)
 - [Spring AI 2.0.0-M8 Available Now](https://spring.io/blog/2026/05/27/spring-ai-2-0-0-M8-available-now)
 - [This Week in Spring - May 26th, 2026](https://spring.io/blog/2026/05/26/this-week-in-spring-may-26-2026)
 - [Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now](https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now)
 - [A Bootiful Podcast: Hadi Hariri, Jetbrains legend](https://spring.io/blog/2026/05/21/a-bootiful-podcast-hadi-hariri)
-- [Spring Office Hours Podcast: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://spring.io/blog/2026/05/19/spring-office-hours-podcast-S5E16)
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
 
 ## Releases coming soon:
 
-- Spring Modulith 1.4.12 (Jun 4)
 - Spring Ai 2.0.0-RC1 (Jun 4)
 - Reactor 2024.0.18 (Jun 8)
 - Reactor 2025.0.6 (Jun 8)
@@ -80,6 +79,7 @@
 - Spring Boot 4.1.0 (Jun 10)
 - Spring Boot 3.5.15 (Jun 10)
 - Spring Boot 4.0.7 (Jun 10)
+- Spring Modulith 1.4.12 (Jun 11)
 - Spring Modulith 2.0.7 (Jun 11)
 - Spring Modulith 2.1 GA (Jun 11)
 - Spring Statemachine 4.0.2 (Jun 11)
