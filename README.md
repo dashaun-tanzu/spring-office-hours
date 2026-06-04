@@ -1,4 +1,4 @@
-# June 3
+# June 4
 
 ## News:
 
@@ -13,7 +13,7 @@
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0-RC1 (Jun 4)
+- Spring Ai 2.0.0-RC1 (Jun 5)
 - Reactor 2024.0.18 (Jun 8)
 - Reactor 2025.0.6 (Jun 8)
 - BlockHound 1.0.17.RELEASE (Jun 8)
@@ -25,6 +25,8 @@
 - Micrometer 1.15.12 (Jun 8)
 - Micrometer 1.16.6 (Jun 8)
 - Micrometer 1.17.0 (Jun 8)
+- Spring Restdocs 3.0.6 (Jun 8)
+- Spring Restdocs 4.0.1 (Jun 8)
 - Spring Hateoas 2.5.3 (Jun 8)
 - Spring Hateoas 3.0.4 (Jun 8)
 - Spring Hateoas 3.1.0 (Jun 8)
@@ -36,8 +38,6 @@
 - Micrometer Tracing 1.7.0 (Jun 8)
 - Reactor Pool 1.1.9 (Jun 8)
 - Reactor Pool 1.2.6 (Jun 8)
-- Spring Webflow 3.0.2 (Jun 8)
-- Spring Webflow 4.0.1 (Jun 8)
 - Reactor Netty 1.3.6 (Jun 8)
 - Reactor Netty 1.2.18 (Jun 8)
 - Spring Framework 6.2.19 (Jun 8)
@@ -52,8 +52,6 @@
 - Spring Kafka 4.1.0 (Jun 9)
 - Spring Kafka 4.0.6 (Jun 9)
 - Spring Kafka 3.3.16 (Jun 9)
-- Spring Restdocs 3.0.6 (Jun 9)
-- Spring Restdocs 4.0.1 (Jun 9)
 - Spring Ws 4.1.4 (Jun 9)
 - Spring Ws 5.0.2 (Jun 9)
 - Spring Amqp 4.1.0 (Jun 9)
@@ -62,6 +60,8 @@
 - Spring Security 7.0.6 (Jun 9)
 - Spring Security 6.5.11 (Jun 9)
 - Spring Security 7.1.0 (Jun 9)
+- Spring Webflow 3.0.2 (Jun 9)
+- Spring Webflow 4.0.1 (Jun 9)
 - Spring Pulsar 1.2.18 (Jun 9)
 - Spring Pulsar 2.0.6 (Jun 9)
 - Spring Vault 3.2.1 (Jun 10)
