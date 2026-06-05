@@ -1,14 +1,14 @@
-# June 4
+# June 5
 
 ## News:
 
+- [A Bootiful Podcast: JetBrains' Marit van Dijk](https://spring.io/blog/2026/06/04/a-bootiful-podcast-marit-van-dijk)
 - [This Week in Spring - June 2nd, 2026](https://spring.io/blog/2026/06/02/this-week-in-spring-june-2-2026)
 - [Spring and Security In The Times Of AI](https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai)
 - [A Bootiful Podcast: Microsoft's Martijn Verburg](https://spring.io/blog/2026/05/28/a-bootiful-podcast-martijn-verburg)
 - [Spring AI 2.0.0-M8 Available Now](https://spring.io/blog/2026/05/27/spring-ai-2-0-0-M8-available-now)
 - [This Week in Spring - May 26th, 2026](https://spring.io/blog/2026/05/26/this-week-in-spring-may-26-2026)
 - [Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now](https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now)
-- [A Bootiful Podcast: Hadi Hariri, Jetbrains legend](https://spring.io/blog/2026/05/21/a-bootiful-podcast-hadi-hariri)
 - [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
 
 ## Releases coming soon:
