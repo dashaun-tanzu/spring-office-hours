@@ -1,7 +1,8 @@
-# June 5
+# June 6
 
 ## News:
 
+- [Spring AI 2.0.0-RC1 Available Now](https://spring.io/blog/2026/06/06/spring-ai-2-0-0-RC1-available-now)
 - [A Bootiful Podcast: JetBrains' Marit van Dijk](https://spring.io/blog/2026/06/04/a-bootiful-podcast-marit-van-dijk)
 - [This Week in Spring - June 2nd, 2026](https://spring.io/blog/2026/06/02/this-week-in-spring-june-2-2026)
 - [Spring and Security In The Times Of AI](https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai)
@@ -9,11 +10,9 @@
 - [Spring AI 2.0.0-M8 Available Now](https://spring.io/blog/2026/05/27/spring-ai-2-0-0-M8-available-now)
 - [This Week in Spring - May 26th, 2026](https://spring.io/blog/2026/05/26/this-week-in-spring-may-26-2026)
 - [Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now](https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now)
-- [May Release Train Date Changes](https://spring.io/blog/2026/05/11/may-train-shift)
 
 ## Releases coming soon:
 
-- Spring Ai 2.0.0-RC1 (Jun 5)
 - Reactor 2024.0.18 (Jun 8)
 - Reactor 2025.0.6 (Jun 8)
 - BlockHound 1.0.17.RELEASE (Jun 8)
@@ -99,11 +98,11 @@
 - [the legendary Java luminary Martijn Verburg](https://www.youtube.com/watch?v=Q3m1LDH3_Ro) - Coffee + Software
 - [Jetbrains legend Hadi Hariri](https://www.youtube.com/watch?v=UNHDKWgYaXU) - Coffee + Software
 - [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss) - Dan Vega
-- [Spring Office Hours: S5E16 - May Release Train Shift & What's Coming in Spring Boot 4.1](https://www.youtube.com/watch?v=hCe50NpXt8s) - SpringSourceDev
 - [Spring Boot + Kafka in Minutes (Your First Message)](https://www.youtube.com/watch?v=5XW3f_39ipY) - Dan Vega
 - [Francesco Ciulla on the state of things](https://www.youtube.com/watch?v=n2fPHV8741o) - Coffee + Software
 - [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM) - Dan Vega
 - [Spring Security lead Rob Winch](https://www.youtube.com/watch?v=qCpBFI1Q5TA) - Coffee + Software
+- [the legendary Adib Saikali](https://www.youtube.com/watch?v=pTpKYszx6GY) - Coffee + Software
 
 ## Demos:
 
