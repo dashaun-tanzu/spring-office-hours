@@ -1,4 +1,4 @@
-# June 7
+# June 8
 
 ## News:
 
@@ -11,6 +11,59 @@
 - [This Week in Spring - May 26th, 2026](https://spring.io/blog/2026/05/26/this-week-in-spring-may-26-2026)
 - [Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now](https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now)
 
+## Recent Enterprise Releases:
+
+- June 8
+  - Reactor 2020.0.51 (Enterprise)
+  - Reactor 2023.0.24 (Enterprise)
+  - Reactor Core 3.6.22 (Enterprise)
+  - Spring Statemachine 3.2.5 (Enterprise)
+  - Spring Batch 5.1.6 (Enterprise)
+  - Spring Batch 4.3.13 (Enterprise)
+  - Spring Integration 6.4.12 (Enterprise)
+  - Spring Integration 6.3.15 (Enterprise)
+  - Spring Integration 5.5.21 (Enterprise)
+  - Spring Session 2021.2.7 (Enterprise)
+  - Spring Session 3.3.11 (Enterprise)
+  - Spring Session 3.4.9 (Enterprise)
+  - Spring Shell 2.1.20 (Enterprise)
+  - Spring Shell 3.3.7 (Enterprise)
+  - Spring Data Release 2024.1.15 (Enterprise)
+  - Spring Data Release 2021.2.20 (Enterprise)
+  - Spring Data Release 2024.0.17 (Enterprise)
+  - Spring Graphql 1.3.9 (Enterprise)
+  - Spring Graphql 1.0.7 (Enterprise)
+  - Spring Authorization Server 1.3.12 (Enterprise)
+  - Spring Authorization Server 1.4.11 (Enterprise)
+  - Spring Retry 1.3.5 (Enterprise)
+  - Spring Kafka 3.2.14 (Enterprise)
+  - Spring Kafka 2.9.14 (Enterprise)
+  - Spring Kafka 2.8.12 (Enterprise)
+  - Micrometer 1.13.19 (Enterprise)
+  - Micrometer 1.14.16 (Enterprise)
+  - Micrometer 1.9.18 (Enterprise)
+  - Spring Restdocs 2.0.9.RELEASE (Enterprise)
+  - Spring Hateoas 2.4.2 (Enterprise)
+  - Spring Hateoas 2.3.5 (Enterprise)
+  - Spring Hateoas 1.5.7 (Enterprise)
+  - Spring Ldap 3.2.18 (Enterprise)
+  - Spring Ldap 2.4.5 (Enterprise)
+  - Micrometer Tracing 1.3.17 (Enterprise)
+  - Micrometer Tracing 1.4.15 (Enterprise)
+  - Spring Boot 2.7.34 (Enterprise)
+  - Spring Boot 3.3.20 (Enterprise)
+  - Spring Boot 3.4.17 (Enterprise)
+  - Spring Amqp 3.1.16 (Enterprise)
+  - Spring Amqp 2.4.18 (Enterprise)
+  - Spring Security 6.4.18 (Enterprise)
+  - Spring Security 6.3.18 (Enterprise)
+  - Spring Security 5.7.25 (Enterprise)
+  - Spring Security 5.8.27 (Enterprise)
+  - Spring Pulsar 1.1.18 (Enterprise)
+  - Reactor Netty 1.0.52 (Enterprise)
+  - Reactor Netty 1.1.36 (Enterprise)
+  - Spring Framework 5.3.49 (Enterprise)
+  - Spring Framework 6.1.28 (Enterprise)
 ## Releases coming soon:
 
 - Reactor 2024.0.18 (Jun 8)
@@ -113,4 +166,5 @@
 - [saa-petclinic-squashed-demo](https://github.com/dashaun-tanzu/saa-petclinic-squashed-demo) - Demo repository
 - [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Demo repository
 - [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Demo repository
+- [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Demo repository
 
