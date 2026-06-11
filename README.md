@@ -1,15 +1,15 @@
-# June 10
+# June 11
 
 ## News:
 
-- [Spring gRPC 1.1.0 available now](https://spring.io/blog/2026/06/10/spring-grpc-1-1-0-available-now)
-- [Spring for Apache Pulsar 1.2.18 and 2.0.6 are now available](https://spring.io/blog/2026/06/10/spring-for-apache-pulsar-1-2-18-and-2-0-6-are-now-available)
-- [Spring Web Flow 3.0.2 and 4.0.1 Available Now](https://spring.io/blog/2026/06/10/spring-webflow-4-0-1-and-3-0-2-available-now)
-- [Spring Web Services 5.0.2 and 4.1.4 available now](https://spring.io/blog/2026/06/10/spring-ws-5-0-2-and-4-1-4-available-now)
+- [A Bootiful Podcast: Spring Security lead Rob Winch answers some security questions for me](https://spring.io/blog/2026/06/11/a-bootiful-podcast-rob-winch-answers-everything)
+- [Spring Batch 6.0.4 and 5.2.6 available now](https://spring.io/blog/2026/06/10/spring-batch-6-0-4-and-5-2-6-available-now)
+- [Spring Boot 3.5.15 available now](https://spring.io/blog/2026/06/10/spring-boot-3-5-15-available-now)
+- [Spring Boot 4.0.7 available now](https://spring.io/blog/2026/06/10/spring-boot-4-0-7-available-now)
+- [Spring Boot 4.1.0 available now](https://spring.io/blog/2026/06/10/spring-boot-4)
 - [This Week in Spring - June 9th, 2026](https://spring.io/blog/2026/06/09/this-week-in-spring-june-9-2026)
 - [A Bootiful Podcast: JetBrains' Marit van Dijk](https://spring.io/blog/2026/06/04/a-bootiful-podcast-marit-van-dijk)
 - [This Week in Spring - June 2nd, 2026](https://spring.io/blog/2026/06/02/this-week-in-spring-june-2-2026)
-- [Spring and Security In The Times Of AI](https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai)
 
 ## Recent Enterprise Releases:
 
@@ -78,20 +78,6 @@
   - Spring Framework 7.0.7.1 (Enterprise)
 ## Releases coming soon:
 
-- Spring Vault 3.2.1 (Jun 10)
-- Spring Vault 4.1.0 (Jun 10)
-- Spring Vault 4.0.3 (Jun 10)
-- Spring Tools 5.2.0.RELEASE (Jun 10)
-- Spring Batch 6.0.4 (Jun 10)
-- Spring Batch 5.2.6 (Jun 10)
-- Spring Integration 7.1.0 (Jun 10)
-- Spring Integration 6.5.9 (Jun 10)
-- Spring Integration 7.0.5 (Jun 10)
-- Spring Graphql 1.4.6 (Jun 10)
-- Spring Graphql 2.0.4 (Jun 10)
-- Spring Boot 4.1.0 (Jun 10)
-- Spring Boot 3.5.15 (Jun 10)
-- Spring Boot 4.0.7 (Jun 10)
 - Spring Modulith 1.4.12 (Jun 11)
 - Spring Modulith 2.0.7 (Jun 11)
 - Spring Modulith 2.1 GA (Jun 11)
