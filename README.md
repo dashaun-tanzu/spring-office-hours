@@ -1,12 +1,12 @@
-# June 12
+# June 13
 
 ## News:
 
-- [Spring Cloud 2025.1.2 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released)
+- [Spring AI 1.0.9, 1.1.8 Available Now](https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now)
+- [Spring AI 2.0.0 GA Available Now](https://spring.io/blog/2026/06/12/spring-ai-2-0-0-GA-available-now)
 - [Spring Cloud 2025.0.3 (aka Northfields) Has Been Released](https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released)
-- [Spring Shell 4.0.3 and 3.4.3 are out!](https://spring.io/blog/2026/06/11/spring-shell-4-0-3-and-3-4-3-are-out)
+- [Spring Cloud 2025.1.2 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released)
 - [A Bootiful Podcast: Spring Security lead Rob Winch answers some security questions for me](https://spring.io/blog/2026/06/11/a-bootiful-podcast-rob-winch-answers-everything)
-- [Spring Modulith 2.1 GA, 2.0.7, and 1.4.12 released](https://spring.io/blog/2026/06/11/spring-modulith-2-1-ga-2-0-7-and-1-4-12-released)
 - [This Week in Spring - June 9th, 2026](https://spring.io/blog/2026/06/09/this-week-in-spring-june-9-2026)
 - [A Bootiful Podcast: JetBrains' Marit van Dijk](https://spring.io/blog/2026/06/04/a-bootiful-podcast-marit-van-dijk)
 - [This Week in Spring - June 2nd, 2026](https://spring.io/blog/2026/06/02/this-week-in-spring-june-2-2026)
@@ -77,10 +77,6 @@
   - Spring Framework 6.2.18.1 (Enterprise)
   - Spring Framework 7.0.7.1 (Enterprise)
 ## Releases coming soon:
-
-- Spring Ai 2.0.0 (Jun 12)
-- Spring Ai 1.1.8 (Jun 12)
-- Spring Ai 1.0.9 (Jun 12)
 
 ## YouTube:
 
