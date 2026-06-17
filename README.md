@@ -1,7 +1,8 @@
-# June 16
+# June 17
 
 ## News:
 
+- [This Week in Spring - June 16th, 2026](https://spring.io/blog/2026/06/16/this-week-in-spring-june-16-2026)
 - [Tool Calling in Spring AI 2.0: A Composable, Agentic Architecture](https://spring.io/blog/2026/06/15/spring-ai-composable-tool-calling)
 - [Spring Tools 5.2.0 released](https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released)
 - [Spring AI 1.0.9, 1.1.8 Available Now](https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now)
@@ -9,7 +10,6 @@
 - [Spring Cloud 2025.0.3 (aka Northfields) Has Been Released](https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released)
 - [A Bootiful Podcast: Spring Security lead Rob Winch answers some security questions for me](https://spring.io/blog/2026/06/11/a-bootiful-podcast-rob-winch-answers-everything)
 - [This Week in Spring - June 9th, 2026](https://spring.io/blog/2026/06/09/this-week-in-spring-june-9-2026)
-- [A Bootiful Podcast: JetBrains' Marit van Dijk](https://spring.io/blog/2026/06/04/a-bootiful-podcast-marit-van-dijk)
 
 ## Releases coming soon:
 
