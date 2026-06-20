@@ -1,4 +1,4 @@
-# June 19
+# June 20
 
 ## News:
 
@@ -13,8 +13,9 @@
 
 ## Releases coming soon:
 
-- R2dbc Mssql 1.0.5.RELEASE (Jun 19)
-- Spring Amqp 3.2.12 (Jun 29)
+- Spring Integration 6.5.10 (Jun 24)
+- Spring Data Release 2025.0.13 (Jun 24)
+- Spring Amqp 3.2.12 (Jun 24)
 
 ## YouTube:
 
