@@ -1,7 +1,8 @@
-# June 21
+# June 22
 
 ## News:
 
+- [MongoDB-backed Spring Batch jobs and more in Spring Boot 4.1](https://spring.io/blog/2026/06/21/spring-boot-41-and-spring-batch)
 - [A Bootiful Podcast: DaShaun Carter on patching, Spring Boot 4.1, and security in the world of AI](https://spring.io/blog/2026/06/18/a-bootiful-podcast-dashaun-carter)
 - [This Week in Spring - June 16th, 2026](https://spring.io/blog/2026/06/16/this-week-in-spring-june-16-2026)
 - [Tool Calling in Spring AI 2.0: A Composable, Agentic Architecture](https://spring.io/blog/2026/06/15/spring-ai-composable-tool-calling)
@@ -9,13 +10,14 @@
 - [Spring AI 1.0.9, 1.1.8 Available Now](https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now)
 - [Spring AI 2.0.0 GA Available Now](https://spring.io/blog/2026/06/12/spring-ai-2-0-0-GA-available-now)
 - [Spring Cloud 2025.0.3 (aka Northfields) Has Been Released](https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released)
-- [A Bootiful Podcast: Spring Security lead Rob Winch answers some security questions for me](https://spring.io/blog/2026/06/11/a-bootiful-podcast-rob-winch-answers-everything)
 
 ## Releases coming soon:
 
+- R2dbc Mssql 1.0.5.RELEASE (Jun 22)
 - Spring Integration 6.5.10 (Jun 24)
 - Spring Data Release 2025.0.13 (Jun 24)
 - Spring Amqp 3.2.12 (Jun 24)
+- Spring Boot 3.5.16 (Jun 25)
 
 ## YouTube:
 
