@@ -1,11 +1,11 @@
-# June 23
+# June 24
 
 ## News:
 
+- [Self-Correcting Structured Output in Spring AI 2.0](https://spring.io/blog/2026/06/23/spring-ai-self-correcting-structured-output)
 - [This Week in Spring - June 23rd, 2026](https://spring.io/blog/2026/06/23/this-week-in-spring-june-23-2026)
 - [MongoDB-backed Spring Batch jobs and more in Spring Boot 4.1](https://spring.io/blog/2026/06/21/spring-boot-41-and-spring-batch)
 - [A Bootiful Podcast: DaShaun Carter on patching, Spring Boot 4.1, and security in the world of AI](https://spring.io/blog/2026/06/18/a-bootiful-podcast-dashaun-carter)
-- [This Week in Spring - June 16th, 2026](https://spring.io/blog/2026/06/16/this-week-in-spring-june-16-2026)
 - [Spring Tools 5.2.0 released](https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released)
 - [Spring AI 1.0.9, 1.1.8 Available Now](https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now)
 - [Spring AI 2.0.0 GA Available Now](https://spring.io/blog/2026/06/12/spring-ai-2-0-0-GA-available-now)
