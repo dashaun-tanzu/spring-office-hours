@@ -1,22 +1,22 @@
-# June 25
+# June 26
 
 ## News:
 
+- [Spring Boot 3.5.16 available now](https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now)
 - [A Bootiful Podcast: My friend Francesco Ciulla on developer advocacy and more](https://spring.io/blog/2026/06/25/a-bootiful-podcast-francesco-ciulla)
 - [Spring Data 2025.0.13 released](https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released)
 - [Self-Correcting Structured Output in Spring AI 2.0](https://spring.io/blog/2026/06/23/spring-ai-self-correcting-structured-output)
 - [This Week in Spring - June 23rd, 2026](https://spring.io/blog/2026/06/23/this-week-in-spring-june-23-2026)
 - [MongoDB-backed Spring Batch jobs and more in Spring Boot 4.1](https://spring.io/blog/2026/06/21/spring-boot-41-and-spring-batch)
-- [A Bootiful Podcast: DaShaun Carter on patching, Spring Boot 4.1, and security in the world of AI](https://spring.io/blog/2026/06/18/a-bootiful-podcast-dashaun-carter)
 - [Spring Tools 5.2.0 released](https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released)
 - [Spring AI 1.0.9, 1.1.8 Available Now](https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now)
 
 ## Releases coming soon:
 
-- Spring Boot 3.5.16 (Jun 25)
-
 ## YouTube:
 
+- [Spring Boot team member Moritz Halbritter](https://www.youtube.com/watch?v=ToY_yyJ6YDE) - Coffee + Software
+- [Lazy JDBC Connections in Spring Boot 4.1 (Performance Win)](https://www.youtube.com/watch?v=lsaBN1U2EB8) - Dan Vega
 - [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM) - Dan Vega
 - [DaShaun Carter on a Bootiful Podcast](https://www.youtube.com/watch?v=sEAhrFS9IrE) - Coffee + Software
 - [Spring and Security in the times of AI](https://www.youtube.com/watch?v=Sy2ozmsy_1A) - SpringSourceDev
@@ -24,8 +24,6 @@
 - [All Aboard The Release Train -- Finally!](https://www.youtube.com/watch?v=IYyyxjogEss) - Coffee + Software
 - [Cameron Purdy](https://www.youtube.com/watch?v=u5OkvdN9WAo) - Coffee + Software
 - [The legendary Marit van Dijk](https://www.youtube.com/watch?v=jm7o2I_QOpM) - Coffee + Software
-- [the legendary Java luminary Martijn Verburg](https://www.youtube.com/watch?v=Q3m1LDH3_Ro) - Coffee + Software
-- [Jetbrains legend Hadi Hariri](https://www.youtube.com/watch?v=UNHDKWgYaXU) - Coffee + Software
 - [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss) - Dan Vega
 
 ## Demos:
