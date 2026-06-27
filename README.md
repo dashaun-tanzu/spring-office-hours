@@ -1,4 +1,4 @@
-# June 26
+# June 27
 
 ## News:
 
@@ -15,7 +15,9 @@
 
 ## YouTube:
 
+- [Sebastien Deleuze on Spring AI 2.0, Kotlin, and more](https://www.youtube.com/watch?v=G4lGJshbEmg) - Coffee + Software
 - [Spring Boot team member Moritz Halbritter](https://www.youtube.com/watch?v=ToY_yyJ6YDE) - Coffee + Software
+- [Spring Boot 4.1: Block SSRF Attacks with InetAddressFilter](https://www.youtube.com/watch?v=PDbBG_GrcwU) - Dan Vega
 - [Lazy JDBC Connections in Spring Boot 4.1 (Performance Win)](https://www.youtube.com/watch?v=lsaBN1U2EB8) - Dan Vega
 - [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM) - Dan Vega
 - [DaShaun Carter on a Bootiful Podcast](https://www.youtube.com/watch?v=sEAhrFS9IrE) - Coffee + Software
@@ -23,8 +25,6 @@
 - [All Aboard The Release Train -- Finally!](https://www.youtube.com/watch?v=wcDZRk8qxIM) - Coffee + Software
 - [All Aboard The Release Train -- Finally!](https://www.youtube.com/watch?v=IYyyxjogEss) - Coffee + Software
 - [Cameron Purdy](https://www.youtube.com/watch?v=u5OkvdN9WAo) - Coffee + Software
-- [The legendary Marit van Dijk](https://www.youtube.com/watch?v=jm7o2I_QOpM) - Coffee + Software
-- [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss) - Dan Vega
 
 ## Demos:
 
