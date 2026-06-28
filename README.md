@@ -1,4 +1,4 @@
-# June 27
+# June 28
 
 ## News:
 
@@ -28,12 +28,12 @@
 
 ## Demos:
 
-- [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Demo repository
-- [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demo repository
-- [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Demo repository
-- [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demo repository
+- [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Application Advisor Demo with Trivy
+- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Self-hosted Concourse demo that discovers Java/Spring Boot repos across GitHub orgs and GitLab groups, runs Spring Application Advisor against each, and opens upgrade pull/merge requests. Includes a local Nexus proxy for Spring Enterprise artifacts. Works on macOS and Linux.
+- [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demonstrating advisor --squash feature
 - [saa-petclinic-squashed-demo](https://github.com/dashaun-tanzu/saa-petclinic-squashed-demo) - Demo repository
+- [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demo repository
+- [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Spring Application Advisor Upgrade Example
+- [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Spring Application Advisor upgrading Spring PetClinic, from Java 8 and Spring Boot 2.7, step-by-step to the latest version of Spring Boot with a modern version of Java
 - [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Demo repository
-- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Demo repository
-- [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Demo repository
 
