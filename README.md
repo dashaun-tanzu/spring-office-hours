@@ -1,4 +1,4 @@
-# June 30
+# July 1
 
 ## News:
 
@@ -15,6 +15,7 @@
 
 ## YouTube:
 
+- [Spring Boot 4.1: Type-Safe Property Paths in Spring Data](https://www.youtube.com/watch?v=qBC-TrIzsPg) - Dan Vega
 - [Spring Office Hours: S5E17 - Spring Boot 4.1 with Phil Webb](https://www.youtube.com/watch?v=4MYFKQkvwNw) - SpringSourceDev
 - [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc) - Dan Vega
 - [Sebastien Deleuze on Spring AI 2.0, Kotlin, and more](https://www.youtube.com/watch?v=G4lGJshbEmg) - Coffee + Software
@@ -24,7 +25,6 @@
 - [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM) - Dan Vega
 - [DaShaun Carter on a Bootiful Podcast](https://www.youtube.com/watch?v=sEAhrFS9IrE) - Coffee + Software
 - [Spring and Security in the times of AI](https://www.youtube.com/watch?v=Sy2ozmsy_1A) - SpringSourceDev
-- [All Aboard The Release Train -- Finally!](https://www.youtube.com/watch?v=wcDZRk8qxIM) - Coffee + Software
 
 ## Demos:
 
