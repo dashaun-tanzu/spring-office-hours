@@ -1,4 +1,4 @@
-# July 4
+# July 5
 
 ## News:
 
@@ -12,6 +12,8 @@
 - [Spring AI 1.0.9, 1.1.8 Available Now](https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now)
 
 ## Releases coming soon:
+
+- Spring Release Actions 0.0.7 (Jul 15)
 
 ## YouTube:
 
