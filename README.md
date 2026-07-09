@@ -1,4 +1,4 @@
-# July 8
+# July 9
 
 ## News:
 
@@ -13,8 +13,12 @@
 
 ## Releases coming soon:
 
+- Spring Release Actions 0.0.7 (Jul 15)
+
 ## YouTube:
 
+- [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
+- [Spring AI 2.0: Custom Advisors for Tool & Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc) - Dan Vega
 - [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4) - Dan Vega
 - [Spring Office Hours: S5E17 - Spring Boot 4.1 with Phil Webb](https://www.youtube.com/watch?v=4MYFKQkvwNw) - SpringSourceDev
 - [ChatClient vs ChatModel: Which Spring AI API Should You Use?](https://www.youtube.com/watch?v=IdIDI71sGZM) - Dan Vega
@@ -23,8 +27,6 @@
 - [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc) - Dan Vega
 - [Spring Boot 4.1: Block SSRF Attacks with InetAddressFilter](https://www.youtube.com/watch?v=PDbBG_GrcwU) - Dan Vega
 - [Lazy JDBC Connections in Spring Boot 4.1 (Performance Win)](https://www.youtube.com/watch?v=lsaBN1U2EB8) - Dan Vega
-- [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM) - Dan Vega
-- [Spring and Security in the times of AI](https://www.youtube.com/watch?v=Sy2ozmsy_1A) - SpringSourceDev
 
 ## Demos:
 
