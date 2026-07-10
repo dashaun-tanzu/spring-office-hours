@@ -1,12 +1,12 @@
-# July 9
+# July 10
 
 ## News:
 
+- [A Bootiful Podcast: Spring Boot legend Moritz Halbritter on the latest and greatest in Spring Boot 4 and 4.1](https://spring.io/blog/2026/07/09/a-bootiful-podcast-moritz-halbritter)
 - [This Week in Spring - July 7th, 2026](https://spring.io/blog/2026/07/07/this-week-in-spring-july-07-2026)
 - [A New Home for Spring Cloud Contract: Transitioning to Stubborn.sh](https://spring.io/blog/2026/07/06/spring-cloud-contract-transition-to-stubbornsh)
 - [Spring Office Hours Podcast: S5E17 - Spring Boot 4.1 with Phil Webb](https://spring.io/blog/2026/07/06/spring-office-hours-podcast-S5E17)
 - [A Bootiful Podcast: Sébastien Deleuze on the latest-and-greatest in Spring AI and Spring Framework](https://spring.io/blog/2026/07/02/a-bootiful-podcast-sebastien-deleuze)
-- [This Week in Spring  - June 30th, 2026 ](https://spring.io/blog/2026/06/30/this-week-in-spring-june-30-2026)
 - [Spring Boot 3.5.16 available now](https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now)
 - [Spring Data 2025.0.13 released](https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released)
 - [Spring Tools 5.2.0 released](https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released)
@@ -18,6 +18,7 @@
 ## YouTube:
 
 - [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
+- [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY) - Dan Vega
 - [Spring AI 2.0: Custom Advisors for Tool & Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc) - Dan Vega
 - [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4) - Dan Vega
 - [Spring Office Hours: S5E17 - Spring Boot 4.1 with Phil Webb](https://www.youtube.com/watch?v=4MYFKQkvwNw) - SpringSourceDev
@@ -26,10 +27,10 @@
 - [Spring Boot 4.1: Type-Safe Property Paths in Spring Data](https://www.youtube.com/watch?v=qBC-TrIzsPg) - Dan Vega
 - [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc) - Dan Vega
 - [Spring Boot 4.1: Block SSRF Attacks with InetAddressFilter](https://www.youtube.com/watch?v=PDbBG_GrcwU) - Dan Vega
-- [Lazy JDBC Connections in Spring Boot 4.1 (Performance Win)](https://www.youtube.com/watch?v=lsaBN1U2EB8) - Dan Vega
 
 ## Demos:
 
+- [vuln-chain-3-4-14-demo](https://github.com/dashaun-tanzu/vuln-chain-3-4-14-demo) - **vulnerability chaining**: a container image that scans **clean in Trivy (zero HIGH/CRITICAL)** is still exploitable, because an attacker chains one *medium*-severity Spring CVE with a benign-looking *container* misconfiguration.
 - [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Application Advisor Demo with Trivy
 - [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Advisor demo from Spring Boot 1.5, OWASP dependency check for CVEs
 - [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Spring Application Advisor Upgrade Example from Spring Boot 1.5
