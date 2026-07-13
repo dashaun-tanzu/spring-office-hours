@@ -1,4 +1,4 @@
-# July 12
+# July 13
 
 ## News:
 
@@ -17,6 +17,7 @@
 
 ## YouTube:
 
+- [from Brackets to Beans to Boot](https://www.youtube.com/watch?v=R6XF9x49UBw) - Coffee + Software
 - [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
 - [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY) - Dan Vega
 - [Spring AI 2.0: Custom Advisors for Tool & Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc) - Dan Vega
@@ -26,7 +27,6 @@
 - [Spring AI + X's New MCP Servers](https://www.youtube.com/watch?v=j4chxGtqkY8) - Dan Vega
 - [Spring Boot 4.1: Type-Safe Property Paths in Spring Data](https://www.youtube.com/watch?v=qBC-TrIzsPg) - Dan Vega
 - [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc) - Dan Vega
-- [Spring Boot 4.1: Block SSRF Attacks with InetAddressFilter](https://www.youtube.com/watch?v=PDbBG_GrcwU) - Dan Vega
 
 ## Demos:
 
