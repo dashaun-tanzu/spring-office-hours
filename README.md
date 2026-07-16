@@ -1,4 +1,4 @@
-# July 15
+# July 16
 
 ## News:
 
@@ -12,8 +12,6 @@
 - [Spring Tools 5.2.0 released](https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released)
 
 ## Releases coming soon:
-
-- Spring Release Actions 0.0.7 (Jul 15)
 
 ## YouTube:
 
