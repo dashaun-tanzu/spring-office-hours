@@ -1,11 +1,11 @@
-# July 16
+# July 17
 
 ## News:
 
+- [A Bootiful Podcast: Russ Miles on Safer, More Productive Interactions with AI](https://spring.io/blog/2026/07/16/a-bootiful-podcast-russ-miles)
 - [This Week in Spring - July 14th, 2026](https://spring.io/blog/2026/07/14/this-week-in-spring-july-14-2026)
 - [Spring Office Hours Podcast: S5E18 - The Latest from OpenAI, Anthropic and Spring AI 2.0](https://spring.io/blog/2026/07/13/spring-office-hours-podcast-S5E18)
 - [A Bootiful Podcast: Spring Boot legend Moritz Halbritter on the latest and greatest in Spring Boot 4 and 4.1](https://spring.io/blog/2026/07/09/a-bootiful-podcast-moritz-halbritter)
-- [This Week in Spring - July 7th, 2026](https://spring.io/blog/2026/07/07/this-week-in-spring-july-07-2026)
 - [A New Home for Spring Cloud Contract: Transitioning to Stubborn.sh](https://spring.io/blog/2026/07/06/spring-cloud-contract-transition-to-stubbornsh)
 - [Spring Boot 3.5.16 available now](https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now)
 - [Spring Data 2025.0.13 released](https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released)
@@ -14,6 +14,17 @@
 ## Releases coming soon:
 
 ## YouTube:
+
+- [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY) - Dan Vega
+- [Spring AI 2.0: Custom Advisors for Tool & Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc) - Dan Vega
+- [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4) - Dan Vega
+- [ChatClient vs ChatModel: Which Spring AI API Should You Use?](https://www.youtube.com/watch?v=IdIDI71sGZM) - Dan Vega
+- [Spring AI + X's New MCP Servers](https://www.youtube.com/watch?v=j4chxGtqkY8) - Dan Vega
+- [Spring Boot 4.1: Type-Safe Property Paths in Spring Data](https://www.youtube.com/watch?v=qBC-TrIzsPg) - Dan Vega
+- [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc) - Dan Vega
+- [Spring Boot 4.1: Block SSRF Attacks with InetAddressFilter](https://www.youtube.com/watch?v=PDbBG_GrcwU) - Dan Vega
+- [Lazy JDBC Connections in Spring Boot 4.1 (Performance Win)](https://www.youtube.com/watch?v=lsaBN1U2EB8) - Dan Vega
+- [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM) - Dan Vega
 
 ## Demos:
 
