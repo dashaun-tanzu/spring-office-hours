@@ -1,4 +1,4 @@
-# July 17
+# July 18
 
 ## News:
 
@@ -15,16 +15,16 @@
 
 ## YouTube:
 
+- [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY) - Dan Vega
+- [Oracle Java Developer Advocate Billy Korando](https://www.youtube.com/watch?v=Y_98YttEQPM) - Coffee + Software
+- [the legendary Russ Miles](https://www.youtube.com/watch?v=vri0XtyXgq4) - Coffee + Software
+- [Spring Office Hours: S5E18 - The Latest from OpenAI, Anthropic and Spring AI 2.0](https://www.youtube.com/watch?v=MHsJMlq3wSI) - SpringSourceDev
+- [from Brackets to Beans to Boot](https://www.youtube.com/watch?v=R6XF9x49UBw) - Coffee + Software
+- [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
 - [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY) - Dan Vega
 - [Spring AI 2.0: Custom Advisors for Tool & Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc) - Dan Vega
 - [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4) - Dan Vega
-- [ChatClient vs ChatModel: Which Spring AI API Should You Use?](https://www.youtube.com/watch?v=IdIDI71sGZM) - Dan Vega
-- [Spring AI + X's New MCP Servers](https://www.youtube.com/watch?v=j4chxGtqkY8) - Dan Vega
-- [Spring Boot 4.1: Type-Safe Property Paths in Spring Data](https://www.youtube.com/watch?v=qBC-TrIzsPg) - Dan Vega
-- [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc) - Dan Vega
-- [Spring Boot 4.1: Block SSRF Attacks with InetAddressFilter](https://www.youtube.com/watch?v=PDbBG_GrcwU) - Dan Vega
-- [Lazy JDBC Connections in Spring Boot 4.1 (Performance Win)](https://www.youtube.com/watch?v=lsaBN1U2EB8) - Dan Vega
-- [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM) - Dan Vega
+- [Spring Office Hours: S5E17 - Spring Boot 4.1 with Phil Webb](https://www.youtube.com/watch?v=4MYFKQkvwNw) - SpringSourceDev
 
 ## Demos:
 
