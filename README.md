@@ -1,4 +1,4 @@
-# July 21
+# July 22
 
 ## News:
 
@@ -14,17 +14,6 @@
 ## Releases coming soon:
 
 ## YouTube:
-
-- [MongoDB-backed Spring Batch Job Repositories (new in Spring Boot 4.1)](https://www.youtube.com/watch?v=wNHb6gvvtO4) - Coffee + Software
-- [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY) - Dan Vega
-- [Oracle Java Developer Advocate Billy Korando](https://www.youtube.com/watch?v=Y_98YttEQPM) - Coffee + Software
-- [the legendary Russ Miles](https://www.youtube.com/watch?v=vri0XtyXgq4) - Coffee + Software
-- [Spring Office Hours: S5E18 - The Latest from OpenAI, Anthropic and Spring AI 2.0](https://www.youtube.com/watch?v=MHsJMlq3wSI) - SpringSourceDev
-- [from Brackets to Beans to Boot](https://www.youtube.com/watch?v=R6XF9x49UBw) - Coffee + Software
-- [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
-- [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY) - Dan Vega
-- [Spring AI 2.0: Custom Advisors for Tool & Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc) - Dan Vega
-- [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4) - Dan Vega
 
 ## Demos:
 
