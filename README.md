@@ -15,10 +15,21 @@
 
 ## YouTube:
 
+- [MongoDB-backed Spring Batch Job Repositories (new in Spring Boot 4.1)](https://www.youtube.com/watch?v=wNHb6gvvtO4) - Coffee + Software
+- [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY) - Dan Vega
+- [Oracle Java Developer Advocate Billy Korando](https://www.youtube.com/watch?v=Y_98YttEQPM) - Coffee + Software
+- [the legendary Russ Miles](https://www.youtube.com/watch?v=vri0XtyXgq4) - Coffee + Software
+- [Spring Office Hours: S5E18 - The Latest from OpenAI, Anthropic and Spring AI 2.0](https://www.youtube.com/watch?v=MHsJMlq3wSI) - SpringSourceDev
+- [from Brackets to Beans to Boot](https://www.youtube.com/watch?v=R6XF9x49UBw) - Coffee + Software
+- [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
+- [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY) - Dan Vega
+- [Spring AI 2.0: Custom Advisors for Tool & Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc) - Dan Vega
+- [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4) - Dan Vega
+
 ## Demos:
 
-- [vuln-chain-3-4-14-demo](https://github.com/dashaun-tanzu/vuln-chain-3-4-14-demo) - **vulnerability chaining**: a container image that scans **clean in Trivy (zero HIGH/CRITICAL)** is still exploitable, because an attacker chains one *medium*-severity Spring CVE with a benign-looking *container* misconfiguration.
 - [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Application Advisor Demo with Trivy
+- [vuln-chain-3-4-14-demo](https://github.com/dashaun-tanzu/vuln-chain-3-4-14-demo) - **vulnerability chaining**: a container image that scans **clean in Trivy (zero HIGH/CRITICAL)** is still exploitable, because an attacker chains one *medium*-severity Spring CVE with a benign-looking *container* misconfiguration.
 - [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Advisor demo from Spring Boot 1.5, OWASP dependency check for CVEs
 - [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Spring Application Advisor Upgrade Example from Spring Boot 1.5
 - [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demonstrate Postgres vs Gemfire, writing and reading, a simple dataset, with zero optimizations.
