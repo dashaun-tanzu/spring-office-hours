@@ -1,4 +1,4 @@
-# July 25
+# July 26
 
 ## News:
 
@@ -15,6 +15,7 @@
 
 ## YouTube:
 
+- [Clone. Run. Done. What That docker-compose.yml in your Java Repo Actually Does](https://www.youtube.com/watch?v=0LNVXHKKJb8) - Dan Vega
 - [Build Claude's "Calling Tool..." UI with Spring AI 2.0](https://www.youtube.com/watch?v=g6IhOsFKM7c) - Dan Vega
 - [Exploring Agent-Driven Infrastructure](https://www.youtube.com/watch?v=yCCr_hS2xs4) - Coffee + Software
 - [MongoDB-backed Spring Batch Job Repositories (new in Spring Boot 4.1)](https://www.youtube.com/watch?v=wNHb6gvvtO4) - Coffee + Software
@@ -24,7 +25,6 @@
 - [Spring Office Hours: S5E18 - The Latest from OpenAI, Anthropic and Spring AI 2.0](https://www.youtube.com/watch?v=MHsJMlq3wSI) - SpringSourceDev
 - [from Brackets to Beans to Boot](https://www.youtube.com/watch?v=R6XF9x49UBw) - Coffee + Software
 - [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
-- [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY) - Dan Vega
 
 ## Demos:
 
