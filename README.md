@@ -13,7 +13,20 @@
 
 ## Releases coming soon:
 
+- Spring Tools 5.3.0.RELEASE (Jul 29)
+
 ## YouTube:
+
+- [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4) - Dan Vega
+- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My! 📱](https://www.youtube.com/watch?v=Ywl6ZXPgBa0) - SpringSourceDev
+- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My!](https://www.youtube.com/watch?v=jWWi0J6ggeI) - SpringSourceDev
+- [Clone. Run. Done. What That docker-compose.yml in your Java Repo Actually Does](https://www.youtube.com/watch?v=0LNVXHKKJb8) - Dan Vega
+- [Build Claude's "Calling Tool..." UI with Spring AI 2.0](https://www.youtube.com/watch?v=g6IhOsFKM7c) - Dan Vega
+- [Exploring Agent-Driven Infrastructure](https://www.youtube.com/watch?v=yCCr_hS2xs4) - Coffee + Software
+- [MongoDB-backed Spring Batch Job Repositories (new in Spring Boot 4.1)](https://www.youtube.com/watch?v=wNHb6gvvtO4) - Coffee + Software
+- [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY) - Dan Vega
+- [Oracle Java Developer Advocate Billy Korando](https://www.youtube.com/watch?v=Y_98YttEQPM) - Coffee + Software
+- [the legendary Russ Miles](https://www.youtube.com/watch?v=vri0XtyXgq4) - Coffee + Software
 
 ## Demos:
 
