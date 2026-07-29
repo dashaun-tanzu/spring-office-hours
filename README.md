@@ -1,11 +1,11 @@
-# July 28
+# July 29
 
 ## News:
 
+- [This Week in Spring - July 28th, 2026](https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026)
 - [Spring Office Hours Podcast: S5E19 - Docker, Compose, Testcontainers, Oh My!](https://spring.io/blog/2026/07/27/spring-office-hours-podcast-S5E19)
 - [A Bootiful Podcast: Java Developer Advocate Billy Korando on Java 27 and Beyond](https://spring.io/blog/2026/07/23/a-bootiful-podcast-billy-korando)
 - [This Week in Spring - July 21st, 2026](https://spring.io/blog/2026/07/21/this-week-in-spring-july-21-2026)
-- [A Bootiful Podcast: Russ Miles on Safer, More Productive Interactions with AI](https://spring.io/blog/2026/07/16/a-bootiful-podcast-russ-miles)
 - [A New Home for Spring Cloud Contract: Transitioning to Stubborn.sh](https://spring.io/blog/2026/07/06/spring-cloud-contract-transition-to-stubbornsh)
 - [Spring Boot 3.5.16 available now](https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now)
 - [Spring Data 2025.0.13 released](https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released)
@@ -14,13 +14,6 @@
 ## Releases coming soon:
 
 ## YouTube:
-
-- [Exploring Agent-Driven Infrastructure](https://www.youtube.com/watch?v=yCCr_hS2xs4) - Coffee + Software
-- [MongoDB-backed Spring Batch Job Repositories (new in Spring Boot 4.1)](https://www.youtube.com/watch?v=wNHb6gvvtO4) - Coffee + Software
-- [Oracle Java Developer Advocate Billy Korando](https://www.youtube.com/watch?v=Y_98YttEQPM) - Coffee + Software
-- [the legendary Russ Miles](https://www.youtube.com/watch?v=vri0XtyXgq4) - Coffee + Software
-- [from Brackets to Beans to Boot](https://www.youtube.com/watch?v=R6XF9x49UBw) - Coffee + Software
-- [Spring Boot cofounder Phil Webb](https://www.youtube.com/watch?v=m40rESsDf0U) - Coffee + Software
 
 ## Demos:
 
