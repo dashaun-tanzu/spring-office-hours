@@ -1,11 +1,11 @@
-# July 30
+# July 31
 
 ## News:
 
+- [A Bootiful Podcast: Spring Boot founder and lead Phil Webb](https://spring.io/blog/2026/07/30/a-bootiful-podcast-phil-webb)
 - [This Week in Spring - July 28th, 2026](https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026)
 - [Spring Office Hours Podcast: S5E19 - Docker, Compose, Testcontainers, Oh My!](https://spring.io/blog/2026/07/27/spring-office-hours-podcast-S5E19)
 - [A Bootiful Podcast: Java Developer Advocate Billy Korando on Java 27 and Beyond](https://spring.io/blog/2026/07/23/a-bootiful-podcast-billy-korando)
-- [This Week in Spring - July 21st, 2026](https://spring.io/blog/2026/07/21/this-week-in-spring-july-21-2026)
 - [A New Home for Spring Cloud Contract: Transitioning to Stubborn.sh](https://spring.io/blog/2026/07/06/spring-cloud-contract-transition-to-stubbornsh)
 - [Spring Tools 5.3.0 released](https://spring.io/blog/2026/06/30/spring-tools-5-3-0-released)
 - [Spring Boot 3.5.16 available now](https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now)
@@ -14,17 +14,6 @@
 ## Releases coming soon:
 
 ## YouTube:
-
-- [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4) - Dan Vega
-- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My! 📱](https://www.youtube.com/watch?v=Ywl6ZXPgBa0) - SpringSourceDev
-- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My!](https://www.youtube.com/watch?v=jWWi0J6ggeI) - SpringSourceDev
-- [Clone. Run. Done. What That docker-compose.yml in your Java Repo Actually Does](https://www.youtube.com/watch?v=0LNVXHKKJb8) - Dan Vega
-- [Build Claude's "Calling Tool..." UI with Spring AI 2.0](https://www.youtube.com/watch?v=g6IhOsFKM7c) - Dan Vega
-- [Exploring Agent-Driven Infrastructure](https://www.youtube.com/watch?v=yCCr_hS2xs4) - Coffee + Software
-- [MongoDB-backed Spring Batch Job Repositories (new in Spring Boot 4.1)](https://www.youtube.com/watch?v=wNHb6gvvtO4) - Coffee + Software
-- [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY) - Dan Vega
-- [Oracle Java Developer Advocate Billy Korando](https://www.youtube.com/watch?v=Y_98YttEQPM) - Coffee + Software
-- [the legendary Russ Miles](https://www.youtube.com/watch?v=vri0XtyXgq4) - Coffee + Software
 
 ## Demos:
 
