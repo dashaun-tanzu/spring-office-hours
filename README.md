@@ -1,4 +1,4 @@
-# August 3
+# August 4
 
 ## News:
 
@@ -14,17 +14,6 @@
 ## Releases coming soon:
 
 ## YouTube:
-
-- [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
-- [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
-- [Spring Tools lead Martin Lippert on a Bootiful Podcast](https://www.youtube.com/watch?v=jaO4xC2brjM) - Coffee + Software
-- [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
-- [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4) - Dan Vega
-- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My! 📱](https://www.youtube.com/watch?v=Ywl6ZXPgBa0) - SpringSourceDev
-- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My!](https://www.youtube.com/watch?v=jWWi0J6ggeI) - SpringSourceDev
-- [Exploring Agent-Driven Infrastructure](https://www.youtube.com/watch?v=yCCr_hS2xs4) - Coffee + Software
-- [MongoDB-backed Spring Batch Job Repositories (new in Spring Boot 4.1)](https://www.youtube.com/watch?v=wNHb6gvvtO4) - Coffee + Software
-- [Oracle Java Developer Advocate Billy Korando](https://www.youtube.com/watch?v=Y_98YttEQPM) - Coffee + Software
 
 ## Demos:
 
