@@ -1,4 +1,4 @@
-# August 7
+# August 8
 
 ## News:
 
@@ -14,6 +14,11 @@
 ## Releases coming soon:
 
 ## YouTube:
+
+- [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
+- [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
+- [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
+- [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4) - Dan Vega
 
 ## Demos:
 
