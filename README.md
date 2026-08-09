@@ -1,4 +1,4 @@
-# August 8
+# August 9
 
 ## News:
 
@@ -15,7 +15,13 @@
 
 ## YouTube:
 
+- [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
+- [the amazing Andrey Santrosyan](https://www.youtube.com/watch?v=Eci29lbMd5U) - Coffee + Software
+- [Gregory Green on Tanzu Gemfire, RabbitMQ Streams, Valkey, and Tanzu Data Flow](https://www.youtube.com/watch?v=lp1_SwI5ktM) - Coffee + Software
+- [Spring Tools lead Martin Lippert on a Bootiful Podcast](https://www.youtube.com/watch?v=jaO4xC2brjM) - Coffee + Software
 - [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
+- [Easy distributed / scheduled jobs with JobRunr and Spring Boot](https://www.youtube.com/watch?v=KHTdPEYAMOM) - Coffee + Software
+- [Joe Grandja on a bootiful podcast](https://www.youtube.com/watch?v=nEU5rCVUfgk) - Coffee + Software
 - [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
 - [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
 - [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4) - Dan Vega
