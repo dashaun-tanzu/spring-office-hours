@@ -25,3 +25,6 @@ Tune via the `env:` block on the `Run newsletter-cli` step: `MAX_ATTEMPTS`, `INI
 - README.md is generated; avoid manual edits (they'll be overwritten)
 - Workflow requires `PAT_TOKEN` or `GITHUB_TOKEN` with `contents: write` permission
 - The release lookup calls the GitHub API with an `Authorization` header, raising the rate limit from 60 req/hr (per shared runner IP) to 1000 req/hr
+- Uses `actions/checkout@v7` (node24 runtime). Keep it current — node20 actions now emit a deprecation annotation on every run
+- A `daily-newsletter` concurrency group with `cancel-in-progress: false` serializes runs, so a manual trigger queues behind a scheduled one instead of racing it to push
+- `timeout-minutes: 20` bounds the job; the retry backoff adds at most ~3m45s

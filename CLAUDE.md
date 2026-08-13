@@ -50,3 +50,9 @@ chmod +x newsletter-cli
 
 - Workflow tweaks (schedule, permissions, asset-selection logic) → `.github/workflows/daily.yml`.
 - Anything that affects the rendered newsletter content → upstream in `newsletter-cli`, not here.
+
+### Workflow maintenance
+
+`actions/checkout@v7` is the only action used, on the node24 runtime. GitHub annotates every run of a node20 action with a deprecation warning, so bump this when a new major lands — v6 moved persisted credentials out of `.git/config` into `$RUNNER_TEMP`, which the `git push` step relies on but needs no workflow change to accommodate.
+
+The job is serialized by a `daily-newsletter` concurrency group (`cancel-in-progress: false`), so a manual `workflow_dispatch` queues behind an in-flight scheduled run rather than racing it to push. `timeout-minutes: 20` bounds the job against a hung `newsletter-cli` — the default is 6 hours.

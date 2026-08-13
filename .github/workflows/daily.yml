@@ -13,13 +13,21 @@ permissions:
   contents: write  # Allows reading and writing repository contents
   actions: read    # Allows reading workflow runs
 
+# A manual run and the scheduled run must not race each other to push.
+concurrency:
+  group: daily-newsletter
+  cancel-in-progress: false
+
 jobs:
   daily-job:
     runs-on: ubuntu-latest
+    # Generation plus the full retry backoff is well under 10 minutes; this keeps a
+    # hung newsletter-cli from occupying a runner for the default 6 hours.
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           # Use PAT if GITHUB_TOKEN doesn't have sufficient permissions
           token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
