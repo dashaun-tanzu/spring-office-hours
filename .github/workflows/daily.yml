@@ -25,12 +25,20 @@ jobs:
           token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Download latest newsletter-cli release
+        env:
+          # Authenticated API calls get 1000 req/hr per repo instead of the 60 req/hr
+          # per-IP anonymous limit, which shared runners can exhaust.
+          GH_API_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           echo "Downloading latest release from dashaun-tanzu/newsletter-cli..."
-          
+
           # Get the latest release info from GitHub API
-          LATEST_RELEASE=$(curl -s https://api.github.com/repos/dashaun-tanzu/newsletter-cli/releases/latest)
-          
+          LATEST_RELEASE=$(curl -s \
+            -H "Authorization: Bearer $GH_API_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/dashaun-tanzu/newsletter-cli/releases/latest)
+
           # Debug: Show the API response
           echo "API Response:"
           echo "$LATEST_RELEASE" | jq '.' || echo "Failed to parse JSON response"
@@ -78,12 +86,116 @@ jobs:
           ls -la newsletter-cli
 
       - name: Run newsletter-cli
+        shell: bash
+        env:
+          # The YouTube section is intermittently empty on scheduled runs, so the
+          # generated output is validated and regenerated with exponential backoff.
+          MAX_ATTEMPTS: 5
+          INITIAL_DELAY_SECONDS: 15
+          MAX_DELAY_SECONDS: 240
+          MIN_YOUTUBE_ITEMS: 1
         run: |
-          echo "Running newsletter-cli..."
-          # Run the newsletter-cli binary (it will update README.md)
-          ./newsletter-cli full-update
+          # Count list items under the "## YouTube:" heading, stopping at the next heading.
+          count_youtube_items() {
+            awk '
+              /^## YouTube:?[[:space:]]*$/ { inside = 1; next }
+              /^## / { inside = 0 }
+              inside && /^[-*] / { n++ }
+              END { print n + 0 }
+            ' "$1"
+          }
+
+          # Print the list items under the "## YouTube:" heading.
+          extract_youtube_items() {
+            awk '
+              /^## YouTube:?[[:space:]]*$/ { inside = 1; next }
+              /^## / { inside = 0 }
+              inside && /^[-*] / { print }
+            ' "$1"
+          }
+
+          # Replace the YouTube section of $1 with the items in file $2.
+          splice_youtube_items() {
+            awk -v itemsfile="$2" '
+              BEGIN { while ((getline line < itemsfile) > 0) items[n++] = line }
+              /^## YouTube:?[[:space:]]*$/ && !done {
+                print; print ""
+                for (i = 0; i < n; i++) print items[i]
+                inside = 1; done = 1; next
+              }
+              inside && /^## / { print ""; inside = 0 }
+              inside { next }
+              { print }
+            ' "$1"
+          }
+
+          delay="$INITIAL_DELAY_SECONDS"
+          success=false
+
+          for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
+            echo "::group::newsletter-cli attempt $attempt of $MAX_ATTEMPTS"
+            rm -f spring-update.md
+
+            if ! ./newsletter-cli full-update; then
+              echo "newsletter-cli exited non-zero."
+            elif [ ! -s spring-update.md ]; then
+              echo "newsletter-cli produced no spring-update.md (or an empty one)."
+            else
+              # Keep the newest usable issue, even if its YouTube section is empty.
+              cp spring-update.md spring-update.candidate
+              youtube_items=$(count_youtube_items spring-update.md)
+              echo "YouTube entries: $youtube_items (minimum required: $MIN_YOUTUBE_ITEMS)"
+              if [ "$youtube_items" -ge "$MIN_YOUTUBE_ITEMS" ]; then
+                echo "Newsletter generated successfully on attempt $attempt."
+                success=true
+                echo "::endgroup::"
+                break
+              fi
+              echo "YouTube section is empty — retrying."
+            fi
+
+            echo "::endgroup::"
+
+            if [ "$attempt" -lt "$MAX_ATTEMPTS" ]; then
+              echo "Retrying in ${delay}s..."
+              sleep "$delay"
+              delay=$(( delay * 2 ))
+              if [ "$delay" -gt "$MAX_DELAY_SECONDS" ]; then
+                delay="$MAX_DELAY_SECONDS"
+              fi
+            fi
+          done
+
+          if [ "$success" != "true" ]; then
+            # Every attempt came back empty. Publish today's issue anyway, carrying
+            # over the previous issue's YouTube list so the section is never blank.
+            if [ ! -s spring-update.candidate ]; then
+              echo "::error::newsletter-cli never produced usable output after $MAX_ATTEMPTS attempts. Nothing to publish; README.md left unchanged."
+              rm -f spring-update.md spring-update.candidate ./newsletter-cli
+              exit 1
+            fi
+
+            mv spring-update.candidate spring-update.md
+            extract_youtube_items README.md > previous-youtube.txt
+            carried=$(grep -c '' previous-youtube.txt || true)
+
+            if [ "$carried" -ge "$MIN_YOUTUBE_ITEMS" ]; then
+              splice_youtube_items spring-update.md previous-youtube.txt > spring-update.spliced
+              mv spring-update.spliced spring-update.md
+              spliced_count=$(count_youtube_items spring-update.md)
+              if [ "$spliced_count" -ge "$MIN_YOUTUBE_ITEMS" ]; then
+                echo "::warning::YouTube section was empty after $MAX_ATTEMPTS attempts; carried over $spliced_count entries from the previous issue."
+              else
+                echo "::warning::YouTube section was empty after $MAX_ATTEMPTS attempts and the carry-over could not be spliced in (no '## YouTube:' heading in the new issue). Publishing without it."
+              fi
+            else
+              echo "::warning::YouTube section was empty after $MAX_ATTEMPTS attempts and the previous issue had no entries to carry over. Publishing without it."
+            fi
+            rm -f previous-youtube.txt
+          fi
+
           mv spring-update.md README.md
-          rm ./newsletter-cli
+          rm -f spring-update.candidate ./newsletter-cli
 
       - name: Check for changes
         id: verify-changed-files
