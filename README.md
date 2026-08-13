@@ -1,4 +1,4 @@
-# August 12
+# August 13
 
 ## News:
 
@@ -118,17 +118,6 @@
 - Spring Framework 7.0.9 (Aug 20)
 
 ## YouTube:
-
-- [JRuby lead and legend Charles Nutter on a Bootiful Podcast](https://www.youtube.com/watch?v=t-hY9U2xVxg) - Coffee + Software
-- [Token Efficiency with Spring AI Agents](https://www.youtube.com/watch?v=wtCorpB6mV4) - Coffee + Software
-- [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
-- [the amazing Andrey Santrosyan](https://www.youtube.com/watch?v=Eci29lbMd5U) - Coffee + Software
-- [Gregory Green on Tanzu Gemfire, RabbitMQ Streams, Valkey, and Tanzu Data Flow](https://www.youtube.com/watch?v=lp1_SwI5ktM) - Coffee + Software
-- [Spring Tools lead Martin Lippert on a Bootiful Podcast](https://www.youtube.com/watch?v=jaO4xC2brjM) - Coffee + Software
-- [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
-- [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
-- [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
-- [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4) - Dan Vega
 
 ## Demos:
 
