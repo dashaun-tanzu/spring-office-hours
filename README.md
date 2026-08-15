@@ -1,11 +1,11 @@
-# August 13
+# August 15
 
 ## News:
 
+- [A Bootiful Podcast: Redouble AI CTO and founder Andrey Santrosyan](https://spring.io/blog/2026/08/13/a-bootiful-podcast-andrey-santrosyan)
 - [This Week in Spring - August 11th, 2026](https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026)
 - [A Bootiful Podcast: Data guru Gregory Green on RabbitMQ, Valkey, Gemfire, Data Flow, and more](https://spring.io/blog/2026/08/06/a-bootiful-podcast-gregory-green)
 - [This Week in Spring - August 4th, 2026](https://spring.io/blog/2026/08/04/this-week-in-spring-august-4-2026)
-- [A Bootiful Podcast: Spring Boot founder and lead Phil Webb](https://spring.io/blog/2026/07/30/a-bootiful-podcast-phil-webb)
 - [A New Home for Spring Cloud Contract: Transitioning to Stubborn.sh](https://spring.io/blog/2026/07/06/spring-cloud-contract-transition-to-stubbornsh)
 - [Spring Tools 5.3.0 released](https://spring.io/blog/2026/06/30/spring-tools-5-3-0-released)
 - [Spring Boot 3.5.16 available now](https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now)
@@ -124,11 +124,6 @@
 - [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
 - [the amazing Andrey Santrosyan](https://www.youtube.com/watch?v=Eci29lbMd5U) - Coffee + Software
 - [Gregory Green on Tanzu Gemfire, RabbitMQ Streams, Valkey, and Tanzu Data Flow](https://www.youtube.com/watch?v=lp1_SwI5ktM) - Coffee + Software
-- [Spring Tools lead Martin Lippert on a Bootiful Podcast](https://www.youtube.com/watch?v=jaO4xC2brjM) - Coffee + Software
-- [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
-- [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
-- [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
-- [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4) - Dan Vega
 
 ## Demos:
 
