@@ -1,4 +1,4 @@
-# August 15
+# August 16
 
 ## News:
 
@@ -124,6 +124,11 @@
 - [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
 - [the amazing Andrey Santrosyan](https://www.youtube.com/watch?v=Eci29lbMd5U) - Coffee + Software
 - [Gregory Green on Tanzu Gemfire, RabbitMQ Streams, Valkey, and Tanzu Data Flow](https://www.youtube.com/watch?v=lp1_SwI5ktM) - Coffee + Software
+- [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
+- [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
+- [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
+- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My! 📱](https://www.youtube.com/watch?v=Ywl6ZXPgBa0) - SpringSourceDev
+- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My!](https://www.youtube.com/watch?v=jWWi0J6ggeI) - SpringSourceDev
 
 ## Demos:
 
