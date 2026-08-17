@@ -1,4 +1,4 @@
-# August 16
+# August 17
 
 ## News:
 
@@ -11,6 +11,115 @@
 - [Spring Boot 3.5.16 available now](https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now)
 - [Spring Data 2025.0.13 released](https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released)
 
+## Recent Enterprise Releases:
+
+- August 17
+  - Spring Data Geode 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data R2dbc 1.5.21 (2021.2.21) (Enterprise)
+  - Spring Batch 5.2.7 (Enterprise)
+  - Spring Batch 6.0.4.1 (Enterprise)
+  - Spring Batch 4.3.14 (Enterprise)
+  - Spring Session 2021.2.8 (Enterprise)
+  - Spring Session 3.4.10 (Enterprise)
+  - Spring Session 3.5.8 (Enterprise)
+  - Spring Data Mongodb 5.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Mongodb 5.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Mongodb 4.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Mongodb 3.4.21 (2021.2.21) (Enterprise)
+  - Spring Data Mongodb 4.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Redis 4.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Redis 4.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Redis 3.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Redis 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Redis 3.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Ldap 4.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Ldap 4.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Ldap 3.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Ldap 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Ldap 3.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Rest 5.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Rest 5.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Rest 4.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Rest 3.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Rest 4.4.16 (2024.1.16) (Enterprise)
+  - Spring Authorization Server 1.4.12 (Enterprise)
+  - Spring Authorization Server 1.5.9 (Enterprise)
+  - Spring Data Jpa 4.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Jpa 4.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Jpa 3.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Jpa 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Jpa 3.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Bom 2026.0.0.1 (Enterprise)
+  - Spring Data Bom 2025.1.6.1 (Enterprise)
+  - Spring Data Bom 2025.0.14 (Enterprise)
+  - Spring Data Bom 2021.2.21 (Enterprise)
+  - Spring Data Bom 2024.1.16 (Enterprise)
+  - Spring Data Commons 4.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Commons 4.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Commons 3.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Commons 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Commons 3.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Keyvalue 4.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Keyvalue 4.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Keyvalue 3.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Keyvalue 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Keyvalue 3.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Build 4.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Build 4.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Build 3.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Build 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Build 3.4.16 (2024.1.16) (Enterprise)
+  - Spring Hateoas 1.5.8 (Enterprise)
+  - Spring Hateoas 2.4.3 (Enterprise)
+  - Spring Hateoas 2.5.4 (Enterprise)
+  - Spring Hateoas 3.0.4.1 (Enterprise)
+  - Spring Hateoas 3.1.1.1 (Enterprise)
+  - Spring Data Elasticsearch 6.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Elasticsearch 6.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Elasticsearch 5.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Elasticsearch 4.4.21 (2021.2.21) (Enterprise)
+  - Spring Data Elasticsearch 5.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Envers 2.7.21 (2021.2.21) (Enterprise)
+  - Spring Data Couchbase 6.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Couchbase 6.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Couchbase 5.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Couchbase 4.4.21 (2021.2.21) (Enterprise)
+  - Spring Data Couchbase 5.4.16 (2024.1.16) (Enterprise)
+  - Spring Ldap 2.4.6 (Enterprise)
+  - Spring Ldap 3.2.19 (Enterprise)
+  - Spring Ldap 3.3.9 (Enterprise)
+  - Spring Boot 2.7.35 (Enterprise)
+  - Spring Boot 3.4.18 (Enterprise)
+  - Spring Boot 3.5.17 (Enterprise)
+  - Spring Boot 4.0.7.1 (Enterprise)
+  - Spring Boot 4.1.0.1 (Enterprise)
+  - Spring Data Neo4j 8.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Neo4j 8.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Neo4j 7.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Neo4j 6.3.21 (2021.2.21) (Enterprise)
+  - Spring Data Neo4j 7.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Relational 4.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Relational 4.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Relational 3.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Relational 2.4.21 (2021.2.21) (Enterprise)
+  - Spring Data Relational 3.4.16 (2024.1.16) (Enterprise)
+  - Spring Data Cassandra 5.1.0.1 (2026.0.0.1) (Enterprise)
+  - Spring Data Cassandra 5.0.6.1 (2025.1.6.1) (Enterprise)
+  - Spring Data Cassandra 4.5.14 (2025.0.14) (Enterprise)
+  - Spring Data Cassandra 3.4.21 (2021.2.21) (Enterprise)
+  - Spring Data Cassandra 4.4.16 (2024.1.16) (Enterprise)
+  - Spring Ai 1.0.10 (Enterprise)
+  - Spring Ai 1.1.9 (Enterprise)
+  - Spring Ai 2.0.0.1 (Enterprise)
+  - Spring Security 5.7.26 (Enterprise)
+  - Spring Security 5.8.28 (Enterprise)
+  - Spring Security 6.4.19 (Enterprise)
+  - Spring Security 6.5.12 (Enterprise)
+  - Spring Security 7.1.0.1 (Enterprise)
+  - Spring Security 7.0.6.1 (Enterprise)
+  - Spring Pulsar 1.2.19 (Enterprise)
+  - Spring Pulsar 2.0.6.1 (Enterprise)
+  - Spring Framework 7.0.8.1 (Enterprise)
 ## Releases coming soon:
 
 - Spring Modulith 2.2.0-M1 (Aug 20)
@@ -119,6 +228,7 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E20 - The Developer's Guide to AI with Danny Thompson](https://www.youtube.com/watch?v=JzbxCtxr7nY) - SpringSourceDev
 - [JRuby lead and legend Charles Nutter on a Bootiful Podcast](https://www.youtube.com/watch?v=t-hY9U2xVxg) - Coffee + Software
 - [Token Efficiency with Spring AI Agents](https://www.youtube.com/watch?v=wtCorpB6mV4) - Coffee + Software
 - [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
@@ -128,7 +238,6 @@
 - [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
 - [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
 - [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My! 📱](https://www.youtube.com/watch?v=Ywl6ZXPgBa0) - SpringSourceDev
-- [Spring Office Hours: S5E19 - Docker, Compose, Testcontainers, Oh My!](https://www.youtube.com/watch?v=jWWi0J6ggeI) - SpringSourceDev
 
 ## Demos:
 
