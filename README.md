@@ -1,11 +1,11 @@
-# August 21
+# August 23
 
 ## News:
 
+- [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
+- [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
 - [Spring Boot 4.0.8 available now](https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now)
 - [Spring Boot 4.1.1 available now](https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now)
-- [Spring Boot 4.2.0-M1 available now](https://spring.io/blog/2026/08/20/spring-boot-4-2-0-M1-available-now)
-- [Spring Cloud 2025.1.3 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/08/20/spring-cloud-2025-1-3-has-been-released)
 - [A Bootiful Podcast: JRuby lead Charles Nutter](https://spring.io/blog/2026/08/20/a-bootiful-podcast-charles-nutter)
 - [This Week in Spring - August 18th, 2026](https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026)
 - [Spring Office Hours Podcast: S5E20 - The Developer's Guide to AI with Danny Thompson](https://spring.io/blog/2026/08/17/spring-office-hours-podcast-S5E20)
@@ -218,6 +218,10 @@
   - Spring Framework 5.2.26.RELEASE (Enterprise)
   - Spring Framework 6.0.32 (Enterprise)
 ## Releases coming soon:
+
+- Spring Modulith 2.0.8 (Aug 24)
+- Spring Modulith 2.1.1 (Aug 24)
+- Spring Modulith 2.2.0-M1 (Aug 24)
 
 ## YouTube:
 
