@@ -1,15 +1,15 @@
-# August 24
+# August 27
 
 ## News:
 
+- [A Bootiful Podcast: Joe Grandja on Spring Authorization Server, OAuth, and so much more](https://spring.io/blog/2026/08/27/a-bootiful-podcast-joe-grandja)
+- [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
+- [This Week in Spring - August 25th, 2026](https://spring.io/blog/2026/08/25/this-week-in-spring-august-25)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
-- [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
 - [Spring Boot 4.0.8 available now](https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now)
-- [Spring Boot 4.2.0-M1 available now](https://spring.io/blog/2026/08/20/spring-boot-4-2-0-M1-available-now)
+- [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
 - [A Bootiful Podcast: JRuby lead Charles Nutter](https://spring.io/blog/2026/08/20/a-bootiful-podcast-charles-nutter)
 - [This Week in Spring - August 18th, 2026](https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026)
-- [Spring Office Hours Podcast: S5E20 - The Developer's Guide to AI with Danny Thompson](https://spring.io/blog/2026/08/17/spring-office-hours-podcast-S5E20)
-- [A Bootiful Podcast: Redouble AI CTO and founder Andrey Santrosyan](https://spring.io/blog/2026/08/13/a-bootiful-podcast-andrey-santrosyan)
 
 ## Recent Enterprise Releases:
 
@@ -219,12 +219,9 @@
   - Spring Framework 6.0.32 (Enterprise)
 ## Releases coming soon:
 
-- Spring Modulith 2.0.8 (Aug 24)
-- Spring Modulith 2.1.1 (Aug 24)
-- Spring Modulith 2.2.0-M1 (Aug 24)
-
 ## YouTube:
 
+- [Microsoft's Bruno Borges on GitHub, Copilot, and more](https://www.youtube.com/watch?v=b4Qr8X0RmGQ) - Coffee + Software
 - [Joe Grandja on a bootiful podcast](https://www.youtube.com/watch?v=nEU5rCVUfgk) - Coffee + Software
 - [BellSoft's Catherine Edelveis](https://www.youtube.com/watch?v=XBKZ8vDtoYU) - Coffee + Software
 - [Spring Office Hours: S5E20 - The Developer's Guide to AI with Danny Thompson](https://www.youtube.com/watch?v=JzbxCtxr7nY) - SpringSourceDev
@@ -234,7 +231,6 @@
 - [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
 - [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
 - [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
-- [Watch an AI Agent Upgrade My Real Site (The Right Way)](https://www.youtube.com/watch?v=MYtia9xsTrQ) - Dan Vega
 
 ## Demos:
 
