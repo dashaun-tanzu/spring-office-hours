@@ -1,4 +1,4 @@
-# August 28
+# August 29
 
 ## News:
 
@@ -28,6 +28,7 @@
 
 ## Demos:
 
+- [advisor-pin-unpin-demo](https://github.com/dashaun-tanzu/advisor-pin-unpin-demo) - Handling the dependency tree calculus.
 - [saa-patch-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-patch-2-6-trivy-demo) - Spring Application Advisor: upgrade Spring Boot 2.6 to 4.1, then patch every dependency to its latest patch release. CVE counts from Trivy scanning the advisor CycloneDX SBOM.
 - [vuln-chain-3-4-14-demo](https://github.com/dashaun-tanzu/vuln-chain-3-4-14-demo) - **vulnerability chaining**: a container image that scans **clean in Trivy (zero HIGH/CRITICAL)** is still exploitable, because an attacker chains one *medium*-severity Spring CVE with a benign-looking *container* misconfiguration.
 - [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Application Advisor Demo with Trivy
