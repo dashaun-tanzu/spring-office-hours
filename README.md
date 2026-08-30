@@ -1,4 +1,4 @@
-# August 29
+# August 30
 
 ## News:
 
@@ -13,22 +13,25 @@
 
 ## Releases coming soon:
 
+- Spring Tools 5.4.0.RELEASE (Sep 9)
+
 ## YouTube:
 
+- [Multitenancy with Arconia and Spring Security OAuth (pt 2)](https://www.youtube.com/watch?v=Qk1x6ugyZVU) - Coffee + Software
 - [Microsoft's Bruno Borges on GitHub, Copilot, and more](https://www.youtube.com/watch?v=b4Qr8X0RmGQ) - Coffee + Software
 - [Joe Grandja on a bootiful podcast](https://www.youtube.com/watch?v=nEU5rCVUfgk) - Coffee + Software
 - [BellSoft's Catherine Edelveis](https://www.youtube.com/watch?v=XBKZ8vDtoYU) - Coffee + Software
 - [Spring Office Hours: S5E20 - The Developer's Guide to AI with Danny Thompson](https://www.youtube.com/watch?v=JzbxCtxr7nY) - SpringSourceDev
-- [Multitenancy with Arconia and Spring Security OAuth](https://www.youtube.com/watch?v=uZepsaaASO4) - Coffee + Software
+- [Multitenancy with Arconia and Spring Security OAuth (pt. 1)](https://www.youtube.com/watch?v=uZepsaaASO4) - Coffee + Software
 - [JRuby lead and legend Charles Nutter on a Bootiful Podcast](https://www.youtube.com/watch?v=t-hY9U2xVxg) - Coffee + Software
 - [Token Efficiency with Spring AI Agents](https://www.youtube.com/watch?v=wtCorpB6mV4) - Coffee + Software
-- [Netflix’s Paul Bakker on a Bootiful Podcast](https://www.youtube.com/watch?v=UI9zR0qjFvE) - Coffee + Software
 - [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
 - [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
 
 ## Demos:
 
 - [advisor-pin-unpin-demo](https://github.com/dashaun-tanzu/advisor-pin-unpin-demo) - Handling the dependency tree calculus.
+- [advisor-pin-unpin-petclinic-demo](https://github.com/dashaun-tanzu/advisor-pin-unpin-petclinic-demo) - Demo repository
 - [saa-patch-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-patch-2-6-trivy-demo) - Spring Application Advisor: upgrade Spring Boot 2.6 to 4.1, then patch every dependency to its latest patch release. CVE counts from Trivy scanning the advisor CycloneDX SBOM.
 - [vuln-chain-3-4-14-demo](https://github.com/dashaun-tanzu/vuln-chain-3-4-14-demo) - **vulnerability chaining**: a container image that scans **clean in Trivy (zero HIGH/CRITICAL)** is still exploitable, because an attacker chains one *medium*-severity Spring CVE with a benign-looking *container* misconfiguration.
 - [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Application Advisor Demo with Trivy
