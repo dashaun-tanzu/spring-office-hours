@@ -1,4 +1,4 @@
-# August 31
+# September 1
 
 ## News:
 
@@ -7,7 +7,7 @@
 - [This Week in Spring - August 25th, 2026](https://spring.io/blog/2026/08/25/this-week-in-spring-august-25)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
 - [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
-- [Spring Boot 4.0.8 available now](https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now)
+- [Spring Boot 4.1.1 available now](https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now)
 - [A Bootiful Podcast: JRuby lead Charles Nutter](https://spring.io/blog/2026/08/20/a-bootiful-podcast-charles-nutter)
 - [This Week in Spring - August 18th, 2026](https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026)
 
@@ -17,6 +17,7 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez](https://www.youtube.com/watch?v=IJ9AG4ehIug) - SpringSourceDev
 - [Multitenancy with Arconia and Spring Security OAuth (pt 2)](https://www.youtube.com/watch?v=Qk1x6ugyZVU) - Coffee + Software
 - [Microsoft's Bruno Borges on GitHub, Copilot, and more](https://www.youtube.com/watch?v=b4Qr8X0RmGQ) - Coffee + Software
 - [Joe Grandja on a bootiful podcast](https://www.youtube.com/watch?v=nEU5rCVUfgk) - Coffee + Software
@@ -26,7 +27,6 @@
 - [JRuby lead and legend Charles Nutter on a Bootiful Podcast](https://www.youtube.com/watch?v=t-hY9U2xVxg) - Coffee + Software
 - [Token Efficiency with Spring AI Agents](https://www.youtube.com/watch?v=wtCorpB6mV4) - Coffee + Software
 - [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
-- [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA) - Dan Vega
 
 ## Demos:
 
