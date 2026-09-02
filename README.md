@@ -1,15 +1,15 @@
-# September 1
+# September 2
 
 ## News:
 
+- [This Week in Spring - September 1st, 2026](https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026)
+- [Spring Office Hours Podcast: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez](https://spring.io/blog/2026/08/31/spring-office-hours-podcast-S5E21)
 - [A Bootiful Podcast: Joe Grandja on Spring Authorization Server, OAuth, and so much more](https://spring.io/blog/2026/08/27/a-bootiful-podcast-joe-grandja)
 - [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
 - [This Week in Spring - August 25th, 2026](https://spring.io/blog/2026/08/25/this-week-in-spring-august-25)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
 - [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
-- [Spring Boot 4.1.1 available now](https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now)
-- [A Bootiful Podcast: JRuby lead Charles Nutter](https://spring.io/blog/2026/08/20/a-bootiful-podcast-charles-nutter)
-- [This Week in Spring - August 18th, 2026](https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026)
+- [Spring Boot 4.0.8 available now](https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now)
 
 ## Releases coming soon:
 
@@ -17,6 +17,7 @@
 
 ## YouTube:
 
+- [The Ultimate Desktop Client Stack: Building High-Performance Apps with Spring Boot & JavaFX](https://www.youtube.com/watch?v=Od2NDwHED58) - Coffee + Software
 - [Spring Office Hours: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez](https://www.youtube.com/watch?v=IJ9AG4ehIug) - SpringSourceDev
 - [Multitenancy with Arconia and Spring Security OAuth (pt 2)](https://www.youtube.com/watch?v=Qk1x6ugyZVU) - Coffee + Software
 - [Microsoft's Bruno Borges on GitHub, Copilot, and more](https://www.youtube.com/watch?v=b4Qr8X0RmGQ) - Coffee + Software
@@ -25,7 +26,6 @@
 - [Spring Office Hours: S5E20 - The Developer's Guide to AI with Danny Thompson](https://www.youtube.com/watch?v=JzbxCtxr7nY) - SpringSourceDev
 - [Multitenancy with Arconia and Spring Security OAuth (pt. 1)](https://www.youtube.com/watch?v=uZepsaaASO4) - Coffee + Software
 - [JRuby lead and legend Charles Nutter on a Bootiful Podcast](https://www.youtube.com/watch?v=t-hY9U2xVxg) - Coffee + Software
-- [Token Efficiency with Spring AI Agents](https://www.youtube.com/watch?v=wtCorpB6mV4) - Coffee + Software
 - [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0) - Dan Vega
 
 ## Demos:
