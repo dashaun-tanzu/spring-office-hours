@@ -1,4 +1,4 @@
-# September 2
+# September 3
 
 ## News:
 
@@ -8,8 +8,8 @@
 - [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
 - [This Week in Spring - August 25th, 2026](https://spring.io/blog/2026/08/25/this-week-in-spring-august-25)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
-- [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
 - [Spring Boot 4.0.8 available now](https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now)
+- [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
 
 ## Releases coming soon:
 
