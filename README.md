@@ -1,12 +1,12 @@
-# September 10
+# September 11
 
 ## News:
 
+- [A Bootiful Podcast: Netflix's Paul Bakker](https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker)
 - [Spring Tools 5.4.0 released](https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released)
 - [This Week in Spring - September 8th, 2026](https://spring.io/blog/2026/09/08/this-week-in-spring-september-8th-2026)
 - [A Bootiful Podcast: BellSoft's Catherine Edelveis on hardened runtime images, container security, and more](https://spring.io/blog/2026/09/03/a-bootiful-podcast-catherine-edelvais)
 - [This Week in Spring - September 1st, 2026](https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026)
-- [Spring Office Hours Podcast: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez](https://spring.io/blog/2026/08/31/spring-office-hours-podcast-S5E21)
 - [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
 - [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
