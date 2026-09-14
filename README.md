@@ -1,4 +1,4 @@
-# September 13
+# September 14
 
 ## News:
 
@@ -12,6 +12,47 @@
 - [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
 
 ## Releases coming soon:
+
+- Reactor 2026.0.0-M2 (Sep 24)
+- Spring Cloud Circuitbreaker 5.1.0-M1 (Sep 24)
+- Spring Cloud Zookeeper 5.1.0-M1 (Sep 24)
+- Spring Integration 7.2.0-M2 (Sep 24)
+- Spring Cloud Stream 5.1.0-M1 (Sep 24)
+- Spring Cloud Openfeign 5.1.0-M1 (Sep 24)
+- Spring Data Mongodb 5.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Graphql 2.1.0-M1 (Sep 24)
+- Spring Data Redis 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Data Ldap 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Data Rest 5.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Cloud Task 5.1.0-M1 (Sep 24)
+- Spring Cloud Consul 5.1.0-M1 (Sep 24)
+- Spring Data Jpa 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Kafka 4.2.0-M2 (Sep 24)
+- Spring Data Bom 2026.1.0-M2 (Sep 24)
+- Spring Data Commons 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Cloud Commons 5.1.0-M1 (Sep 24)
+- Spring Cloud Config 5.1.0-M1 (Sep 24)
+- Spring Data Keyvalue 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Cloud Release 2026.0.0-M1 (Sep 24)
+- Spring Data Build 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Data Elasticsearch 6.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Data Couchbase 6.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Ws 5.1.0-M1 (Sep 24)
+- Spring Cloud Kubernetes 5.1.0-M1 (Sep 24)
+- Spring Cloud Gateway 5.1.0-M1 (Sep 24)
+- Spring Cloud Vault 5.1.0-M1 (Sep 24)
+- Spring Cloud Build 5.1.0-M1 (Sep 24)
+- Spring Cloud Netflix 5.1.0-M1 (Sep 24)
+- Spring Cloud Function 5.1.0-M1 (Sep 24)
+- Spring Boot 4.2.0-M2 (Sep 24)
+- Spring Data Neo4j 8.2.0-M2 (2026.1.0) (Sep 24)
+- Reactor Pool 1.3.0-M1 (Sep 24)
+- Spring Data Relational 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Data Cassandra 5.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Amqp 4.2.0-M2 (Sep 24)
+- Spring Cloud Bus 5.1.0-M1 (Sep 24)
+- Reactor Netty 1.4.0-M2 (Sep 24)
+- Spring Framework 7.1.0-M2 (Sep 24)
 
 ## YouTube:
 
