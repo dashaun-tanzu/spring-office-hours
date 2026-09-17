@@ -1,12 +1,12 @@
-# September 16
+# September 17
 
 ## News:
 
+- [Spring Office Hours Podcast: S5E23 - Java 27 Release Party with Billy Korando](https://spring.io/blog/2026/09/16/spring-office-hours-podcast-S5E23)
 - [This Week in Spring - September 15th, 2026](https://spring.io/blog/2026/09/15/this-week-in-spring-september-15th-2026)
 - [A Bootiful Podcast: Netflix's Paul Bakker](https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker)
 - [Spring Tools 5.4.0 released](https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released)
 - [Spring Office Hours Podcast: S5E22 - Live from KCDC](https://spring.io/blog/2026/09/09/spring-office-hours-podcast-S5E22)
-- [This Week in Spring - September 8th, 2026](https://spring.io/blog/2026/09/08/this-week-in-spring-september-8th-2026)
 - [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
 - [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
@@ -16,9 +16,11 @@
 - Reactor 2026.0.0-M2 (Sep 24)
 - Spring Cloud Circuitbreaker 5.1.0-M1 (Sep 24)
 - Spring Cloud Zookeeper 5.1.0-M1 (Sep 24)
+- Spring Plugin 4.2.0-M2 (Sep 24)
 - Spring Batch 6.1.0-M2 (Sep 24)
 - Spring Integration 7.2.0-M2 (Sep 24)
 - Spring Cloud Stream 5.1.0-M1 (Sep 24)
+- Spring Session 4.2.0-M1 (Sep 24)
 - Spring Cloud Openfeign 5.1.0-M1 (Sep 24)
 - Spring Data Mongodb 5.2.0-M2 (2026.1.0) (Sep 24)
 - Spring Graphql 2.1.0-M1 (Sep 24)
@@ -38,8 +40,10 @@
 - Micrometer 1.18.0-M2 (Sep 24)
 - Spring Cloud Release 2026.0.0-M1 (Sep 24)
 - Spring Data Build 4.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Hateoas 3.2.0-M2 (Sep 24)
 - Spring Data Elasticsearch 6.2.0-M2 (2026.1.0) (Sep 24)
 - Spring Data Couchbase 6.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Ldap 4.2.0-M1 (Sep 24)
 - Spring Ws 5.1.0-M1 (Sep 24)
 - Micrometer Tracing 1.8.0-M2 (Sep 24)
 - Spring Cloud Kubernetes 5.1.0-M1 (Sep 24)
@@ -54,12 +58,16 @@
 - Spring Data Relational 4.2.0-M2 (2026.1.0) (Sep 24)
 - Spring Data Cassandra 5.2.0-M2 (2026.1.0) (Sep 24)
 - Spring Amqp 4.2.0-M2 (Sep 24)
+- Spring Security 7.2.0-M2 (Sep 24)
 - Spring Cloud Bus 5.1.0-M1 (Sep 24)
 - Reactor Netty 1.4.0-M2 (Sep 24)
 - Spring Framework 7.1.0-M2 (Sep 24)
 
 ## YouTube:
 
+- [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
+- [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
+- [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando 📱](https://www.youtube.com/watch?v=amMYHbR8DDo) - SpringSourceDev
 - [I Ran ColdFusion Inside Spring Boot 4](https://www.youtube.com/watch?v=CLzEQ1Gtqy4) - Dan Vega
 - [Spring Office Hours: S5E22 - Live from KCDC](https://www.youtube.com/watch?v=mmH5kCo5dUw) - SpringSourceDev
 - [Build Secure Desktop Apps with JavaFX, Spring Boot & PKCE OAuth 2.0](https://www.youtube.com/watch?v=gB7FIbxMEos) - Coffee + Software
@@ -67,9 +75,6 @@
 - [Spring Office Hours: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez](https://www.youtube.com/watch?v=IJ9AG4ehIug) - SpringSourceDev
 - [Multitenancy with Arconia and Spring Security OAuth (pt 2)](https://www.youtube.com/watch?v=Qk1x6ugyZVU) - Coffee + Software
 - [Microsoft's Bruno Borges on GitHub, Copilot, and more](https://www.youtube.com/watch?v=b4Qr8X0RmGQ) - Coffee + Software
-- [Joe Grandja on a bootiful podcast](https://www.youtube.com/watch?v=nEU5rCVUfgk) - Coffee + Software
-- [BellSoft's Catherine Edelveis](https://www.youtube.com/watch?v=XBKZ8vDtoYU) - Coffee + Software
-- [Spring Office Hours: S5E20 - The Developer's Guide to AI with Danny Thompson](https://www.youtube.com/watch?v=JzbxCtxr7nY) - SpringSourceDev
 
 ## Demos:
 
