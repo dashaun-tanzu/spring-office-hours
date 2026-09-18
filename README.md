@@ -1,12 +1,12 @@
-# September 17
+# September 18
 
 ## News:
 
+- [A Bootiful Podcast: Spring Tools lead Martin Lippert](https://spring.io/blog/2026/09/17/a-bootiful-podcast-martin-lippert)
 - [Spring Office Hours Podcast: S5E23 - Java 27 Release Party with Billy Korando](https://spring.io/blog/2026/09/16/spring-office-hours-podcast-S5E23)
 - [This Week in Spring - September 15th, 2026](https://spring.io/blog/2026/09/15/this-week-in-spring-september-15th-2026)
 - [A Bootiful Podcast: Netflix's Paul Bakker](https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker)
 - [Spring Tools 5.4.0 released](https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released)
-- [Spring Office Hours Podcast: S5E22 - Live from KCDC](https://spring.io/blog/2026/09/09/spring-office-hours-podcast-S5E22)
 - [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
 - [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
@@ -65,6 +65,8 @@
 
 ## YouTube:
 
+- [I Built the App That Runs My YouTube Channel With Claude Code](https://www.youtube.com/watch?v=9O-E7DAfYrE) - Dan Vega
+- [I Publish My Podcast with Claude Code and Skills](https://www.youtube.com/watch?v=q3Fk6ADuaSI) - Dan Vega
 - [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando 📱](https://www.youtube.com/watch?v=amMYHbR8DDo) - SpringSourceDev
@@ -73,8 +75,6 @@
 - [Build Secure Desktop Apps with JavaFX, Spring Boot & PKCE OAuth 2.0](https://www.youtube.com/watch?v=gB7FIbxMEos) - Coffee + Software
 - [The Ultimate Desktop Client Stack: Building High-Performance Apps with Spring Boot & JavaFX](https://www.youtube.com/watch?v=Od2NDwHED58) - Coffee + Software
 - [Spring Office Hours: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez](https://www.youtube.com/watch?v=IJ9AG4ehIug) - SpringSourceDev
-- [Multitenancy with Arconia and Spring Security OAuth (pt 2)](https://www.youtube.com/watch?v=Qk1x6ugyZVU) - Coffee + Software
-- [Microsoft's Bruno Borges on GitHub, Copilot, and more](https://www.youtube.com/watch?v=b4Qr8X0RmGQ) - Coffee + Software
 
 ## Demos:
 
