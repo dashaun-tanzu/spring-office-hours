@@ -1,4 +1,4 @@
-# September 18
+# September 19
 
 ## News:
 
@@ -13,6 +13,7 @@
 
 ## Releases coming soon:
 
+- Spring Modulith 2.2.0-M2 (Sep 24)
 - Reactor 2026.0.0-M2 (Sep 24)
 - Spring Cloud Circuitbreaker 5.1.0-M1 (Sep 24)
 - Spring Cloud Zookeeper 5.1.0-M1 (Sep 24)
@@ -57,6 +58,7 @@
 - Reactor Pool 1.3.0-M1 (Sep 24)
 - Spring Data Relational 4.2.0-M2 (2026.1.0) (Sep 24)
 - Spring Data Cassandra 5.2.0-M2 (2026.1.0) (Sep 24)
+- Spring Ai 2.1.0-M1 (Sep 24)
 - Spring Amqp 4.2.0-M2 (Sep 24)
 - Spring Security 7.2.0-M2 (Sep 24)
 - Spring Cloud Bus 5.1.0-M1 (Sep 24)
@@ -65,6 +67,8 @@
 
 ## YouTube:
 
+- [Jev in Java and Spring Boot (It's Not an LLM)](https://www.youtube.com/watch?v=K4rqR6hcsAo) - Dan Vega
+- [Virtual Threads Aren't Enough: Structured Concurrency in Java 27](https://www.youtube.com/watch?v=Nl-a4ukWodk) - Dan Vega
 - [I Built the App That Runs My YouTube Channel With Claude Code](https://www.youtube.com/watch?v=9O-E7DAfYrE) - Dan Vega
 - [I Publish My Podcast with Claude Code and Skills](https://www.youtube.com/watch?v=q3Fk6ADuaSI) - Dan Vega
 - [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
@@ -73,11 +77,10 @@
 - [I Ran ColdFusion Inside Spring Boot 4](https://www.youtube.com/watch?v=CLzEQ1Gtqy4) - Dan Vega
 - [Spring Office Hours: S5E22 - Live from KCDC](https://www.youtube.com/watch?v=mmH5kCo5dUw) - SpringSourceDev
 - [Build Secure Desktop Apps with JavaFX, Spring Boot & PKCE OAuth 2.0](https://www.youtube.com/watch?v=gB7FIbxMEos) - Coffee + Software
-- [The Ultimate Desktop Client Stack: Building High-Performance Apps with Spring Boot & JavaFX](https://www.youtube.com/watch?v=Od2NDwHED58) - Coffee + Software
-- [Spring Office Hours: S5E21 - Pro Spring Boot 4 with Felipe Gutierrez](https://www.youtube.com/watch?v=IJ9AG4ehIug) - SpringSourceDev
 
 ## Demos:
 
+- [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demonstrate Postgres vs Gemfire, writing and reading, a simple dataset, with zero optimizations.
 - [saa-patch-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-patch-2-6-trivy-demo) - Spring Application Advisor: upgrade Spring Boot 2.6 to 4.1, then patch every dependency to its latest patch release. CVE counts from Trivy scanning the advisor CycloneDX SBOM.
 - [advisor-pin-unpin-demo](https://github.com/dashaun-tanzu/advisor-pin-unpin-demo) - Handling the dependency tree calculus.
 - [advisor-pin-unpin-petclinic-demo](https://github.com/dashaun-tanzu/advisor-pin-unpin-petclinic-demo) - Demo repository
@@ -85,7 +88,6 @@
 - [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Application Advisor Demo with Trivy
 - [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Advisor demo from Spring Boot 1.5, OWASP dependency check for CVEs
 - [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Spring Application Advisor Upgrade Example from Spring Boot 1.5
-- [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demonstrate Postgres vs Gemfire, writing and reading, a simple dataset, with zero optimizations.
 - [saa-petclinic-squashed-demo](https://github.com/dashaun-tanzu/saa-petclinic-squashed-demo) - Advisor upgrading Spring Pet Clinic from Spring Boot 2.7.3 using --squash, showing startup time and memory improvements
 - [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demonstrating advisor --squash feature, builds native image
 - [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Self-hosted Concourse demo that discovers Java/Spring Boot repos across GitHub orgs and GitLab groups, runs Spring Application Advisor against each, and opens upgrade pull/merge requests. Includes a local Nexus proxy for Spring Enterprise artifacts. Works on macOS and Linux.
