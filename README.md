@@ -1,4 +1,4 @@
-# September 20
+# September 21
 
 ## News:
 
@@ -67,14 +67,14 @@
 
 ## YouTube:
 
+- [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
+- [Spring Office Hours: S5E24 - Jev, Java and Spring](https://www.youtube.com/watch?v=5GPV0jqP4Rc) - SpringSourceDev
 - [Jev in Java and Spring Boot (It's Not an LLM)](https://www.youtube.com/watch?v=K4rqR6hcsAo) - Dan Vega
 - [Virtual Threads Aren't Enough: Structured Concurrency in Java 27](https://www.youtube.com/watch?v=Nl-a4ukWodk) - Dan Vega
 - [I Built the App That Runs My YouTube Channel With Claude Code](https://www.youtube.com/watch?v=9O-E7DAfYrE) - Dan Vega
 - [I Publish My Podcast with Claude Code and Skills](https://www.youtube.com/watch?v=q3Fk6ADuaSI) - Dan Vega
-- [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando 📱](https://www.youtube.com/watch?v=amMYHbR8DDo) - SpringSourceDev
-- [I Ran ColdFusion Inside Spring Boot 4](https://www.youtube.com/watch?v=CLzEQ1Gtqy4) - Dan Vega
 - [Spring Office Hours: S5E22 - Live from KCDC](https://www.youtube.com/watch?v=mmH5kCo5dUw) - SpringSourceDev
 - [Build Secure Desktop Apps with JavaFX, Spring Boot & PKCE OAuth 2.0](https://www.youtube.com/watch?v=gB7FIbxMEos) - Coffee + Software
 
