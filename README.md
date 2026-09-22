@@ -1,11 +1,11 @@
-# September 21
+# September 22
 
 ## News:
 
+- [Spring AI and TypeSafe Jev: Fast, Cheap, Structured Decisions](https://spring.io/blog/2026/09/21/spring-ai-typesafe-structured-judgment)
+- [Releasing Spring for Modern Challenges](https://spring.io/blog/2026/09/21/releasing-spring-for-modern-challenges)
+- [Spring Office Hours Podcast: S5E24 - Jev, Java and Spring](https://spring.io/blog/2026/09/21/spring-office-hours-podcast-S5E24)
 - [A Bootiful Podcast: Spring Tools lead Martin Lippert](https://spring.io/blog/2026/09/17/a-bootiful-podcast-martin-lippert)
-- [Spring Office Hours Podcast: S5E23 - Java 27 Release Party with Billy Korando](https://spring.io/blog/2026/09/16/spring-office-hours-podcast-S5E23)
-- [This Week in Spring - September 15th, 2026](https://spring.io/blog/2026/09/15/this-week-in-spring-september-15th-2026)
-- [A Bootiful Podcast: Netflix's Paul Bakker](https://spring.io/blog/2026/09/10/a-bootiful-podcast-paul-bakker)
 - [Spring Tools 5.4.0 released](https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released)
 - [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
@@ -67,12 +67,12 @@
 
 ## YouTube:
 
-- [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
+- [It's Not an LLM, So What Does It Do? 3 Real Apps I built with Jev](https://www.youtube.com/watch?v=vMpPDJ3bwXI) - Dan Vega
 - [Spring Office Hours: S5E24 - Jev, Java and Spring](https://www.youtube.com/watch?v=5GPV0jqP4Rc) - SpringSourceDev
+- [How Spring Boot 4 Starters Actually Work (I Built One for Jev)](https://www.youtube.com/watch?v=fq_nYo4BnrY) - Dan Vega
+- [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
 - [Jev in Java and Spring Boot (It's Not an LLM)](https://www.youtube.com/watch?v=K4rqR6hcsAo) - Dan Vega
 - [Virtual Threads Aren't Enough: Structured Concurrency in Java 27](https://www.youtube.com/watch?v=Nl-a4ukWodk) - Dan Vega
-- [I Built the App That Runs My YouTube Channel With Claude Code](https://www.youtube.com/watch?v=9O-E7DAfYrE) - Dan Vega
-- [I Publish My Podcast with Claude Code and Skills](https://www.youtube.com/watch?v=q3Fk6ADuaSI) - Dan Vega
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando 📱](https://www.youtube.com/watch?v=amMYHbR8DDo) - SpringSourceDev
 - [Spring Office Hours: S5E22 - Live from KCDC](https://www.youtube.com/watch?v=mmH5kCo5dUw) - SpringSourceDev
