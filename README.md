@@ -1,11 +1,11 @@
-# September 22
+# September 23
 
 ## News:
 
+- [This Week in Spring - September 22nd, 2026](https://spring.io/blog/2026/09/22/this-week-in-spring-september-22-2026)
 - [Spring AI and TypeSafe Jev: Fast, Cheap, Structured Decisions](https://spring.io/blog/2026/09/21/spring-ai-typesafe-structured-judgment)
 - [Releasing Spring for Modern Challenges](https://spring.io/blog/2026/09/21/releasing-spring-for-modern-challenges)
 - [Spring Office Hours Podcast: S5E24 - Jev, Java and Spring](https://spring.io/blog/2026/09/21/spring-office-hours-podcast-S5E24)
-- [A Bootiful Podcast: Spring Tools lead Martin Lippert](https://spring.io/blog/2026/09/17/a-bootiful-podcast-martin-lippert)
 - [Spring Tools 5.4.0 released](https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released)
 - [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
 - [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
@@ -67,16 +67,16 @@
 
 ## YouTube:
 
+- [Michael Carducci](https://www.youtube.com/watch?v=2jbZCLgvQVA) - Coffee + Software
+- [Spring AI TypeSafe Is Here: Build a Model Router From Scratch](https://www.youtube.com/watch?v=_5V6sJxRgqk) - Dan Vega
+- [Feel Behind on AI Coding Agents? Start Here](https://www.youtube.com/watch?v=BiKxFmirPpw) - Dan Vega
 - [It's Not an LLM, So What Does It Do? 3 Real Apps I built with Jev](https://www.youtube.com/watch?v=vMpPDJ3bwXI) - Dan Vega
 - [Spring Office Hours: S5E24 - Jev, Java and Spring](https://www.youtube.com/watch?v=5GPV0jqP4Rc) - SpringSourceDev
 - [How Spring Boot 4 Starters Actually Work (I Built One for Jev)](https://www.youtube.com/watch?v=fq_nYo4BnrY) - Dan Vega
 - [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
-- [Jev in Java and Spring Boot (It's Not an LLM)](https://www.youtube.com/watch?v=K4rqR6hcsAo) - Dan Vega
-- [Virtual Threads Aren't Enough: Structured Concurrency in Java 27](https://www.youtube.com/watch?v=Nl-a4ukWodk) - Dan Vega
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando 📱](https://www.youtube.com/watch?v=amMYHbR8DDo) - SpringSourceDev
 - [Spring Office Hours: S5E22 - Live from KCDC](https://www.youtube.com/watch?v=mmH5kCo5dUw) - SpringSourceDev
-- [Build Secure Desktop Apps with JavaFX, Spring Boot & PKCE OAuth 2.0](https://www.youtube.com/watch?v=gB7FIbxMEos) - Coffee + Software
 
 ## Demos:
 
