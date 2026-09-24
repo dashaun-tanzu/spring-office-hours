@@ -1,4 +1,4 @@
-# September 23
+# September 24
 
 ## News:
 
@@ -67,6 +67,7 @@
 
 ## YouTube:
 
+- [Spec-Driven Development for Solo Developers: The Plan I Use](https://www.youtube.com/watch?v=bHJZiM2XM-w) - Dan Vega
 - [Michael Carducci](https://www.youtube.com/watch?v=2jbZCLgvQVA) - Coffee + Software
 - [Spring AI TypeSafe Is Here: Build a Model Router From Scratch](https://www.youtube.com/watch?v=_5V6sJxRgqk) - Dan Vega
 - [Feel Behind on AI Coding Agents? Start Here](https://www.youtube.com/watch?v=BiKxFmirPpw) - Dan Vega
@@ -76,7 +77,6 @@
 - [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando 📱](https://www.youtube.com/watch?v=amMYHbR8DDo) - SpringSourceDev
-- [Spring Office Hours: S5E22 - Live from KCDC](https://www.youtube.com/watch?v=mmH5kCo5dUw) - SpringSourceDev
 
 ## Demos:
 
