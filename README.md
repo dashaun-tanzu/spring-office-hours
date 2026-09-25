@@ -1,72 +1,21 @@
-# September 24
+# September 25
 
 ## News:
 
+- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
+- [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
+- [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
+- [Spring Security 7.2.0-M2 available now](https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now)
+- [A Bootiful Podcast: Michael Carducci on optimizing data for agentic workflows](https://spring.io/blog/2026/09/24/a-bootiful-podcast-michael-carducci)
 - [This Week in Spring - September 22nd, 2026](https://spring.io/blog/2026/09/22/this-week-in-spring-september-22-2026)
 - [Spring AI and TypeSafe Jev: Fast, Cheap, Structured Decisions](https://spring.io/blog/2026/09/21/spring-ai-typesafe-structured-judgment)
 - [Releasing Spring for Modern Challenges](https://spring.io/blog/2026/09/21/releasing-spring-for-modern-challenges)
-- [Spring Office Hours Podcast: S5E24 - Jev, Java and Spring](https://spring.io/blog/2026/09/21/spring-office-hours-podcast-S5E24)
-- [Spring Tools 5.4.0 released](https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released)
-- [Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released](https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released)
-- [Spring AI 2.0.1 Available Now](https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now)
-- [Spring Batch 6.0.5 and 6.1.0-M1 available now](https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now)
 
 ## Releases coming soon:
 
-- Spring Modulith 2.2.0-M2 (Sep 24)
-- Reactor 2026.0.0-M2 (Sep 24)
-- Spring Cloud Circuitbreaker 5.1.0-M1 (Sep 24)
-- Spring Cloud Zookeeper 5.1.0-M1 (Sep 24)
-- Spring Plugin 4.2.0-M2 (Sep 24)
-- Spring Batch 6.1.0-M2 (Sep 24)
-- Spring Integration 7.2.0-M2 (Sep 24)
-- Spring Cloud Stream 5.1.0-M1 (Sep 24)
-- Spring Session 4.2.0-M1 (Sep 24)
-- Spring Cloud Openfeign 5.1.0-M1 (Sep 24)
-- Spring Data Mongodb 5.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Graphql 2.1.0-M1 (Sep 24)
-- Reactor Addons 3.7.0-M1 (Sep 24)
-- Spring Data Redis 4.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Data Ldap 4.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Data Rest 5.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Cloud Task 5.1.0-M1 (Sep 24)
-- Spring Cloud Consul 5.1.0-M1 (Sep 24)
-- Spring Data Jpa 4.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Kafka 4.2.0-M2 (Sep 24)
-- Spring Data Bom 2026.1.0-M2 (Sep 24)
-- Spring Data Commons 4.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Cloud Commons 5.1.0-M1 (Sep 24)
-- Spring Cloud Config 5.1.0-M1 (Sep 24)
-- Spring Data Keyvalue 4.2.0-M2 (2026.1.0) (Sep 24)
-- Micrometer 1.18.0-M2 (Sep 24)
-- Spring Cloud Release 2026.0.0-M1 (Sep 24)
-- Spring Data Build 4.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Hateoas 3.2.0-M2 (Sep 24)
-- Spring Data Elasticsearch 6.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Data Couchbase 6.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Ldap 4.2.0-M1 (Sep 24)
-- Spring Ws 5.1.0-M1 (Sep 24)
-- Micrometer Tracing 1.8.0-M2 (Sep 24)
-- Spring Cloud Kubernetes 5.1.0-M1 (Sep 24)
-- Spring Cloud Gateway 5.1.0-M1 (Sep 24)
-- Spring Cloud Vault 5.1.0-M1 (Sep 24)
-- Spring Cloud Build 5.1.0-M1 (Sep 24)
-- Spring Cloud Netflix 5.1.0-M1 (Sep 24)
-- Spring Cloud Function 5.1.0-M1 (Sep 24)
-- Spring Boot 4.2.0-M2 (Sep 24)
-- Spring Data Neo4j 8.2.0-M2 (2026.1.0) (Sep 24)
-- Reactor Pool 1.3.0-M1 (Sep 24)
-- Spring Data Relational 4.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Data Cassandra 5.2.0-M2 (2026.1.0) (Sep 24)
-- Spring Ai 2.1.0-M1 (Sep 24)
-- Spring Amqp 4.2.0-M2 (Sep 24)
-- Spring Security 7.2.0-M2 (Sep 24)
-- Spring Cloud Bus 5.1.0-M1 (Sep 24)
-- Reactor Netty 1.4.0-M2 (Sep 24)
-- Spring Framework 7.1.0-M2 (Sep 24)
-
 ## YouTube:
 
+- [Spring Boot 3 to 4 Migration: A Real App, Migrated Live](https://www.youtube.com/watch?v=HiPkoGTeNJc) - Dan Vega
 - [Spec-Driven Development for Solo Developers: The Plan I Use](https://www.youtube.com/watch?v=bHJZiM2XM-w) - Dan Vega
 - [Michael Carducci](https://www.youtube.com/watch?v=2jbZCLgvQVA) - Coffee + Software
 - [Spring AI TypeSafe Is Here: Build a Model Router From Scratch](https://www.youtube.com/watch?v=_5V6sJxRgqk) - Dan Vega
@@ -76,7 +25,6 @@
 - [How Spring Boot 4 Starters Actually Work (I Built One for Jev)](https://www.youtube.com/watch?v=fq_nYo4BnrY) - Dan Vega
 - [Andres Aalmiray on a Bootiful Podcast](https://www.youtube.com/watch?v=GwxmE8ZlDTM) - Coffee + Software
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
-- [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando 📱](https://www.youtube.com/watch?v=amMYHbR8DDo) - SpringSourceDev
 
 ## Demos:
 
