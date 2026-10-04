@@ -1,4 +1,4 @@
-# October 3
+# October 4
 
 ## News:
 
@@ -8,7 +8,7 @@
 - [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Boot 4.2.0-M2 available now](https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now)
 - [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
-- [Spring Security 7.2.0-M2 available now](https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now)
+- [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
 - [A Bootiful Podcast: Michael Carducci on optimizing data for agentic workflows](https://spring.io/blog/2026/09/24/a-bootiful-podcast-michael-carducci)
 
 ## Releases coming soon:
@@ -20,7 +20,6 @@
 - [Spring Boot 4 Crash Course: VegaCon 2027](https://www.youtube.com/watch?v=eT6KYuoEj4w) - Dan Vega
 - [Spring Boot 3 to 4 Migration: A Real App, Migrated Live](https://www.youtube.com/watch?v=HiPkoGTeNJc) - Dan Vega
 - [Spec-Driven Development for Solo Developers: The Plan I Use](https://www.youtube.com/watch?v=bHJZiM2XM-w) - Dan Vega
-- [Spring AI TypeSafe Is Here: Build a Model Router From Scratch](https://www.youtube.com/watch?v=_5V6sJxRgqk) - Dan Vega
 - [Spring Office Hours: S5E24 - Jev, Java and Spring](https://www.youtube.com/watch?v=5GPV0jqP4Rc) - SpringSourceDev
 - [Spring Office Hours: S5E23 - Java 27 Release Party with Billy Korando](https://www.youtube.com/watch?v=K07KvST2h4I) - SpringSourceDev
 
