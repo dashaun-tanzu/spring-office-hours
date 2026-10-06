@@ -1,23 +1,23 @@
-# October 5
+# October 6
 
 ## News:
 
+- [Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long](https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25)
 - [Spring AI Modular RAG and TypeSafe Jev: Retrieve More, Keep Only What Answers](https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev)
 - [A Bootiful Podcast: JReleaser creator and fellow Java Champion Andres Almiray](https://spring.io/blog/2026/10/01/a-bootiful-podcast-andres-almiray)
 - [This Week in Spring - September 29th, 2026](https://spring.io/blog/2026/09/29/this-week-in-spring-september-29th-2026)
-- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Boot 4.2.0-M2 available now](https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now)
+- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
-- [Spring Security 7.2.0-M2 available now](https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now)
-- [A Bootiful Podcast: Michael Carducci on optimizing data for agentic workflows](https://spring.io/blog/2026/09/24/a-bootiful-podcast-michael-carducci)
+- [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
 
 ## Releases coming soon:
 
 ## YouTube:
 
-- [Spring Office Hours: S5E25 - Future of Software Development with Josh Long 📱](https://www.youtube.com/watch?v=ADtVqEAKdeM) - SpringSourceDev
 - [Spring Office Hours: S5E25 - Future of Software Development with Josh Long](https://www.youtube.com/watch?v=NQK6gdbCWDQ) - SpringSourceDev
-- [Guy Pardon on a Bootiful Podcast](https://www.youtube.com/watch?v=qdUMzOBirZY) - Coffee + Software
+- [Live on Spring Office Hours](https://www.youtube.com/watch?v=RtMkAulvGGk) - Coffee + Software
+- [Spring Office Hours: S5E25 - Future of Software Development with Josh Long 📱](https://www.youtube.com/watch?v=ADtVqEAKdeM) - SpringSourceDev
 - [Spring Boot 4 Crash Course: VegaCon 2027](https://www.youtube.com/watch?v=eT6KYuoEj4w) - Dan Vega
 - [Spring Boot 3 to 4 Migration: A Real App, Migrated Live](https://www.youtube.com/watch?v=HiPkoGTeNJc) - Dan Vega
 - [Spec-Driven Development for Solo Developers: The Plan I Use](https://www.youtube.com/watch?v=bHJZiM2XM-w) - Dan Vega
