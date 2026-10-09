@@ -1,15 +1,15 @@
-# October 8
+# October 9
 
 ## News:
 
+- [A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi](https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi)
 - [This Week in Spring - October 6th, 2026 ](https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026)
 - [Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long](https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25)
 - [Spring AI Modular RAG and TypeSafe Jev: Retrieve More, Keep Only What Answers](https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev)
-- [A Bootiful Podcast: JReleaser creator and fellow Java Champion Andres Almiray](https://spring.io/blog/2026/10/01/a-bootiful-podcast-andres-almiray)
-- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Boot 4.2.0-M2 available now](https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now)
+- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
-- [Spring Security 7.2.0-M2 available now](https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now)
+- [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
 
 ## Releases coming soon:
 
