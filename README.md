@@ -1,18 +1,19 @@
-# October 13
+# October 14
 
 ## News:
 
+- [This Week in Spring - October 13th, 2026 ](https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026)
 - [A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi](https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi)
 - [This Week in Spring - October 6th, 2026 ](https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026)
 - [Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long](https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25)
-- [Spring AI Modular RAG and TypeSafe Jev: Retrieve More, Keep Only What Answers](https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev)
 - [Spring Boot 4.2.0-M2 available now](https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now)
 - [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
-- [Spring Security 7.2.0-M2 available now](https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now)
+- [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
 
 ## Releases coming soon:
 
+- Spring Tools 5.4.1.RELEASE (Oct 14)
 - Spring Modulith 1.4.14 (Oct 22)
 - Spring Modulith 2.0.9 (Oct 22)
 - Spring Modulith 2.1.2 (Oct 22)
@@ -98,6 +99,8 @@
 - Spring Data Couchbase 6.1.2 (2026.0.2) (Oct 22)
 - Spring Data Couchbase 6.0.8 (2025.1.8) (Oct 22)
 - Spring Data Couchbase 6.2.0-RC1 (2026.1.0) (Oct 22)
+- Spring Ldap 4.1.2 (Oct 22)
+- Spring Ldap 4.0.6 (Oct 22)
 - Spring Ldap 4.2.0-RC1 (Oct 22)
 - Spring Ws 5.1.0-RC1 (Oct 22)
 - Spring Ws 5.0.3 (Oct 22)
@@ -148,14 +151,16 @@
 
 ## YouTube:
 
-- [Temporal’s Cornelia Davis](https://www.youtube.com/watch?v=RWVRzYJ9kCs) - Coffee + Software
+- [Atomikos founder Guy Pardon demonstrates transaction recovery in Spring Boot 4.x!](https://www.youtube.com/watch?v=73v1yj1Gp4s) - Coffee + Software
+- [Hardened Buildpacks & Trusted Artifacts (with Cat Edelveis from Bellsoft)](https://www.youtube.com/watch?v=xqbMKNL40Vk) - Coffee + Software
 - [Lukas Eder on a Bootiful Podcast](https://www.youtube.com/watch?v=F3lKcMijb6k) - Coffee + Software
 - [JetBrains’s Anton Arhipov on a Bootiful Podcast](https://www.youtube.com/watch?v=zw_k-T1PysU) - Coffee + Software
+- [Temporal’s Cornelia Davis](https://www.youtube.com/watch?v=RWVRzYJ9kCs) - Coffee + Software
 - [Can the JVM be faster than Ruby or Rust? (Yes)](https://www.youtube.com/watch?v=skObnUPT1Ic) - Coffee + Software
 - [Spring Office Hours: S5E25 - Future of Software Development with Josh Long](https://www.youtube.com/watch?v=NQK6gdbCWDQ) - SpringSourceDev
 - [Spring Office Hours: S5E25 - Future of Software Development with Josh Long 📱](https://www.youtube.com/watch?v=ADtVqEAKdeM) - SpringSourceDev
+- [Guy Pardon on a Bootiful Podcast](https://www.youtube.com/watch?v=qdUMzOBirZY) - Coffee + Software
 - [Spring Boot 4 Crash Course: VegaCon 2027](https://www.youtube.com/watch?v=eT6KYuoEj4w) - Dan Vega
-- [Spring Office Hours: S5E24 - Jev, Java and Spring](https://www.youtube.com/watch?v=5GPV0jqP4Rc) - SpringSourceDev
 
 ## Demos:
 
