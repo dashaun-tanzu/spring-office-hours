@@ -1,13 +1,13 @@
-# October 15
+# October 16
 
 ## News:
 
+- [A Bootiful Podcast: Can Java be more performant than Rust? Andrew Lombardi has the numbers](https://spring.io/blog/2026/10/15/a-bootiful-podcast-andrew-lombardi)
 - [This Week in Spring - October 13th, 2026 ](https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026)
 - [A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi](https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi)
 - [This Week in Spring - October 6th, 2026 ](https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026)
-- [Spring Office Hours Podcast: S5E25 - Future of Software Development with Josh Long](https://spring.io/blog/2026/10/05/spring-office-hours-podcast-S5E25)
-- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Boot 4.2.0-M2 available now](https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now)
+- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
 - [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
 
@@ -150,15 +150,15 @@
 
 ## YouTube:
 
+- [Mise: easy setup for your projects and platforms](https://www.youtube.com/watch?v=xaJJH1omWhc) - Coffee + Software
+- [Protect Your Applications from Server-Side Request Forgery Attacks in Spring Boot 4.1](https://www.youtube.com/watch?v=DFwnMj3wADg) - Coffee + Software
 - [Ronald Dehuysser, and JobRunr 9, on a Bootiful Podcast](https://www.youtube.com/watch?v=b4_lqYyDwPI) - Coffee + Software
+- [TrueSource, by Broadcom, because getting to production is hard enough](https://www.youtube.com/watch?v=nj2KoEa2gIs) - SpringSourceDev
+- [Cora Iberkleid on a Bootiful Podcast](https://www.youtube.com/watch?v=34kWNy01L88) - Coffee + Software
 - [TrueSource by Broadcom](https://www.youtube.com/watch?v=fEQxKVE-YM0) - SpringSourceDev
 - [Why You Can't Aftermarket Innovation](https://www.youtube.com/watch?v=eyDmq-ytNRA) - SpringSourceDev
 - [Guy Pardon on a Bootiful Podcast](https://www.youtube.com/watch?v=qdUMzOBirZY) - Coffee + Software
-- [Cora Iberkleid on a Bootiful Podcast](https://www.youtube.com/watch?v=34kWNy01L88) - Coffee + Software
 - [Atomikos founder Guy Pardon demonstrates transaction recovery in Spring Boot 4.x!](https://www.youtube.com/watch?v=73v1yj1Gp4s) - Coffee + Software
-- [Hardened Buildpacks & Trusted Artifacts (with Cat Edelveis from Bellsoft)](https://www.youtube.com/watch?v=xqbMKNL40Vk) - Coffee + Software
-- [Lukas Eder on a Bootiful Podcast](https://www.youtube.com/watch?v=F3lKcMijb6k) - Coffee + Software
-- [JetBrains’s Anton Arhipov on a Bootiful Podcast](https://www.youtube.com/watch?v=zw_k-T1PysU) - Coffee + Software
 - [Spring Boot 4 Crash Course: VegaCon 2027](https://www.youtube.com/watch?v=eT6KYuoEj4w) - Dan Vega
 
 ## Demos:
