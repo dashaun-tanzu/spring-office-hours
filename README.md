@@ -1,4 +1,4 @@
-# October 18
+# October 19
 
 ## News:
 
@@ -6,8 +6,8 @@
 - [This Week in Spring - October 13th, 2026 ](https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026)
 - [A Bootiful Podcast: legendary Java developer Kohsuke Kawaguchi](https://spring.io/blog/2026/10/08/a-bootiful-podcast-kohsuke-kawaguchi)
 - [This Week in Spring - October 6th, 2026 ](https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026)
-- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Boot 4.2.0-M2 available now](https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now)
+- [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
 - [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
 
@@ -158,7 +158,7 @@
 - [TrueSource by Broadcom](https://www.youtube.com/watch?v=fEQxKVE-YM0) - SpringSourceDev
 - [Why You Can't Aftermarket Innovation](https://www.youtube.com/watch?v=eyDmq-ytNRA) - SpringSourceDev
 - [Guy Pardon on a Bootiful Podcast](https://www.youtube.com/watch?v=qdUMzOBirZY) - Coffee + Software
-- [Atomikos founder Guy Pardon demonstrates transaction recovery in Spring Boot 4.x!](https://www.youtube.com/watch?v=73v1yj1Gp4s) - Coffee + Software
+- [Spring Office Hours: S5E25 - Future of Software Development with Josh Long](https://www.youtube.com/watch?v=NQK6gdbCWDQ) - SpringSourceDev
 - [Spring Boot 4 Crash Course: VegaCon 2027](https://www.youtube.com/watch?v=eT6KYuoEj4w) - Dan Vega
 
 ## Demos:
