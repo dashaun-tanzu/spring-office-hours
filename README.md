@@ -1,4 +1,4 @@
-# October 21
+# October 22
 
 ## News:
 
@@ -8,8 +8,8 @@
 - [This Week in Spring - October 13th, 2026 ](https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026)
 - [Spring AI 2.1.0-M1 Available Now](https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now)
 - [Spring Boot 4.2.0-M2 available now](https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now)
-- [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
 - [Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released)
+- [Spring Batch 6.1.0-M2 is out!](https://spring.io/blog/2026/09/24/spring-batch-6)
 
 ## Releases coming soon:
 
@@ -148,12 +148,12 @@
 - Reactor Netty 1.4.0-RC1 (Oct 22)
 - Spring Framework 7.0.10 (Oct 22)
 - Spring Framework 7.1.0-RC1 (Oct 22)
+- Spring Security Release Tools 1.0.22 (Oct 26)
 
 ## YouTube:
 
 - [S5E26: dev2Next, Native JSON and a Week of New Models](https://www.youtube.com/watch?v=Oa3w-NkHfZg) - SpringSourceDev
 - [Mise: easy setup for your projects and platforms](https://www.youtube.com/watch?v=xaJJH1omWhc) - Coffee + Software
-- [Protect Your Applications from Server-Side Request Forgery Attacks in Spring Boot 4.1](https://www.youtube.com/watch?v=DFwnMj3wADg) - Coffee + Software
 - [TrueSource, by Broadcom, because getting to production is hard enough](https://www.youtube.com/watch?v=nj2KoEa2gIs) - SpringSourceDev
 - [TrueSource by Broadcom](https://www.youtube.com/watch?v=fEQxKVE-YM0) - SpringSourceDev
 - [Why You Can't Aftermarket Innovation](https://www.youtube.com/watch?v=eyDmq-ytNRA) - SpringSourceDev
