@@ -1,11 +1,11 @@
-# October 23
+# October 24
 
 ## News:
 
+- [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
 - [Spring Boot 4.0.9 available now](https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now)
 - [Spring Boot 4.1.2 available now](https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now)
 - [Spring Boot 4.2.0-RC1 available now](https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now)
-- [Spring Modulith 2.2 RC1, 2.1.2, 2.0.9, and 1.4.14 released](https://spring.io/blog/2026/10/23/spring-modulith-2-2-rc1-2-1-2-2-0-9-and-1-4-14-released)
 - [A Bootiful Podcast: A Bootiful Podcast: Anton Arhipov on AI Development within JetBrains IDEs](https://spring.io/blog/2026/10/22/a-bootiful-podcast-anton-arhipov)
 - [This Week in Spring - October 20th, 2026 ](https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026)
 - [Spring Office Hours Podcast: S5E26 - dev2Next, Native JSON and a Week of New Models](https://spring.io/blog/2026/10/19/spring-office-hours-podcast-S5E26)
@@ -17,6 +17,7 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E27 - Hugging Face for Java Developers with Pratik Patel](https://www.youtube.com/watch?v=7eQ3eXEI-co) - SpringSourceDev
 - [S5E26: dev2Next, Native JSON and a Week of New Models](https://www.youtube.com/watch?v=Oa3w-NkHfZg) - SpringSourceDev
 - [Mise: easy setup for your projects and platforms](https://www.youtube.com/watch?v=xaJJH1omWhc) - Coffee + Software
 - [TrueSource, by Broadcom, because getting to production is hard enough](https://www.youtube.com/watch?v=nj2KoEa2gIs) - SpringSourceDev
