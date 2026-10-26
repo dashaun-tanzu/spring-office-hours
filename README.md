@@ -1,19 +1,21 @@
-# October 25
+# October 26
 
 ## News:
 
 - [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
 - [Spring Boot 4.0.9 available now](https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now)
 - [Spring Boot 4.1.2 available now](https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now)
-- [Spring Boot 4.2.0-RC1 available now](https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now)
+- [Spring Cloud 2025.1.4 (aka Northfields) Has Been Released](https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released)
+- [Spring Cloud 2026.0.0-RC1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/10/23/spring-cloud-2026-0-0-RC1-has-been-released)
 - [A Bootiful Podcast: A Bootiful Podcast: Anton Arhipov on AI Development within JetBrains IDEs](https://spring.io/blog/2026/10/22/a-bootiful-podcast-anton-arhipov)
 - [This Week in Spring - October 20th, 2026 ](https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026)
 - [Spring Office Hours Podcast: S5E26 - dev2Next, Native JSON and a Week of New Models](https://spring.io/blog/2026/10/19/spring-office-hours-podcast-S5E26)
-- [A Bootiful Podcast: Can Java be more performant than Rust? Andrew Lombardi has the numbers](https://spring.io/blog/2026/10/15/a-bootiful-podcast-andrew-lombardi)
 
 ## Releases coming soon:
 
 - Spring Security Release Tools 1.1.2 (Oct 26)
+- Spring Boot 4.2.0-RC2 (Nov 5)
+- Spring Framework 7.1.0-RC2 (Nov 5)
 
 ## YouTube:
 
