@@ -1,15 +1,15 @@
-# October 29
+# October 30
 
 ## News:
 
+- [A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder](https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder)
 - [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
 - [Using Your Own Embeddings in Spring AI 2.1](https://spring.io/blog/2026/10/28/spring-ai-upsert-own-embeddings)
 - [This Week in Spring - October 27th, 2026](https://spring.io/blog/2026/10/27/this-week-in-spring-october-27th-2026)
-- [Spring Office Hours Podcast: S5E27 - Hugging Face for Java Developers with Pratik Patel](https://spring.io/blog/2026/10/26/spring-office-hours-podcast-S5E27)
 - [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
+- [Spring Boot 4.0.9 available now](https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now)
+- [Spring Boot 4.1.2 available now](https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now)
 - [Spring Cloud 2025.1.4 (aka Northfields) Has Been Released](https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released)
-- [Spring Cloud 2026.0.0-RC1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/10/23/spring-cloud-2026-0-0-RC1-has-been-released)
-- [Spring Boot 4.2.0-RC1 available now](https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now)
 
 ## Releases coming soon:
 
@@ -21,6 +21,7 @@
 - Spring Cloud Consul 5.1.0-RC2 (Nov 5)
 - Spring Cloud Commons 5.1.0-RC2 (Nov 5)
 - Spring Cloud Config 5.1.0-RC2 (Nov 5)
+- Micrometer 1.18.0-RC2 (Nov 5)
 - Spring Cloud Release 2026.0.0-RC2 (Nov 5)
 - Micrometer Tracing 1.8.0-RC2 (Nov 5)
 - Spring Cloud Kubernetes 5.1.0-RC2 (Nov 5)
@@ -30,10 +31,12 @@
 - Spring Cloud Netflix 5.1.0-RC2 (Nov 5)
 - Spring Cloud Function 5.1.0-RC2 (Nov 5)
 - Spring Boot 4.2.0-RC2 (Nov 5)
+- Spring Ai 2.1.0-RC2 (Nov 5)
 - Spring Framework 7.1.0-RC2 (Nov 5)
 
 ## YouTube:
 
+- [Hub for TrueSource](https://www.youtube.com/watch?v=4R35OryFzp0) - SpringSourceDev
 - [Vaadin's Leif Åstrand and Marcus Hellberg](https://www.youtube.com/watch?v=FwniUR6j32w) - Coffee + Software
 - [Java Ships Built-In JSON (JDK 28)](https://www.youtube.com/watch?v=kdqJD94Cpos) - Dan Vega
 - [Spring Office Hours: S5E27 - Hugging Face for Java Developers with Pratik Patel](https://www.youtube.com/watch?v=7eQ3eXEI-co) - SpringSourceDev
@@ -41,7 +44,6 @@
 - [TrueSource, by Broadcom, because getting to production is hard enough](https://www.youtube.com/watch?v=nj2KoEa2gIs) - SpringSourceDev
 - [TrueSource by Broadcom](https://www.youtube.com/watch?v=fEQxKVE-YM0) - SpringSourceDev
 - [Why You Can't Aftermarket Innovation](https://www.youtube.com/watch?v=eyDmq-ytNRA) - SpringSourceDev
-- [Spring Office Hours: S5E25 - Future of Software Development with Josh Long](https://www.youtube.com/watch?v=NQK6gdbCWDQ) - SpringSourceDev
 
 ## Demos:
 
