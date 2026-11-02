@@ -1,10 +1,10 @@
-# November 1
+# November 2
 
 ## News:
 
 - [A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder](https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder)
-- [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
 - [Using Your Own Embeddings in Spring AI 2.1](https://spring.io/blog/2026/10/28/spring-ai-upsert-own-embeddings)
+- [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
 - [This Week in Spring - October 27th, 2026](https://spring.io/blog/2026/10/27/this-week-in-spring-october-27th-2026)
 - [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
 - [Spring Boot 4.0.9 available now](https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now)
@@ -37,6 +37,7 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E28 - Community Potluck](https://www.youtube.com/watch?v=DED62i4qOH0) - SpringSourceDev
 - [Short Term vs Long Term Memory in Spring AI](https://www.youtube.com/watch?v=cai0knehSXM) - Dan Vega
 - [Hub for TrueSource](https://www.youtube.com/watch?v=4R35OryFzp0) - SpringSourceDev
 - [Vaadin's Leif Åstrand and Marcus Hellberg](https://www.youtube.com/watch?v=FwniUR6j32w) - Coffee + Software
@@ -45,7 +46,6 @@
 - [S5E26: dev2Next, Native JSON and a Week of New Models](https://www.youtube.com/watch?v=Oa3w-NkHfZg) - SpringSourceDev
 - [TrueSource, by Broadcom, because getting to production is hard enough](https://www.youtube.com/watch?v=nj2KoEa2gIs) - SpringSourceDev
 - [TrueSource by Broadcom](https://www.youtube.com/watch?v=fEQxKVE-YM0) - SpringSourceDev
-- [Why You Can't Aftermarket Innovation](https://www.youtube.com/watch?v=eyDmq-ytNRA) - SpringSourceDev
 
 ## Demos:
 
