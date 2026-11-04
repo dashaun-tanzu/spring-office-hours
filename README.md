@@ -1,15 +1,15 @@
-# November 3
+# November 4
 
 ## News:
 
 - [This Week in Spring - November 3rd, 2026 ](https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026)
 - [A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder](https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder)
-- [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
 - [Using Your Own Embeddings in Spring AI 2.1](https://spring.io/blog/2026/10/28/spring-ai-upsert-own-embeddings)
+- [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
+- [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
 - [Spring Boot 4.0.9 available now](https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now)
 - [Spring Boot 4.1.2 available now](https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now)
-- [Spring Cloud 2025.1.4 (aka Northfields) Has Been Released](https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released)
-- [Spring Cloud 2026.0.0-RC1 (aka Paddington) Has Been Released](https://spring.io/blog/2026/10/23/spring-cloud-2026-0-0-RC1-has-been-released)
+- [Spring Boot 4.2.0-RC1 available now](https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now)
 
 ## Releases coming soon:
 
