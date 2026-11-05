@@ -1,11 +1,11 @@
-# November 4
+# November 5
 
 ## News:
 
 - [This Week in Spring - November 3rd, 2026 ](https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026)
 - [A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder](https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder)
-- [Using Your Own Embeddings in Spring AI 2.1](https://spring.io/blog/2026/10/28/spring-ai-upsert-own-embeddings)
 - [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
+- [Using Your Own Embeddings in Spring AI 2.1](https://spring.io/blog/2026/10/28/spring-ai-upsert-own-embeddings)
 - [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
 - [Spring Boot 4.0.9 available now](https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now)
 - [Spring Boot 4.1.2 available now](https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now)
@@ -37,6 +37,7 @@
 
 ## YouTube:
 
+- [Zoran Sevarac and Deep Netts on a Bootiful Podcast](https://www.youtube.com/watch?v=Ujlz_8xGJlE) - Coffee + Software
 - [CloudFoundry: the Fastest Inner-Loop and the Fastest Path to Production](https://www.youtube.com/watch?v=JJhhbkXkDUo) - Coffee + Software
 - [Spring Office Hours: S5E28 - Community Potluck](https://www.youtube.com/watch?v=hFvKowlJ7bQ) - SpringSourceDev
 - [Spring AI 2.1: Tool calling breaks on Chat Completions, one property fixes it (Responses API)](https://www.youtube.com/watch?v=70YMovBXBnw) - Dan Vega
@@ -46,7 +47,6 @@
 - [Java Ships Built-In JSON (JDK 28)](https://www.youtube.com/watch?v=kdqJD94Cpos) - Dan Vega
 - [Spring Office Hours: S5E27 - Hugging Face for Java Developers with Pratik Patel](https://www.youtube.com/watch?v=7eQ3eXEI-co) - SpringSourceDev
 - [S5E26: dev2Next, Native JSON and a Week of New Models](https://www.youtube.com/watch?v=Oa3w-NkHfZg) - SpringSourceDev
-- [TrueSource, by Broadcom, because getting to production is hard enough](https://www.youtube.com/watch?v=nj2KoEa2gIs) - SpringSourceDev
 
 ## Demos:
 
