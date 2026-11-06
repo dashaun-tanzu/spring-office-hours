@@ -1,38 +1,18 @@
-# November 5
+# November 6
 
 ## News:
 
+- [Spring Boot 4.2.0-RC2 available now](https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now)
+- [Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released)
+- [A Bootiful Podcast: Temporal.io's Cornelia Davis](https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis)
 - [This Week in Spring - November 3rd, 2026 ](https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026)
 - [A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder](https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder)
 - [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
-- [Using Your Own Embeddings in Spring AI 2.1](https://spring.io/blog/2026/10/28/spring-ai-upsert-own-embeddings)
 - [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
 - [Spring Boot 4.0.9 available now](https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now)
-- [Spring Boot 4.1.2 available now](https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now)
-- [Spring Boot 4.2.0-RC1 available now](https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now)
 
 ## Releases coming soon:
 
-- Spring Cloud Circuitbreaker 5.1.0-RC2 (Nov 5)
-- Spring Cloud Zookeeper 5.1.0-RC2 (Nov 5)
-- Spring Cloud Stream 5.1.0-RC2 (Nov 5)
-- Spring Cloud Openfeign 5.1.0-RC2 (Nov 5)
-- Spring Cloud Task 5.1.0-RC2 (Nov 5)
-- Spring Cloud Consul 5.1.0-RC2 (Nov 5)
-- Spring Cloud Commons 5.1.0-RC2 (Nov 5)
-- Spring Cloud Config 5.1.0-RC2 (Nov 5)
-- Micrometer 1.18.0-RC2 (Nov 5)
-- Spring Cloud Release 2026.0.0-RC2 (Nov 5)
-- Micrometer Tracing 1.8.0-RC2 (Nov 5)
-- Spring Cloud Kubernetes 5.1.0-RC2 (Nov 5)
-- Spring Cloud Gateway 5.1.0-RC2 (Nov 5)
-- Spring Cloud Vault 5.1.0-RC2 (Nov 5)
-- Spring Cloud Build 5.1.0-RC2 (Nov 5)
-- Spring Cloud Netflix 5.1.0-RC2 (Nov 5)
-- Spring Cloud Function 5.1.0-RC2 (Nov 5)
-- Spring Boot 4.2.0-RC2 (Nov 5)
-- Spring Ai 2.1.0-RC2 (Nov 5)
-- Spring Framework 7.1.0-RC2 (Nov 5)
 - Spring Release Actions 0.0.9 (Nov 11)
 
 ## YouTube:
