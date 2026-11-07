@@ -1,4 +1,4 @@
-# November 6
+# November 7
 
 ## News:
 
@@ -14,9 +14,11 @@
 ## Releases coming soon:
 
 - Spring Release Actions 0.0.9 (Nov 11)
+- Spring Security Release Tools 1.0.24 (Nov 17)
 
 ## YouTube:
 
+- [Every App Should Have an MCP Server (How to in Spring AI)](https://www.youtube.com/watch?v=Qmq0z5vYQFc) - Dan Vega
 - [Zoran Sevarac and Deep Netts on a Bootiful Podcast](https://www.youtube.com/watch?v=Ujlz_8xGJlE) - Coffee + Software
 - [CloudFoundry: the Fastest Inner-Loop and the Fastest Path to Production](https://www.youtube.com/watch?v=JJhhbkXkDUo) - Coffee + Software
 - [Spring Office Hours: S5E28 - Community Potluck](https://www.youtube.com/watch?v=hFvKowlJ7bQ) - SpringSourceDev
@@ -26,7 +28,6 @@
 - [Vaadin's Leif Åstrand and Marcus Hellberg](https://www.youtube.com/watch?v=FwniUR6j32w) - Coffee + Software
 - [Java Ships Built-In JSON (JDK 28)](https://www.youtube.com/watch?v=kdqJD94Cpos) - Dan Vega
 - [Spring Office Hours: S5E27 - Hugging Face for Java Developers with Pratik Patel](https://www.youtube.com/watch?v=7eQ3eXEI-co) - SpringSourceDev
-- [S5E26: dev2Next, Native JSON and a Week of New Models](https://www.youtube.com/watch?v=Oa3w-NkHfZg) - SpringSourceDev
 
 ## Demos:
 
