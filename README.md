@@ -1,4 +1,4 @@
-# November 9
+# November 10
 
 ## News:
 
@@ -13,7 +13,7 @@
 
 ## Releases coming soon:
 
-- Spring Release Actions 0.0.9 (Nov 11)
+- Spring Release Actions 0.0.9 (Nov 10)
 - Spring Security Release Tools 1.0.24 (Nov 17)
 - Spring Modulith 2.2.0 (Nov 19)
 - Spring Modulith 2.1.3 (Nov 19)
@@ -110,6 +110,7 @@
 - Spring Cloud Vault 5.1.0 (Nov 19)
 - Spring Cloud Build 5.0.5 (Nov 19)
 - Spring Cloud Build 5.1.0 (Nov 19)
+- Spring Cloud Netflix 5.0.4 (Nov 19)
 - Spring Cloud Netflix 5.1.0 (Nov 19)
 - Spring Cloud Function 5.0.6 (Nov 19)
 - Spring Cloud Function 5.1.0 (Nov 19)
@@ -143,6 +144,7 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E29 - Spring AI ACP Harness Client](https://www.youtube.com/watch?v=VJm515IAZlA) - SpringSourceDev
 - [Every App Should Have an MCP Server (How to in Spring AI)](https://www.youtube.com/watch?v=Qmq0z5vYQFc) - Dan Vega
 - [Zoran Sevarac and Deep Netts on a Bootiful Podcast](https://www.youtube.com/watch?v=Ujlz_8xGJlE) - Coffee + Software
 - [CloudFoundry: the Fastest Inner-Loop and the Fastest Path to Production](https://www.youtube.com/watch?v=JJhhbkXkDUo) - Coffee + Software
@@ -152,7 +154,6 @@
 - [Hub for TrueSource](https://www.youtube.com/watch?v=4R35OryFzp0) - SpringSourceDev
 - [Vaadin's Leif Åstrand and Marcus Hellberg](https://www.youtube.com/watch?v=FwniUR6j32w) - Coffee + Software
 - [Java Ships Built-In JSON (JDK 28)](https://www.youtube.com/watch?v=kdqJD94Cpos) - Dan Vega
-- [Spring Office Hours: S5E27 - Hugging Face for Java Developers with Pratik Patel](https://www.youtube.com/watch?v=7eQ3eXEI-co) - SpringSourceDev
 
 ## Demos:
 
