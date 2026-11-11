@@ -1,19 +1,18 @@
-# November 10
+# November 11
 
 ## News:
 
+- [Announcing a New Home for Spring for Apache Pulsar](https://spring.io/blog/2026/11/10/spring-pulsar-new-home-asf)
+- [This Week in Spring - November 10th, 2026](https://spring.io/blog/2026/11/10/this-week-in-spring-november-10th-2026)
 - [Spring AI 2.1.0-RC2 Available Now](https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now)
 - [Spring Boot 4.2.0-RC2 available now](https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now)
 - [Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released)
 - [A Bootiful Podcast: Temporal.io's Cornelia Davis](https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis)
 - [This Week in Spring - November 3rd, 2026 ](https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026)
 - [A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder](https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder)
-- [Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip](https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay)
-- [Spring AI 2.1.0-RC1 and 2.0.2 Available Now](https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now)
 
 ## Releases coming soon:
 
-- Spring Release Actions 0.0.9 (Nov 10)
 - Spring Security Release Tools 1.0.24 (Nov 17)
 - Spring Modulith 2.2.0 (Nov 19)
 - Spring Modulith 2.1.3 (Nov 19)
@@ -42,6 +41,7 @@
 - Spring Data Mongodb 5.2.0 (2026.1.0) (Nov 19)
 - Spring Data Mongodb 5.1.3 (2026.0.3) (Nov 19)
 - Spring Data Mongodb 5.0.9 (2025.1.9) (Nov 19)
+- Spring Graphql 2.0.7 (Nov 19)
 - Spring Graphql 2.1.0 (Nov 19)
 - Reactor Addons 3.7.0 (Nov 19)
 - Spring Data Redis 4.2.0 (2026.1.0) (Nov 19)
