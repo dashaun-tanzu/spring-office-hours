@@ -1,4 +1,4 @@
-# November 11
+# November 12
 
 ## News:
 
@@ -144,16 +144,16 @@
 
 ## YouTube:
 
+- [Agent Client Protocol with Mark Pollack](https://www.youtube.com/watch?v=n8-jccBvF_I) - Coffee + Software
+- [AGNTCon 2026 - Alexander Ioffe](https://www.youtube.com/watch?v=cnXMqAlst1Y) - Coffee + Software
+- [AGNTCon 2026 - Ben Hale](https://www.youtube.com/watch?v=n6PFNJBol70) - Coffee + Software
+- [AGNTCon 2026 - Shadaj Laddad](https://www.youtube.com/watch?v=H5MokJlWdWg) - Coffee + Software
 - [Spring Office Hours: S5E29 - Spring AI ACP Harness Client](https://www.youtube.com/watch?v=VJm515IAZlA) - SpringSourceDev
 - [Every App Should Have an MCP Server (How to in Spring AI)](https://www.youtube.com/watch?v=Qmq0z5vYQFc) - Dan Vega
 - [Zoran Sevarac and Deep Netts on a Bootiful Podcast](https://www.youtube.com/watch?v=Ujlz_8xGJlE) - Coffee + Software
 - [CloudFoundry: the Fastest Inner-Loop and the Fastest Path to Production](https://www.youtube.com/watch?v=JJhhbkXkDUo) - Coffee + Software
 - [Spring Office Hours: S5E28 - Community Potluck](https://www.youtube.com/watch?v=hFvKowlJ7bQ) - SpringSourceDev
 - [Spring AI 2.1: Tool calling breaks on Chat Completions, one property fixes it (Responses API)](https://www.youtube.com/watch?v=70YMovBXBnw) - Dan Vega
-- [Short Term vs Long Term Memory in Spring AI](https://www.youtube.com/watch?v=cai0knehSXM) - Dan Vega
-- [Hub for TrueSource](https://www.youtube.com/watch?v=4R35OryFzp0) - SpringSourceDev
-- [Vaadin's Leif Åstrand and Marcus Hellberg](https://www.youtube.com/watch?v=FwniUR6j32w) - Coffee + Software
-- [Java Ships Built-In JSON (JDK 28)](https://www.youtube.com/watch?v=kdqJD94Cpos) - Dan Vega
 
 ## Demos:
 
