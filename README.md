@@ -1,15 +1,15 @@
-# November 12
+# November 13
 
 ## News:
 
+- [A Bootiful Podcast: Atomikos founder Guy Pardon on distributed transactions, data integrity, and more](https://spring.io/blog/2026/11/12/a-bootiful-podcast-guy-pardon)
 - [Announcing a New Home for Spring for Apache Pulsar](https://spring.io/blog/2026/11/10/spring-pulsar-new-home-asf)
 - [This Week in Spring - November 10th, 2026](https://spring.io/blog/2026/11/10/this-week-in-spring-november-10th-2026)
 - [Spring AI 2.1.0-RC2 Available Now](https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now)
+- [Spring Office Hours Podcast: S5E29 - Spring AI ACP Harness Client](https://spring.io/blog/2026/11/09/spring-office-hours-podcast-S5E29)
 - [Spring Boot 4.2.0-RC2 available now](https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now)
 - [Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released)
 - [A Bootiful Podcast: Temporal.io's Cornelia Davis](https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis)
-- [This Week in Spring - November 3rd, 2026 ](https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026)
-- [A Bootiful Podcast: 'Data Geekery' with JOOQ creator Lukas Eder](https://spring.io/blog/2026/10/29/a-bootiful-podcast-lukas-eder)
 
 ## Releases coming soon:
 
