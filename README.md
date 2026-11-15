@@ -1,4 +1,4 @@
-# November 14
+# November 15
 
 ## News:
 
@@ -144,6 +144,7 @@
 
 ## YouTube:
 
+- [Brian Sam-Bodden on a Bootiful Podcast](https://www.youtube.com/watch?v=4U3LP_HYmQs) - Coffee + Software
 - [CloudFoundry on your Laptop!](https://www.youtube.com/watch?v=1yw6urMoLf0) - Coffee + Software
 - [Microsoft's Patrick Chanezon on a Bootiful Podcast](https://www.youtube.com/watch?v=Cg-EYddICMs) - Coffee + Software
 - [Agent Client Protocol with Mark Pollack](https://www.youtube.com/watch?v=n8-jccBvF_I) - Coffee + Software
@@ -153,7 +154,6 @@
 - [Spring Office Hours: S5E29 - Spring AI ACP Harness Client](https://www.youtube.com/watch?v=VJm515IAZlA) - SpringSourceDev
 - [Every App Should Have an MCP Server (How to in Spring AI)](https://www.youtube.com/watch?v=Qmq0z5vYQFc) - Dan Vega
 - [Zoran Sevarac and Deep Netts on a Bootiful Podcast](https://www.youtube.com/watch?v=Ujlz_8xGJlE) - Coffee + Software
-- [Spring Office Hours: S5E28 - Community Potluck](https://www.youtube.com/watch?v=hFvKowlJ7bQ) - SpringSourceDev
 
 ## Demos:
 
