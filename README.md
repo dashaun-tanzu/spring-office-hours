@@ -1,4 +1,4 @@
-# November 15
+# November 16
 
 ## News:
 
@@ -144,6 +144,7 @@
 
 ## YouTube:
 
+- [Spring Office Hours: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://www.youtube.com/watch?v=zlk7Q67Ezhg) - SpringSourceDev
 - [Brian Sam-Bodden on a Bootiful Podcast](https://www.youtube.com/watch?v=4U3LP_HYmQs) - Coffee + Software
 - [CloudFoundry on your Laptop!](https://www.youtube.com/watch?v=1yw6urMoLf0) - Coffee + Software
 - [Microsoft's Patrick Chanezon on a Bootiful Podcast](https://www.youtube.com/watch?v=Cg-EYddICMs) - Coffee + Software
@@ -153,7 +154,6 @@
 - [AGNTCon 2026 - Shadaj Laddad](https://www.youtube.com/watch?v=H5MokJlWdWg) - Coffee + Software
 - [Spring Office Hours: S5E29 - Spring AI ACP Harness Client](https://www.youtube.com/watch?v=VJm515IAZlA) - SpringSourceDev
 - [Every App Should Have an MCP Server (How to in Spring AI)](https://www.youtube.com/watch?v=Qmq0z5vYQFc) - Dan Vega
-- [Zoran Sevarac and Deep Netts on a Bootiful Podcast](https://www.youtube.com/watch?v=Ujlz_8xGJlE) - Coffee + Software
 
 ## Demos:
 
