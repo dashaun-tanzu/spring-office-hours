@@ -1,7 +1,8 @@
-# November 16
+# November 17
 
 ## News:
 
+- [Spring Office Hours Podcast: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://spring.io/blog/2026/11/16/spring-office-hours-podcast-S5E30)
 - [A Bootiful Podcast: Atomikos founder Guy Pardon on distributed transactions, data integrity, and more](https://spring.io/blog/2026/11/12/a-bootiful-podcast-guy-pardon)
 - [Announcing a New Home for Spring for Apache Pulsar](https://spring.io/blog/2026/11/10/spring-pulsar-new-home-asf)
 - [This Week in Spring - November 10th, 2026](https://spring.io/blog/2026/11/10/this-week-in-spring-november-10th-2026)
@@ -9,7 +10,6 @@
 - [Spring Office Hours Podcast: S5E29 - Spring AI ACP Harness Client](https://spring.io/blog/2026/11/09/spring-office-hours-podcast-S5E29)
 - [Spring Boot 4.2.0-RC2 available now](https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now)
 - [Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released)
-- [A Bootiful Podcast: Temporal.io's Cornelia Davis](https://spring.io/blog/2026/11/05/a-bootiful-podcast-cornelia-davis)
 
 ## Releases coming soon:
 
@@ -145,6 +145,7 @@
 ## YouTube:
 
 - [Spring Office Hours: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://www.youtube.com/watch?v=zlk7Q67Ezhg) - SpringSourceDev
+- [Can MCP tools use Spring HTTP interfaces?](https://www.youtube.com/watch?v=tp2ILqd2XXg) - Dan Vega
 - [Brian Sam-Bodden on a Bootiful Podcast](https://www.youtube.com/watch?v=4U3LP_HYmQs) - Coffee + Software
 - [CloudFoundry on your Laptop!](https://www.youtube.com/watch?v=1yw6urMoLf0) - Coffee + Software
 - [Microsoft's Patrick Chanezon on a Bootiful Podcast](https://www.youtube.com/watch?v=Cg-EYddICMs) - Coffee + Software
@@ -153,7 +154,6 @@
 - [AGNTCon 2026 - Ben Hale](https://www.youtube.com/watch?v=n6PFNJBol70) - Coffee + Software
 - [AGNTCon 2026 - Shadaj Laddad](https://www.youtube.com/watch?v=H5MokJlWdWg) - Coffee + Software
 - [Spring Office Hours: S5E29 - Spring AI ACP Harness Client](https://www.youtube.com/watch?v=VJm515IAZlA) - SpringSourceDev
-- [Every App Should Have an MCP Server (How to in Spring AI)](https://www.youtube.com/watch?v=Qmq0z5vYQFc) - Dan Vega
 
 ## Demos:
 
