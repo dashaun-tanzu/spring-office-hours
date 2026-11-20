@@ -1,15 +1,15 @@
-# November 19
+# November 20
 
 ## News:
 
+- [Spring Boot 4.0.10 available now](https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now)
+- [Spring Boot 4.1.3 available now](https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now)
+- [Spring Batch 6.1 is now GA!](https://spring.io/blog/2026/11/19/spring-batch-6-1-0-available-now)
+- [Spring Data 2026.0.3 and 2025.1.9 released](https://spring.io/blog/2026/11/19/spring-data-2026-0-3-and-2025-1-9-released)
 - [A Bootiful Podcast: JobRunr founder Ronald Dehuysser](https://spring.io/blog/2026/11/19/a-bootiful-podcast-november-19th-2026)
 - [This Week in Spring - November 17th, 2026](https://spring.io/blog/2026/11/17/this-week-in-spring-november-17th-2026)
 - [Spring Office Hours Podcast: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://spring.io/blog/2026/11/16/spring-office-hours-podcast-S5E30)
 - [A Bootiful Podcast: Atomikos founder Guy Pardon on distributed transactions, data integrity, and more](https://spring.io/blog/2026/11/12/a-bootiful-podcast-guy-pardon)
-- [Announcing a New Home for Spring for Apache Pulsar](https://spring.io/blog/2026/11/10/spring-pulsar-new-home-asf)
-- [Spring AI 2.1.0-RC2 Available Now](https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now)
-- [Spring Boot 4.2.0-RC2 available now](https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now)
-- [Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released)
 
 ## Recent Enterprise Releases:
 
@@ -208,134 +208,6 @@
   - Spring Framework 7.0.10.1 (Enterprise)
 ## Releases coming soon:
 
-- Spring Modulith 2.2.0 (Nov 19)
-- Spring Modulith 2.1.3 (Nov 19)
-- Spring Modulith 2.0.10 (Nov 19)
-- Spring Vault 4.1.2 (Nov 19)
-- Spring Vault 4.0.5 (Nov 19)
-- Reactor 2025.0.9 (Nov 19)
-- Reactor 2026.0.0 (Nov 19)
-- BlockHound 1.0.19.RELEASE (Nov 19)
-- Reactor Core 3.9.0 (Nov 19)
-- Reactor Core 3.8.9 (Nov 19)
-- Spring Cloud Circuitbreaker 5.1.0 (Nov 19)
-- Spring Cloud Zookeeper 5.1.0 (Nov 19)
-- Spring Plugin 4.2.0 (Nov 19)
-- Spring Batch 6.1.0 (Nov 19)
-- Spring Integration 7.2.0 (Nov 19)
-- Spring Integration 7.1.3 (Nov 19)
-- Spring Integration 7.0.8 (Nov 19)
-- Spring Cloud Stream 5.0.5 (Nov 19)
-- Spring Cloud Stream 5.1.0 (Nov 19)
-- Spring Session 4.0.6 (Nov 19)
-- Spring Session 4.1.2 (Nov 19)
-- Spring Session 4.2.0 (Nov 19)
-- Spring Cloud Openfeign 5.1.0 (Nov 19)
-- Spring Shell 4.0.4 (Nov 19)
-- Spring Data Mongodb 5.2.0 (2026.1.0) (Nov 19)
-- Spring Data Mongodb 5.1.3 (2026.0.3) (Nov 19)
-- Spring Data Mongodb 5.0.9 (2025.1.9) (Nov 19)
-- Spring Graphql 2.0.7 (Nov 19)
-- Spring Graphql 2.1.0 (Nov 19)
-- Reactor Addons 3.7.0 (Nov 19)
-- Spring Data Redis 4.2.0 (2026.1.0) (Nov 19)
-- Spring Data Redis 4.1.3 (2026.0.3) (Nov 19)
-- Spring Data Redis 4.0.9 (2025.1.9) (Nov 19)
-- Spring Data Ldap 4.2.0 (2026.1.0) (Nov 19)
-- Spring Data Ldap 4.1.3 (2026.0.3) (Nov 19)
-- Spring Data Ldap 4.0.9 (2025.1.9) (Nov 19)
-- Spring Data Rest 5.2.0 (2026.1.0) (Nov 19)
-- Spring Data Rest 5.1.3 (2026.0.3) (Nov 19)
-- Spring Data Rest 5.0.9 (2025.1.9) (Nov 19)
-- Spring Cloud Task 5.1.0 (Nov 19)
-- Spring Cloud Consul 5.0.5 (Nov 19)
-- Spring Cloud Consul 5.1.0 (Nov 19)
-- Spring Data Jpa 4.2.0 (2026.1.0) (Nov 19)
-- Spring Data Jpa 4.1.3 (2026.0.3) (Nov 19)
-- Spring Data Jpa 4.0.9 (2025.1.9) (Nov 19)
-- Spring Kafka 4.2.0 (Nov 19)
-- Spring Kafka 4.1.3 (Nov 19)
-- Spring Kafka 4.0.9 (Nov 19)
-- Spring Data Bom 2026.1.0 (Nov 19)
-- Spring Data Bom 2026.0.3 (Nov 19)
-- Spring Data Bom 2025.1.9 (Nov 19)
-- Spring Data Commons 4.2.0 (2026.1.0) (Nov 19)
-- Spring Data Commons 4.1.3 (2026.0.3) (Nov 19)
-- Spring Data Commons 4.0.9 (2025.1.9) (Nov 19)
-- Spring Cloud Commons 5.0.5 (Nov 19)
-- Spring Cloud Commons 5.1.0 (Nov 19)
-- Spring Cloud Config 5.0.7 (Nov 19)
-- Spring Cloud Config 5.1.0 (Nov 19)
-- Spring Data Keyvalue 4.2.0 (2026.1.0) (Nov 19)
-- Spring Data Keyvalue 4.1.3 (2026.0.3) (Nov 19)
-- Spring Data Keyvalue 4.0.9 (2025.1.9) (Nov 19)
-- Micrometer 1.16.9 (Nov 19)
-- Micrometer 1.18.0 (Nov 19)
-- Micrometer 1.17.3 (Nov 19)
-- Spring Restdocs 4.0.3 (Nov 19)
-- Spring Restdocs 4.1.0 (Nov 19)
-- Spring Cloud Release 2025.1.5 (Nov 19)
-- Spring Cloud Release 2026.0.0 (Nov 19)
-- Spring Data Build 4.2.0 (2026.1.0) (Nov 19)
-- Spring Data Build 4.1.3 (2026.0.3) (Nov 19)
-- Spring Data Build 4.0.9 (2025.1.9) (Nov 19)
-- Spring Hateoas 3.2.0 (Nov 19)
-- Spring Hateoas 3.1.4 (Nov 19)
-- Spring Hateoas 3.0.7 (Nov 19)
-- Spring Data Elasticsearch 6.2.0 (2026.1.0) (Nov 19)
-- Spring Data Elasticsearch 6.1.3 (2026.0.3) (Nov 19)
-- Spring Data Elasticsearch 6.0.9 (2025.1.9) (Nov 19)
-- Spring Data Couchbase 6.2.0 (2026.1.0) (Nov 19)
-- Spring Data Couchbase 6.1.3 (2026.0.3) (Nov 19)
-- Spring Data Couchbase 6.0.9 (2025.1.9) (Nov 19)
-- Spring Ldap 4.2.0 (Nov 19)
-- Spring Ldap 4.0.7 (Nov 19)
-- Spring Ldap 4.1.3 (Nov 19)
-- Spring Ws 5.0.4 (Nov 19)
-- Spring Ws 5.1.0 (Nov 19)
-- Micrometer Tracing 1.6.9 (Nov 19)
-- Micrometer Tracing 1.8.0 (Nov 19)
-- Micrometer Tracing 1.7.3 (Nov 19)
-- Spring Cloud Kubernetes 5.0.5 (Nov 19)
-- Spring Cloud Kubernetes 5.1.0 (Nov 19)
-- Spring Cloud Gateway 5.0.5 (Nov 19)
-- Spring Cloud Gateway 5.1.0 (Nov 19)
-- Spring Cloud Vault 5.0.4 (Nov 19)
-- Spring Cloud Vault 5.1.0 (Nov 19)
-- Spring Cloud Build 5.0.5 (Nov 19)
-- Spring Cloud Build 5.1.0 (Nov 19)
-- Spring Cloud Netflix 5.0.4 (Nov 19)
-- Spring Cloud Netflix 5.1.0 (Nov 19)
-- Spring Cloud Function 5.0.6 (Nov 19)
-- Spring Cloud Function 5.1.0 (Nov 19)
-- Spring Boot 4.0.10 (Nov 19)
-- Spring Boot 4.1.3 (Nov 19)
-- Spring Boot 4.2.0 (Nov 19)
-- Spring Data Neo4j 8.2.0 (2026.1.0) (Nov 19)
-- Spring Data Neo4j 8.1.3 (2026.0.3) (Nov 19)
-- Spring Data Neo4j 8.0.9 (2025.1.9) (Nov 19)
-- Reactor Pool 1.2.9 (Nov 19)
-- Reactor Pool 1.3.0 (Nov 19)
-- Spring Data Relational 4.2.0 (2026.1.0) (Nov 19)
-- Spring Data Relational 4.1.3 (2026.0.3) (Nov 19)
-- Spring Data Relational 4.0.9 (2025.1.9) (Nov 19)
-- Spring Data Cassandra 5.2.0 (2026.1.0) (Nov 19)
-- Spring Data Cassandra 5.1.3 (2026.0.3) (Nov 19)
-- Spring Data Cassandra 5.0.9 (2025.1.9) (Nov 19)
-- Spring Ai 2.0.3 (Nov 19)
-- Spring Ai 2.1.0 (Nov 19)
-- Spring Amqp 4.2.0 (Nov 19)
-- Spring Amqp 4.1.3 (Nov 19)
-- Spring Amqp 4.0.7 (Nov 19)
-- Spring Security 7.0.9 (Nov 19)
-- Spring Security 7.1.3 (Nov 19)
-- Spring Security 7.2.0 (Nov 19)
-- Spring Webflow 4.0.2 (Nov 19)
-- Reactor Netty 1.4.0 (Nov 19)
-- Reactor Netty 1.3.9 (Nov 19)
-- Spring Framework 7.0.11 (Nov 19)
-- Spring Framework 7.1.0 (Nov 19)
-
 ## YouTube:
 
 - [Add a Blog to Your Spring Boot App (No WordPress Needed)](https://www.youtube.com/watch?v=hbBeKGWt_5w) - Dan Vega
@@ -350,4 +222,17 @@
 - [AGNTCon 2026 - Shadaj Laddad](https://www.youtube.com/watch?v=H5MokJlWdWg) - Coffee + Software
 
 ## Demos:
+
+- [saa-patch-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-patch-2-6-trivy-demo) - Spring Application Advisor: upgrade Spring Boot 2.6 to 4.1, then patch every dependency to its latest patch release. CVE counts from Trivy scanning the advisor CycloneDX SBOM.
+- [gemfire-data-ingest-demo](https://github.com/dashaun-tanzu/gemfire-data-ingest-demo) - Demonstrate Postgres vs Gemfire, writing and reading, a simple dataset, with zero optimizations.
+- [advisor-pin-unpin-demo](https://github.com/dashaun-tanzu/advisor-pin-unpin-demo) - Handling the dependency tree calculus.
+- [advisor-pin-unpin-petclinic-demo](https://github.com/dashaun-tanzu/advisor-pin-unpin-petclinic-demo) - Demo repository
+- [vuln-chain-3-4-14-demo](https://github.com/dashaun-tanzu/vuln-chain-3-4-14-demo) - **vulnerability chaining**: a container image that scans **clean in Trivy (zero HIGH/CRITICAL)** is still exploitable, because an attacker chains one *medium*-severity Spring CVE with a benign-looking *container* misconfiguration.
+- [saa-cves-2-6-trivy-demo](https://github.com/dashaun-tanzu/saa-cves-2-6-trivy-demo) - Application Advisor Demo with Trivy
+- [saa-cves-1-5-demo](https://github.com/dashaun-tanzu/saa-cves-1-5-demo) - Advisor demo from Spring Boot 1.5, OWASP dependency check for CVEs
+- [saa-hello-world-1-5-demo](https://github.com/dashaun-tanzu/saa-hello-world-1-5-demo) - Spring Application Advisor Upgrade Example from Spring Boot 1.5
+- [saa-petclinic-squashed-demo](https://github.com/dashaun-tanzu/saa-petclinic-squashed-demo) - Advisor upgrading Spring Pet Clinic from Spring Boot 2.7.3 using --squash, showing startup time and memory improvements
+- [saa-hello-world-2-6-demo](https://github.com/dashaun-tanzu/saa-hello-world-2-6-demo) - Demonstrating advisor --squash feature, builds native image
+- [saa-concourse-pipelines-demo](https://github.com/dashaun-tanzu/saa-concourse-pipelines-demo) - Self-hosted Concourse demo that discovers Java/Spring Boot repos across GitHub orgs and GitLab groups, runs Spring Application Advisor against each, and opens upgrade pull/merge requests. Includes a local Nexus proxy for Spring Enterprise artifacts. Works on macOS and Linux.
+- [saa-petclinic-demo](https://github.com/dashaun-tanzu/saa-petclinic-demo) - Spring Application Advisor upgrading Spring PetClinic, from Java 8 and Spring Boot 2.7, step-by-step to the latest version of Spring Boot with a modern version of Java
 
