@@ -1,10 +1,10 @@
-# November 21
+# November 22
 
 ## News:
 
+- [Spring AI 2.1.0 GA and 2.0.3 GA Available Now](https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now)
 - [Spring Boot 4.0.10 available now](https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now)
 - [Spring Boot 4.1.3 available now](https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now)
-- [Spring AI 2.1.0 GA and 2.0.3 GA Available Now](https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now)
 - [Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released)
 - [A Bootiful Podcast: JobRunr founder Ronald Dehuysser](https://spring.io/blog/2026/11/19/a-bootiful-podcast-november-19th-2026)
 - [This Week in Spring - November 17th, 2026](https://spring.io/blog/2026/11/17/this-week-in-spring-november-17th-2026)
@@ -210,6 +210,7 @@
 
 ## YouTube:
 
+- [Dr. Venkat Subramaniam, live from Voxxed Days Thessaloniki](https://www.youtube.com/watch?v=yMg5tPmWJ98) - Coffee + Software
 - [Dr. Heinz Kabutz, live from Voxxed Day Thessaloniki](https://www.youtube.com/watch?v=dSh5O-_r8p0) - Coffee + Software
 - [Brian Sam-Bodden on a Bootiful Podcast](https://www.youtube.com/watch?v=4U3LP_HYmQs) - Coffee + Software
 - [Add a Blog to Your Spring Boot App (No WordPress Needed)](https://www.youtube.com/watch?v=hbBeKGWt_5w) - Dan Vega
@@ -219,7 +220,6 @@
 - [Microsoft's Patrick Chanezon on a Bootiful Podcast](https://www.youtube.com/watch?v=Cg-EYddICMs) - Coffee + Software
 - [Agent Client Protocol with Mark Pollack](https://www.youtube.com/watch?v=n8-jccBvF_I) - Coffee + Software
 - [AGNTCon 2026 - Alexander Ioffe](https://www.youtube.com/watch?v=cnXMqAlst1Y) - Coffee + Software
-- [AGNTCon 2026 - Ben Hale](https://www.youtube.com/watch?v=n6PFNJBol70) - Coffee + Software
 
 ## Demos:
 
