@@ -1,11 +1,11 @@
-# November 22
+# November 23
 
 ## News:
 
-- [Spring AI 2.1.0 GA and 2.0.3 GA Available Now](https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now)
 - [Spring Boot 4.0.10 available now](https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now)
 - [Spring Boot 4.1.3 available now](https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now)
 - [Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released)
+- [Spring Cloud 2026.0.0 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released)
 - [A Bootiful Podcast: JobRunr founder Ronald Dehuysser](https://spring.io/blog/2026/11/19/a-bootiful-podcast-november-19th-2026)
 - [This Week in Spring - November 17th, 2026](https://spring.io/blog/2026/11/17/this-week-in-spring-november-17th-2026)
 - [Spring Office Hours Podcast: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://spring.io/blog/2026/11/16/spring-office-hours-podcast-S5E30)
