@@ -1,15 +1,15 @@
-# November 23
+# November 24
 
 ## News:
 
+- [Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart](https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume)
+- [Spring AI 2.1.0 GA and 2.0.3 GA Available Now](https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now)
 - [Spring Boot 4.0.10 available now](https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now)
 - [Spring Boot 4.1.3 available now](https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now)
 - [Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released)
-- [Spring Cloud 2026.0.0 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released)
 - [A Bootiful Podcast: JobRunr founder Ronald Dehuysser](https://spring.io/blog/2026/11/19/a-bootiful-podcast-november-19th-2026)
 - [This Week in Spring - November 17th, 2026](https://spring.io/blog/2026/11/17/this-week-in-spring-november-17th-2026)
 - [Spring Office Hours Podcast: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://spring.io/blog/2026/11/16/spring-office-hours-podcast-S5E30)
-- [A Bootiful Podcast: Atomikos founder Guy Pardon on distributed transactions, data integrity, and more](https://spring.io/blog/2026/11/12/a-bootiful-podcast-guy-pardon)
 
 ## Recent Enterprise Releases:
 
@@ -208,8 +208,12 @@
   - Spring Framework 7.0.10.1 (Enterprise)
 ## Releases coming soon:
 
+- Spring Security Release Tools 1.1.10 (Nov 24)
+
 ## YouTube:
 
+- [Spring AI 2.1 Decision Models: Stop Parsing AI Text](https://www.youtube.com/watch?v=iiwzX-70o9I) - Dan Vega
+- [AGENTS.md Is the Ask. Not the Check.](https://www.youtube.com/watch?v=meQlaQiM6jY) - Dan Vega
 - [Dr. Venkat Subramaniam, live from Voxxed Days Thessaloniki](https://www.youtube.com/watch?v=yMg5tPmWJ98) - Coffee + Software
 - [Dr. Heinz Kabutz, live from Voxxed Day Thessaloniki](https://www.youtube.com/watch?v=dSh5O-_r8p0) - Coffee + Software
 - [Brian Sam-Bodden on a Bootiful Podcast](https://www.youtube.com/watch?v=4U3LP_HYmQs) - Coffee + Software
@@ -218,8 +222,6 @@
 - [Can MCP tools use Spring HTTP interfaces?](https://www.youtube.com/watch?v=tp2ILqd2XXg) - Dan Vega
 - [CloudFoundry on your Laptop!](https://www.youtube.com/watch?v=1yw6urMoLf0) - Coffee + Software
 - [Microsoft's Patrick Chanezon on a Bootiful Podcast](https://www.youtube.com/watch?v=Cg-EYddICMs) - Coffee + Software
-- [Agent Client Protocol with Mark Pollack](https://www.youtube.com/watch?v=n8-jccBvF_I) - Coffee + Software
-- [AGNTCon 2026 - Alexander Ioffe](https://www.youtube.com/watch?v=cnXMqAlst1Y) - Coffee + Software
 
 ## Demos:
 
