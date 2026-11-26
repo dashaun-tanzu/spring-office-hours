@@ -1,7 +1,8 @@
-# November 25
+# November 26
 
 ## News:
 
+- [Decision Models in Spring AI 2.1: Yes, No, and How Sure](https://spring.io/blog/2026/11/26/spring-ai-decision-models-guardrails-judges)
 - [Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart](https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume)
 - [This Week in Spring - November 24th, 2026 ](https://spring.io/blog/2026/11/24/this-week-in-spring-november-24-2026)
 - [Spring AI 2.1.0 GA and 2.0.3 GA Available Now](https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now)
@@ -9,7 +10,6 @@
 - [Spring Boot 4.1.3 available now](https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now)
 - [Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released)
 - [A Bootiful Podcast: JobRunr founder Ronald Dehuysser](https://spring.io/blog/2026/11/19/a-bootiful-podcast-november-19th-2026)
-- [This Week in Spring - November 17th, 2026](https://spring.io/blog/2026/11/17/this-week-in-spring-november-17th-2026)
 
 ## Recent Enterprise Releases:
 
@@ -211,10 +211,9 @@
   - Spring Boot 2.7.38 (Enterprise)
 ## Releases coming soon:
 
-- Spring Security Release Tools 1.1.10 (Nov 25)
-
 ## YouTube:
 
+- [RestTemplate Is Deprecated. Here's How to Upgrade Your App (Spring Boot 4.2)](https://www.youtube.com/watch?v=gh7i3FKmubk) - Dan Vega
 - [JetBrains CEO Kirill Skrygan](https://www.youtube.com/watch?v=DvNxXmwHprM) - Coffee + Software
 - [Spring AI 2.1 Decision Models: Stop Parsing AI Text](https://www.youtube.com/watch?v=iiwzX-70o9I) - Dan Vega
 - [AGENTS.md Is the Ask. Not the Check.](https://www.youtube.com/watch?v=meQlaQiM6jY) - Dan Vega
@@ -224,7 +223,6 @@
 - [Add a Blog to Your Spring Boot App (No WordPress Needed)](https://www.youtube.com/watch?v=hbBeKGWt_5w) - Dan Vega
 - [Spring Office Hours: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://www.youtube.com/watch?v=zlk7Q67Ezhg) - SpringSourceDev
 - [Can MCP tools use Spring HTTP interfaces?](https://www.youtube.com/watch?v=tp2ILqd2XXg) - Dan Vega
-- [Spring Office Hours: S5E29 - Spring AI ACP Harness Client](https://www.youtube.com/watch?v=VJm515IAZlA) - SpringSourceDev
 
 ## Demos:
 
