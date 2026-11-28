@@ -1,4 +1,4 @@
-# November 27
+# November 28
 
 ## News:
 
@@ -9,7 +9,7 @@
 - [Spring AI 2.1.0 GA and 2.0.3 GA Available Now](https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now)
 - [Spring Boot 4.0.10 available now](https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now)
 - [Spring Boot 4.1.3 available now](https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now)
-- [Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released)
+- [Spring Cloud 2026.0.0 (aka Paddington) Has Been Released](https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released)
 
 ## Recent Enterprise Releases:
 
@@ -20,7 +20,6 @@
 ## YouTube:
 
 - [Thankful Coffee+Software](https://www.youtube.com/watch?v=m2Z6fchF1zQ) - Coffee + Software
-- [JetBrains CEO Kirill Skrygan](https://www.youtube.com/watch?v=DvNxXmwHprM) - Coffee + Software
 - [JetBrains' 2027 Roadmap: a Polyglot IDE, Air, and Headless AI Agents | JetBrains CEO Kirill Skrygan](https://www.youtube.com/watch?v=RwKQd_QViZo) - Coffee + Software
 - [RestTemplate Is Deprecated. Here's How to Upgrade Your App (Spring Boot 4.2)](https://www.youtube.com/watch?v=gh7i3FKmubk) - Dan Vega
 - [Spring AI 2.1 Decision Models: Stop Parsing AI Text](https://www.youtube.com/watch?v=iiwzX-70o9I) - Dan Vega
@@ -29,6 +28,7 @@
 - [Spring Office Hours: S5E30 - What’s New in IntelliJ IDEA and AIR with Anton Arhipov](https://www.youtube.com/watch?v=zlk7Q67Ezhg) - SpringSourceDev
 - [Can MCP tools use Spring HTTP interfaces?](https://www.youtube.com/watch?v=tp2ILqd2XXg) - Dan Vega
 - [Spring Office Hours: S5E29 - Spring AI ACP Harness Client](https://www.youtube.com/watch?v=VJm515IAZlA) - SpringSourceDev
+- [Every App Should Have an MCP Server (How to in Spring AI)](https://www.youtube.com/watch?v=Qmq0z5vYQFc) - Dan Vega
 
 ## Demos:
 
